@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>قیمت محصولات آهن</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700;900&display=swap');
+        
+        :root { 
+            --dark-green: #012612; 
+            --primary-green: #02C671; 
+            --bg-white: #F7FAF8; 
+        }
+
+        body { 
+            font-family: 'Vazirmatn', sans-serif; 
+            background-color: var(--bg-white); 
+            color: var(--dark-green); 
+            margin: 0;
+            padding: 0;
+        }
+        
+        .factory-section { 
+            background: white; 
+            border: 1px solid #E2EADD; 
+            border-radius: 16px; 
+            margin-bottom: 28px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(1, 38, 18, 0.03);
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            padding: 18px 24px;
+            background-color: #ffffff;
+            border-bottom: 1px solid #F0F4EF;
+        }
+
+        .negative { color: #D32F2F !important; direction: ltr; font-weight: bold; }
+        .positive { color: var(--primary-green) !important; direction: ltr; font-weight: bold; }
+        .neutral { color: #94A3B8; direction: ltr; }
+        
+        .btn-active {
+            background-color: var(--primary-green) !important;
+            color: white !important;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+  
+<header id="site-header"></header>
+
+<main class="container">
+  <div class="controls">
+    <div>
+      <button onclick="setCurrency('rial')">ریال</button>
+      <button onclick="setCurrency('toman')">تومان</button>
+    </div>
+
+    <div>
+      <label>
+        <input type="checkbox" id="vatToggle" onchange="render()" />
+        محاسبه ارزش افزوده ۱۰٪
+      </label>
+    </div>
+
+    <div>
+      آخرین بروزرسانی: <span id="lastUpdate">-</span>
+    </div>
+  </div>
+
+  <div id="tables"></div>
+</main>
+
+<script>
+let currency = 'rial';
+let data = null;
+
+const product = new URLSearchParams(window.location.search).get('product') || 'rebar-simple';
+const DATA_URL = `https://raw.githubusercontent.com/prompthub1/ahancheck_demo/main/data/${product}.json`;
+
+function setCurrency(c) {
+  currency = c;
+  render();
+}
+
+function applyVat(price) {
+  const vat = document.getElementById('vatToggle').checked;
+  return vat ? Math.round(price * 1.1) : price;
+}
+
+function normalizeRows(rows) {
+  const out = [];
+  for (let i = 0; i < rows.length; i++) {
+    if (!rows[i].price && rows[i + 1]) {
+      out.push({ ...rows[i + 1], size: rows[i].size || rows[i + 1].size });
+      i++;
+    } else {
+      out.push(rows[i]);
+    }
+  }
+  return out;
+}
+
+async function fetchData() {
+  const res = await fetch(DATA_URL, { cache: 'no-store' });
+  const json = await res.json();
+  data = json;
+  document.getElementById('lastUpdate').innerText = json.meta.last_update || '-';
+  render();
+}
+
+function render() {
+  if (!data) return;
+  const container = document.getElementById('tables');
+  container.innerHTML = '';
+
+  data.sections.forEach(section => {
+    const rows = normalizeRows(section.rows);
+
+    let html = `<h2>${section.factory}</h2>`;
+    html += '<table><thead><tr>';
+
+    Object.keys(rows[0]).forEach(key => {
+      if (key !== 'price') html += `<th>${key}</th>`;
+    });
+    html += '<th>قیمت</th></tr></thead><tbody>';
+
+    rows.forEach(r => {
+      let price = r.price;
+      if (currency === 'toman') price = Math.round(price / 10);
+      price = applyVat(price);
+
+      html += '<tr>';
+      Object.keys(r).forEach(k => {
+        if (k !== 'price') html += `<td>${r[k] || '-'}</td>`;
+      });
+      html += `<td>${price.toLocaleString()}</td>`;
+      html += '</tr>';
+    });
+
+    html += '</tbody></table>';
+    container.insertAdjacentHTML('beforeend', html);
+  });
+}
+
+fetchData();
+</script>
+
+</body>
+</html>
