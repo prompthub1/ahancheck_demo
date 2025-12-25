@@ -68,14 +68,13 @@
         <!-- Error State -->
         <div id="errorState" class="hidden text-center py-20">
             <div class="text-red-500 text-5xl mb-4">⚠️</div>
-            <h3 class="text-lg font-bold">خطا در دریافت اطلاعات</h3>
-            <p class="text-sm text-gray-500 mt-2">فایل قیمت‌های این تاریخ هنوز در سرور گیت‌هاب آپلود نشده است.</p>
+            <h3 class="text-lg font-bold">داده‌ای یافت نشد</h3>
+            <p class="text-sm text-gray-500 mt-2">فایل قیمت‌ها در مخزن گیت‌هاب یافت نشد. لطفاً از اجرای اسکریپت گوگل اطمینان حاصل کنید.</p>
             <button onclick="location.reload()" class="mt-4 text-[var(--primary-green)] font-bold border-b border-[var(--primary-green)]">تلاش مجدد</button>
         </div>
     </main>
 
     <script>
-        // تنظیمات گیت‌هاب شما
         const CONFIG = {
             owner: "prompthub1",
             repo: "ahancheck_demo",
@@ -89,36 +88,53 @@
             const minute = now.getMinutes();
             
             let targetDate = new Date();
-            let isToday = true;
-
-            // منطق ساعت ۵:۰۱ عصر
-            // اگر قبل از ۱۷:۰۱ است، فایل دیروز را بخواه
+            
+            // منطق زمانی: قبل از ۵:۰۱ عصر داده‌های دیروز، بعد از آن داده‌های امروز
             if (hour < 17 || (hour === 17 && minute < 1)) {
                 targetDate.setDate(now.getDate() - 1);
-                isToday = false;
-                document.getElementById('statusBadge').innerText = "نمایش قیمت‌های دیروز";
-                document.getElementById('statusBadge').className = "text-[10px] font-bold px-3 py-1 rounded-full bg-orange-100 text-orange-600";
-            } else {
-                document.getElementById('statusBadge').innerText = "بروزرسانی شده (امروز)";
-                document.getElementById('statusBadge').className = "text-[10px] font-bold px-3 py-1 rounded-full bg-green-100 text-green-600";
             }
 
             const fileName = getPersianDateFormatted(targetDate) + ".json";
-            document.getElementById('dateInfo').innerText = `مرجع داده: ${fileName}`;
             
-            // آدرس مستقیم فایل در گیت‌هاب
-            const url = `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.dataPath}${fileName}`;
+            // تلاش اول: دریافت فایل تاریخ مشخص
+            // تلاش دوم (Fallback): دریافت latest.json اگر اولی نبود
+            const urls = [
+                `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.dataPath}${fileName}`,
+                `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.dataPath}latest.json`
+            ];
 
-            try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error("File not found");
-                
-                const result = await response.json();
-                renderPrices(result.data);
-            } catch (err) {
-                console.error(err);
+            let dataLoaded = false;
+
+            for (let url of urls) {
+                try {
+                    const response = await fetch(url);
+                    if (response.ok) {
+                        const result = await response.json();
+                        document.getElementById('dateInfo').innerText = `مرجع داده: ${url.includes('latest') ? 'آخرین آپلود (latest)' : fileName}`;
+                        renderPrices(result.data);
+                        dataLoaded = true;
+                        updateStatusBadge(url.includes('latest'));
+                        break; 
+                    }
+                } catch (err) {
+                    console.warn("تلاش برای دریافت از آدرس شکست خورد:", url);
+                }
+            }
+
+            if (!dataLoaded) {
                 document.getElementById('loading').classList.add('hidden');
                 document.getElementById('errorState').classList.remove('hidden');
+            }
+        }
+
+        function updateStatusBadge(isLatestFallback) {
+            const badge = document.getElementById('statusBadge');
+            if (isLatestFallback) {
+                badge.innerText = "در حال نمایش آخرین داده موجود";
+                badge.className = "text-[10px] font-bold px-3 py-1 rounded-full bg-blue-100 text-blue-600";
+            } else {
+                badge.innerText = "بروزرسانی شده و معتبر";
+                badge.className = "text-[10px] font-bold px-3 py-1 rounded-full bg-green-100 text-green-600";
             }
         }
 
@@ -127,17 +143,14 @@
             const loading = document.getElementById('loading');
             container.innerHTML = '';
 
-            // ما شیت‌هایی که شامل واژه "میلگرد" هستند را نمایش می‌دهیم
             Object.entries(allSheetsData).forEach(([sheetName, rows]) => {
                 if (rows.length < 2) return;
 
-                const headers = rows[0];
                 const dataRows = rows.slice(1);
-
-                // گروه بندی بر اساس کارخانه (ستون برند/کارخانه معمولاً ایندکس 2 است)
                 const groupedByFactory = {};
+                
                 dataRows.forEach(row => {
-                    const factory = row[2] || "سایر";
+                    const factory = row[0] || "سایر"; // در کد جدید شما ایندکس 0 نام کارخانه است
                     if (!groupedByFactory[factory]) groupedByFactory[factory] = [];
                     groupedByFactory[factory].push(row);
                 });
@@ -148,11 +161,11 @@
                     
                     let rowsHtml = factoryRows.map(r => `
                         <tr class="border-b border-gray-50 text-sm hover:bg-gray-50 transition-colors">
-                            <td class="py-4 px-4 font-bold text-gray-700">${r[0]}</td>
-                            <td class="py-4 px-4 text-gray-500 text-xs">${r[1]}</td>
-                            <td class="py-4 px-4 font-black text-gray-900">${r[3]}</td>
-                            <td class="py-4 px-4 font-bold ${String(r[4]).includes('+') ? 'text-green-500' : (String(r[4]).includes('-') ? 'text-red-500' : 'text-gray-400')}">
-                                ${r[4]}
+                            <td class="py-4 px-4 font-bold text-gray-700">${r[1] || '---'}</td>
+                            <td class="py-4 px-4 text-gray-500 text-xs">${r[2] || '---'}</td>
+                            <td class="py-4 px-4 font-black text-gray-900">${r[3] || '۰'}</td>
+                            <td class="py-4 px-4 font-bold ${String(r[4] || '').includes('+') ? 'text-green-500' : (String(r[4] || '').includes('-') ? 'text-red-500' : 'text-gray-400')}">
+                                ${r[4] || '۰'}
                             </td>
                         </tr>
                     `).join('');
@@ -160,14 +173,14 @@
                     section.innerHTML = `
                         <div class="bg-gray-50/80 px-4 py-3 border-b border-gray-100 flex justify-between items-center">
                             <h3 class="font-black text-sm text-[var(--dark-green)]">${factoryName}</h3>
-                            <span class="text-[10px] text-gray-400 font-medium">بروزرسانی: ${factoryRows[0][5] || '---'}</span>
+                            <span class="text-[10px] text-gray-400 font-medium">بروزرسانی: ${factoryRows[0][factoryRows[0].length - 1] || '---'}</span>
                         </div>
                         <div class="overflow-x-auto">
                             <table class="w-full text-right">
                                 <thead class="text-[11px] text-gray-400 border-b border-gray-50">
                                     <tr>
-                                        <th class="py-2 px-4 font-medium italic text-right">محصول</th>
-                                        <th class="py-2 px-4 font-medium italic text-right">سایز</th>
+                                        <th class="py-2 px-4 font-medium italic text-right">نوع/سایز</th>
+                                        <th class="py-2 px-4 font-medium italic text-right">مشخصات</th>
                                         <th class="py-2 px-4 font-medium italic text-right">قیمت</th>
                                         <th class="py-2 px-4 font-medium italic text-right">نوسان</th>
                                     </tr>
