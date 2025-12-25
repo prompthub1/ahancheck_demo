@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>آهن چک | مانیتورینگ زنده قیمت میلگرد</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700;900&display=swap');
+        :root { 
+            --dark-green: #012612; 
+            --primary-green: #02C671; 
+            --bg-white: #F7FAF8; 
+        }
+        body { 
+            font-family: 'Vazirmatn', sans-serif; 
+            background-color: var(--bg-white); 
+            color: var(--dark-green); 
+        }
+        .shimmer {
+            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+        }
+        @keyframes shimmer {
+            0% { background-position: -200% 0; }
+            100% { background-position: 200% 0; }
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+
+    <!-- Header -->
+    <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <span class="w-8 h-8 bg-[var(--primary-green)] rounded-lg flex items-center justify-center text-white font-bold">آ</span>
+                <h1 class="text-xl font-black">آهن <span class="text-[var(--primary-green)]">چک</span></h1>
+            </div>
+            <div id="statusBadge" class="text-[10px] font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-500">
+                در حال بررسی وضعیت...
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto px-4 py-8">
+        <!-- Search & Info -->
+        <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4">
+            <div>
+                <h2 class="text-2xl font-black mb-1">لیست قیمت میلگرد</h2>
+                <p id="dateInfo" class="text-sm text-gray-500 font-medium italic"></p>
+            </div>
+            <div class="relative w-full md:w-72">
+                <input type="text" id="searchInput" oninput="filterTable()" placeholder="جستجوی نام کارخانه یا سایز..." 
+                    class="w-full bg-white border border-gray-200 rounded-xl py-3 px-4 outline-none focus:ring-2 focus:ring-[var(--primary-green)] shadow-sm text-sm">
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="space-y-4">
+            <div class="h-32 w-full shimmer rounded-2xl"></div>
+            <div class="h-32 w-full shimmer rounded-2xl"></div>
+        </div>
+
+        <!-- Price Container -->
+        <div id="priceContainer" class="grid grid-cols-1 gap-6 hidden"></div>
+
+        <!-- Error State -->
+        <div id="errorState" class="hidden text-center py-20">
+            <div class="text-red-500 text-5xl mb-4">⚠️</div>
+            <h3 class="text-lg font-bold">خطا در دریافت اطلاعات</h3>
+            <p class="text-sm text-gray-500 mt-2">فایل قیمت‌های این تاریخ هنوز در سرور گیت‌هاب آپلود نشده است.</p>
+            <button onclick="location.reload()" class="mt-4 text-[var(--primary-green)] font-bold border-b border-[var(--primary-green)]">تلاش مجدد</button>
+        </div>
+    </main>
+
+    <script>
+        // تنظیمات گیت‌هاب شما
+        const CONFIG = {
+            owner: "prompthub1",
+            repo: "ahancheck_demo",
+            branch: "main",
+            dataPath: "data/"
+        };
+
+        async function init() {
+            const now = new Date();
+            const hour = now.getHours();
+            const minute = now.getMinutes();
+            
+            let targetDate = new Date();
+            let isToday = true;
+
+            // منطق ساعت ۵:۰۱ عصر
+            // اگر قبل از ۱۷:۰۱ است، فایل دیروز را بخواه
+            if (hour < 17 || (hour === 17 && minute < 1)) {
+                targetDate.setDate(now.getDate() - 1);
+                isToday = false;
+                document.getElementById('statusBadge').innerText = "نمایش قیمت‌های دیروز";
+                document.getElementById('statusBadge').className = "text-[10px] font-bold px-3 py-1 rounded-full bg-orange-100 text-orange-600";
+            } else {
+                document.getElementById('statusBadge').innerText = "بروزرسانی شده (امروز)";
+                document.getElementById('statusBadge').className = "text-[10px] font-bold px-3 py-1 rounded-full bg-green-100 text-green-600";
+            }
+
+            const fileName = getPersianDateFormatted(targetDate) + ".json";
+            document.getElementById('dateInfo').innerText = `مرجع داده: ${fileName}`;
+            
+            // آدرس مستقیم فایل در گیت‌هاب
+            const url = `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.dataPath}${fileName}`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("File not found");
+                
+                const result = await response.json();
+                renderPrices(result.data);
+            } catch (err) {
+                console.error(err);
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('errorState').classList.remove('hidden');
+            }
+        }
+
+        function renderPrices(allSheetsData) {
+            const container = document.getElementById('priceContainer');
+            const loading = document.getElementById('loading');
+            container.innerHTML = '';
+
+            // ما شیت‌هایی که شامل واژه "میلگرد" هستند را نمایش می‌دهیم
+            Object.entries(allSheetsData).forEach(([sheetName, rows]) => {
+                if (rows.length < 2) return;
+
+                const headers = rows[0];
+                const dataRows = rows.slice(1);
+
+                // گروه بندی بر اساس کارخانه (ستون برند/کارخانه معمولاً ایندکس 2 است)
+                const groupedByFactory = {};
+                dataRows.forEach(row => {
+                    const factory = row[2] || "سایر";
+                    if (!groupedByFactory[factory]) groupedByFactory[factory] = [];
+                    groupedByFactory[factory].push(row);
+                });
+
+                Object.entries(groupedByFactory).forEach(([factoryName, factoryRows]) => {
+                    const section = document.createElement('div');
+                    section.className = "factory-card bg-white border border-gray-200 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow";
+                    
+                    let rowsHtml = factoryRows.map(r => `
+                        <tr class="border-b border-gray-50 text-sm hover:bg-gray-50 transition-colors">
+                            <td class="py-4 px-4 font-bold text-gray-700">${r[0]}</td>
+                            <td class="py-4 px-4 text-gray-500 text-xs">${r[1]}</td>
+                            <td class="py-4 px-4 font-black text-gray-900">${r[3]}</td>
+                            <td class="py-4 px-4 font-bold ${String(r[4]).includes('+') ? 'text-green-500' : (String(r[4]).includes('-') ? 'text-red-500' : 'text-gray-400')}">
+                                ${r[4]}
+                            </td>
+                        </tr>
+                    `).join('');
+
+                    section.innerHTML = `
+                        <div class="bg-gray-50/80 px-4 py-3 border-b border-gray-100 flex justify-between items-center">
+                            <h3 class="font-black text-sm text-[var(--dark-green)]">${factoryName}</h3>
+                            <span class="text-[10px] text-gray-400 font-medium">بروزرسانی: ${factoryRows[0][5] || '---'}</span>
+                        </div>
+                        <div class="overflow-x-auto">
+                            <table class="w-full text-right">
+                                <thead class="text-[11px] text-gray-400 border-b border-gray-50">
+                                    <tr>
+                                        <th class="py-2 px-4 font-medium italic text-right">محصول</th>
+                                        <th class="py-2 px-4 font-medium italic text-right">سایز</th>
+                                        <th class="py-2 px-4 font-medium italic text-right">قیمت</th>
+                                        <th class="py-2 px-4 font-medium italic text-right">نوسان</th>
+                                    </tr>
+                                </thead>
+                                <tbody>${rowsHtml}</tbody>
+                            </table>
+                        </div>
+                    `;
+                    container.appendChild(section);
+                });
+            });
+
+            loading.classList.add('hidden');
+            container.classList.remove('hidden');
+        }
+
+        function filterTable() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const cards = document.querySelectorAll('.factory-card');
+            cards.forEach(card => {
+                const text = card.innerText.toLowerCase();
+                card.style.display = text.includes(query) ? 'block' : 'none';
+            });
+        }
+
+        function getPersianDateFormatted(date) {
+            const options = { year: 'numeric', month: '2-digit', day: '2-digit', calendar: 'persian', numberingSystem: 'latn' };
+            const parts = new Intl.DateTimeFormat('fa-IR-u-ca-persian', options).formatToParts(date);
+            const year = parts.find(p => p.type === 'year').value;
+            const month = parts.find(p => p.type === 'month').value;
+            const day = parts.find(p => p.type === 'day').value;
+            return `${year}${month}${day}`;
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>
