@@ -1,221 +1,98 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>آهن چک | مانیتورینگ زنده قیمت میلگرد</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="UTF-8" />
+  <title>قیمت روز آهن آلات</title>
+<a href="index.html" class="logo-link">
+    <img src="assets/images/logo.png" alt="لوگوی آهن چک" width="150" height="50">
+</a>
+
+    
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700;900&display=swap');
-        :root { 
-            --dark-green: #012612; 
-            --primary-green: #02C671; 
-            --bg-white: #F7FAF8; 
+        /* This internal style block is strictly for visual preview reference 
+           since I cannot access your actual assets/css/main.css file. 
+           In production, all these styles reside in main.css */
+        :root {
+            --primary-green: #02C671;
+            --dark-green: #012612;
+            --glass-bg: rgba(255, 255, 255, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.5);
+            --shadow-soft: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
         }
-        body { 
-            font-family: 'Vazirmatn', sans-serif; 
-            background-color: var(--bg-white); 
-            color: var(--dark-green); 
+        body {
+            font-family: 'Peyda', 'Vazir', sans-serif;
+            background-color: #f8f9fa;
+            color: var(--dark-green);
+            margin: 0;
+            line-height: 1.6;
         }
-        .shimmer {
-            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
-            background-size: 200% 100%;
-            animation: shimmer 1.5s infinite;
+        .container { max-width: 1400px; margin: 0 auto; padding: 0 1rem; }
+        .glass {
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--shadow-soft);
         }
-        @keyframes shimmer {
-            0% { background-position: -200% 0; }
-            100% { background-position: 200% 0; }
+        .rounded { border-radius: 16px; }
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            transition: all 0.3s ease;
         }
+        .btn-primary {
+            background-color: var(--primary-green);
+            color: white;
+            box-shadow: 0 4px 15px rgba(2, 198, 113, 0.3);
+        }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(2, 198, 113, 0.4); }
+        .text-primary { color: var(--primary-green); }
+        /* Mega Menu visibility logic placeholder */
+        .mega-menu { display: none; position: absolute; width: 100%; left: 0; top: 100%; z-index: 100; }
+        li:hover .mega-menu { display: block; }
     </style>
+    
 </head>
-<body class="min-h-screen">
+<body>
 
-    <!-- Header -->
-    <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
-        <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
-            <div class="flex items-center gap-2">
-                <span class="w-8 h-8 bg-[var(--primary-green)] rounded-lg flex items-center justify-center text-white font-bold">آ</span>
-                <h1 class="text-xl font-black">آهن <span class="text-[var(--primary-green)]">چک</span></h1>
-            </div>
-            <div id="statusBadge" class="text-[10px] font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-500">
-                در حال بررسی وضعیت...
-            </div>
-        </div>
-    </header>
+<header id="site-header"></header>
 
-    <main class="max-w-6xl mx-auto px-4 py-8">
-        <!-- Search & Info -->
-        <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4">
-            <div>
-                <h2 class="text-2xl font-black mb-1">لیست قیمت میلگرد</h2>
-                <p id="dateInfo" class="text-sm text-gray-500 font-medium italic"></p>
-            </div>
-            <div class="relative w-full md:w-72">
-                <input type="text" id="searchInput" oninput="filterTable()" placeholder="جستجوی نام کارخانه یا سایز..." 
-                    class="w-full bg-white border border-gray-200 rounded-xl py-3 px-4 outline-none focus:ring-2 focus:ring-[var(--primary-green)] shadow-sm text-sm">
-            </div>
-        </div>
+<main class="container">
+  <nav class="mega-menu">
+    <ul>
+      <li>
+        <span>میلگرد</span>
+        <ul>
+          <li><a href="price-page.html?product=rebar-simple">میلگرد ساده</a></li>
+          <li><a href="price-page.html?product=rebar-ajad">میلگرد آجدار</a></li>
+          <li><a href="price-page.html?product=rebar-coil">میلگرد کلاف</a></li>
+        </ul>
+      </li>
 
-        <!-- Loading State -->
-        <div id="loading" class="space-y-4">
-            <div class="h-32 w-full shimmer rounded-2xl"></div>
-            <div class="h-32 w-full shimmer rounded-2xl"></div>
-        </div>
+      <li>
+        <span>ورق</span>
+        <ul>
+          <li><a href="price-page.html?product=sheet-black">ورق سیاه</a></li>
+          <li><a href="price-page.html?product=sheet-galvanized">ورق گالوانیزه</a></li>
+          <li><a href="price-page.html?product=sheet-oily">ورق روغنی</a></li>
+        </ul>
+      </li>
 
-        <!-- Price Container -->
-        <div id="priceContainer" class="grid grid-cols-1 gap-6 hidden"></div>
+      <li>
+        <span>پروفیل</span>
+        <ul>
+          <li><a href="price-page.html?product=profile-industrial">پروفیل صنعتی</a></li>
+          <li><a href="price-page.html?product=profile-building">پروفیل ساختمانی</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</main>
 
-        <!-- Error State -->
-        <div id="errorState" class="hidden text-center py-20">
-            <div class="text-red-500 text-5xl mb-4">⚠️</div>
-            <h3 class="text-lg font-bold">داده‌ای یافت نشد</h3>
-            <p class="text-sm text-gray-500 mt-2">فایل قیمت‌ها در مخزن گیت‌هاب یافت نشد. لطفاً از اجرای اسکریپت گوگل اطمینان حاصل کنید.</p>
-            <button onclick="location.reload()" class="mt-4 text-[var(--primary-green)] font-bold border-b border-[var(--primary-green)]">تلاش مجدد</button>
-        </div>
-    </main>
 
-    <script>
-        const CONFIG = {
-            owner: "prompthub1",
-            repo: "ahancheck_demo",
-            branch: "main",
-            dataPath: "data/"
-        };
 
-        async function init() {
-            const now = new Date();
-            const hour = now.getHours();
-            const minute = now.getMinutes();
-            
-            let targetDate = new Date();
-            
-            // منطق زمانی: قبل از ۵:۰۱ عصر داده‌های دیروز، بعد از آن داده‌های امروز
-            if (hour < 17 || (hour === 17 && minute < 1)) {
-                targetDate.setDate(now.getDate() - 1);
-            }
-
-            const fileName = getPersianDateFormatted(targetDate) + ".json";
-            
-            // تلاش اول: دریافت فایل تاریخ مشخص
-            // تلاش دوم (Fallback): دریافت latest.json اگر اولی نبود
-            const urls = [
-                `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.dataPath}${fileName}`,
-                `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.dataPath}latest.json`
-            ];
-
-            let dataLoaded = false;
-
-            for (let url of urls) {
-                try {
-                    const response = await fetch(url);
-                    if (response.ok) {
-                        const result = await response.json();
-                        document.getElementById('dateInfo').innerText = `مرجع داده: ${url.includes('latest') ? 'آخرین آپلود (latest)' : fileName}`;
-                        renderPrices(result.data);
-                        dataLoaded = true;
-                        updateStatusBadge(url.includes('latest'));
-                        break; 
-                    }
-                } catch (err) {
-                    console.warn("تلاش برای دریافت از آدرس شکست خورد:", url);
-                }
-            }
-
-            if (!dataLoaded) {
-                document.getElementById('loading').classList.add('hidden');
-                document.getElementById('errorState').classList.remove('hidden');
-            }
-        }
-
-        function updateStatusBadge(isLatestFallback) {
-            const badge = document.getElementById('statusBadge');
-            if (isLatestFallback) {
-                badge.innerText = "در حال نمایش آخرین داده موجود";
-                badge.className = "text-[10px] font-bold px-3 py-1 rounded-full bg-blue-100 text-blue-600";
-            } else {
-                badge.innerText = "بروزرسانی شده و معتبر";
-                badge.className = "text-[10px] font-bold px-3 py-1 rounded-full bg-green-100 text-green-600";
-            }
-        }
-
-        function renderPrices(allSheetsData) {
-            const container = document.getElementById('priceContainer');
-            const loading = document.getElementById('loading');
-            container.innerHTML = '';
-
-            Object.entries(allSheetsData).forEach(([sheetName, rows]) => {
-                if (rows.length < 2) return;
-
-                const dataRows = rows.slice(1);
-                const groupedByFactory = {};
-                
-                dataRows.forEach(row => {
-                    const factory = row[0] || "سایر"; // در کد جدید شما ایندکس 0 نام کارخانه است
-                    if (!groupedByFactory[factory]) groupedByFactory[factory] = [];
-                    groupedByFactory[factory].push(row);
-                });
-
-                Object.entries(groupedByFactory).forEach(([factoryName, factoryRows]) => {
-                    const section = document.createElement('div');
-                    section.className = "factory-card bg-white border border-gray-200 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow";
-                    
-                    let rowsHtml = factoryRows.map(r => `
-                        <tr class="border-b border-gray-50 text-sm hover:bg-gray-50 transition-colors">
-                            <td class="py-4 px-4 font-bold text-gray-700">${r[1] || '---'}</td>
-                            <td class="py-4 px-4 text-gray-500 text-xs">${r[2] || '---'}</td>
-                            <td class="py-4 px-4 font-black text-gray-900">${r[3] || '۰'}</td>
-                            <td class="py-4 px-4 font-bold ${String(r[4] || '').includes('+') ? 'text-green-500' : (String(r[4] || '').includes('-') ? 'text-red-500' : 'text-gray-400')}">
-                                ${r[4] || '۰'}
-                            </td>
-                        </tr>
-                    `).join('');
-
-                    section.innerHTML = `
-                        <div class="bg-gray-50/80 px-4 py-3 border-b border-gray-100 flex justify-between items-center">
-                            <h3 class="font-black text-sm text-[var(--dark-green)]">${factoryName}</h3>
-                            <span class="text-[10px] text-gray-400 font-medium">بروزرسانی: ${factoryRows[0][factoryRows[0].length - 1] || '---'}</span>
-                        </div>
-                        <div class="overflow-x-auto">
-                            <table class="w-full text-right">
-                                <thead class="text-[11px] text-gray-400 border-b border-gray-50">
-                                    <tr>
-                                        <th class="py-2 px-4 font-medium italic text-right">نوع/سایز</th>
-                                        <th class="py-2 px-4 font-medium italic text-right">مشخصات</th>
-                                        <th class="py-2 px-4 font-medium italic text-right">قیمت</th>
-                                        <th class="py-2 px-4 font-medium italic text-right">نوسان</th>
-                                    </tr>
-                                </thead>
-                                <tbody>${rowsHtml}</tbody>
-                            </table>
-                        </div>
-                    `;
-                    container.appendChild(section);
-                });
-            });
-
-            loading.classList.add('hidden');
-            container.classList.remove('hidden');
-        }
-
-        function filterTable() {
-            const query = document.getElementById('searchInput').value.toLowerCase();
-            const cards = document.querySelectorAll('.factory-card');
-            cards.forEach(card => {
-                const text = card.innerText.toLowerCase();
-                card.style.display = text.includes(query) ? 'block' : 'none';
-            });
-        }
-
-        function getPersianDateFormatted(date) {
-            const options = { year: 'numeric', month: '2-digit', day: '2-digit', calendar: 'persian', numberingSystem: 'latn' };
-            const parts = new Intl.DateTimeFormat('fa-IR-u-ca-persian', options).formatToParts(date);
-            const year = parts.find(p => p.type === 'year').value;
-            const month = parts.find(p => p.type === 'month').value;
-            const day = parts.find(p => p.type === 'day').value;
-            return `${year}${month}${day}`;
-        }
-
-        window.onload = init;
-    </script>
 </body>
 </html>
