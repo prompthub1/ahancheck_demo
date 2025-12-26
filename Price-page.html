@@ -47,7 +47,7 @@
                         <span class="w-2.5 h-2.5 bg-green-500 rounded-full animate-pulse"></span>
                         بروزرسانی شده در: <span id="lastUpdateDate" class="text-gray-600">-</span>
                     </span>
-                    <span class="bg-gray-100 px-2 py-0.5 rounded text-gray-500">نسخه هوشمند ۴.۰</span>
+                    <span class="bg-gray-100 px-2 py-0.5 rounded text-gray-500 font-bold uppercase">Smart Version 4.1</span>
                 </div>
             </div>
 
@@ -97,16 +97,25 @@
         
         // دریافت پارامتر محصول از URL
         const urlParams = new URLSearchParams(window.location.search);
-        let productKey = urlParams.get('product') || 'قیمت-میلگرد';
+        // استفاده از decodeURIComponent برای حل مشکل کاراکترهای فارسی در URL
+        let productKey = decodeURIComponent(urlParams.get('product') || 'قیمت-میلگرد');
 
         // مقداردهی اولیه تایتل مرورگر
         document.title = `قیمت ${productKey.replace(/-/g, ' ')} | آهن چک`;
 
         async function init() {
             try {
-                // تلاش برای لود کردن فایل JSON بر اساس نام ارسالی
-                const response = await fetch(`/data/${productKey}.json`);
-                if (!response.ok) throw new Error("فایل یافت نشد");
+                // پاکسازی نام فایل برای اطمینان از صحت درخواست
+                const fileName = productKey.trim();
+                const fetchPath = `./data/${fileName}.json`;
+                
+                console.log("Attempting to fetch:", fetchPath);
+
+                const response = await fetch(fetchPath);
+                
+                if (!response.ok) {
+                    throw new Error(`فایل یافت نشد: ${fetchPath} (وضعیت: ${response.status})`);
+                }
                 
                 rawJsonData = await response.json();
                 
@@ -116,17 +125,18 @@
                 
                 renderAll();
             } catch (error) {
-                console.error("Fetch Error:", error);
-                showErrorState();
+                console.error("Fetch Error Details:", error);
+                showErrorState(error.message);
             }
         }
 
-        function showErrorState() {
+        function showErrorState(msg) {
             document.getElementById('data-container').innerHTML = `
                 <div class="text-center p-20 bg-white rounded-[32px] border border-red-50 shadow-2xl glass-card">
                     <div class="w-20 h-20 bg-red-50 text-red-500 rounded-full flex items-center justify-center mx-auto mb-8 text-4xl">!</div>
-                    <h2 class="text-2xl font-black text-gray-800 mb-4">دیتا برای این محصول در دسترس نیست</h2>
-                    <p class="text-gray-500 mb-10 text-lg">فایل دیتای مربوط به "${productKey}" یافت نشد. لطفاً از منوی اصلی محصول دیگری را انتخاب کنید.</p>
+                    <h2 class="text-2xl font-black text-gray-800 mb-4">دیتا یافت نشد</h2>
+                    <p class="text-gray-500 mb-2 text-lg">فایل دیتای مربوط به "${productKey}" در پوشه data موجود نیست.</p>
+                    <p class="text-xs text-red-400 mb-10 font-mono">${msg}</p>
                     <a href="index.html" class="bg-[var(--primary-green)] text-white px-10 py-4 rounded-2xl font-black shadow-xl shadow-green-200 hover:shadow-green-300 hover:-translate-y-1 transition-all inline-block">بازگشت به صفحه اصلی</a>
                 </div>`;
             document.getElementById('pageTitle').innerText = "خطا در دریافت اطلاعات";
@@ -143,19 +153,16 @@
         function formatPrice(key, value) {
             if (!value || value === "-" || value === "0") return "-";
             
-            // شناسایی ستون‌های عددی قیمت
             const isPriceCol = key.includes("قیمت") || key.includes("نرخ") || key.includes("price");
             
             if (isPriceCol) {
-                let numericValue = parseFloat(value.toString().replace(/,/g, ''));
+                let numericValue = parseFloat(value.toString().replace(/,/g, '').replace(/[۰-۹]/g, d => '۰۱۲۳۴۵۶۷۸۹'.indexOf(d)));
                 if (isNaN(numericValue)) return value;
 
-                // ۱. اعمال ارزش افزوده ۱۰٪ در صورت فعال بودن سوئیچ
                 if (document.getElementById('taxToggle').checked) {
                     numericValue = numericValue * 1.1;
                 }
 
-                // ۲. تبدیل به ریال (دیتا پیش‌فرض روی تومان فرض می‌شود)
                 if (currentCurrency === 'Rial') {
                     numericValue = numericValue * 10;
                 }
@@ -190,10 +197,10 @@
                             <span class="text-[10px] text-gray-400 font-bold">واحد: ${currentCurrency === 'Toman' ? 'تومان' : 'ریال'}</span>
                         </div>
                     </div>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-right">
+                    <div class="overflow-x-auto scrollbar-hide">
+                        <table class="w-full text-right border-collapse">
                             <thead>
-                                <tr class="bg-gray-50 text-gray-400 font-bold border-b border-gray-100">
+                                <tr class="bg-gray-50/80 text-gray-400 font-bold border-b border-gray-100">
                                     ${headers.map(h => `<th class="p-6 text-[12px] whitespace-nowrap">${h}</th>`).join('')}
                                 </tr>
                             </thead>
@@ -208,18 +215,16 @@
                         
                         let cellStyle = "p-6 text-sm transition-all";
                         
-                        // استایل دهی ویژه به قیمت
                         if (h.includes("قیمت") || h.includes("نرخ")) {
-                            cellStyle += " font-black text-lg text-[var(--dark-green)] group-hover:scale-105 origin-right inline-block";
+                            cellStyle += " font-black text-lg text-[var(--dark-green)]";
                         }
                         
-                        // استایل دهی به نوسان
                         if (h.includes("تغییر") || h.includes("نوسان")) {
-                            if (originalValue.toString().includes("-")) cellStyle += " status-down bg-red-50/30";
-                            else if (originalValue !== "-" && originalValue !== "0") cellStyle += " status-up bg-green-50/30";
+                            if (originalValue.toString().includes("-")) cellStyle += " status-down";
+                            else if (originalValue !== "-" && originalValue !== "0") cellStyle += " status-up";
                         }
 
-                        tableHTML += `<td class="p-0"><div class="${cellStyle}">${displayValue}</div></td>`;
+                        tableHTML += `<td class="${cellStyle}">${displayValue}</td>`;
                     });
                     tableHTML += `</tr>`;
                 });
@@ -233,21 +238,11 @@
         function handleSearch() {
             const q = document.getElementById('searchInput').value.toLowerCase();
             const sections = document.querySelectorAll('.factory-section');
-            let found = false;
-
             sections.forEach(s => {
-                const isMatch = s.innerText.toLowerCase().includes(q);
-                s.style.display = isMatch ? 'block' : 'none';
-                if (isMatch) found = true;
+                s.style.display = s.innerText.toLowerCase().includes(q) ? 'block' : 'none';
             });
-
-            // مدیریت عدم یافتن نتیجه
-            if (!found && q !== "") {
-                // می‌توان اینجا یک پیام "نتیجه‌ای یافت نشد" اضافه کرد
-            }
         }
 
-        // شروع فرایند لود
         window.onload = init;
     </script>
 </body>
