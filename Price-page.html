@@ -34,7 +34,7 @@
             <div class="flex flex-wrap items-center gap-4">
                 <div class="flex items-center gap-2 bg-white px-3 py-2 rounded-xl border border-gray-100 shadow-sm">
                     <span class="text-[10px] font-bold text-gray-500">ارزش افزوده (۱۰٪)</span>
-                    <label class="switch"><input type="checkbox" id="taxToggle" onchange="renderData()"><span class="slider"></span></label>
+                    <label class="switch"><input type="checkbox" id="taxToggle" onchange="renderUI()"><span class="slider"></span></label>
                 </div>
                 <div class="flex bg-gray-200 p-1 rounded-xl shadow-inner">
                     <button onclick="setCurrency('Toman')" id="btnToman" class="px-4 py-1.5 rounded-lg text-xs font-bold transition-all bg-white shadow text-[var(--primary-green)]">تومان</button>
@@ -51,129 +51,156 @@
         <div id="table-container">
             <div class="flex flex-col items-center justify-center py-40 text-gray-300">
                 <div class="w-12 h-12 border-4 border-gray-100 border-t-[var(--primary-green)] rounded-full animate-spin mb-4"></div>
-                <p class="font-bold">در حال دریافت جدیدترین قیمت‌ها...</p>
+                <p class="font-bold">در حال هوشمندسازی لیست قیمت...</p>
             </div>
         </div>
     </div>
 
     <script>
-        let dbData = null;
+        let rawData = null;
+        let processedGroups = []; // داده‌های تفکیک شده بر اساس برند یا کارخانه
         let currency = 'Toman';
         
         const urlParams = new URLSearchParams(window.location.search);
-        let product = urlParams.get('product') || 'قیمت-میلگرد';
+        let productFile = urlParams.get('product') || 'قیمت-میلگرد';
 
         async function loadJson() {
             const container = document.getElementById('table-container');
-            // آدرس‌دهی نسبی برای کارکرد در GitHub Pages و محیط‌های دیگر
-            const path = `data/${product}.json`;
-            document.getElementById('filePathDisplay').innerText = `Source: /${path}`;
+            const path = `data/${productFile}.json`;
+            document.getElementById('filePathDisplay').innerText = `Data Source: /${path}`;
 
             try {
                 const response = await fetch(path);
                 if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
-                dbData = await response.json();
+                rawData = await response.json();
                 
-                // مطابق اسکیما: dbData.product.title
-                document.getElementById('pageTitle').innerText = (dbData.product && dbData.product.title) ? dbData.product.title : product.replace(/-/g, ' ');
-                renderData();
+                // تنظیم عنوان صفحه
+                const cleanTitle = productFile.replace(/-/g, ' ');
+                document.getElementById('pageTitle').innerText = cleanTitle;
+                
+                processData();
+                renderUI();
             } catch (e) {
                 console.error("Fetch failed:", e);
                 container.innerHTML = `
                     <div class="glass-card p-12 text-center">
                         <div class="text-5xl mb-6">⚠️</div>
-                        <h2 class="text-red-500 font-black text-xl">اطلاعات این محصول یافت نشد</h2>
-                        <p class="mt-4 text-gray-500 text-sm">احتمالاً فایلی با نام <code class="bg-gray-100 px-2 py-1 rounded">${product}.json</code> در پوشه دیتا وجود ندارد.</p>
-                        <button onclick="window.history.back()" class="mt-8 bg-[var(--dark-green)] text-white px-8 py-3 rounded-2xl font-bold shadow-lg hover:opacity-90 transition-all">بازگشت به لیست محصولات</button>
+                        <h2 class="text-red-500 font-black text-xl">خطا در بارگذاری اطلاعات</h2>
+                        <p class="mt-4 text-gray-500 text-sm">فایل <code class="bg-gray-100 px-2 py-1 rounded">${productFile}.json</code> یافت نشد یا ساختار ناصحیحی دارد.</p>
+                        <button onclick="window.history.back()" class="mt-8 bg-[var(--dark-green)] text-white px-8 py-3 rounded-2xl font-bold shadow-lg">بازگشت</button>
                     </div>`;
             }
         }
 
+        /**
+         * تحلیل داده‌های خام و استخراج محصولات واقعی از میان ردیف‌های متفرقه
+         */
+        function processData() {
+            if (!rawData || !rawData.rows) return;
+            
+            const headers = rawData.headers;
+            const allRows = rawData.rows;
+            const validRows = [];
+            
+            let lastUpdateInfo = rawData.updated_at;
+
+            // پیدا کردن ایندکس ستون قیمت و برند برای گروه‌بندی
+            const priceIdx = headers.findIndex(h => h.includes("قیمت") || h.includes("نرخ"));
+            const brandIdx = headers.findIndex(h => h.includes("برند") || h.includes("تولیدکننده") || h.includes("کارخانه"));
+
+            allRows.forEach((row, index) => {
+                // نادیده گرفتن ردیف‌هایی که حاوی اطلاعات بروزرسانی هستند
+                const rowString = JSON.stringify(row);
+                if (rowString.includes("آخرین بروز رسانی") || row[priceIdx] === "" || !row[priceIdx]) {
+                    return; 
+                }
+
+                // ساخت شیء محصول
+                const product = {
+                    values: row,
+                    brand: brandIdx !== -1 ? row[brandIdx] : "متفرقه",
+                    priceRaw: row[priceIdx] ? row[priceIdx].toString().replace(/,/g, '') : "0",
+                    change: "0" // پیش‌فرض
+                };
+
+                // تلاش برای یافتن نوسان از ردیف بعدی (در ساختار برخی فایل‌ها نوسان در ردیف زیرین است)
+                if (allRows[index + 1]) {
+                    const nextRowStr = allRows[index + 1][0] || "";
+                    if (nextRowStr.includes("نوسانات")) {
+                        const match = nextRowStr.match(/([+-]?\d+(\.\d+)?%)/);
+                        if (match) product.change = match[0];
+                    }
+                }
+
+                validRows.push(product);
+            });
+
+            // گروه‌بندی بر اساس برند
+            const groups = {};
+            validRows.forEach(item => {
+                if (!groups[item.brand]) groups[item.brand] = [];
+                groups[item.brand].push(item);
+            });
+
+            processedGroups = Object.entries(groups).map(([name, items]) => ({
+                title: name,
+                headers: headers,
+                items: items
+            }));
+        }
+
         function setCurrency(c) {
             currency = c;
-            const isToman = c === 'Toman';
-            document.getElementById('btnToman').className = isToman ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
-            document.getElementById('btnRial').className = !isToman ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
-            renderData();
+            document.getElementById('btnToman').className = (c === 'Toman') ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
+            document.getElementById('btnRial').className = (c === 'Rial') ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
+            renderUI();
         }
 
-        /**
-         * محاسبات مالی بر اساس قیمت پایه ریال
-         */
-        function processPrice(val, fieldType) {
-            if (val === undefined || val === null || val === "" || val === "-") return "-";
-            
-            // اگر فیلد مربوط به قیمت است
-            if (fieldType === 'price') {
-                let n = parseFloat(val.toString().replace(/,/g, ''));
-                if (isNaN(n)) return val;
+        function formatPrice(rawVal) {
+            let n = parseFloat(rawVal);
+            if (isNaN(n) || n === 0) return "-";
 
-                // ۱. اعمال مالیات بر روی قیمت پایه (ریال)
-                if (document.getElementById('taxToggle').checked) {
-                    n = n * 1.1;
-                }
-
-                // ۲. تبدیل واحد (پایه دیتا ریال است)
-                if (currency === 'Toman') {
-                    n = n / 10;
-                }
-
-                return Math.round(n).toLocaleString('fa-IR');
-            }
-            
-            // تبدیل درصدی
-            if (fieldType === 'change') {
-                const n = parseFloat(val);
-                if (isNaN(n) || n === 0) return "-";
-                return (n > 0 ? "+" : "") + n.toLocaleString('fa-IR') + "٪";
+            // ۱. مالیات ۱۰ درصد (بر روی قیمت تومان ورودی از جیسون اعمال شود)
+            if (document.getElementById('taxToggle').checked) {
+                n = n * 1.1;
             }
 
-            return val.toLocaleString('fa-IR');
+            // ۲. تبدیل به ریال در صورت انتخاب (دیتای پایه تومان است)
+            if (currency === 'Rial') {
+                n = n * 10;
+            }
+
+            return Math.round(n).toLocaleString('fa-IR');
         }
 
-        function renderData() {
-            if (!dbData || !dbData.tables) return;
+        function renderUI() {
             const container = document.getElementById('table-container');
+            if (processedGroups.length === 0) return;
+            
             container.innerHTML = '';
 
-            dbData.tables.forEach(table => {
+            processedGroups.forEach(group => {
                 const section = document.createElement('div');
-                section.className = 'factory-section shadow-sm border border-gray-100';
+                section.className = 'factory-section shadow-sm';
                 
                 let rowsHtml = '';
-                table.rows.forEach(row => {
+                group.items.forEach(item => {
                     rowsHtml += `<tr class="hover:bg-green-50/30 border-b border-gray-50 transition-colors">`;
                     
-                    table.headers.forEach(h => {
-                        let value = "-";
-                        let fieldType = "text";
-
-                        // مپینگ هوشمند بر اساس فیلدهای اسکیما
-                        if (h.includes("قیمت") || h.includes("نرخ")) {
-                            value = row.price;
-                            fieldType = "price";
-                        } else if (h.includes("تغییر") || h.includes("نوسان")) {
-                            value = row.change_percent;
-                            fieldType = "change";
-                        } else if (h.includes("تاریخ") || h.includes("زمان")) {
-                            value = row.date;
-                        } else {
-                            // جستجو در ویژگی‌های محصول (specs)
-                            value = row.specs ? (row.specs[h] || "-") : "-";
-                        }
-
-                        const displayVal = processPrice(value, fieldType);
+                    group.headers.forEach((h, idx) => {
+                        let content = item.values[idx] || "-";
                         let cls = "p-4 text-sm text-right";
-                        
-                        if (fieldType === "price") cls += " font-black text-gray-900 price-cell text-base";
-                        if (fieldType === "change") {
-                            const num = parseFloat(value);
-                            if (num > 0) cls += " status-up";
-                            else if (num < 0) cls += " status-down";
+
+                        // اگر ستون قیمت است
+                        if (h.includes("قیمت") || h.includes("نرخ")) {
+                            content = formatPrice(item.priceRaw);
+                            cls += " font-black text-gray-900 price-cell text-base";
                         }
                         
-                        rowsHtml += `<td class="${cls}">${displayVal}</td>`;
+                        // نمایش نوسان در صورت وجود (اگر ستون اختصاصی ندارد، می‌توان به ستون قیمت پیوست کرد یا جداگانه نمایش داد)
+                        rowsHtml += `<td class="${cls}">${content}</td>`;
                     });
+                    
                     rowsHtml += `</tr>`;
                 });
 
@@ -181,17 +208,17 @@
                     <div class="bg-gray-50/50 p-5 flex justify-between items-center border-b border-gray-100">
                         <div class="flex items-center gap-3">
                             <span class="w-1.5 h-6 bg-[var(--primary-green)] rounded-full"></span>
-                            <h2 class="font-black text-lg text-[var(--dark-green)]">${table.section_title}</h2>
+                            <h2 class="font-black text-lg text-[var(--dark-green)]">${group.title}</h2>
                         </div>
                         <span class="text-[10px] font-bold text-gray-400 bg-white px-3 py-1 rounded-full border border-gray-100 shadow-sm">
-                            بروزرسانی: ${dbData.last_update || 'لحظه‌ای'}
+                            ${group.items.length} ردیف کالا
                         </span>
                     </div>
                     <div class="overflow-x-auto">
                         <table class="w-full text-right">
                             <thead>
                                 <tr class="text-[11px] text-gray-400 font-bold bg-white border-b border-gray-50">
-                                    ${table.headers.map(h => `<th class="p-4 font-black">${h}</th>`).join('')}
+                                    ${group.headers.map(h => `<th class="p-4 font-black">${h}</th>`).join('')}
                                 </tr>
                             </thead>
                             <tbody class="divide-y divide-gray-50">
@@ -206,11 +233,10 @@
 
         function filterRows() {
             const q = document.getElementById('searchInput').value.toLowerCase();
-            // فقط جستجو در بدنه جداول (tbody) برای جلوگیری از مخفی شدن هدرها
-            const rows = document.querySelectorAll('#table-container tbody tr');
-            rows.forEach(tr => {
-                const text = tr.innerText.toLowerCase();
-                tr.style.display = text.includes(q) ? '' : 'none';
+            const sections = document.querySelectorAll('.factory-section');
+            sections.forEach(s => {
+                const text = s.innerText.toLowerCase();
+                s.style.display = text.includes(q) ? '' : 'none';
             });
         }
 
