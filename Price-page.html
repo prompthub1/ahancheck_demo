@@ -3,98 +3,166 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>لیست قیمت محصولات | آهن چک</title>
+    <title>لیست قیمت روز | آهن چک</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700;900&display=swap');
-        :root { --dark-green: #012612; --primary-green: #02C671; --bg-white: #F7FAF8; }
-        body { font-family: 'Vazirmatn', sans-serif; background-color: var(--bg-white); color: var(--dark-green); margin: 0; padding: 0; }
-        .glass-card { background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.4); border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.05); }
-        .factory-section { background: white; border: 1px solid #E2EADD; border-radius: 18px; margin-bottom: 25px; overflow: hidden; }
-        .switch { position: relative; display: inline-block; width: 40px; height: 20px; }
+        :root { 
+            --primary-green: #02C671; 
+            --dark-green: #012612; 
+            --bg-soft: #f8fafc; 
+            --zebra-green: #f4f8f6; /* طوسی بسیار روشن با ته‌مایه سبز ملایم */
+        }
+        body { font-family: 'Vazirmatn', sans-serif; background-color: var(--bg-soft); color: var(--dark-green); overflow-x: hidden; }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 24px;
+            box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        .factory-section {
+            background: white;
+            border-radius: 20px;
+            margin-bottom: 2rem;
+            overflow: hidden;
+            border: 1px solid rgba(226, 234, 221, 0.6);
+            box-shadow: 0 4px 20px -10px rgba(0,0,0,0.05);
+        }
+
+        /* Zebra Stripes: ردیف‌های زوج طوسی/سبز ملایم */
+        tbody tr:nth-child(even) {
+            background-color: var(--zebra-green);
+        }
+
+        /* Toggle Switch Styling */
+        .switch { position: relative; display: inline-block; width: 34px; height: 18px; }
         .switch input { opacity: 0; width: 0; height: 0; }
-        .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #cbd5e1; transition: .4s; border-radius: 20px; }
-        .slider:before { position: absolute; content: ""; height: 14px; width: 14px; left: 3px; bottom: 3px; background-color: white; transition: .4s; border-radius: 50%; }
+        .slider { 
+            position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; 
+            background-color: #e2e8f0; transition: .3s; border-radius: 20px; 
+        }
+        .slider:before { 
+            position: absolute; content: ""; height: 12px; width: 12px; left: 3px; bottom: 3px; 
+            background-color: white; transition: .3s; border-radius: 50%; 
+        }
         input:checked + .slider { background-color: var(--primary-green); }
-        input:checked + .slider:before { transform: translateX(20px); }
-        .status-up { color: #10b981; font-weight: bold; }
-        .status-down { color: #ef4444; font-weight: bold; }
+        input:checked + .slider:before { transform: translateX(16px); }
+
         .price-cell { font-family: 'Vazirmatn', sans-serif; letter-spacing: -0.5px; }
+        
+        /* Skeleton loading effect */
+        .skeleton {
+            background: linear-gradient(90deg, #f0f0f0 25%, #e6e6e6 50%, #f0f0f0 75%);
+            background-size: 200% 100%;
+            animation: loading 1.5s infinite;
+        }
+        @keyframes loading { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+        /* پنهان کردن اسکرول‌بار برای زیبایی بیشتر در جداول */
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     </style>
 </head>
-<body class="p-4 md:p-8">
-    <div class="max-w-6xl mx-auto">
-        <!-- Header -->
-        <div class="glass-card p-6 mb-8 flex flex-col md:flex-row justify-between items-center gap-6">
-            <div>
-                <h1 id="pageTitle" class="text-2xl md:text-3xl font-black text-[var(--dark-green)]">در حال بارگذاری...</h1>
-                <p class="text-[10px] text-gray-400 mt-2 font-mono opacity-50" id="filePathDisplay"></p>
+<body class="min-h-screen pb-12 text-right">
+
+    <!-- Header Area -->
+    <header class="bg-white/70 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100/50">
+        <div class="max-w-7xl mx-auto px-4 md:px-6 h-20 flex items-center justify-between">
+            <div class="flex items-center gap-4 md:gap-6">
+                <a href="index.html" class="flex items-center gap-2">
+                    <div class="w-9 h-9 bg-[var(--primary-green)] rounded-xl flex items-center justify-center text-white font-bold text-xl">آ</div>
+                    <span class="text-xl font-black hidden sm:inline">آهن<span class="text-[var(--primary-green)]">چک</span></span>
+                </a>
+                <h1 id="pageTitle" class="font-black text-sm md:text-lg text-slate-700 border-r pr-4 md:pr-6 border-gray-200 truncate max-w-[150px] md:max-w-none">در حال بارگذاری...</h1>
             </div>
             
-            <div class="flex flex-wrap items-center gap-4">
-                <div class="flex items-center gap-2 bg-white px-3 py-2 rounded-xl border border-gray-100 shadow-sm">
-                    <span class="text-[10px] font-bold text-gray-500">ارزش افزوده (۱۰٪)</span>
-                    <label class="switch"><input type="checkbox" id="taxToggle" onchange="renderUI()"><span class="slider"></span></label>
+            <a href="index.html" class="text-xs font-bold text-gray-400 hover:text-[var(--primary-green)] flex items-center gap-1 transition-colors">
+                بازگشت
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 md:px-6 py-6 md:py-8">
+        
+        <!-- Controls & Filters (ریسپانسیو شده برای موبایل) -->
+        <div class="glass-card p-3 mb-8 flex flex-col lg:flex-row items-center gap-4">
+            <!-- Search Container -->
+            <div class="relative flex-1 w-full">
+                <input type="text" id="searchInput" onkeyup="filterRows()" placeholder="جستجو (سایز، برند، مشخصات...)" 
+                       class="w-full bg-white/50 border-0 rounded-2xl px-12 py-3.5 focus:ring-2 focus:ring-[var(--primary-green)] outline-none text-sm transition-all shadow-sm">
+                <svg class="w-5 h-5 absolute right-4 top-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-width="2" stroke-linecap="round"/></svg>
+            </div>
+
+            <!-- Tax and Currency Container -->
+            <div class="flex flex-col sm:flex-row items-center gap-3 w-full lg:w-auto">
+                <!-- Tax Toggle -->
+                <div class="flex items-center justify-between gap-3 bg-white/40 px-4 py-2.5 rounded-2xl border border-white/50 shadow-sm w-full sm:w-auto">
+                    <div class="flex flex-col">
+                        <span class="text-[9px] font-bold text-gray-400 uppercase leading-none mb-1">VAT (10%)</span>
+                        <span class="text-xs font-black text-slate-600 leading-none">ارزش افزوده</span>
+                    </div>
+                    <label class="switch">
+                        <input type="checkbox" id="taxToggle" onchange="renderUI()">
+                        <span class="slider"></span>
+                    </label>
                 </div>
-                <div class="flex bg-gray-200 p-1 rounded-xl shadow-inner">
-                    <button onclick="setCurrency('Toman')" id="btnToman" class="px-4 py-1.5 rounded-lg text-xs font-bold transition-all bg-white shadow text-[var(--primary-green)]">تومان</button>
-                    <button onclick="setCurrency('Rial')" id="btnRial" class="px-4 py-1.5 rounded-lg text-xs font-bold transition-all text-gray-500">ریال</button>
-                </div>
-                <div class="relative">
-                    <input type="text" id="searchInput" onkeyup="filterRows()" placeholder="جستجو در لیست..." class="pr-10 pl-4 py-2 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--primary-green)] w-full">
-                    <span class="absolute right-3 top-2.5 opacity-20">🔍</span>
+
+                <!-- Currency Selector -->
+                <div class="flex bg-gray-100/50 p-1 rounded-2xl border border-white/50 shadow-inner w-full sm:w-32 shrink-0">
+                    <button onclick="setCurrency('Toman')" id="btnToman" class="flex-1 py-1.5 rounded-xl text-[10px] font-black transition-all bg-[var(--primary-green)] text-white shadow-md">تومان</button>
+                    <button onclick="setCurrency('Rial')" id="btnRial" class="flex-1 py-1.5 rounded-xl text-[10px] font-black transition-all text-gray-400">ریال</button>
                 </div>
             </div>
         </div>
 
-        <!-- Content -->
+        <!-- Table Container -->
         <div id="table-container">
-            <div class="flex flex-col items-center justify-center py-40 text-gray-300">
-                <div class="w-12 h-12 border-4 border-gray-100 border-t-[var(--primary-green)] rounded-full animate-spin mb-4"></div>
-                <p class="font-bold">در حال هوشمندسازی لیست قیمت...</p>
+            <!-- اسکلتون لودینگ برای حالت بارگذاری -->
+            <div class="space-y-6">
+                <div class="skeleton h-64 w-full rounded-3xl opacity-50"></div>
             </div>
         </div>
-    </div>
+    </main>
 
     <script>
         let rawData = null;
-        let processedGroups = []; // داده‌های تفکیک شده بر اساس برند یا کارخانه
+        let processedGroups = [];
         let currency = 'Toman';
         
+        // دریافت محصول از URL (مثلاً ?product=میلگرد)
         const urlParams = new URLSearchParams(window.location.search);
-        let productFile = urlParams.get('product') || 'قیمت-میلگرد';
+        let productFile = urlParams.get('product') || 'تیرآهن';
 
         async function loadJson() {
             const container = document.getElementById('table-container');
-            const path = `data/${productFile}.json`;
-            document.getElementById('filePathDisplay').innerText = `Data Source: /${path}`;
+            // مسیر فایل‌ها بر اساس نام محصول در URL
+            const path = `https://prompthub1.github.io/ahancheck_demo/${productFile}.json`;
 
             try {
                 const response = await fetch(path);
-                if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
+                if (!response.ok) throw new Error(`Not Found`);
                 rawData = await response.json();
                 
-                // تنظیم عنوان صفحه
-                const cleanTitle = productFile.replace(/-/g, ' ');
-                document.getElementById('pageTitle').innerText = cleanTitle;
+                document.getElementById('pageTitle').innerText = 'قیمت روز ' + productFile.replace(/-/g, ' ');
                 
                 processData();
                 renderUI();
             } catch (e) {
-                console.error("Fetch failed:", e);
                 container.innerHTML = `
-                    <div class="glass-card p-12 text-center">
-                        <div class="text-5xl mb-6">⚠️</div>
-                        <h2 class="text-red-500 font-black text-xl">خطا در بارگذاری اطلاعات</h2>
-                        <p class="mt-4 text-gray-500 text-sm">فایل <code class="bg-gray-100 px-2 py-1 rounded">${productFile}.json</code> یافت نشد یا ساختار ناصحیحی دارد.</p>
-                        <button onclick="window.history.back()" class="mt-8 bg-[var(--dark-green)] text-white px-8 py-3 rounded-2xl font-bold shadow-lg">بازگشت</button>
+                    <div class="glass-card p-16 text-center">
+                        <div class="text-5xl mb-4">🔍</div>
+                        <h2 class="text-slate-400 font-black text-xl">اطلاعاتی یافت نشد</h2>
+                        <p class="mt-2 text-gray-400 text-sm">دیتا برای محصول "${productFile}" در دسترس نیست یا فایل پیدا نشد.</p>
+                        <a href="index.html" class="mt-6 inline-block text-sm text-[var(--primary-green)] font-bold border border-[var(--primary-green)] px-6 py-2 rounded-full hover:bg-[var(--primary-green)] hover:text-white transition-all">بازگشت به لیست محصولات</a>
                     </div>`;
             }
         }
 
-        /**
-         * تحلیل داده‌های خام و استخراج محصولات واقعی از میان ردیف‌های متفرقه
-         */
         function processData() {
             if (!rawData || !rawData.rows) return;
             
@@ -102,40 +170,23 @@
             const allRows = rawData.rows;
             const validRows = [];
             
-            let lastUpdateInfo = rawData.updated_at;
-
-            // پیدا کردن ایندکس ستون قیمت و برند برای گروه‌بندی
             const priceIdx = headers.findIndex(h => h.includes("قیمت") || h.includes("نرخ"));
-            const brandIdx = headers.findIndex(h => h.includes("برند") || h.includes("تولیدکننده") || h.includes("کارخانه"));
+            const brandIdx = headers.findIndex(h => h.includes("برند") || h.includes("تولیدکننده") || h.includes("کارخانه") || h.includes("تولید کننده"));
 
-            allRows.forEach((row, index) => {
-                // نادیده گرفتن ردیف‌هایی که حاوی اطلاعات بروزرسانی هستند
+            allRows.forEach((row) => {
                 const rowString = JSON.stringify(row);
-                if (rowString.includes("آخرین بروز رسانی") || row[priceIdx] === "" || !row[priceIdx]) {
-                    return; 
-                }
+                // حذف ردیف‌های تاریخ یا خالی
+                if (rowString.includes("آخرین بروز رسانی") || !row[priceIdx] || row[priceIdx] === "") return;
 
-                // ساخت شیء محصول
                 const product = {
                     values: row,
-                    brand: brandIdx !== -1 ? row[brandIdx] : "متفرقه",
-                    priceRaw: row[priceIdx] ? row[priceIdx].toString().replace(/,/g, '') : "0",
-                    change: "0" // پیش‌فرض
+                    brand: (brandIdx !== -1 && row[brandIdx]) ? row[brandIdx] : "متفرقه",
+                    priceRaw: row[priceIdx].toString().replace(/,/g, ''),
                 };
-
-                // تلاش برای یافتن نوسان از ردیف بعدی (در ساختار برخی فایل‌ها نوسان در ردیف زیرین است)
-                if (allRows[index + 1]) {
-                    const nextRowStr = allRows[index + 1][0] || "";
-                    if (nextRowStr.includes("نوسانات")) {
-                        const match = nextRowStr.match(/([+-]?\d+(\.\d+)?%)/);
-                        if (match) product.change = match[0];
-                    }
-                }
-
                 validRows.push(product);
             });
 
-            // گروه‌بندی بر اساس برند
+            // گروه‌بندی بر اساس کارخانه/برند
             const groups = {};
             validRows.forEach(item => {
                 if (!groups[item.brand]) groups[item.brand] = [];
@@ -151,25 +202,24 @@
 
         function setCurrency(c) {
             currency = c;
-            document.getElementById('btnToman').className = (c === 'Toman') ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
-            document.getElementById('btnRial').className = (c === 'Rial') ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
+            const btnT = document.getElementById('btnToman');
+            const btnR = document.getElementById('btnRial');
+            
+            if(c === 'Toman') {
+                btnT.className = "flex-1 py-1.5 rounded-xl text-[10px] font-black transition-all bg-[var(--primary-green)] text-white shadow-md";
+                btnR.className = "flex-1 py-1.5 rounded-xl text-[10px] font-black transition-all text-gray-400";
+            } else {
+                btnR.className = "flex-1 py-1.5 rounded-xl text-[10px] font-black transition-all bg-[var(--primary-green)] text-white shadow-md";
+                btnT.className = "flex-1 py-1.5 rounded-xl text-[10px] font-black transition-all text-gray-400";
+            }
             renderUI();
         }
 
         function formatPrice(rawVal) {
             let n = parseFloat(rawVal);
             if (isNaN(n) || n === 0) return "-";
-
-            // ۱. مالیات ۱۰ درصد (بر روی قیمت تومان ورودی از جیسون اعمال شود)
-            if (document.getElementById('taxToggle').checked) {
-                n = n * 1.1;
-            }
-
-            // ۲. تبدیل به ریال در صورت انتخاب (دیتای پایه تومان است)
-            if (currency === 'Rial') {
-                n = n * 10;
-            }
-
+            if (document.getElementById('taxToggle').checked) n = n * 1.1;
+            if (currency === 'Rial') n = n * 10;
             return Math.round(n).toLocaleString('fa-IR');
         }
 
@@ -181,47 +231,42 @@
 
             processedGroups.forEach(group => {
                 const section = document.createElement('div');
-                section.className = 'factory-section shadow-sm';
+                section.className = 'factory-section shadow-sm animate-in fade-in slide-in-from-bottom-4 duration-500';
                 
                 let rowsHtml = '';
                 group.items.forEach(item => {
-                    rowsHtml += `<tr class="hover:bg-green-50/30 border-b border-gray-50 transition-colors">`;
-                    
+                    rowsHtml += `<tr class="hover:bg-green-100/30 transition-colors border-b border-gray-100 last:border-0">`;
                     group.headers.forEach((h, idx) => {
                         let content = item.values[idx] || "-";
-                        let cls = "p-4 text-sm text-right";
+                        let cls = "px-4 md:px-6 py-4 text-[13px] text-slate-600 whitespace-nowrap";
 
-                        // اگر ستون قیمت است
                         if (h.includes("قیمت") || h.includes("نرخ")) {
                             content = formatPrice(item.priceRaw);
-                            cls += " font-black text-gray-900 price-cell text-base";
+                            cls = "px-4 md:px-6 py-4 font-black text-slate-900 price-cell text-sm md:text-base whitespace-nowrap";
                         }
-                        
-                        // نمایش نوسان در صورت وجود (اگر ستون اختصاصی ندارد، می‌توان به ستون قیمت پیوست کرد یا جداگانه نمایش داد)
                         rowsHtml += `<td class="${cls}">${content}</td>`;
                     });
-                    
                     rowsHtml += `</tr>`;
                 });
 
                 section.innerHTML = `
-                    <div class="bg-gray-50/50 p-5 flex justify-between items-center border-b border-gray-100">
+                    <div class="bg-slate-50/80 px-4 md:px-6 py-5 flex justify-between items-center border-b border-gray-100">
                         <div class="flex items-center gap-3">
-                            <span class="w-1.5 h-6 bg-[var(--primary-green)] rounded-full"></span>
-                            <h2 class="font-black text-lg text-[var(--dark-green)]">${group.title}</h2>
+                            <div class="w-1.5 h-6 bg-[var(--primary-green)] rounded-full"></div>
+                            <h2 class="font-black text-base md:text-lg text-slate-800">${group.title}</h2>
                         </div>
-                        <span class="text-[10px] font-bold text-gray-400 bg-white px-3 py-1 rounded-full border border-gray-100 shadow-sm">
-                            ${group.items.length} ردیف کالا
+                        <span class="text-[10px] font-black text-gray-400 bg-white border border-gray-100 px-3 py-1.5 rounded-xl shadow-sm">
+                            ${group.items.length} کالا
                         </span>
                     </div>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-right">
+                    <div class="overflow-x-auto hide-scrollbar">
+                        <table class="w-full text-right border-collapse">
                             <thead>
-                                <tr class="text-[11px] text-gray-400 font-bold bg-white border-b border-gray-50">
-                                    ${group.headers.map(h => `<th class="p-4 font-black">${h}</th>`).join('')}
+                                <tr class="bg-[var(--primary-green)] text-[12px] font-black text-white">
+                                    ${group.headers.map(h => `<th class="px-4 md:px-6 py-5 font-bold tracking-wide whitespace-nowrap">${h}</th>`).join('')}
                                 </tr>
                             </thead>
-                            <tbody class="divide-y divide-gray-50">
+                            <tbody>
                                 ${rowsHtml}
                             </tbody>
                         </table>
