@@ -1,98 +1,209 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
-  <meta charset="UTF-8" />
-  <title>قیمت روز آهن آلات</title>
-<a href="index.html" class="logo-link">
-    <img src="assets/images/logo.png" alt="لوگوی آهن چک" width="150" height="50">
-</a>
-
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لیست قیمت محصولات | آهن چک</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        /* This internal style block is strictly for visual preview reference 
-           since I cannot access your actual assets/css/main.css file. 
-           In production, all these styles reside in main.css */
-        :root {
-            --primary-green: #02C671;
-            --dark-green: #012612;
-            --glass-bg: rgba(255, 255, 255, 0.7);
-            --glass-border: rgba(255, 255, 255, 0.5);
-            --shadow-soft: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
-        }
-        body {
-            font-family: 'Peyda', 'Vazir', sans-serif;
-            background-color: #f8f9fa;
-            color: var(--dark-green);
-            margin: 0;
-            line-height: 1.6;
-        }
-        .container { max-width: 1400px; margin: 0 auto; padding: 0 1rem; }
-        .glass {
-            background: var(--glass-bg);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            border: 1px solid var(--glass-border);
-            box-shadow: var(--shadow-soft);
-        }
-        .rounded { border-radius: 16px; }
-        .btn {
-            padding: 0.75rem 1.5rem;
-            border-radius: 12px;
-            text-decoration: none;
-            font-weight: bold;
-            display: inline-block;
-            transition: all 0.3s ease;
-        }
-        .btn-primary {
-            background-color: var(--primary-green);
-            color: white;
-            box-shadow: 0 4px 15px rgba(2, 198, 113, 0.3);
-        }
-        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(2, 198, 113, 0.4); }
-        .text-primary { color: var(--primary-green); }
-        /* Mega Menu visibility logic placeholder */
-        .mega-menu { display: none; position: absolute; width: 100%; left: 0; top: 100%; z-index: 100; }
-        li:hover .mega-menu { display: block; }
+        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700;900&display=swap');
+        :root { --dark-green: #012612; --primary-green: #02C671; --bg-white: #F7FAF8; }
+        body { font-family: 'Vazirmatn', sans-serif; background-color: var(--bg-white); color: var(--dark-green); margin: 0; padding: 0; }
+        
+        .glass-card { background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.4); border-radius: 24px; box-shadow: 0 10px 40px rgba(0,0,0,0.04); }
+        .factory-section { background: white; border: 1px solid #E2EADD; border-radius: 20px; margin-bottom: 32px; overflow: hidden; box-shadow: 0 4px 20px rgba(1, 38, 18, 0.04); }
+        
+        /* Toggle Switch */
+        .switch { position: relative; display: inline-block; width: 44px; height: 22px; }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #e2e8f0; transition: .3s; border-radius: 34px; }
+        .slider:before { position: absolute; content: ""; height: 16px; width: 16px; left: 3px; bottom: 3px; background-color: white; transition: .3s; border-radius: 50%; }
+        input:checked + .slider { background-color: var(--primary-green); }
+        input:checked + .slider:before { transform: translateX(22px); }
+
+        .status-up { color: #02C671; font-weight: bold; }
+        .status-down { color: #EA4335; font-weight: bold; }
+        
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 10px; }
     </style>
-    
 </head>
-<body>
+<body class="p-4 md:p-10">
+    <div class="max-w-7xl mx-auto">
+        <!-- Header Section -->
+        <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center mb-12 gap-8 glass-card p-8">
+            <div>
+                <h1 id="pageTitle" class="text-3xl md:text-4xl font-black text-[var(--dark-green)] mb-2">در حال بارگذاری...</h1>
+                <div class="flex items-center gap-6 text-[11px] text-gray-400 font-medium">
+                    <span id="updateBadge" class="flex items-center gap-2">
+                        <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+                        بروزرسانی شده در: <span id="lastUpdateDate">-</span>
+                    </span>
+                    <span>نسخه: ۳.۵ هوشمند</span>
+                </div>
+            </div>
 
-<header id="site-header"></header>
+            <div class="flex flex-wrap items-center gap-5">
+                <!-- Tax Toggle -->
+                <div class="flex items-center gap-3 bg-white/50 px-4 py-2.5 rounded-2xl border border-gray-100 shadow-sm">
+                    <span class="text-xs font-bold text-gray-600">ارزش افزوده (۱۰٪)</span>
+                    <label class="switch">
+                        <input type="checkbox" id="taxToggle" onchange="renderAll()">
+                        <span class="slider"></span>
+                    </label>
+                </div>
 
-<main class="container">
-  <nav class="mega-menu">
-    <ul>
-      <li>
-        <span>میلگرد</span>
-        <ul>
-          <li><a href="price-page.html?product=rebar-simple">میلگرد ساده</a></li>
-          <li><a href="price-page.html?product=rebar-ajad">میلگرد آجدار</a></li>
-          <li><a href="price-page.html?product=rebar-coil">میلگرد کلاف</a></li>
-        </ul>
-      </li>
+                <!-- Currency Selection -->
+                <div class="flex bg-gray-100 p-1.5 rounded-2xl border border-gray-200">
+                    <button onclick="setCurrency('Toman')" id="btnToman" class="px-5 py-2 rounded-xl text-xs font-bold transition-all bg-white shadow-sm text-[var(--primary-green)]">تومان</button>
+                    <button onclick="setCurrency('Rial')" id="btnRial" class="px-5 py-2 rounded-xl text-xs font-bold transition-all text-gray-500">ریال</button>
+                </div>
 
-      <li>
-        <span>ورق</span>
-        <ul>
-          <li><a href="price-page.html?product=sheet-black">ورق سیاه</a></li>
-          <li><a href="price-page.html?product=sheet-galvanized">ورق گالوانیزه</a></li>
-          <li><a href="price-page.html?product=sheet-oily">ورق روغنی</a></li>
-        </ul>
-      </li>
+                <div class="relative">
+                    <input type="text" id="searchInput" onkeyup="handleSearch()" placeholder="جستجوی محصول یا برند..." class="px-5 py-3 rounded-2xl border border-[#E2EADD] focus:outline-none focus:ring-4 focus:ring-[var(--primary-green)]/10 text-sm w-full md:w-64 transition-all">
+                </div>
+            </div>
+        </div>
 
-      <li>
-        <span>پروفیل</span>
-        <ul>
-          <li><a href="price-page.html?product=profile-industrial">پروفیل صنعتی</a></li>
-          <li><a href="price-page.html?product=profile-building">پروفیل ساختمانی</a></li>
-        </ul>
-      </li>
-    </ul>
-  </nav>
-</main>
+        <!-- Dynamic Content -->
+        <div id="data-container">
+            <div class="text-center py-32">
+                <div class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-[var(--primary-green)] border-t-transparent"></div>
+                <p class="mt-6 text-gray-400 font-medium text-lg">در حال فراخوانی دیتای محصولات...</p>
+            </div>
+        </div>
+    </div>
 
+    <script>
+        let rawJsonData = null;
+        let currentCurrency = 'Toman';
+        const urlParams = new URLSearchParams(window.location.search);
+        const productKey = urlParams.get('product') || 'میلگرد-آجدار';
 
+        // مقداردهی اولیه عنوان
+        document.title = `قیمت ${productKey.replace(/-/g, ' ')} | آهن چک`;
 
+        async function init() {
+            try {
+                // دریافت داده از دایرکتوری /data
+                const response = await fetch(`/data/${productKey}.json`);
+                if (!response.ok) throw new Error("File not found");
+                
+                rawJsonData = await response.json();
+                
+                // مقداردهی اطلاعات هدر از JSON جدید
+                document.getElementById('pageTitle').innerText = `قیمت ${rawJsonData.title || productKey.replace(/-/g, ' ')}`;
+                document.getElementById('lastUpdateDate').innerText = rawJsonData.last_update || 'لحظاتی پیش';
+                
+                renderAll();
+            } catch (error) {
+                document.getElementById('data-container').innerHTML = `
+                    <div class="text-center p-16 bg-white rounded-3xl border border-red-100 shadow-xl">
+                        <div class="text-red-500 text-5xl mb-6">⚠️</div>
+                        <h2 class="text-xl font-black text-gray-800 mb-2">دیتا یافت نشد</h2>
+                        <p class="text-gray-500 mb-8">متاسفانه فایل اطلاعات "${productKey}.json" در سیستم موجود نیست.</p>
+                        <a href="index.html" class="bg-[var(--primary-green)] text-white px-8 py-3 rounded-2xl font-bold shadow-lg shadow-green-200 transition-all hover:scale-105 inline-block">بازگشت به لیست محصولات</a>
+                    </div>`;
+            }
+        }
+
+        function setCurrency(c) {
+            currentCurrency = c;
+            document.getElementById('btnToman').className = c === 'Toman' ? 'px-5 py-2 rounded-xl text-xs font-bold transition-all bg-white shadow-sm text-[var(--primary-green)]' : 'px-5 py-2 rounded-xl text-xs font-bold transition-all text-gray-500';
+            document.getElementById('btnRial').className = c === 'Rial' ? 'px-5 py-2 rounded-xl text-xs font-bold transition-all bg-white shadow-sm text-[var(--primary-green)]' : 'px-5 py-2 rounded-xl text-xs font-bold transition-all text-gray-500';
+            renderAll();
+        }
+
+        function formatValue(key, value) {
+            if (!value || value === "-" || value === "0") return "-";
+            
+            // اگر ستون مربوط به قیمت باشد
+            const isPriceCol = key.toLowerCase().includes("قیمت") || key.toLowerCase().includes("price") || key.toLowerCase().includes("نرخ");
+            
+            if (isPriceCol) {
+                let numericPrice = parseFloat(value.toString().replace(/,/g, ''));
+                if (isNaN(numericPrice)) return value;
+
+                // اعمال ارزش افزوده ۱۰٪
+                if (document.getElementById('taxToggle').checked) {
+                    numericPrice = numericPrice * 1.1;
+                }
+
+                // تبدیل به ریال در صورت نیاز
+                if (currentCurrency === 'Rial') {
+                    numericPrice = numericPrice * 10;
+                }
+
+                return Math.round(numericPrice).toLocaleString();
+            }
+            
+            return value;
+        }
+
+        function renderAll() {
+            if (!rawJsonData || !rawJsonData.tables) return;
+            
+            const container = document.getElementById('data-container');
+            container.innerHTML = '';
+
+            rawJsonData.tables.forEach(tableObj => {
+                const section = document.createElement('div');
+                section.className = 'factory-section';
+
+                const headers = tableObj.headers;
+                const rows = tableObj.rows;
+
+                let tableHTML = `
+                    <div class="p-6 border-b border-gray-100 flex justify-between items-center bg-white">
+                        <h2 class="font-black text-xl text-[var(--dark-green)]">${tableObj.section_title}</h2>
+                        <div class="flex items-center gap-2">
+                            <span class="px-3 py-1 bg-green-50 text-[var(--primary-green)] text-[10px] font-bold rounded-lg border border-green-100">تحویل بنگاه</span>
+                        </div>
+                    </div>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-right text-sm">
+                            <thead>
+                                <tr class="bg-gray-50/50 text-gray-400 font-bold border-b border-gray-100">
+                                    ${headers.map(h => `<th class="p-5 font-bold">${h}</th>`).join('')}
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-gray-50">
+                `;
+
+                rows.forEach(row => {
+                    tableHTML += `<tr class="hover:bg-green-50/20 transition-all">`;
+                    headers.forEach(h => {
+                        const cellValue = row[h] || "-";
+                        const formatted = formatValue(h, cellValue);
+                        
+                        let cellStyle = "p-5";
+                        if (h.includes("قیمت") || h.includes("price")) cellStyle += " font-black text-base text-[var(--dark-green)]";
+                        if (h.includes("تغییر") || h.includes("نوسان")) {
+                            if (cellValue.toString().includes("-")) cellStyle += " status-down";
+                            else if (cellValue !== "-" && cellValue !== "0") cellStyle += " status-up";
+                        }
+
+                        tableHTML += `<td class="${cellStyle}">${formatted}</td>`;
+                    });
+                    tableHTML += `</tr>`;
+                });
+
+                tableHTML += `</tbody></table></div>`;
+                section.innerHTML = tableHTML;
+                container.appendChild(section);
+            });
+        }
+
+        function handleSearch() {
+            const q = document.getElementById('searchInput').value.toLowerCase();
+            document.querySelectorAll('.factory-section').forEach(s => {
+                s.style.display = s.innerText.toLowerCase().includes(q) ? 'block' : 'none';
+            });
+        }
+
+        // اجرای اولیه
+        window.onload = init;
+    </script>
 </body>
 </html>
