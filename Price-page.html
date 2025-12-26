@@ -19,6 +19,7 @@
         input:checked + .slider:before { transform: translateX(20px); }
         .status-up { color: #10b981; font-weight: bold; }
         .status-down { color: #ef4444; font-weight: bold; }
+        .price-cell { font-family: 'Vazirmatn', sans-serif; letter-spacing: -0.5px; }
     </style>
 </head>
 <body class="p-4 md:p-8">
@@ -27,25 +28,31 @@
         <div class="glass-card p-6 mb-8 flex flex-col md:flex-row justify-between items-center gap-6">
             <div>
                 <h1 id="pageTitle" class="text-2xl md:text-3xl font-black text-[var(--dark-green)]">در حال بارگذاری...</h1>
-                <p class="text-xs text-gray-400 mt-2 italic" id="filePathDisplay"></p>
+                <p class="text-[10px] text-gray-400 mt-2 font-mono opacity-50" id="filePathDisplay"></p>
             </div>
             
             <div class="flex flex-wrap items-center gap-4">
                 <div class="flex items-center gap-2 bg-white px-3 py-2 rounded-xl border border-gray-100 shadow-sm">
-                    <span class="text-[10px] font-bold text-gray-500">ارزش افزوده</span>
+                    <span class="text-[10px] font-bold text-gray-500">ارزش افزوده (۱۰٪)</span>
                     <label class="switch"><input type="checkbox" id="taxToggle" onchange="renderData()"><span class="slider"></span></label>
                 </div>
-                <div class="flex bg-gray-200 p-1 rounded-xl">
+                <div class="flex bg-gray-200 p-1 rounded-xl shadow-inner">
                     <button onclick="setCurrency('Toman')" id="btnToman" class="px-4 py-1.5 rounded-lg text-xs font-bold transition-all bg-white shadow text-[var(--primary-green)]">تومان</button>
                     <button onclick="setCurrency('Rial')" id="btnRial" class="px-4 py-1.5 rounded-lg text-xs font-bold transition-all text-gray-500">ریال</button>
                 </div>
-                <input type="text" id="searchInput" onkeyup="filterRows()" placeholder="جستجو..." class="px-4 py-2 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--primary-green)]">
+                <div class="relative">
+                    <input type="text" id="searchInput" onkeyup="filterRows()" placeholder="جستجو در لیست..." class="pr-10 pl-4 py-2 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--primary-green)] w-full">
+                    <span class="absolute right-3 top-2.5 opacity-20">🔍</span>
+                </div>
             </div>
         </div>
 
         <!-- Content -->
         <div id="table-container">
-            <div class="text-center py-20 text-gray-400">در حال فراخوانی فایل JSON...</div>
+            <div class="flex flex-col items-center justify-center py-40 text-gray-300">
+                <div class="w-12 h-12 border-4 border-gray-100 border-t-[var(--primary-green)] rounded-full animate-spin mb-4"></div>
+                <p class="font-bold">در حال دریافت جدیدترین قیمت‌ها...</p>
+            </div>
         </div>
     </div>
 
@@ -53,46 +60,75 @@
         let dbData = null;
         let currency = 'Toman';
         
-        // حل مشکل کاراکترهای فارسی در نام فایل
         const urlParams = new URLSearchParams(window.location.search);
         let product = urlParams.get('product') || 'قیمت-میلگرد';
 
         async function loadJson() {
             const container = document.getElementById('table-container');
-            // مسیر دقیق پوشه دیتا
+            // آدرس‌دهی نسبی برای کارکرد در GitHub Pages و محیط‌های دیگر
             const path = `data/${product}.json`;
-            document.getElementById('filePathDisplay').innerText = `Source: ${path}`;
+            document.getElementById('filePathDisplay').innerText = `Source: /${path}`;
 
             try {
                 const response = await fetch(path);
-                if (!response.ok) throw new Error(`Status: ${response.status}`);
+                if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
                 dbData = await response.json();
                 
-                document.getElementById('pageTitle').innerText = dbData.title || product.replace(/-/g, ' ');
+                // مطابق اسکیما: dbData.product.title
+                document.getElementById('pageTitle').innerText = (dbData.product && dbData.product.title) ? dbData.product.title : product.replace(/-/g, ' ');
                 renderData();
             } catch (e) {
-                container.innerHTML = `<div class="glass-card p-10 text-center"><h2 class="text-red-500 font-bold text-xl">خطای ۴۰۴: فایل یافت نشد</h2><p class="mt-4 text-gray-500 text-sm italic">مسیر بررسی شده: ${path}</p><button onclick="location.reload()" class="mt-6 bg-gray-800 text-white px-6 py-2 rounded-xl">تلاش مجدد</button></div>`;
+                console.error("Fetch failed:", e);
+                container.innerHTML = `
+                    <div class="glass-card p-12 text-center">
+                        <div class="text-5xl mb-6">⚠️</div>
+                        <h2 class="text-red-500 font-black text-xl">اطلاعات این محصول یافت نشد</h2>
+                        <p class="mt-4 text-gray-500 text-sm">احتمالاً فایلی با نام <code class="bg-gray-100 px-2 py-1 rounded">${product}.json</code> در پوشه دیتا وجود ندارد.</p>
+                        <button onclick="window.history.back()" class="mt-8 bg-[var(--dark-green)] text-white px-8 py-3 rounded-2xl font-bold shadow-lg hover:opacity-90 transition-all">بازگشت به لیست محصولات</button>
+                    </div>`;
             }
         }
 
         function setCurrency(c) {
             currency = c;
-            document.getElementById('btnToman').className = c === 'Toman' ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
-            document.getElementById('btnRial').className = c === 'Rial' ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
+            const isToman = c === 'Toman';
+            document.getElementById('btnToman').className = isToman ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
+            document.getElementById('btnRial').className = !isToman ? 'px-4 py-1.5 rounded-lg text-xs font-bold bg-white shadow text-[var(--primary-green)]' : 'px-4 py-1.5 rounded-lg text-xs font-bold text-gray-500';
             renderData();
         }
 
-        function processPrice(val, isPriceCol) {
-            if (!val || val === "-") return "-";
-            if (!isPriceCol) return val;
+        /**
+         * محاسبات مالی بر اساس قیمت پایه ریال
+         */
+        function processPrice(val, fieldType) {
+            if (val === undefined || val === null || val === "" || val === "-") return "-";
+            
+            // اگر فیلد مربوط به قیمت است
+            if (fieldType === 'price') {
+                let n = parseFloat(val.toString().replace(/,/g, ''));
+                if (isNaN(n)) return val;
 
-            let n = parseFloat(val.toString().replace(/,/g, ''));
-            if (isNaN(n)) return val;
+                // ۱. اعمال مالیات بر روی قیمت پایه (ریال)
+                if (document.getElementById('taxToggle').checked) {
+                    n = n * 1.1;
+                }
 
-            if (document.getElementById('taxToggle').checked) n *= 1.1;
-            if (currency === 'Rial') n *= 10;
+                // ۲. تبدیل واحد (پایه دیتا ریال است)
+                if (currency === 'Toman') {
+                    n = n / 10;
+                }
 
-            return Math.round(n).toLocaleString('fa-IR');
+                return Math.round(n).toLocaleString('fa-IR');
+            }
+            
+            // تبدیل درصدی
+            if (fieldType === 'change') {
+                const n = parseFloat(val);
+                if (isNaN(n) || n === 0) return "-";
+                return (n > 0 ? "+" : "") + n.toLocaleString('fa-IR') + "٪";
+            }
+
+            return val.toLocaleString('fa-IR');
         }
 
         function renderData() {
@@ -101,44 +137,80 @@
             container.innerHTML = '';
 
             dbData.tables.forEach(table => {
-                const card = document.createElement('div');
-                card.className = 'factory-section shadow-sm';
+                const section = document.createElement('div');
+                section.className = 'factory-section shadow-sm border border-gray-100';
                 
                 let rowsHtml = '';
                 table.rows.forEach(row => {
-                    rowsHtml += `<tr class="hover:bg-gray-50 border-b border-gray-50">`;
+                    rowsHtml += `<tr class="hover:bg-green-50/30 border-b border-gray-50 transition-colors">`;
+                    
                     table.headers.forEach(h => {
-                        const isPrice = h.includes("قیمت") || h.includes("نرخ");
-                        const displayVal = processPrice(row[h], isPrice);
-                        let cls = "p-4 text-sm";
-                        if (isPrice) cls += " font-bold text-gray-800";
-                        if (h.includes("تغییر")) {
-                            if (row[h].toString().includes("-")) cls += " status-down";
-                            else if (row[h] !== "0" && row[h] !== "-") cls += " status-up";
+                        let value = "-";
+                        let fieldType = "text";
+
+                        // مپینگ هوشمند بر اساس فیلدهای اسکیما
+                        if (h.includes("قیمت") || h.includes("نرخ")) {
+                            value = row.price;
+                            fieldType = "price";
+                        } else if (h.includes("تغییر") || h.includes("نوسان")) {
+                            value = row.change_percent;
+                            fieldType = "change";
+                        } else if (h.includes("تاریخ") || h.includes("زمان")) {
+                            value = row.date;
+                        } else {
+                            // جستجو در ویژگی‌های محصول (specs)
+                            value = row.specs ? (row.specs[h] || "-") : "-";
                         }
+
+                        const displayVal = processPrice(value, fieldType);
+                        let cls = "p-4 text-sm text-right";
+                        
+                        if (fieldType === "price") cls += " font-black text-gray-900 price-cell text-base";
+                        if (fieldType === "change") {
+                            const num = parseFloat(value);
+                            if (num > 0) cls += " status-up";
+                            else if (num < 0) cls += " status-down";
+                        }
+                        
                         rowsHtml += `<td class="${cls}">${displayVal}</td>`;
                     });
                     rowsHtml += `</tr>`;
                 });
 
-                card.innerHTML = `
-                    <div class="bg-gray-50 p-4 font-bold text-gray-700 border-b border-gray-100">${table.section_title}</div>
-                    <div class="overflow-x-auto"><table class="w-full text-right">
-                        <thead><tr class="text-[10px] text-gray-400 uppercase bg-white">
-                            ${table.headers.map(h => `<th class="p-4 font-medium">${h}</th>`).join('')}
-                        </tr></thead>
-                        <tbody>${rowsHtml}</tbody>
-                    </table></div>
+                section.innerHTML = `
+                    <div class="bg-gray-50/50 p-5 flex justify-between items-center border-b border-gray-100">
+                        <div class="flex items-center gap-3">
+                            <span class="w-1.5 h-6 bg-[var(--primary-green)] rounded-full"></span>
+                            <h2 class="font-black text-lg text-[var(--dark-green)]">${table.section_title}</h2>
+                        </div>
+                        <span class="text-[10px] font-bold text-gray-400 bg-white px-3 py-1 rounded-full border border-gray-100 shadow-sm">
+                            بروزرسانی: ${dbData.last_update || 'لحظه‌ای'}
+                        </span>
+                    </div>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-right">
+                            <thead>
+                                <tr class="text-[11px] text-gray-400 font-bold bg-white border-b border-gray-50">
+                                    ${table.headers.map(h => `<th class="p-4 font-black">${h}</th>`).join('')}
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-gray-50">
+                                ${rowsHtml}
+                            </tbody>
+                        </table>
+                    </div>
                 `;
-                container.appendChild(card);
+                container.appendChild(section);
             });
         }
 
         function filterRows() {
             const q = document.getElementById('searchInput').value.toLowerCase();
-            document.querySelectorAll('tr').forEach((tr, i) => {
-                if (i === 0) return;
-                tr.style.display = tr.innerText.toLowerCase().includes(q) ? '' : 'none';
+            // فقط جستجو در بدنه جداول (tbody) برای جلوگیری از مخفی شدن هدرها
+            const rows = document.querySelectorAll('#table-container tbody tr');
+            rows.forEach(tr => {
+                const text = tr.innerText.toLowerCase();
+                tr.style.display = text.includes(q) ? '' : 'none';
             });
         }
 
