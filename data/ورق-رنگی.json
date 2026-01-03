@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_at": "2026-01-03T23:20:23.042Z",
-  "updated_at": "2026-01-03T23:20:23.042Z",
+  "scraped_at": "2026-01-03T23:30:29.639Z",
+  "updated_at": "2026-01-03T23:30:29.639Z",
   "headers": [
     "ضخامت",
     "عرض",
@@ -255,334 +255,394 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "brand": "فولاد مبارکه",
       "_": "بنگاه تهران",
-      "price": "117,000",
-      "price_numeric": 117000
+      "price_str": "117,000",
+      "price_num": 117000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "آبی",
       "brand": "فولاد مبارکه",
       "_": "بنگاه تهران",
-      "price": "117,000",
-      "price_numeric": 117000
+      "price_str": "117,000",
+      "price_num": 117000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "قهوه ای سوخته",
       "brand": "فولاد مبارکه",
       "_": "بنگاه تهران",
-      "price": "121,270",
-      "price_numeric": 121270
+      "price_str": "121,270",
+      "price_num": 121270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "نارنجی",
       "brand": "فولاد مبارکه",
       "_": "بنگاه تهران",
-      "price": "117,180",
-      "price_numeric": 117180
+      "price_str": "117,180",
+      "price_num": 117180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "قرمز",
       "brand": "فولاد مبارکه",
       "_": "بنگاه تهران",
-      "price": "118,360",
-      "price_numeric": 118360
+      "price_str": "118,360",
+      "price_num": 118360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "brand": "فولاد مبارکه",
       "_": "بنگاه تهران",
-      "price": "117,380",
-      "price_numeric": 117380
+      "price_str": "117,380",
+      "price_num": 117380
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "قهوه ای سوخته",
       "brand": "چین",
       "_": "بنگاه تهران",
-      "price": "112,440",
-      "price_numeric": 112440
+      "price_str": "112,440",
+      "price_num": 112440
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "نارنجی",
       "brand": "چین",
       "_": "بنگاه تهران",
-      "price": "112,630",
-      "price_numeric": 112630
+      "price_str": "112,630",
+      "price_num": 112630
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "brand": "چین",
       "_": "بنگاه تهران",
-      "price": "112,550",
-      "price_numeric": 112550
+      "price_str": "112,550",
+      "price_num": 112550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "قرمز",
       "brand": "چین",
       "_": "بنگاه تهران",
-      "price": "112,550",
-      "price_numeric": 112550
+      "price_str": "112,550",
+      "price_num": 112550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "آبی",
       "brand": "چین",
       "_": "بنگاه تهران",
-      "price": "112,430",
-      "price_numeric": 112430
+      "price_str": "112,430",
+      "price_num": 112430
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "قرمز",
       "brand": "هفت الماس",
       "_": "بنگاه تهران",
-      "price": "112,820",
-      "price_numeric": 112820
+      "price_str": "112,820",
+      "price_num": 112820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "نارنجی",
       "brand": "هفت الماس",
       "_": "بنگاه تهران",
-      "price": "112,820",
-      "price_numeric": 112820
+      "price_str": "112,820",
+      "price_num": 112820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "آبی",
       "brand": "هفت الماس",
       "_": "بنگاه تهران",
-      "price": "111,910",
-      "price_numeric": 111910
+      "price_str": "111,910",
+      "price_num": 111910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "brand": "هفت الماس",
       "_": "بنگاه تهران",
-      "price": "112,550",
-      "price_numeric": 112550
+      "price_str": "112,550",
+      "price_num": 112550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
