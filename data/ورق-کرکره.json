@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
-  "scraped_at": "2026-01-03T23:21:26.440Z",
-  "updated_at": "2026-01-03T23:21:26.440Z",
+  "scraped_at": "2026-01-03T23:33:08.832Z",
+  "updated_at": "2026-01-03T23:33:08.832Z",
   "headers": [
     "ضخامت",
     "عرض",
@@ -140,184 +140,220 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "99,450",
-      "price_numeric": 99450
+      "price_str": "99,450",
+      "price_num": 99450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "99,450",
-      "price_numeric": 99450
+      "price_str": "99,450",
+      "price_num": 99450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "100,360",
-      "price_numeric": 100360
+      "price_str": "100,360",
+      "price_num": 100360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "113,180",
-      "price_numeric": 113180
+      "price_str": "113,180",
+      "price_num": 113180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "113,640",
-      "price_numeric": 113640
+      "price_str": "113,640",
+      "price_num": 113640
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.48",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "112,730",
-      "price_numeric": 112730
+      "price_str": "112,730",
+      "price_num": 112730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "98,730",
-      "price_numeric": 98730
+      "price_str": "98,730",
+      "price_num": 98730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "97,910",
-      "price_numeric": 97910
+      "price_str": "97,910",
+      "price_num": 97910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "col_1": "1250",
       "_": "بنگاه تهران",
       "unit": "کیلوگرم",
-      "price": "97,820",
-      "price_numeric": 97820
+      "price_str": "97,820",
+      "price_num": 97820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
