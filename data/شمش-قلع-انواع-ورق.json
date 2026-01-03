@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/شمش-قلع-انواع-ورق/",
-  "scraped_at": "2026-01-03T23:20:56.178Z",
-  "updated_at": "2026-01-03T23:20:56.177Z",
+  "scraped_at": "2026-01-03T23:31:50.211Z",
+  "updated_at": "2026-01-03T23:31:50.211Z",
   "headers": [
     "برند",
     "انبار",
@@ -32,36 +32,44 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "اندونزی",
       "col_1": "بنگاه تهران",
-      "price": "7,332,000",
-      "price_numeric": 7332000
+      "price_str": "7,332,000",
+      "price_num": 7332000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "مالزی",
       "col_1": "بنگاه تهران",
-      "price": "7,332,000",
-      "price_numeric": 7332000
+      "price_str": "7,332,000",
+      "price_num": 7332000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
