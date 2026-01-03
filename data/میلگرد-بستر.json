@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
-  "scraped_at": "2026-01-03T23:18:55.700Z",
-  "updated_at": "2026-01-03T23:18:55.699Z",
+  "scraped_at": "2026-01-03T23:27:30.998Z",
+  "updated_at": "2026-01-03T23:27:30.998Z",
   "headers": [
     "سایز",
     "حالت",
@@ -63,70 +63,82 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "size": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "15",
       "_": "بنگاه تهران",
       "unit": "شاخه",
-      "price": "45,000",
-      "price_numeric": 45000
+      "price_str": "45,000",
+      "price_num": 45000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "size": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "size": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "11",
       "_": "بنگاه تهران",
       "unit": "شاخه",
-      "price": "42,730",
-      "price_numeric": 42730
+      "price_str": "42,730",
+      "price_num": 42730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "size": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "size": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "5.5",
       "_": "بنگاه تهران",
       "unit": "شاخه",
-      "price": "41,820",
-      "price_numeric": 41820
+      "price_str": "41,820",
+      "price_num": 41820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "size": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "_": "",
       "unit": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
