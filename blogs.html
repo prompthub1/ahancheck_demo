@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>وبلاگ و اخبار بازار آهن | آهن چک</title>
+    <meta name="description" content="آخرین اخبار بازار فولاد، تحلیل‌های قیمت میلگرد و تیرآهن و راهنمای خرید تخصصی مقاطع فولادی در وبلاگ آهن چک.">
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;300;400;500;600;700;800;900&display=swap');
+        
+        :root { 
+            --primary-green: #02C671; 
+            --dark-green: #004d2c;
+            --slate-900: #0f172a;
+        }
+
+        body { 
+            font-family: 'Vazirmatn', sans-serif; 
+            background-color: #f8fafc;
+            color: #334155;
+        }
+
+        .blog-card {
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid rgba(226, 232, 240, 0.8);
+        }
+        .blog-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.02);
+            border-color: var(--primary-green);
+        }
+
+        .glass-header {
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+        }
+
+        .category-badge {
+            padding: 4px 12px;
+            border-radius: 8px;
+            font-size: 11px;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        .reveal { opacity: 0; transform: translateY(20px); transition: 0.6s ease-out; }
+        .reveal.active { opacity: 1; transform: translateY(0); }
+    </style>
+</head>
+<body>
+
+    <!-- Header (مطابق با استایل اصلی سایت) -->
+    <nav class="sticky top-0 z-[1000] glass-header">
+        <div class="max-w-7xl mx-auto px-4 h-20 flex justify-between items-center">
+            <a href="index.html">
+                <img src="assets/logo.png" alt="آهن چک" class="h-12">
+            </a>
+            <div class="hidden md:flex gap-8 font-bold text-slate-600">
+                <a href="index.html" class="hover:text-[var(--primary-green)]">صفحه اصلی</a>
+                <a href="price-page.html" class="hover:text-[var(--primary-green)]">لیست قیمت</a>
+                <a href="blogs.html" class="text-[var(--primary-green)]">وبلاگ</a>
+            </div>
+            <a href="tel:02112345678" class="bg-slate-100 px-6 py-2 rounded-xl font-black text-slate-800 border border-slate-200">۰۲۱-۱۲۳۴۵۶۷۸</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="bg-white py-20 border-b">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <h1 class="text-4xl md:text-6xl font-black text-slate-900 mb-6">مجله تخصصی <span class="text-[var(--primary-green)]">آهن چک</span></h1>
+            <p class="text-xl text-slate-500 max-w-2xl mx-auto leading-relaxed">تحلیل‌های روزانه، اخبار داغ بازار فولاد و راهنماهای کاربردی برای تجربه خریدی هوشمندانه‌تر.</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-16">
+        
+        <!-- Featured Posts Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            
+            <!-- Blog Item 1: تحلیل بازار (پیش‌بینی قیمت) -->
+            <article class="blog-card bg-white rounded-[32px] overflow-hidden flex flex-col reveal active">
+                <div class="h-60 relative overflow-hidden">
+                    <img src="assets/metals_analysis.jpg" alt="تحلیل بازار میلگرد" class="w-full h-full object-cover">
+                    <div class="absolute top-4 right-4">
+                        <span class="category-badge bg-green-100 text-green-600">تحلیل بازار</span>
+                    </div>
+                </div>
+                <div class="p-8 flex flex-col flex-grow">
+                    <div class="text-slate-400 text-xs font-bold mb-3 flex justify-between">
+                        <span>۲۵ خرداد ۱۴۰۴</span>
+                        <span>زمان مطالعه: ۶ دقیقه</span>
+                    </div>
+                    <h2 class="text-2xl font-black text-slate-900 mb-4 leading-snug">
+                        <a href="blogs/metals_analysis.html" class="hover:text-[var(--primary-green)] transition-colors">پیش‌بینی قیمت میلگرد در هفته آینده؛ نوسان یا ثبات؟</a>
+                    </h2>
+                    <p class="text-slate-500 text-sm leading-relaxed line-clamp-3 mb-6">
+                        بررسی عوامل موثر بر نوسانات اخیر قیمت میلگرد و تاثیر قیمت ارز بر بازار فولاد. آیا اکنون زمان مناسبی برای خرید است یا باید منتظر ماند؟
+                    </p>
+                    <div class="mt-auto pt-6 border-t border-slate-50">
+                        <a href="blogs/metals_analysis.html" class="flex items-center gap-2 font-black text-[var(--primary-green)] group">
+                            ادامه مطلب
+                            <svg class="w-4 h-4 transition-transform group-hover:translate-x-[-5px]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+                        </a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- Blog Item 2: اخبار (توقف صادرات) -->
+            <article class="blog-card bg-white rounded-[32px] overflow-hidden flex flex-col reveal active">
+                <div class="h-60 relative overflow-hidden">
+                    <img src="assets/shipping_duck.png" alt="توقف صادرات ورق" class="w-full h-full object-cover">
+                    <div class="absolute top-4 right-4">
+                        <span class="category-badge bg-blue-100 text-blue-600">اخبار</span>
+                    </div>
+                </div>
+                <div class="p-8 flex flex-col flex-grow">
+                    <div class="text-slate-400 text-xs font-bold mb-3 flex justify-between">
+                        <span>۱۸ خرداد ۱۴۰۳</span>
+                        <span>زمان مطالعه: ۴ دقیقه</span>
+                    </div>
+                    <h2 class="text-2xl font-black text-slate-900 mb-4 leading-snug">
+                        <a href="blogs/shipping_duck.html" class="hover:text-[var(--primary-green)] transition-colors">توقف صادرات ورق فولادی؛ بخشنامه جدید وزارت صمت</a>
+                    </h2>
+                    <p class="text-slate-500 text-sm leading-relaxed line-clamp-3 mb-6">
+                        تاثیر بخشنامه جدید وزارت صمت بر قیمت ورق سیاه و گالوانیزه در بازار داخلی و واکنش تولیدکنندگان به این محدودیت‌های جدید.
+                    </p>
+                    <div class="mt-auto pt-6 border-t border-slate-50">
+                        <a href="blogs/shipping_duck.html" class="flex items-center gap-2 font-black text-[var(--primary-green)] group">
+                            مشاهده جزئیات خبر
+                            <svg class="w-4 h-4 transition-transform group-hover:translate-x-[-5px]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+                        </a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- Blog Item 3: راهنما (تیرآهن لانه زنبوری) -->
+            <article class="blog-card bg-white rounded-[32px] overflow-hidden flex flex-col reveal active">
+                <div class="h-60 relative overflow-hidden">
+                    <img src="assets/iron_beam.jpg" alt="تیرآهن لانه زنبوری" class="w-full h-full object-cover">
+                    <div class="absolute top-4 right-4">
+                        <span class="category-badge bg-orange-100 text-orange-600">راهنمای خرید</span>
+                    </div>
+                </div>
+                <div class="p-8 flex flex-col flex-grow">
+                    <div class="text-slate-400 text-xs font-bold mb-3 flex justify-between">
+                        <span>۲۰ خرداد ۱۴۰۳</span>
+                        <span>زمان مطالعه: ۸ دقیقه</span>
+                    </div>
+                    <h2 class="text-2xl font-black text-slate-900 mb-4 leading-snug">
+                        <a href="blogs/iron_beam_guid.html" class="hover:text-[var(--primary-green)] transition-colors">راهنمای جامع خرید تیرآهن لانه زنبوری (CNP)</a>
+                    </h2>
+                    <p class="text-slate-500 text-sm leading-relaxed line-clamp-3 mb-6">
+                        نکات فنی مهم که قبل از خرید تیرآهن شبکه باید بدانید؛ بررسی مزایا، معایب و جدول وزنی استانداردهای مختلف.
+                    </p>
+                    <div class="mt-auto pt-6 border-t border-slate-50">
+                        <a href="blogs/iron_beam_guid.html" class="flex items-center gap-2 font-black text-[var(--primary-green)] group">
+                            مطالعه راهنما
+                            <svg class="w-4 h-4 transition-transform group-hover:translate-x-[-5px]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+                        </a>
+                    </div>
+                </div>
+            </article>
+
+        </div>
+
+        <!-- Newsletter Section -->
+        <section class="mt-24 bg-slate-900 rounded-[40px] p-12 text-center text-white relative overflow-hidden">
+            <div class="absolute top-0 right-0 w-64 h-64 bg-[var(--primary-green)] opacity-10 rounded-full -mr-32 -mt-32"></div>
+            <h3 class="text-3xl font-black mb-4">تحلیل‌ها را مستقیماً دریافت کنید</h3>
+            <p class="text-slate-400 mb-8">با عضویت در خبرنامه، از نوسانات بازار آهن زودتر از بقیه باخبر شوید.</p>
+            <div class="flex flex-col md:flex-row justify-center gap-4 max-w-lg mx-auto">
+                <input type="email" placeholder="شماره تماس یا ایمیل شما" class="bg-white/10 border border-white/20 px-6 py-4 rounded-2xl flex-grow focus:outline-none focus:border-[var(--primary-green)]">
+                <button class="bg-[var(--primary-green)] text-white px-8 py-4 rounded-2xl font-black hover:scale-105 transition-transform">عضویت رایگان</button>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer (مطابق با استایل اصلی) -->
+    <footer class="bg-[var(--dark-green)] text-white py-16">
+        <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-8">
+            <img src="assets/logo.png" alt="آهن چک" class="h-10 brightness-0 invert">
+            <p class="text-sm opacity-60 font-bold">تمامی حقوق برای سامانه آهن چک محفوظ است © ۱۴۰۴</p>
+            <div class="flex gap-6">
+                <a href="#" class="opacity-80 hover:opacity-100">تلگرام</a>
+                <a href="#" class="opacity-80 hover:opacity-100">اینستاگرام</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, { threshold: 0.1 });
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    </script>
+</body>
+</html>
