@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-پانچ-سیاه/",
-  "scraped_at": "2026-01-03T23:20:33.277Z",
-  "updated_at": "2026-01-03T23:20:33.277Z",
+  "scraped_at": "2026-01-03T23:30:52.548Z",
+  "updated_at": "2026-01-03T23:30:52.548Z",
   "headers": [
     "ضخامت (mm)",
     "کارخانه تولیدکننده",
@@ -84,94 +84,124 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "2000*1000",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "2",
       "brand": "فولاد مبارکه",
+      "size": "2000*1000",
       "col_3": "بنگاه تهران",
-      "price": "2,500,000",
-      "price_numeric": 2500000
+      "price_str": "2,500,000",
+      "price_num": 2500000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "2500*1250",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "2",
       "brand": "فولاد مبارکه",
+      "size": "2500*1250",
       "col_3": "بنگاه تهران",
-      "price": "3,681,820",
-      "price_numeric": 3681820
+      "price_str": "3,681,820",
+      "price_num": 3681820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "مشخصات فنی ورق پانچ",
       "brand": "",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "ضخامت",
       "brand": "از 0.2 تا 200 میلی‌متر",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "ابعاد",
       "brand": "1000 * 2000 و 1250 * 2500",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "نوع پوشش سطحی",
       "brand": "رنگ پودری، گالوانیزه گرم یا پولیش استیل برای افزایش مقاومت",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "نوع پانچ‌کاری",
       "brand": "دستی، مکانیکی یا CNC",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
-      "_mm": "",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
+      "_mm": "جنس ورق پایه",
       "brand": "فولادی، گالوانیزه، استیل و آلومینیوم",
+      "size": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
