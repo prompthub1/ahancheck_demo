@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%84%D8%A7%D9%86%D9%87-%D8%B2%D9%86%D8%A8%D9%88%D8%B1%DB%8C/",
-  "scraped_at": "2026-01-03T23:18:51.841Z",
-  "updated_at": "2026-01-03T23:18:51.832Z",
+  "scraped_at": "2026-01-03T23:27:22.775Z",
+  "updated_at": "2026-01-03T23:27:22.771Z",
   "headers": [
     "نام کالا",
     "سایز",
@@ -106,124 +106,144 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "تیرآهن لانه زنبوری 18",
       "size": "18",
       "col_2": "CPE",
       "unit": "شاخه",
       "brand": "ذوب آهن اصفهان",
       "_": "بنگاه تهران",
-      "price": "12,045,450",
-      "price_numeric": 12045450
+      "price_str": "12,045,450",
+      "price_num": 12045450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "col_2": "",
       "unit": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "تیرآهن لانه زنبوری 22",
       "size": "22",
       "col_2": "CPE",
       "unit": "شاخه",
       "brand": "ذوب آهن اصفهان",
       "_": "بنگاه تهران",
-      "price": "28,045,450",
-      "price_numeric": 28045450
+      "price_str": "28,045,450",
+      "price_num": 28045450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "col_2": "",
       "unit": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "تیرآهن لانه زنبوری 20",
       "size": "20",
       "col_2": "CPE",
       "unit": "شاخه",
       "brand": "ذوب آهن اصفهان",
       "_": "بنگاه تهران",
-      "price": "24,409,090",
-      "price_numeric": 24409090
+      "price_str": "24,409,090",
+      "price_num": 24409090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "col_2": "",
       "unit": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "تیرآهن لانه زنبوری 16",
       "size": "16",
       "col_2": "CPE",
       "unit": "شاخه",
       "brand": "ذوب آهن اصفهان",
       "_": "بنگاه تهران",
-      "price": "10,227,270",
-      "price_numeric": 10227270
+      "price_str": "10,227,270",
+      "price_num": 10227270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "col_2": "",
       "unit": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "تیرآهن لانه زنبوری 14",
       "size": "14",
       "col_2": "CPE",
       "unit": "شاخه",
       "brand": "ذوب آهن اصفهان",
       "_": "بنگاه تهران",
-      "price": "9,681,820",
-      "price_numeric": 9681820
+      "price_str": "9,681,820",
+      "price_num": 9681820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "col_2": "",
       "unit": "",
       "brand": "",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
