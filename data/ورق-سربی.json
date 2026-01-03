@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-سربی/",
-  "scraped_at": "2026-01-03T23:21:00.941Z",
-  "updated_at": "2026-01-03T23:21:00.941Z",
+  "scraped_at": "2026-01-03T23:32:04.319Z",
+  "updated_at": "2026-01-03T23:32:04.319Z",
   "headers": [
     "نام کالا",
     "انبار",
@@ -32,36 +32,44 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "ورق سربی 2 میلیمتر",
       "col_1": "بنگاه تهران",
-      "price": "286,000",
-      "price_numeric": 286000
+      "price_str": "286,000",
+      "price_num": 286000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "ورق سربی 1 میلیمتر",
       "col_1": "بنگاه تهران",
-      "price": "286,000",
-      "price_numeric": 286000
+      "price_str": "286,000",
+      "price_num": 286000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "title": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
