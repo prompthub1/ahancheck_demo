@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/%D8%B1%DB%8C%D9%84-%D8%A2%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1%DB%8C/",
-  "scraped_at": "2026-01-03T23:19:54.156Z",
-  "updated_at": "2026-01-03T23:19:54.155Z",
+  "scraped_at": "2026-01-03T23:29:37.229Z",
+  "updated_at": "2026-01-03T23:29:37.229Z",
   "headers": [
     "برند",
     "محل تحویل",
@@ -37,36 +37,44 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "وارداتی",
       "_": "T5/T9 (جفت)",
-      "price": "5,202,000",
-      "price_numeric": 5202000
+      "price_str": "5,202,000",
+      "price_num": 5202000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "وارداتی",
       "_": "T 16/89",
-      "price": "8,765,270",
-      "price_numeric": 8765270
+      "price_str": "8,765,270",
+      "price_num": 8765270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "brand": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "_": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
