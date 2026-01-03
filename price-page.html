@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لیست قیمت روز | آهن چک</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/prompthub1/ahancheck_demo/refs/heads/main/assets/favicon.ico">
+    <style>
+        :root { 
+            --primary-green: #02C671; 
+            --dark-green: #012612; 
+            --header-green: #013a1b; 
+            --bg-soft: #f8fafc; 
+            --zebra-green: #f1f7f4; 
+        }
+        body { 
+            font-family: 'Vazirmatn', sans-serif; 
+            background-color: var(--bg-soft); 
+            color: var(--dark-green); 
+            overflow-x: hidden; 
+        }
+
+        .glass-card {
+            background: #ffffff;
+            border: 1px solid #cbd5e1;
+            border-radius: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .factory-section {
+            background: white;
+            border-radius: 16px;
+            margin-bottom: 2.5rem;
+            overflow: hidden;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+            animation: fadeIn 0.4s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        tbody tr:nth-child(even) { background-color: var(--zebra-green); }
+
+        .switch { position: relative; display: inline-block; width: 44px; height: 24px; }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider { 
+            position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; 
+            background-color: #cbd5e1; transition: .3s; border-radius: 20px; 
+        }
+        .slider:before { 
+            position: absolute; content: ""; height: 18px; width: 18px; left: 3px; bottom: 3px; 
+            background-color: white; transition: .3s; border-radius: 50%; 
+        }
+        input:checked + .slider { background-color: var(--primary-green); }
+        input:checked + .slider:before { transform: translateX(20px); }
+
+        .call-btn {
+            background: var(--dark-green);
+            color: white;
+            padding: 16px;
+            border-radius: 18px;
+            font-weight: 900;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            transition: all 0.3s ease;
+        }
+        .call-btn:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+
+        th {
+            background-color: var(--header-green) !important;
+            color: #ffffff !important;
+            padding: 16px !important;
+            font-weight: 800;
+            font-size: 0.85rem;
+            text-align: right;
+        }
+
+        .filter-select {
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: left 0.75rem center;
+            background-size: 1em;
+        }
+
+        .ltr { direction: ltr; text-align: left; }
+    </style>
+</head>
+<body class="min-h-screen pb-20">
+
+    <!-- Navbar -->
+    <header class="bg-white sticky top-0 z-50 border-b border-gray-200 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 md:px-6 h-20 flex items-center justify-between">
+            <div class="flex items-center gap-4">
+                <a href="index.html">
+                    <img src="assets/logo.png" alt="آهن چک" class="h-10 md:h-12" onerror="this.src='https://placehold.co/200x60/012612/02C671?text=AhanCheck'">
+                </a>
+                <div class="h-8 w-px bg-gray-200 mx-2"></div>
+                <h1 id="pageTitle" class="font-black text-lg md:text-xl text-slate-800 truncate max-w-[200px]">در حال بارگذاری...</h1>
+            </div>
+            
+            <a href="index.html" class="flex items-center gap-2 text-sm font-bold text-slate-600 hover:text-[var(--primary-green)] transition-colors">
+                <span class="hidden md:inline">بازگشت به منو</span>
+                <svg class="w-5 h-5 rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 md:px-6 py-8">
+        
+        <!-- Filter Box -->
+        <div class="glass-card p-5 mb-8 sticky top-24 z-40">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
+                <!-- Search -->
+                <div class="md:col-span-2 space-y-2">
+                    <label class="text-xs font-bold text-slate-500 mr-2">جستجو در لیست</label>
+                    <div class="relative">
+                        <input type="text" id="searchInput" oninput="debounceFilter()" placeholder="مثلاً: ۶ میل، فابریک، نام برند..." 
+                               class="w-full bg-slate-50 border border-slate-200 rounded-xl px-11 py-3 focus:ring-2 focus:ring-[var(--primary-green)] outline-none font-bold transition-all">
+                        <svg class="w-5 h-5 absolute right-4 top-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-width="2.5" stroke-linecap="round"/></svg>
+                    </div>
+                </div>
+
+                <!-- Dropdown 1: Groups -->
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-500 mr-2">فیلتر گروه</label>
+                    <select id="groupFilter" onchange="applyFilters()" class="filter-select w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 pr-4 pl-10 outline-none font-bold text-slate-700 cursor-pointer focus:border-[var(--primary-green)]">
+                        <option value="">همه موارد</option>
+                    </select>
+                </div>
+
+                <!-- Dropdown 2: Brands -->
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-500 mr-2">انتخاب برند</label>
+                    <select id="brandFilter" onchange="applyFilters()" class="filter-select w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 pr-4 pl-10 outline-none font-bold text-slate-700 cursor-pointer focus:border-[var(--primary-green)]">
+                        <option value="">همه برندها</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Toggles Area -->
+            <div class="flex flex-wrap items-center justify-between mt-6 pt-4 border-t border-slate-100 gap-4">
+                <div class="flex items-center gap-3">
+                    <span class="text-xs font-bold text-slate-500">آخرین بروزرسانی فایل:</span>
+                    <span id="fileDate" class="text-xs font-black text-slate-700 bg-slate-100 px-3 py-1 rounded-md">---</span>
+                </div>
+
+                <div class="flex items-center gap-6">
+                    <!-- Tax Toggle -->
+                    <div class="flex items-center gap-2">
+                        <span class="text-xs font-extrabold text-slate-600">احتساب ارزش افزوده (10%)</span>
+                        <label class="switch">
+                            <input type="checkbox" id="taxToggle" onchange="renderUI()">
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+
+                    <!-- Currency Toggle -->
+                    <div class="flex bg-slate-100 p-1 rounded-lg border border-slate-200">
+                        <button onclick="setCurrency('Toman')" id="btnToman" class="px-4 py-1 rounded-md text-xs font-black transition-all bg-white shadow-sm text-[var(--primary-green)]">تومان</button>
+                        <button onclick="setCurrency('Rial')" id="btnRial" class="px-4 py-1 rounded-md text-xs font-black transition-all text-slate-400">ریال</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Content Area -->
+        <div id="table-container">
+            <!-- Skeleton Loading -->
+            <div class="animate-pulse space-y-8">
+                <div class="h-40 bg-gray-200 rounded-2xl w-full"></div>
+                <div class="h-40 bg-gray-200 rounded-2xl w-full"></div>
+            </div>
+        </div>
+
+        <!-- No Results -->
+        <div id="noResults" class="hidden text-center py-24 glass-card bg-white/50 border-dashed">
+            <div class="text-slate-300 mb-4">
+                <svg class="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M9.172 9.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" stroke-width="1.5"/></svg>
+            </div>
+            <h3 class="text-lg font-black text-slate-800">متأسفانه موردی پیدا نشد</h3>
+            <p class="text-slate-500 text-sm mt-1">فیلترهای انتخاب شده را تغییر دهید.</p>
+        </div>
+    </main>
+
+    <!-- Fixed Footer Mobile Call -->
+    <div class="fixed bottom-0 left-0 right-0 p-4 bg-white/80 backdrop-blur-md border-t border-gray-100 lg:hidden z-50">
+        <a href="tel:02191000000" class="call-btn">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" stroke-width="2.5" stroke-linecap="round"/></svg>
+            <span>مشاوره و خرید: ۰۲۱-۹۱۰۰۰۰۰۰</span>
+        </a>
+    </div>
+
+    <!-- Desktop Floating Call -->
+    <div class="fixed bottom-8 left-8 hidden lg:block z-50">
+        <a href="tel:02191000000" class="call-btn px-8 py-5 shadow-2xl">
+            <div class="flex flex-col items-start leading-none">
+                <span class="text-[10px] font-bold opacity-70 mb-1">واحد فروش و استعلام قیمت</span>
+                <span class="text-xl font-black tracking-widest ltr">021-91000000</span>
+            </div>
+            <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" stroke-width="2.5" stroke-linecap="round"/></svg>
+            </div>
+        </a>
+    </div>
+
+    <script>
+        let rawData = null;
+        let processedGroups = [];
+        let currency = 'Toman';
+        let debounceTimer;
+
+        // پارامتر محصول از URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const productName = urlParams.get('product') || 'تیرآهن';
+
+        async function init() {
+            const container = document.getElementById('table-container');
+            // تبدیل فاصله به خط فاصله برای خواندن فایل از سرور (اگر نیاز بود)
+            const fileName = productName.replace(/ /g, '-');
+            const jsonPath = `data/${fileName}.json`;
+
+            try {
+                const response = await fetch(jsonPath);
+                if (!response.ok) throw new Error();
+                rawData = await response.json();
+                
+                document.getElementById('pageTitle').innerText = `قیمت ${productName}`;
+                document.title = `لیست قیمت روز ${productName} | آهن چک`;
+
+                if(rawData.scraped_at) {
+                    const d = new Date(rawData.scraped_at);
+                    document.getElementById('fileDate').innerText = d.toLocaleDateString('fa-IR');
+                }
+
+                processGroups();
+                populateFilters();
+                renderUI();
+            } catch (err) {
+                container.innerHTML = `
+                    <div class="text-center p-12 glass-card border-red-100">
+                        <p class="text-red-500 font-black mb-4">فایل قیمت «${productName}» یافت نشد.</p>
+                        <a href="index.html" class="inline-block bg-slate-800 text-white px-6 py-2 rounded-xl text-sm font-bold">بازگشت به منوی اصلی</a>
+                    </div>`;
+            }
+        }
+
+        function processGroups() {
+            const headers = rawData.headers;
+            const priceIdx = headers.findIndex(h => h.includes("قیمت") || h.includes("نرخ"));
+            const brandIdx = headers.findIndex(h => h.includes("برند") || h.includes("کارخانه") || h.includes("تولید"));
+            
+            const map = new Map();
+
+            rawData.rows.forEach((row, idx) => {
+                if (!row || row.length < 2 || (row[0] && row[0].includes("بروز رسانی"))) return;
+
+                const meta = (rawData.data && rawData.data[idx]) ? rawData.data[idx] : {};
+                
+                // تشخیص گروه: اولویت با group_title اسکریپت جدید V3
+                let gName = meta.group_title || (brandIdx !== -1 ? row[brandIdx] : "سایر موارد");
+                let bName = meta.brand || (brandIdx !== -1 ? row[brandIdx] : "متفرقه");
+
+                if (!map.has(gName)) {
+                    map.set(gName, { title: gName, date: meta.last_update || "", items: [] });
+                }
+
+                map.get(gName).items.push({
+                    row,
+                    brand: bName,
+                    priceRaw: row[priceIdx] ? row[priceIdx].toString().replace(/,/g, '') : "0"
+                });
+            });
+
+            processedGroups = Array.from(map.values());
+        }
+
+        function populateFilters() {
+            const gSelect = document.getElementById('groupFilter');
+            const bSelect = document.getElementById('brandFilter');
+            
+            const groups = new Set();
+            const brands = new Set();
+
+            processedGroups.forEach(g => {
+                groups.add(g.title);
+                g.items.forEach(i => brands.add(i.brand));
+            });
+
+            [...groups].sort().forEach(g => gSelect.add(new Option(g, g)));
+            [...brands].sort().forEach(b => bSelect.add(new Option(b, b)));
+        }
+
+        function setCurrency(c) {
+            currency = c;
+            const btns = { Toman: document.getElementById('btnToman'), Rial: document.getElementById('btnRial') };
+            Object.keys(btns).forEach(k => {
+                btns[k].className = k === c ? 
+                    "px-4 py-1 rounded-md text-xs font-black transition-all bg-white shadow-sm text-[var(--primary-green)]" : 
+                    "px-4 py-1 rounded-md text-xs font-black transition-all text-slate-400";
+            });
+            renderUI();
+        }
+
+        function formatVal(raw) {
+            let n = parseFloat(raw);
+            if (!n) return "<span class='text-[10px] text-slate-400 font-normal'>تماس بگیرید</span>";
+            if (document.getElementById('taxToggle').checked) n *= 1.1;
+            if (currency === 'Rial') n *= 10;
+            return Math.round(n).toLocaleString('fa-IR');
+        }
+
+        function debounceFilter() {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(renderUI, 300);
+        }
+
+        function applyFilters() { renderUI(); }
+
+        function renderUI() {
+            const container = document.getElementById('table-container');
+            const noRes = document.getElementById('noResults');
+            container.innerHTML = '';
+
+            const q = document.getElementById('searchInput').value.toLowerCase();
+            const fG = document.getElementById('groupFilter').value;
+            const fB = document.getElementById('brandFilter').value;
+
+            let count = 0;
+
+            processedGroups.forEach(group => {
+                if (fG && group.title !== fG) return;
+
+                const filtered = group.items.filter(it => {
+                    const matchBrand = !fB || it.brand === fB;
+                    const matchSearch = !q || it.row.join(' ').toLowerCase().includes(q) || group.title.toLowerCase().includes(q);
+                    return matchBrand && matchSearch;
+                });
+
+                if (filtered.length === 0) return;
+                count++;
+
+                const section = document.createElement('div');
+                section.className = 'factory-section';
+                
+                let tbody = '';
+                filtered.forEach(it => {
+                    tbody += `<tr class="group hover:bg-white transition-all">`;
+                    it.row.forEach((val, i) => {
+                        const h = rawData.headers[i];
+                        let isPrice = h.includes("قیمت") || h.includes("نرخ");
+                        let cellContent = isPrice ? formatVal(it.priceRaw) : (val || "-");
+                        let cls = "px-4 py-4 text-sm font-bold text-slate-700";
+                        
+                        if (isPrice) cls = "px-4 py-4 text-sm md:text-base font-black text-slate-900 bg-slate-50/50 ltr";
+                        if (h.includes("تغییر")) {
+                            if (val.includes("-")) cls += " text-red-500 ltr";
+                            else if (val !== "0" && val !== "-") cls += " text-green-600 ltr";
+                        }
+
+                        tbody += `<td class="${cls}">${cellContent}</td>`;
+                    });
+                    tbody += `</tr>`;
+                });
+
+                section.innerHTML = `
+                    <div class="bg-white border-b border-gray-100 px-5 py-4 flex flex-col md:flex-row md:items-center justify-between gap-2">
+                        <div class="flex items-center gap-3">
+                            <div class="w-1 h-6 bg-[var(--primary-green)] rounded-full"></div>
+                            <h2 class="font-black text-slate-800 text-base md:text-lg">${group.title}</h2>
+                        </div>
+                        ${group.date ? `<span class="text-[10px] font-black text-slate-400 bg-slate-50 border border-slate-100 px-2 py-1 rounded-md">بروزرسانی: ${group.date}</span>` : ''}
+                    </div>
+                    <div class="overflow-x-auto hide-scrollbar">
+                        <table class="w-full text-right border-collapse">
+                            <thead>
+                                <tr>${rawData.headers.map(h => `<th>${h}</th>`).join('')}</tr>
+                            </thead>
+                            <tbody class="divide-y divide-gray-100">${tbody}</tbody>
+                        </table>
+                    </div>
+                `;
+                container.appendChild(section);
+            });
+
+            noRes.classList.toggle('hidden', count > 0);
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>
