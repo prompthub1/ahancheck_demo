@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/%D8%B1%DB%8C%D9%84-%D9%85%D8%B9%D8%AF%D9%86%DB%8C/",
-  "scraped_at": "2026-01-03T18:49:58.217Z",
-  "updated_at": "2026-01-03T18:49:58.217Z",
+  "scraped_at": "2026-01-03T19:06:49.742Z",
+  "updated_at": "2026-01-03T19:06:49.742Z",
   "headers": [
     "برند",
     "محل تحویل",
@@ -37,24 +37,32 @@
   ],
   "data": [
     {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "brand": "وارداتی",
       "_": "R 24",
       "price": "217,120",
       "price_numeric": 217120
     },
     {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "brand": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "_": "",
       "price": "",
       "price_numeric": null
     },
     {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "brand": "وارداتی",
       "_": "R 18",
       "price": "217,500",
       "price_numeric": 217500
     },
     {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "brand": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "_": "",
       "price": "",
