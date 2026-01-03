@@ -15,6 +15,23 @@
             --bg-soft: #f8fafc; 
             --zebra-green: #f1f7f4; 
         }
+
+        /* اسکرول‌بار عمودی کل صفحه */
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 10px;
+            border: 2px solid #f1f5f9;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--primary-green);
+        }
+
         body { 
             font-family: 'Vazirmatn', sans-serif; 
             background-color: var(--bg-soft); 
@@ -47,7 +64,7 @@
 
         tbody tr:nth-child(even) { background-color: var(--zebra-green); }
 
-        /* Custom Top Scrollbar Styles */
+        /* اسکرول‌بار افقی بالای جداول */
         .custom-scroll-container {
             overflow-x: auto;
             scrollbar-width: thin;
@@ -55,7 +72,7 @@
         }
 
         .custom-scroll-container::-webkit-scrollbar {
-            height: 8px; /* Slightly thicker for better visibility */
+            height: 8px;
         }
         .custom-scroll-container::-webkit-scrollbar-track {
             background: #f1f5f9;
@@ -65,13 +82,12 @@
             border-radius: 10px;
         }
 
-        /* Hide the bottom scrollbar specifically */
         .main-table-scroll::-webkit-scrollbar {
             display: none;
         }
         .main-table-scroll {
-            -ms-overflow-style: none;  /* IE and Edge */
-            scrollbar-width: none;  /* Firefox */
+            -ms-overflow-style: none;
+            scrollbar-width: none;
             overflow-x: auto;
         }
 
@@ -89,10 +105,10 @@
         }
 
         @media (max-width: 1024px) {
-            /* Show top scrollbar on mobile only when needed */
             .top-scroll-bar { display: block; }
         }
 
+        /* تنظیمات سوئیچ */
         .switch { position: relative; display: inline-block; width: 44px; height: 24px; }
         .switch input { opacity: 0; width: 0; height: 0; }
         .slider { 
@@ -106,9 +122,6 @@
         input:checked + .slider { background-color: var(--primary-green); }
         input:checked + .slider:before { transform: translateX(20px); }
 
-        .price-cell { font-family: 'Vazirmatn', sans-serif; letter-spacing: -0.5px; }
-
-        /* Floating Button Animation */
         .call-btn-container {
             transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
         }
@@ -136,7 +149,7 @@
                 <a href="index.html" class="block transform transition hover:scale-105">
                     <img src="assets/logo.png" alt="آهن چک" class="h-12 w-auto" onerror="this.src='https://placehold.co/800x300/012612/02C671?text=AhanCheck'">
                 </a>
-                <h1 id="pageTitle" class="font-black text-lg md:text-2xl text-slate-800 border-r-2 pr-5 border-gray-200 truncate">بارگذاری لیست قیمت...</h1>
+                <h1 id="pageTitle" class="font-black text-lg md:text-2xl text-slate-800 border-r-2 pr-5 border-gray-200 truncate">بارگذاری...</h1>
             </div>
             
             <a href="index.html" class="text-sm font-bold text-slate-500 hover:text-[var(--primary-green)] flex items-center gap-2 transition-all">
@@ -146,30 +159,35 @@
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-4 md:px-6 py-10">
+    <main class="max-w-7xl mx-auto px-4 md:px-6 py-6 md:py-10">
         
-        <!-- Search & Filters -->
-        <div class="glass-card p-6 mb-12">
-            <div class="flex flex-col lg:flex-row gap-6 items-stretch lg:items-center">
+        <!-- نوار ابزار هوشمند -->
+        <div class="glass-card p-4 md:p-6 mb-8 md:mb-12">
+            <div class="flex flex-col lg:flex-row gap-4 lg:gap-6 items-stretch lg:items-center">
                 
+                <!-- جستجو (سمت راست در دسکتاپ) -->
                 <div class="relative flex-grow order-1 lg:order-2">
                     <input type="text" id="searchInput" onkeyup="filterRows()" 
                            placeholder="جستجوی هوشمند (مثلاً: ۱۴ اصفهان یا ورق ۳ میل)" 
-                           class="w-full bg-slate-50 border-2 border-slate-200 rounded-2xl px-14 py-5 focus:ring-4 focus:ring-[var(--primary-green)]/10 focus:border-[var(--primary-green)] outline-none text-lg font-bold transition-all">
-                    <svg class="w-7 h-7 absolute right-5 top-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-width="2.5" stroke-linecap="round"/></svg>
+                           class="w-full bg-slate-50 border-2 border-slate-200 rounded-2xl px-12 md:px-14 py-4 md:py-5 focus:ring-4 focus:ring-[var(--primary-green)]/10 focus:border-[var(--primary-green)] outline-none text-base md:text-lg font-bold transition-all text-right">
+                    <svg class="w-6 h-6 absolute right-4 md:right-5 top-4 md:top-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-width="2.5" stroke-linecap="round"/></svg>
                 </div>
 
-                <div class="flex flex-wrap items-center gap-4 order-2 lg:order-1">
-                    <div class="flex-1 lg:flex-none flex items-center gap-4 bg-white px-5 py-4 rounded-2xl border-2 border-slate-100 shadow-sm">
-                        <span class="text-sm font-black text-slate-700">ارزش افزوده</span>
+                <!-- فیلترها (سمت چپ در دسکتاپ) -->
+                <div class="flex flex-row items-center gap-2 md:gap-4 order-2 lg:order-1">
+                    <!-- سوئیچ ارزش افزوده - متن راست، سوئیچ چپ -->
+                    <div class="flex-1 lg:flex-none flex items-center justify-between gap-3 bg-white px-4 md:px-5 py-3 md:py-4 rounded-2xl border-2 border-slate-100 shadow-sm">
+                        <span class="text-xs md:text-sm font-black text-slate-700">ارزش افزوده</span>
                         <label class="switch">
                             <input type="checkbox" id="taxToggle" onchange="renderUI()">
                             <span class="slider"></span>
                         </label>
                     </div>
-                    <div class="flex bg-slate-100 p-1.5 rounded-2xl w-44 shadow-inner h-[62px] items-center border border-slate-200">
-                        <button onclick="setCurrency('Toman')" id="btnToman" class="flex-1 h-full rounded-xl text-sm font-black transition-all bg-[var(--primary-green)] text-white shadow-md">تومان</button>
-                        <button onclick="setCurrency('Rial')" id="btnRial" class="flex-1 h-full rounded-xl text-sm font-black transition-all text-slate-500">ریال</button>
+                    
+                    <!-- تبدیل واحد - بزرگتر در موبایل -->
+                    <div class="flex-1 lg:flex-none flex bg-slate-100 p-1.5 rounded-2xl shadow-inner h-[56px] md:h-[62px] items-center border border-slate-200 min-w-[140px] md:w-44">
+                        <button onclick="setCurrency('Toman')" id="btnToman" class="flex-1 h-full rounded-xl text-xs md:text-sm font-black transition-all bg-[var(--primary-green)] text-white shadow-md">تومان</button>
+                        <button onclick="setCurrency('Rial')" id="btnRial" class="flex-1 h-full rounded-xl text-xs md:text-sm font-black transition-all text-slate-500">ریال</button>
                     </div>
                 </div>
 
@@ -177,15 +195,14 @@
         </div>
 
         <div id="table-container">
-            <!-- Skeletons -->
+            <!-- Loading State -->
             <div class="space-y-6">
-                <div class="h-64 w-full bg-white rounded-3xl border border-slate-100 animate-pulse"></div>
                 <div class="h-64 w-full bg-white rounded-3xl border border-slate-100 animate-pulse"></div>
             </div>
         </div>
     </main>
 
-    <!-- Floating Action Button -->
+    <!-- دکمه شناور تماس -->
     <div id="callBtnContainer" class="call-btn-container fixed bottom-6 left-6 right-6 lg:left-auto lg:right-10 lg:bottom-10 lg:w-80 z-50">
         <a href="tel:02191000000" class="flex items-center gap-4 bg-[var(--dark-green)] text-white p-4 rounded-3xl shadow-2xl border border-white/10 hover:scale-105 transition-transform">
             <div class="w-12 h-12 bg-[var(--primary-green)] rounded-2xl flex items-center justify-center shadow-lg">
@@ -226,7 +243,7 @@
                 processData();
                 renderUI();
             } catch (e) {
-                container.innerHTML = `<div class="p-20 text-center font-bold text-slate-400">محصول مورد نظر یافت نشد.</div>`;
+                container.innerHTML = `<div class="p-20 text-center font-bold text-slate-400">اطلاعاتی یافت نشد.</div>`;
             }
         }
 
@@ -248,8 +265,8 @@
 
         function setCurrency(c) {
             currency = c;
-            document.getElementById('btnToman').className = c === 'Toman' ? 'flex-1 h-full rounded-xl text-sm font-black transition-all bg-[var(--primary-green)] text-white shadow-md' : 'flex-1 h-full rounded-xl text-sm font-black transition-all text-slate-500';
-            document.getElementById('btnRial').className = c === 'Rial' ? 'flex-1 h-full rounded-xl text-sm font-black transition-all bg-[var(--primary-green)] text-white shadow-md' : 'flex-1 h-full rounded-xl text-sm font-black transition-all text-slate-500';
+            document.getElementById('btnToman').className = c === 'Toman' ? 'flex-1 h-full rounded-xl text-xs md:text-sm font-black transition-all bg-[var(--primary-green)] text-white shadow-md' : 'flex-1 h-full rounded-xl text-xs md:text-sm font-black transition-all text-slate-500';
+            document.getElementById('btnRial').className = c === 'Rial' ? 'flex-1 h-full rounded-xl text-xs md:text-sm font-black transition-all bg-[var(--primary-green)] text-white shadow-md' : 'flex-1 h-full rounded-xl text-xs md:text-sm font-black transition-all text-slate-500';
             renderUI();
         }
 
@@ -288,30 +305,28 @@
                 });
 
                 section.innerHTML = `
-                    <div class="p-6 bg-slate-50 flex items-center justify-between border-b border-slate-200">
-                        <div class="flex items-center gap-4">
-                            <div class="w-1.5 h-8 bg-[var(--primary-green)] rounded-full"></div>
-                            <h2 class="font-black text-lg md:text-xl">${group.name}</h2>
+                    <div class="p-4 md:p-6 bg-slate-50 flex items-center justify-between border-b border-slate-200">
+                        <div class="flex items-center gap-3 md:gap-4">
+                            <div class="w-1.5 h-6 md:h-8 bg-[var(--primary-green)] rounded-full"></div>
+                            <h2 class="font-black text-base md:text-xl">${group.name}</h2>
                         </div>
-                        <div class="flex items-center gap-2 text-[10px] font-black text-blue-600 bg-blue-50 px-3 py-1.5 rounded-full border border-blue-100">
+                        <div class="flex items-center gap-2 text-[9px] md:text-[10px] font-black text-blue-600 bg-blue-50 px-2 md:px-3 py-1.5 rounded-full border border-blue-100">
                             <span class="relative flex h-2 w-2">
                                 <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
                                 <span class="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
                             </span>
-                            آپدیت ساعتی
+                            آپدیت امروز
                         </div>
                     </div>
                     
-                    <!-- Single Top Sync Scrollbar -->
                     <div class="top-scroll-bar custom-scroll-container" id="topScroll-${gIdx}">
                         <div class="top-scroll-content" id="topContent-${gIdx}"></div>
                     </div>
 
-                    <!-- Main Table with Hidden Native Scrollbar -->
                     <div class="main-table-scroll" id="mainScroll-${gIdx}">
                         <table class="w-full text-right border-collapse">
                             <thead>
-                                <tr>${group.headers.map(h => `<th class="p-4 md:p-5 whitespace-nowrap text-sm">${h}</th>`).join('')}</tr>
+                                <tr>${group.headers.map(h => `<th class="p-4 md:p-5 whitespace-nowrap text-xs md:text-sm">${h}</th>`).join('')}</tr>
                             </thead>
                             <tbody>${rows}</tbody>
                         </table>
@@ -325,7 +340,6 @@
                     const content = document.getElementById(`topContent-${gIdx}`);
                     
                     if (top && main && content) {
-                        // Check if overflow actually exists to show/hide the top bar
                         if (main.scrollWidth > main.clientWidth) {
                             content.style.width = main.scrollWidth + 'px';
                             top.style.display = 'block';
@@ -333,7 +347,6 @@
                             top.style.display = 'none';
                         }
                         
-                        // Link scrolling
                         top.onscroll = () => main.scrollLeft = top.scrollLeft;
                         main.onscroll = () => top.scrollLeft = main.scrollLeft;
                     }
