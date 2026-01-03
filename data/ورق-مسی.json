@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-مسی/",
-  "scraped_at": "2026-01-03T23:20:39.375Z",
-  "updated_at": "2026-01-03T23:20:39.375Z",
+  "scraped_at": "2026-01-03T23:31:07.590Z",
+  "updated_at": "2026-01-03T23:31:07.590Z",
   "headers": [
     "ضخامت",
     "سایز",
@@ -280,384 +280,460 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.4",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,260,000",
-      "price_numeric": 2260000
+      "price_str": "2,260,000",
+      "price_num": 2260000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.5",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,260,000",
-      "price_numeric": 2260000
+      "price_str": "2,260,000",
+      "price_num": 2260000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.7",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "0.8",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,260,000",
-      "price_numeric": 2260000
+      "price_str": "2,260,000",
+      "price_num": 2260000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "1",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "1.25",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,260,000",
-      "price_numeric": 2260000
+      "price_str": "2,260,000",
+      "price_num": 2260000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "1.5",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,260,000",
-      "price_numeric": 2260000
+      "price_str": "2,260,000",
+      "price_num": 2260000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "2",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "5",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "3",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "4",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "6",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "8",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,260,000",
-      "price_numeric": 2260000
+      "price_str": "2,260,000",
+      "price_num": 2260000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "10",
       "size": "660*2000",
       "brand": "باهنر",
       "col_3": "شیت",
-      "price": "2,486,000",
-      "price_numeric": 2486000
+      "price_str": "2,486,000",
+      "price_num": 2486000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "جدول مشخصات فنی ورق مسی",
       "size": "",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "رایج‌ترین سایز",
       "size": "2000* 660",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "ضخامت",
       "size": "از 0.1 تا 16 میلی‌متر",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "استاندارد تولید",
       "size": "DIN, ASTM, BS و JIS",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "حالت عرضه",
       "size": "شیت و رول",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "گرید تولید",
       "size": "C110, C112 و C101",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آلیاژهای تشکیل‌دهنده",
       "size": "TPC, DHP, DLP و CuSn",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "رنگ",
       "size": "نارنجی مایل به قرمز",
       "brand": "",
       "col_3": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
