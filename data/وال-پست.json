@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%88%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA/",
-  "scraped_at": "2026-01-03T23:49:21.442Z",
-  "updated_at": "2026-01-03T23:49:21.442Z",
+  "scraped_at": "2026-01-03T23:49:46.047Z",
+  "updated_at": "2026-01-03T23:49:46.047Z",
   "headers": [
     "بال",
     "ضخامت",
@@ -17,10 +17,22 @@
       "110,180"
     ],
     [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
+    ],
+    [
       "7",
       "2",
       "10*40",
       "78,050"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
     ],
     [
       "7",
@@ -29,10 +41,22 @@
       "94,570"
     ],
     [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
+    ],
+    [
       "7",
       "2",
       "20*40",
       "211,180"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
     ],
     [
       "7",
@@ -41,10 +65,22 @@
       "174,450"
     ],
     [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
+    ],
+    [
       "7",
       "2",
       "10*30",
       "110,180"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
     ],
     [
       "7",
@@ -53,100 +89,168 @@
       "78,380"
     ],
     [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
+    ],
+    [
       "7",
       "2",
       "15*20",
       "81,570"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      ""
     ]
   ],
   "data": [
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "20*300",
-      "price_str": "110,180",
-      "price_num": 110180
+      "price": "110,180",
+      "price_numeric": 110180
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "10*40",
-      "price_str": "78,050",
-      "price_num": 78050
+      "price": "78,050",
+      "price_numeric": 78050
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "15*300",
-      "price_str": "94,570",
-      "price_num": 94570
+      "price": "94,570",
+      "price_numeric": 94570
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "20*40",
-      "price_str": "211,180",
-      "price_num": 211180
+      "price": "211,180",
+      "price_numeric": 211180
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "15*40",
-      "price_str": "174,450",
-      "price_num": 174450
+      "price": "174,450",
+      "price_numeric": 174450
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "10*30",
-      "price_str": "110,180",
-      "price_num": 110180
+      "price": "110,180",
+      "price_numeric": 110180
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "10*20",
-      "price_str": "78,380",
-      "price_num": 78380
+      "price": "78,380",
+      "price_numeric": 78380
     },
     {
-      "group_info": {
-        "category_name": "2",
-        "update_label": "1404/10/11"
-      },
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "7",
       "col_1": "2",
       "size": "15*20",
-      "price_str": "81,570",
-      "price_num": 81570
+      "price": "81,570",
+      "price_numeric": 81570
+    },
+    {
+      "group_title": "",
+      "last_update": "1404/10/11",
+      "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "size": "",
+      "price": "",
+      "price_numeric": null
     }
   ]
 }
