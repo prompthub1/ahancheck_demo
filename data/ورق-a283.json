@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-a283/",
-  "scraped_at": "2026-01-03T23:21:09.223Z",
-  "updated_at": "2026-01-03T23:21:09.221Z",
+  "scraped_at": "2026-01-03T23:32:25.773Z",
+  "updated_at": "2026-01-03T23:32:25.772Z",
   "headers": [
     "گرید",
     "ضخامت",
@@ -637,832 +637,970 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "6",
-      "col_2": "1500",
+      "size": "1500",
       "brand": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
-      "price": "62,000",
-      "price_numeric": 62000
+      "price_str": "62,000",
+      "price_num": 62000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "6",
-      "col_2": "6000*1500",
+      "size": "6000*1500",
       "brand": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
-      "price": "62,000",
-      "price_numeric": 62000
+      "price_str": "62,000",
+      "price_num": 62000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "8",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "65,180",
-      "price_numeric": 65180
+      "price_str": "65,180",
+      "price_num": 65180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "8",
-      "col_2": "1500",
+      "size": "1500",
       "brand": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
-      "price": "61,500",
-      "price_numeric": 61500
+      "price_str": "61,500",
+      "price_num": 61500
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "-",
       "col_1": "8",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
-      "price": "66,550",
-      "price_numeric": 66550
+      "price_str": "66,550",
+      "price_num": 66550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "8",
-      "col_2": "6000*1500",
+      "size": "6000*1500",
       "brand": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
-      "price": "62,000",
-      "price_numeric": 62000
+      "price_str": "62,000",
+      "price_num": 62000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "10",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "66,590",
-      "price_numeric": 66590
+      "price_str": "66,590",
+      "price_num": 66590
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "10",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "64,730",
-      "price_numeric": 64730
+      "price_str": "64,730",
+      "price_num": 64730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "10",
-      "col_2": "1500",
+      "size": "1500",
       "brand": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
-      "price": "61,500",
-      "price_numeric": 61500
+      "price_str": "61,500",
+      "price_num": 61500
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "10",
-      "col_2": "6000*1500",
+      "size": "6000*1500",
       "brand": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
-      "price": "62,000",
-      "price_numeric": 62000
+      "price_str": "62,000",
+      "price_num": 62000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "12",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "66,550",
-      "price_numeric": 66550
+      "price_str": "66,550",
+      "price_num": 66550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "12",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "64,730",
-      "price_numeric": 64730
+      "price_str": "64,730",
+      "price_num": 64730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "12",
-      "col_2": "1500",
+      "size": "1500",
       "brand": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
-      "price": "61,500",
-      "price_numeric": 61500
+      "price_str": "61,500",
+      "price_num": 61500
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "12",
-      "col_2": "6000*1500",
+      "size": "6000*1500",
       "brand": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
-      "price": "62,010",
-      "price_numeric": 62010
+      "price_str": "62,010",
+      "price_num": 62010
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "15",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "65,640",
-      "price_numeric": 65640
+      "price_str": "65,640",
+      "price_num": 65640
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "15",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "63,360",
-      "price_numeric": 63360
+      "price_str": "63,360",
+      "price_num": 63360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "15",
-      "col_2": "6000*1500",
+      "size": "6000*1500",
       "brand": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
-      "price": "61,500",
-      "price_numeric": 61500
+      "price_str": "61,500",
+      "price_num": 61500
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "Gr C",
       "col_1": "15",
-      "col_2": "6000*1500",
+      "size": "6000*1500",
       "brand": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
-      "price": "62,000",
-      "price_numeric": 62000
+      "price_str": "62,000",
+      "price_num": 62000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "20",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "59,230",
-      "price_numeric": 59230
+      "price_str": "59,230",
+      "price_num": 59230
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "20",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "57,360",
-      "price_numeric": 57360
+      "price_str": "57,360",
+      "price_num": 57360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "25",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "55,550",
-      "price_numeric": 55550
+      "price_str": "55,550",
+      "price_num": 55550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "30",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "59,230",
-      "price_numeric": 59230
+      "price_str": "59,230",
+      "price_num": 59230
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "30",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "57,360",
-      "price_numeric": 57360
+      "price_str": "57,360",
+      "price_num": 57360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "35",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "55,550",
-      "price_numeric": 55550
+      "price_str": "55,550",
+      "price_num": 55550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "35",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "54,180",
-      "price_numeric": 54180
+      "price_str": "54,180",
+      "price_num": 54180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "40",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "61,090",
-      "price_numeric": 61090
+      "price_str": "61,090",
+      "price_num": 61090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "40",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "59,230",
-      "price_numeric": 59230
+      "price_str": "59,230",
+      "price_num": 59230
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "45",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price": "56,450",
-      "price_numeric": 56450
+      "price_str": "56,450",
+      "price_num": 56450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "45",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "54,640",
-      "price_numeric": 54640
+      "price_str": "54,640",
+      "price_num": 54640
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "A283",
       "col_1": "50",
-      "col_2": "2000*6000",
+      "size": "2000*6000",
       "brand": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price": "56,450",
-      "price_numeric": 56450
+      "price_str": "56,450",
+      "price_num": 56450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "مشخصات فنی ورق A283",
       "col_1": "",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "ضخامت",
       "col_1": "از 4 تا 120 میلی‌متر",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "عرض",
       "col_1": "1100 تا 2400 میلی‌متر",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "طول",
       "col_1": "2500 تا 24000 میلی‌متر",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "چگالی",
       "col_1": "7.9 گرم بر سانتی‌متر مکعب",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "نقطه ذوب",
       "col_1": "2750 درجه فارنهایت",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "گریدهای رایج",
       "col_1": "A، B، C و D",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "استحکام کششی",
       "col_1": "از 310 تا 415 مگاپاسکال",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "استحکام تسلیم",
       "col_1": "165 مگاپاسکال",
-      "col_2": "",
+      "size": "",
       "brand": "",
       "col_4": "",
       "col_5": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
