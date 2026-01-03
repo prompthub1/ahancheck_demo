@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%88%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA/",
-  "scraped_at": "2026-01-03T23:19:45.485Z",
-  "updated_at": "2026-01-03T23:19:45.485Z",
+  "scraped_at": "2026-01-03T23:29:16.218Z",
+  "updated_at": "2026-01-03T23:29:16.218Z",
   "headers": [
     "بال",
     "ضخامت",
@@ -109,148 +109,180 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "20*300",
-      "price": "110,180",
-      "price_numeric": 110180
+      "price_str": "110,180",
+      "price_num": 110180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "10*40",
-      "price": "78,050",
-      "price_numeric": 78050
+      "price_str": "78,050",
+      "price_num": 78050
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "15*300",
-      "price": "94,570",
-      "price_numeric": 94570
+      "price_str": "94,570",
+      "price_num": 94570
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "20*40",
-      "price": "211,180",
-      "price_numeric": 211180
+      "price_str": "211,180",
+      "price_num": 211180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "15*40",
-      "price": "174,450",
-      "price_numeric": 174450
+      "price_str": "174,450",
+      "price_num": 174450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "10*30",
-      "price": "110,180",
-      "price_numeric": 110180
+      "price_str": "110,180",
+      "price_num": 110180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "10*20",
-      "price": "78,380",
-      "price_numeric": 78380
+      "price_str": "78,380",
+      "price_num": 78380
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "7",
       "col_1": "2",
       "size": "15*20",
-      "price": "81,570",
-      "price_numeric": 81570
+      "price_str": "81,570",
+      "price_num": 81570
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "size": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
