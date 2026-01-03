@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/اسلب/",
-  "scraped_at": "2026-01-03T18:51:02.115Z",
-  "updated_at": "2026-01-03T18:51:02.115Z",
+  "scraped_at": "2026-01-03T19:08:01.417Z",
+  "updated_at": "2026-01-03T19:08:01.417Z",
   "headers": [
     "ضخامت",
     "محل تحویل",
@@ -22,12 +22,16 @@
   ],
   "data": [
     {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "200",
       "_": "بنگاه تهران",
       "price": "44,360",
       "price_numeric": 44360
     },
     {
+      "group_title": "",
+      "last_update": "1404/10/11",
       "col_0": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "_": "",
       "price": "",
