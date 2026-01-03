@@ -1,8 +1,8 @@
 {
   "source": "ahanonline.com",
   "url": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
-  "scraped_at": "2026-01-03T23:20:53.782Z",
-  "updated_at": "2026-01-03T23:20:53.782Z",
+  "scraped_at": "2026-01-03T23:31:43.406Z",
+  "updated_at": "2026-01-03T23:31:43.405Z",
   "headers": [
     "ضخامت (میل)",
     "برند",
@@ -205,292 +205,356 @@
   ],
   "data": [
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.8",
       "brand": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,270",
-      "price_numeric": 88270
+      "price_str": "88,270",
+      "price_num": 88270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.9",
       "brand": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_str": "88,090",
+      "price_num": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1",
       "brand": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_str": "88,090",
+      "price_num": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1.25",
       "brand": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_str": "88,090",
+      "price_num": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.8",
       "brand": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,180",
-      "price_numeric": 88180
+      "price_str": "88,180",
+      "price_num": 88180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.9",
       "brand": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,270",
-      "price_numeric": 88270
+      "price_str": "88,270",
+      "price_num": 88270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1",
       "brand": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,270",
-      "price_numeric": 88270
+      "price_str": "88,270",
+      "price_num": 88270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1.25",
       "brand": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,730",
-      "price_numeric": 88730
+      "price_str": "88,730",
+      "price_num": 88730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.8",
       "brand": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "88,360",
-      "price_numeric": 88360
+      "price_str": "88,360",
+      "price_num": 88360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.9",
       "brand": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "87,910",
-      "price_numeric": 87910
+      "price_str": "87,910",
+      "price_num": 87910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1",
       "brand": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "88,550",
-      "price_numeric": 88550
+      "price_str": "88,550",
+      "price_num": 88550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1.25",
       "brand": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_str": "88,090",
+      "price_num": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.8",
       "brand": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "87,550",
-      "price_numeric": 87550
+      "price_str": "87,550",
+      "price_num": 87550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "0.9",
       "brand": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "87,550",
-      "price_numeric": 87550
+      "price_str": "87,550",
+      "price_num": 87550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1",
       "brand": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "88,180",
-      "price_numeric": 88180
+      "price_str": "88,180",
+      "price_num": 88180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "1.25",
       "brand": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "88,640",
-      "price_numeric": 88640
+      "price_str": "88,640",
+      "price_num": 88640
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/11",
+      "group_info": {
+        "category_name": "نامشخص",
+        "update_label": "1404/10/11"
+      },
       "_": "آخرین بروز رسانی : 1404/10/11 نمودار نوسانات : +0.0%",
       "brand": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_str": "",
+      "price_num": null
     }
   ]
 }
