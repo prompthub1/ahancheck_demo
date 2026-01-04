@@ -1,8 +1,9 @@
 {
   "source": "ahanonline.com",
-  "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-ضد-سایش/",
-  "scraped_attt": "2026-01-04T03:44:35.976Z",
-  "headersss": [
+  "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-ضد-سایش/",
+  "scraped_at": "2026-01-04T03:51:51.731Z",
+  "updated_at": "2026-01-04T03:51:51.730Z",
+  "headers": [
     "استاندارد",
     "ضخامت",
     "سایز",
@@ -11,146 +12,218 @@
     "محل تحویل",
     "قیمت (تومان)"
   ],
-  "dataaa": [
+  "rows": [
+    [
+      "ضد ساییش",
+      "8",
+      "2000*6000",
+      "چینی",
+      "شیت",
+      "بنگاه تهران",
+      "141,360"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ضد ساییش",
+      "10",
+      "2000*6000",
+      "چینی",
+      "شیت",
+      "بنگاه تهران",
+      "141,360"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ضد ساییش",
+      "12",
+      "2000*6000",
+      "چینی",
+      "شیت",
+      "بنگاه تهران",
+      "141,360"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ضد ساییش",
+      "15",
+      "2000*6000",
+      "چینی",
+      "شیت",
+      "بنگاه تهران",
+      "140,910"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "ضد ساییش",
+      "25",
+      "2000*6000",
+      "چینی",
+      "شیت",
+      "بنگاه تهران",
+      "141,360"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/9/24 نمودار نوسانات : +2.6%",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "data": [
     {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "ضد ساییش",
       "col_1": "8",
-      "sizeee": "2000*6000",
-      "col_3": "چینی",
+      "size": "2000*6000",
+      "brand": "چینی",
       "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "141,360",
-      "price_nummm": 141360
+      "_": "بنگاه تهران",
+      "price": "141,360",
+      "price_numeric": 141360
     },
     {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "sizeee": "",
-      "col_3": "",
+      "size": "",
+      "brand": "",
       "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "ضد ساییش",
       "col_1": "10",
-      "sizeee": "2000*6000",
-      "col_3": "چینی",
+      "size": "2000*6000",
+      "brand": "چینی",
       "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "141,360",
-      "price_nummm": 141360
+      "_": "بنگاه تهران",
+      "price": "141,360",
+      "price_numeric": 141360
     },
     {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "sizeee": "",
-      "col_3": "",
+      "size": "",
+      "brand": "",
       "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "ضد ساییش",
       "col_1": "12",
-      "sizeee": "2000*6000",
-      "col_3": "چینی",
+      "size": "2000*6000",
+      "brand": "چینی",
       "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "141,360",
-      "price_nummm": 141360
+      "_": "بنگاه تهران",
+      "price": "141,360",
+      "price_numeric": 141360
     },
     {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "sizeee": "",
-      "col_3": "",
+      "size": "",
+      "brand": "",
       "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "ضد ساییش",
       "col_1": "15",
-      "sizeee": "2000*6000",
-      "col_3": "چینی",
+      "size": "2000*6000",
+      "brand": "چینی",
       "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "140,910",
-      "price_nummm": 140910
+      "_": "بنگاه تهران",
+      "price": "140,910",
+      "price_numeric": 140910
     },
     {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "sizeee": "",
-      "col_3": "",
+      "size": "",
+      "brand": "",
       "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "ضد ساییش",
       "col_1": "25",
-      "sizeee": "2000*6000",
-      "col_3": "چینی",
+      "size": "2000*6000",
+      "brand": "چینی",
       "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "141,360",
-      "price_nummm": 141360
+      "_": "بنگاه تهران",
+      "price": "141,360",
+      "price_numeric": 141360
     },
     {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/9/24 نمودار نوسانات : +2.6%",
       "col_1": "",
-      "sizeee": "",
-      "col_3": "",
+      "size": "",
+      "brand": "",
       "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     }
   ]
 }
