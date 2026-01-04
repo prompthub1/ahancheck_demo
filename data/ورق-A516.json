@@ -1,9 +1,8 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-A516/",
-  "scraped_at": "2026-01-04T03:21:23.786Z",
-  "updated_at": "2026-01-04T03:21:23.786Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A516/",
+  "scraped_attt": "2026-01-04T03:44:23.460Z",
+  "headersss": [
     "استاندارد",
     "ضخامت",
     "سایز",
@@ -12,260 +11,174 @@
     "محل تحویل",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "Gr 70",
-      "5",
-      "6000*1500",
-      "فولاد مبارکه",
-      "برش خورده",
-      "بنگاه تهران",
-      "69,770"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Gr 70",
-      "6",
-      "6000*1500",
-      "فولاد مبارکه",
-      "برش خورده",
-      "بنگاه تهران",
-      "69,770"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Gr 70",
-      "8",
-      "6000*1500",
-      "فولاد مبارکه",
-      "برش خورده",
-      "بنگاه تهران",
-      "69,770"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Gr 70",
-      "10",
-      "6000*1500",
-      "فولاد مبارکه",
-      "برش خورده",
-      "بنگاه تهران",
-      "69,770"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Gr 70",
-      "15",
-      "1500",
-      "فولاد مبارکه",
-      "رول",
-      "بنگاه تهران",
-      "67,050"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Gr 70",
-      "15",
-      "6000*1500",
-      "فولاد مبارکه",
-      "برش خورده",
-      "بنگاه تهران",
-      "69,770"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr 70",
       "col_1": "5",
-      "size": "6000*1500",
-      "brand": "فولاد مبارکه",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
       "col_4": "برش خورده",
-      "_": "بنگاه تهران",
-      "price": "69,770",
-      "price_numeric": 69770
+      "col_5": "بنگاه تهران",
+      "price_strrr": "69,770",
+      "price_nummm": 69770
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_3": "",
       "col_4": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr 70",
       "col_1": "6",
-      "size": "6000*1500",
-      "brand": "فولاد مبارکه",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
       "col_4": "برش خورده",
-      "_": "بنگاه تهران",
-      "price": "69,770",
-      "price_numeric": 69770
+      "col_5": "بنگاه تهران",
+      "price_strrr": "69,770",
+      "price_nummm": 69770
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_3": "",
       "col_4": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr 70",
       "col_1": "8",
-      "size": "6000*1500",
-      "brand": "فولاد مبارکه",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
       "col_4": "برش خورده",
-      "_": "بنگاه تهران",
-      "price": "69,770",
-      "price_numeric": 69770
+      "col_5": "بنگاه تهران",
+      "price_strrr": "69,770",
+      "price_nummm": 69770
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_3": "",
       "col_4": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr 70",
       "col_1": "10",
-      "size": "6000*1500",
-      "brand": "فولاد مبارکه",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
       "col_4": "برش خورده",
-      "_": "بنگاه تهران",
-      "price": "69,770",
-      "price_numeric": 69770
+      "col_5": "بنگاه تهران",
+      "price_strrr": "69,770",
+      "price_nummm": 69770
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_3": "",
       "col_4": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr 70",
       "col_1": "15",
-      "size": "1500",
-      "brand": "فولاد مبارکه",
+      "sizeee": "1500",
+      "col_3": "فولاد مبارکه",
       "col_4": "رول",
-      "_": "بنگاه تهران",
-      "price": "67,050",
-      "price_numeric": 67050
+      "col_5": "بنگاه تهران",
+      "price_strrr": "67,050",
+      "price_nummm": 67050
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_3": "",
       "col_4": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr 70",
       "col_1": "15",
-      "size": "6000*1500",
-      "brand": "فولاد مبارکه",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
       "col_4": "برش خورده",
-      "_": "بنگاه تهران",
-      "price": "69,770",
-      "price_numeric": 69770
+      "col_5": "بنگاه تهران",
+      "price_strrr": "69,770",
+      "price_nummm": 69770
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_3": "",
       "col_4": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
