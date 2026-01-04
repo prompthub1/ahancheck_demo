@@ -1,67 +1,52 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/انواع-ورق/شمش-قلع-انواع-ورق/",
-  "scraped_at": "2026-01-04T03:21:21.384Z",
-  "updated_at": "2026-01-04T03:21:21.384Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/انواع-ورق/شمش-قلع-انواع-ورق/",
+  "scraped_attt": "2026-01-04T03:44:20.655Z",
+  "headersss": [
     "برند",
     "انبار",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "اندونزی",
-      "بنگاه تهران",
-      "7,332,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      ""
-    ],
-    [
-      "مالزی",
-      "بنگاه تهران",
-      "7,332,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "اندونزی",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "اندونزی",
       "col_1": "بنگاه تهران",
-      "price": "7,332,000",
-      "price_numeric": 7332000
+      "price_strrr": "7,332,000",
+      "price_nummm": 7332000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "مالزی",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "مالزی",
       "col_1": "بنگاه تهران",
-      "price": "7,332,000",
-      "price_numeric": 7332000
+      "price_strrr": "7,332,000",
+      "price_nummm": 7332000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
