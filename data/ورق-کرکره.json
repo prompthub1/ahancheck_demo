@@ -1,323 +1,230 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
-  "scraped_at": "2026-01-04T03:52:05.962Z",
-  "updated_at": "2026-01-04T03:52:05.962Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
+  "scraped_attt": "2026-01-04T04:18:51.423Z",
+  "headersss": [
     "ضخامت",
     "عرض",
     "محل تحویل",
     "واحد",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "0.5",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "99,450"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.5",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "99,450"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.5",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "100,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.48",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "113,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.48",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "113,640"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.48",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "112,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.5",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "98,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.5",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "97,910"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.5",
-      "1250",
-      "بنگاه تهران",
-      "کیلوگرم",
-      "97,820"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.5",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "99,450",
-      "price_numeric": 99450
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "99,450",
+      "price_nummm": 99450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.5",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "99,450",
-      "price_numeric": 99450
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "99,450",
+      "price_nummm": 99450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.5",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "100,360",
-      "price_numeric": 100360
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "100,360",
+      "price_nummm": 100360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.48",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "113,180",
-      "price_numeric": 113180
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "113,180",
+      "price_nummm": 113180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.48",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "113,640",
-      "price_numeric": 113640
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "113,640",
+      "price_nummm": 113640
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.48",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "112,730",
-      "price_numeric": 112730
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "112,730",
+      "price_nummm": 112730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.5",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "98,730",
-      "price_numeric": 98730
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "98,730",
+      "price_nummm": 98730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "روی اندود",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.5",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "97,910",
-      "price_numeric": 97910
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "97,910",
+      "price_nummm": 97910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "روی اندود",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "دشتستان",
+        "update_labelll": "امروز"
+      },
       "col_0": "0.5",
       "col_1": "1250",
-      "_": "بنگاه تهران",
-      "unit": "کیلوگرم",
-      "price": "97,820",
-      "price_numeric": 97820
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "97,820",
+      "price_nummm": 97820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "دشتستان",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
