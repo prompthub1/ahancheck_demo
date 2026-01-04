@@ -1,212 +1,173 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C/",
-  "scraped_at": "2026-01-04T03:18:59.029Z",
-  "updated_at": "2026-01-04T03:18:59.028Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C/",
+  "scraped_attt": "2026-01-04T03:42:17.100Z",
+  "headersss": [
     "نام کالا",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "میلگرد ساده 6.5 امیرآباد کلاف کارخانه",
-      "44,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 5.5 ابهر کلاف کارخانه",
-      "47,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 6.5 ابهر کلاف کارخانه",
-      "47,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 5.5 کاشان کلاف کارخانه",
-      "47,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 6.5 کاشان کلاف کارخانه",
-      "47,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 6.5 امیرآباد کلاف بنگاه تهران",
-      "46,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 6.5 ملایر کلاف تهران",
-      "46,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 6.5 نطنز کلاف کارخانه",
-      "44,450"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ],
-    [
-      "میلگرد ساده 6.5 نطنز کلاف تهران",
-      "46,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 امیرآباد کلاف کارخانه",
-      "price": "44,000",
-      "price_numeric": 44000
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 امیرآباد کلاف کارخانه",
+      "price_strrr": "44,000",
+      "price_nummm": 44000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 5.5 ابهر کلاف کارخانه",
-      "price": "47,000",
-      "price_numeric": 47000
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 5.5 ابهر کلاف کارخانه",
+      "price_strrr": "47,000",
+      "price_nummm": 47000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 ابهر کلاف کارخانه",
-      "price": "47,000",
-      "price_numeric": 47000
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 ابهر کلاف کارخانه",
+      "price_strrr": "47,000",
+      "price_nummm": 47000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 5.5 کاشان کلاف کارخانه",
-      "price": "47,730",
-      "price_numeric": 47730
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 5.5 کاشان کلاف کارخانه",
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 کاشان کلاف کارخانه",
-      "price": "47,730",
-      "price_numeric": 47730
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 کاشان کلاف کارخانه",
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 امیرآباد کلاف بنگاه تهران",
-      "price": "46,180",
-      "price_numeric": 46180
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 امیرآباد کلاف بنگاه تهران",
+      "price_strrr": "46,180",
+      "price_nummm": 46180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 ملایر کلاف تهران",
-      "price": "46,180",
-      "price_numeric": 46180
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 ملایر کلاف تهران",
+      "price_strrr": "46,180",
+      "price_nummm": 46180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 نطنز کلاف کارخانه",
-      "price": "44,450",
-      "price_numeric": 44450
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 نطنز کلاف کارخانه",
+      "price_strrr": "44,450",
+      "price_nummm": 44450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "میلگرد ساده 6.5 نطنز کلاف تهران",
-      "price": "46,180",
-      "price_numeric": 46180
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "میلگرد ساده 6.5 نطنز کلاف تهران",
+      "price_strrr": "46,180",
+      "price_nummm": 46180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "title": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "امروز"
+      },
+      "titleee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
