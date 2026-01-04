@@ -1,206 +1,289 @@
 {
   "source": "ahanonline.com",
-  "urlll": "https://ahanonline.com/product-category/انواع-ورق/قلع-اندود/",
-  "scraped_attt": "2026-01-04T03:44:46.847Z",
-  "headersss": [
+  "url": "https://ahanonline.com/product-category/انواع-ورق/قلع-اندود/",
+  "scraped_at": "2026-01-04T03:52:08.857Z",
+  "updated_at": "2026-01-04T03:52:08.856Z",
+  "headers": [
     "سایز",
     "ضخامت",
     "حالت",
     "محل انبار",
     "قیمت (تومان)"
   ],
-  "dataaa": [
+  "rows": [
+    [
+      "924*801",
+      "0.17",
+      "شیت",
+      "بنگاه تهران",
+      "112,050"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "862*766",
+      "0.18",
+      "شیت",
+      "بنگاه تهران",
+      "113,580"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "942*886",
+      "0.18",
+      "شیت",
+      "بنگاه تهران",
+      "113,010"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "942*920",
+      "0.18",
+      "شیت",
+      "بنگاه تهران",
+      "110,950"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "942*886",
+      "0.19",
+      "شیت",
+      "بنگاه تهران",
+      "110,910"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "626*800",
+      "0.22",
+      "شیت",
+      "بنگاه تهران",
+      "110,550"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "614*902",
+      "0.23",
+      "شیت",
+      "بنگاه تهران",
+      "109,730"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "765*765",
+      "0.25",
+      "شیت",
+      "بنگاه تهران",
+      "109,910"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "data": [
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "924*801",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "924*801",
       "col_1": "0.17",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "112,050",
-      "price_nummm": 112050
+      "_": "بنگاه تهران",
+      "price": "112,050",
+      "price_numeric": 112050
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "862*766",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "862*766",
       "col_1": "0.18",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "113,580",
-      "price_nummm": 113580
+      "_": "بنگاه تهران",
+      "price": "113,580",
+      "price_numeric": 113580
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "942*886",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "942*886",
       "col_1": "0.18",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "113,010",
-      "price_nummm": 113010
+      "_": "بنگاه تهران",
+      "price": "113,010",
+      "price_numeric": 113010
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "942*920",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "942*920",
       "col_1": "0.18",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "110,950",
-      "price_nummm": 110950
+      "_": "بنگاه تهران",
+      "price": "110,950",
+      "price_numeric": 110950
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "942*886",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "942*886",
       "col_1": "0.19",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "110,910",
-      "price_nummm": 110910
+      "_": "بنگاه تهران",
+      "price": "110,910",
+      "price_numeric": 110910
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "626*800",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "626*800",
       "col_1": "0.22",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "110,550",
-      "price_nummm": 110550
+      "_": "بنگاه تهران",
+      "price": "110,550",
+      "price_numeric": 110550
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "614*902",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "614*902",
       "col_1": "0.23",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "109,730",
-      "price_nummm": 109730
+      "_": "بنگاه تهران",
+      "price": "109,730",
+      "price_numeric": 109730
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "765*765",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "765*765",
       "col_1": "0.25",
       "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "109,910",
-      "price_nummm": 109910
+      "_": "بنگاه تهران",
+      "price": "109,910",
+      "price_numeric": 109910
     },
     {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "_": "",
+      "price": "",
+      "price_numeric": null
     }
   ]
 }
