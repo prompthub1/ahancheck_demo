@@ -1,9 +1,8 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
-  "scraped_at": "2026-01-04T03:18:56.416Z",
-  "updated_at": "2026-01-04T03:18:56.416Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
+  "scraped_attt": "2026-01-04T03:42:14.889Z",
+  "headersss": [
     "سایز",
     "حالت",
     "ضخامت",
@@ -11,122 +10,84 @@
     "واحد",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "4",
-      "شاخه 3 متری",
-      "15",
-      "بنگاه تهران",
-      "شاخه",
-      "45,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "4",
-      "شاخه 3 متری",
-      "11",
-      "بنگاه تهران",
-      "شاخه",
-      "42,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "4",
-      "شاخه 3 متری",
-      "5.5",
-      "بنگاه تهران",
-      "شاخه",
-      "41,820"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "4",
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "15",
-      "_": "بنگاه تهران",
-      "unit": "شاخه",
-      "price": "45,000",
-      "price_numeric": 45000
+      "col_3": "بنگاه تهران",
+      "unittt": "شاخه",
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "4",
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "11",
-      "_": "بنگاه تهران",
-      "unit": "شاخه",
-      "price": "42,730",
-      "price_numeric": 42730
+      "col_3": "بنگاه تهران",
+      "unittt": "شاخه",
+      "price_strrr": "42,730",
+      "price_nummm": 42730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "4",
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "5.5",
-      "_": "بنگاه تهران",
-      "unit": "شاخه",
-      "price": "41,820",
-      "price_numeric": 41820
+      "col_3": "بنگاه تهران",
+      "unittt": "شاخه",
+      "price_strrr": "41,820",
+      "price_nummm": 41820
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "_": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
