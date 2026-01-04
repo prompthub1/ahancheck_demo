@@ -1,496 +1,365 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
-  "scraped_at": "2026-01-04T03:51:21.941Z",
-  "updated_at": "2026-01-04T03:51:21.937Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
+  "scraped_attt": "2026-01-04T04:18:25.973Z",
+  "headersss": [
     "ضخامت (میل)",
     "برند",
     "انبار",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "0.8",
-      "هفت الماس",
-      "بنگاه تهران",
-      "88,270"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.9",
-      "هفت الماس",
-      "بنگاه تهران",
-      "88,090"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1",
-      "هفت الماس",
-      "بنگاه تهران",
-      "88,090"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1.25",
-      "هفت الماس",
-      "بنگاه تهران",
-      "88,090"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.8",
-      "شهرکرد",
-      "بنگاه تهران",
-      "88,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.9",
-      "شهرکرد",
-      "بنگاه تهران",
-      "88,270"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1",
-      "شهرکرد",
-      "بنگاه تهران",
-      "88,270"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1.25",
-      "شهرکرد",
-      "بنگاه تهران",
-      "88,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.8",
-      "کاشان",
-      "بنگاه تهران",
-      "88,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.9",
-      "کاشان",
-      "بنگاه تهران",
-      "87,910"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1",
-      "کاشان",
-      "بنگاه تهران",
-      "88,550"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1.25",
-      "کاشان",
-      "بنگاه تهران",
-      "88,090"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.8",
-      "تاراز",
-      "بنگاه تهران",
-      "87,550"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "0.9",
-      "تاراز",
-      "بنگاه تهران",
-      "87,550"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1",
-      "تاراز",
-      "بنگاه تهران",
-      "88,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "1.25",
-      "تاراز",
-      "بنگاه تهران",
-      "88,640"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.8",
-      "brand": "هفت الماس",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,270",
-      "price_numeric": 88270
+      "price_strrr": "88,270",
+      "price_nummm": 88270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.9",
-      "brand": "هفت الماس",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_strrr": "88,090",
+      "price_nummm": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1",
-      "brand": "هفت الماس",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_strrr": "88,090",
+      "price_nummm": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1.25",
-      "brand": "هفت الماس",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_strrr": "88,090",
+      "price_nummm": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.8",
-      "brand": "شهرکرد",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,180",
-      "price_numeric": 88180
+      "price_strrr": "88,180",
+      "price_nummm": 88180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.9",
-      "brand": "شهرکرد",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,270",
-      "price_numeric": 88270
+      "price_strrr": "88,270",
+      "price_nummm": 88270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1",
-      "brand": "شهرکرد",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,270",
-      "price_numeric": 88270
+      "price_strrr": "88,270",
+      "price_nummm": 88270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1.25",
-      "brand": "شهرکرد",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "price": "88,730",
-      "price_numeric": 88730
+      "price_strrr": "88,730",
+      "price_nummm": 88730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.8",
-      "brand": "کاشان",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "88,360",
-      "price_numeric": 88360
+      "price_strrr": "88,360",
+      "price_nummm": 88360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.9",
-      "brand": "کاشان",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "87,910",
-      "price_numeric": 87910
+      "price_strrr": "87,910",
+      "price_nummm": 87910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1",
-      "brand": "کاشان",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "88,550",
-      "price_numeric": 88550
+      "price_strrr": "88,550",
+      "price_nummm": 88550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1.25",
-      "brand": "کاشان",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "price": "88,090",
-      "price_numeric": 88090
+      "price_strrr": "88,090",
+      "price_nummm": 88090
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.8",
-      "brand": "تاراز",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "87,550",
-      "price_numeric": 87550
+      "price_strrr": "87,550",
+      "price_nummm": 87550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "0.9",
-      "brand": "تاراز",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "87,550",
-      "price_numeric": 87550
+      "price_strrr": "87,550",
+      "price_nummm": 87550
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1",
-      "brand": "تاراز",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "88,180",
-      "price_numeric": 88180
+      "price_strrr": "88,180",
+      "price_nummm": 88180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "1.25",
-      "brand": "تاراز",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "price": "88,640",
-      "price_numeric": 88640
+      "price_strrr": "88,640",
+      "price_nummm": 88640
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "brand": "",
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
       "col_2": "",
-      "price": "",
-      "price_numeric": null
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
