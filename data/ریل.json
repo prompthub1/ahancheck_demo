@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/",
-  "scraped_attt": "2026-01-04T07:26:44.776Z",
+  "scraped_attt": "2026-01-04T07:56:56.649Z",
   "headersss": [
     "نوع ریل",
     "برند",
@@ -9,6 +9,28 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "R 18",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "203,870",
+      "price_nummm": 203870
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -6.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
@@ -107,28 +129,6 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "300,040",
       "price_nummm": 300040
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "R 18",
-      "col_1": "وارداتی",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "217,500",
-      "price_nummm": 217500
     },
     {
       "group_infooo": {
