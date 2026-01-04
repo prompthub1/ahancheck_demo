@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
-  "scraped_attt": "2026-01-04T08:26:12.681Z",
+  "scraped_attt": "2026-01-04T08:56:11.925Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -14,7 +14,7 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
@@ -27,9 +27,9 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -40,33 +40,7 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "4",
-      "col_1": "شاخه 3 متری",
-      "col_2": "11",
-      "col_3": "بنگاه تهران",
-      "unittt": "شاخه",
-      "price_strrr": "42,730",
-      "price_nummm": 42730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
@@ -79,9 +53,35 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "4",
+      "col_1": "شاخه 3 متری",
+      "col_2": "11",
+      "col_3": "بنگاه تهران",
+      "unittt": "شاخه",
+      "price_strrr": "42,730",
+      "price_nummm": 42730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
