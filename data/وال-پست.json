@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%88%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA/",
-  "scraped_attt": "2026-01-04T08:26:59.935Z",
+  "scraped_attt": "2026-01-04T08:56:53.069Z",
   "headersss": [
     "بال",
     "ضخامت",
@@ -9,6 +9,72 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "7",
+      "col_1": "2",
+      "sizeee": "10*30",
+      "price_strrr": "110,180",
+      "price_nummm": 110180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "7",
+      "col_1": "2",
+      "sizeee": "10*20",
+      "price_strrr": "78,380",
+      "price_nummm": 78380
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "7",
+      "col_1": "2",
+      "sizeee": "15*20",
+      "price_strrr": "81,570",
+      "price_nummm": 81570
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "2",
@@ -60,28 +126,6 @@
       },
       "col_0": "7",
       "col_1": "2",
-      "sizeee": "15*300",
-      "price_strrr": "94,570",
-      "price_nummm": 94570
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "7",
-      "col_1": "2",
       "sizeee": "20*40",
       "price_strrr": "211,180",
       "price_nummm": 211180
@@ -104,75 +148,9 @@
       },
       "col_0": "7",
       "col_1": "2",
-      "sizeee": "15*40",
-      "price_strrr": "174,450",
-      "price_nummm": 174450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "7",
-      "col_1": "2",
-      "sizeee": "10*30",
-      "price_strrr": "110,180",
-      "price_nummm": 110180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "7",
-      "col_1": "2",
-      "sizeee": "10*20",
-      "price_strrr": "78,380",
-      "price_nummm": 78380
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "col_0": "7",
-      "col_1": "2",
-      "sizeee": "15*20",
-      "price_strrr": "81,570",
-      "price_nummm": 81570
+      "sizeee": "15*300",
+      "price_strrr": "94,570",
+      "price_nummm": 94570
     },
     {
       "group_infooo": {
