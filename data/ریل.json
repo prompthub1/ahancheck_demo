@@ -1,464 +1,335 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/",
-  "scraped_at": "2026-01-04T03:49:55.687Z",
-  "updated_at": "2026-01-04T03:49:55.685Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/",
+  "scraped_attt": "2026-01-04T04:17:40.296Z",
+  "headersss": [
     "نوع ریل",
     "برند",
     "محل تحویل",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "T5/T9 (جفت)",
-      "وارداتی",
-      "بنگاه تهران",
-      "5,202,000"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "T 16/89",
-      "وارداتی",
-      "بنگاه تهران",
-      "8,765,270"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "A120",
-      "وارداتی",
-      "بنگاه تهران",
-      "217,200"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "R 24",
-      "وارداتی",
-      "بنگاه تهران",
-      "217,120"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "A55",
-      "وارداتی",
-      "بنگاه تهران",
-      "300,040"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "R 18",
-      "وارداتی",
-      "بنگاه تهران",
-      "217,500"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "A 75",
-      "وارداتی",
-      "بنگاه تهران",
-      "225,740"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "A 100",
-      "وارداتی",
-      "بنگاه تهران",
-      "225,740"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "A 65",
-      "وارداتی",
-      "بنگاه تهران",
-      "225,740"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "A 45",
-      "وارداتی",
-      "بنگاه تهران",
-      "299,040"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "S 49",
-      "ذوب آهن",
-      "بنگاه تهران",
-      "190,580"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "U 33",
-      "ذوب آهن",
-      "بنگاه تهران",
-      "210,780"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "UIC 60",
-      "ذوب آهن",
-      "بنگاه تهران",
-      "177,590"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "جدول مشخصات فنی ریل قطار",
-      "",
-      "",
-      ""
-    ],
-    [
-      "نوع استاندارد",
-      "JIS، R، S، UIC و دیگر استانداردها",
-      "",
-      ""
-    ],
-    [
-      "فرآیند تولید",
-      "نورد گرم و ریخته‌گری",
-      "",
-      ""
-    ],
-    [
-      "وزن ریل‌ها",
-      "24، 38، 43، 60، 75 کیلوگرم و بیشتر",
-      "",
-      ""
-    ],
-    [
-      "نوع ریل‌ها",
-      "ریل‌های سبک (&lt;43 کیلوگرم) و ریل‌های سنگین (&gt;43 کیلوگرم)",
-      "",
-      ""
-    ],
-    [
-      "ماده اولیه",
-      "فولاد با کیفیت بالا",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "5,202,000",
-      "price_numeric": 5202000
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "T5/T9 (جفت)",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "5,202,000",
+      "price_nummm": 5202000
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "8,765,270",
-      "price_numeric": 8765270
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "T 16/89",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "8,765,270",
+      "price_nummm": 8765270
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "217,200",
-      "price_numeric": 217200
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A120",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "217,200",
+      "price_nummm": 217200
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "217,120",
-      "price_numeric": 217120
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "R 24",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "217,120",
+      "price_nummm": 217120
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "300,040",
-      "price_numeric": 300040
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A55",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "300,040",
+      "price_nummm": 300040
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "217,500",
-      "price_numeric": 217500
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "R 18",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "217,500",
+      "price_nummm": 217500
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "225,740",
-      "price_numeric": 225740
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A 75",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "225,740",
+      "price_nummm": 225740
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "225,740",
-      "price_numeric": 225740
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A 100",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "225,740",
+      "price_nummm": 225740
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "225,740",
-      "price_numeric": 225740
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A 65",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "225,740",
+      "price_nummm": 225740
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "وارداتی",
-      "price": "299,040",
-      "price_numeric": 299040
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A 45",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "299,040",
+      "price_nummm": 299040
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "ذوب آهن",
-      "price": "190,580",
-      "price_numeric": 190580
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "S 49",
+      "col_1": "ذوب آهن",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "190,580",
+      "price_nummm": 190580
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "ذوب آهن",
-      "price": "210,780",
-      "price_numeric": 210780
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "U 33",
+      "col_1": "ذوب آهن",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "210,780",
+      "price_nummm": 210780
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "بنگاه تهران",
-      "brand": "ذوب آهن",
-      "price": "177,590",
-      "price_numeric": 177590
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "UIC 60",
+      "col_1": "ذوب آهن",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "177,590",
+      "price_nummm": 177590
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "نامشخص",
+        "update_labelll": "قیمت ریل فولادی در انواع مختلف به فاکتورهایی نظیر اندازه، وزن، برند تولیدکننده، داخلی یا وارداتی بودن آن و... بستگی دارد."
+      }
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "JIS، R، S، UIC و دیگر استانداردها",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "نامشخص",
+        "update_labelll": "قیمت ریل فولادی در انواع مختلف به فاکتورهایی نظیر اندازه، وزن، برند تولیدکننده، داخلی یا وارداتی بودن آن و... بستگی دارد."
+      }
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "نورد گرم و ریخته‌گری",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "نامشخص",
+        "update_labelll": "قیمت ریل فولادی در انواع مختلف به فاکتورهایی نظیر اندازه، وزن، برند تولیدکننده، داخلی یا وارداتی بودن آن و... بستگی دارد."
+      }
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "24، 38، 43، 60، 75 کیلوگرم و بیشتر",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "نامشخص",
+        "update_labelll": "قیمت ریل فولادی در انواع مختلف به فاکتورهایی نظیر اندازه، وزن، برند تولیدکننده، داخلی یا وارداتی بودن آن و... بستگی دارد."
+      }
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "ریل‌های سبک (&lt;43 کیلوگرم) و ریل‌های سنگین (&gt;43 کیلوگرم)",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "نامشخص",
+        "update_labelll": "قیمت ریل فولادی در انواع مختلف به فاکتورهایی نظیر اندازه، وزن، برند تولیدکننده، داخلی یا وارداتی بودن آن و... بستگی دارد."
+      }
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "_": "",
-      "brand": "فولاد با کیفیت بالا",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "نامشخص",
+        "update_labelll": "قیمت ریل فولادی در انواع مختلف به فاکتورهایی نظیر اندازه، وزن، برند تولیدکننده، داخلی یا وارداتی بودن آن و... بستگی دارد."
+      }
     }
   ]
 }
