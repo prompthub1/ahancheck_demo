@@ -1,256 +1,189 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%88%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA/",
-  "scraped_at": "2026-01-04T03:49:52.178Z",
-  "updated_at": "2026-01-04T03:49:52.176Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%88%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA/",
+  "scraped_attt": "2026-01-04T04:17:37.875Z",
+  "headersss": [
     "بال",
     "ضخامت",
     "سایز",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "7",
-      "2",
-      "20*300",
-      "110,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "10*40",
-      "78,050"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "15*300",
-      "94,570"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "20*40",
-      "211,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "15*40",
-      "174,450"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "10*30",
-      "110,180"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "10*20",
-      "78,380"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "7",
-      "2",
-      "15*20",
-      "81,570"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "20*300",
-      "price": "110,180",
-      "price_numeric": 110180
+      "sizeee": "20*300",
+      "price_strrr": "110,180",
+      "price_nummm": 110180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "10*40",
-      "price": "78,050",
-      "price_numeric": 78050
+      "sizeee": "10*40",
+      "price_strrr": "78,050",
+      "price_nummm": 78050
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "15*300",
-      "price": "94,570",
-      "price_numeric": 94570
+      "sizeee": "15*300",
+      "price_strrr": "94,570",
+      "price_nummm": 94570
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "20*40",
-      "price": "211,180",
-      "price_numeric": 211180
+      "sizeee": "20*40",
+      "price_strrr": "211,180",
+      "price_nummm": 211180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "15*40",
-      "price": "174,450",
-      "price_numeric": 174450
+      "sizeee": "15*40",
+      "price_strrr": "174,450",
+      "price_nummm": 174450
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "10*30",
-      "price": "110,180",
-      "price_numeric": 110180
+      "sizeee": "10*30",
+      "price_strrr": "110,180",
+      "price_nummm": 110180
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "10*20",
-      "price": "78,380",
-      "price_numeric": 78380
+      "sizeee": "10*20",
+      "price_strrr": "78,380",
+      "price_nummm": 78380
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "7",
       "col_1": "2",
-      "size": "15*20",
-      "price": "81,570",
-      "price_numeric": 81570
+      "sizeee": "15*20",
+      "price_strrr": "81,570",
+      "price_nummm": 81570
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
-      "size": "",
-      "price": "",
-      "price_numeric": null
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
