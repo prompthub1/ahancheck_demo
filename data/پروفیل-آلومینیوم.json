@@ -1,459 +1,326 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85/",
-  "scraped_at": "2026-01-04T03:49:23.883Z",
-  "updated_at": "2026-01-04T03:49:23.883Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85/",
+  "scraped_attt": "2026-01-04T04:17:16.850Z",
+  "headersss": [
     "سایز",
     "حالت",
     "ضخامت",
     "واحد",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "30*30",
-      "شاخه",
-      "1",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "20*20",
-      "شاخه",
-      "1",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "100*40",
-      "شاخه",
-      "1",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "40*100",
-      "شاخه",
-      "1.8",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "40*40",
-      "شاخه",
-      "2",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "20*40",
-      "شاخه",
-      "2",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "40*80",
-      "شاخه",
-      "3",
-      "کیلوگرم",
-      "522,730"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "60*40",
-      "شاخه",
-      "1.8",
-      "کیلوگرم",
-      "536,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "80*80",
-      "شاخه",
-      "2",
-      "کیلوگرم",
-      "536,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "100*40",
-      "شاخه",
-      "2",
-      "کیلوگرم",
-      "536,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "100*100",
-      "شاخه",
-      "2",
-      "کیلوگرم",
-      "536,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "20*40",
-      "شاخه",
-      "3",
-      "کیلوگرم",
-      "536,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "60*40",
-      "شاخه",
-      "3",
-      "کیلوگرم",
-      "536,360"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "30*30",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "30*30",
       "col_1": "شاخه",
       "col_2": "1",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "20*20",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20*20",
       "col_1": "شاخه",
       "col_2": "1",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "100*40",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "100*40",
       "col_1": "شاخه",
       "col_2": "1",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "40*100",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "40*100",
       "col_1": "شاخه",
       "col_2": "1.8",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "40*40",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "40*40",
       "col_1": "شاخه",
       "col_2": "2",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "20*40",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20*40",
       "col_1": "شاخه",
       "col_2": "2",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "40*80",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "40*80",
       "col_1": "شاخه",
       "col_2": "3",
-      "unit": "کیلوگرم",
-      "price": "522,730",
-      "price_numeric": 522730
+      "unittt": "کیلوگرم",
+      "price_strrr": "522,730",
+      "price_nummm": 522730
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 4000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "60*40",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "60*40",
       "col_1": "شاخه",
       "col_2": "1.8",
-      "unit": "کیلوگرم",
-      "price": "536,360",
-      "price_numeric": 536360
+      "unittt": "کیلوگرم",
+      "price_strrr": "536,360",
+      "price_nummm": 536360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "80*80",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "80*80",
       "col_1": "شاخه",
       "col_2": "2",
-      "unit": "کیلوگرم",
-      "price": "536,360",
-      "price_numeric": 536360
+      "unittt": "کیلوگرم",
+      "price_strrr": "536,360",
+      "price_nummm": 536360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "100*40",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "100*40",
       "col_1": "شاخه",
       "col_2": "2",
-      "unit": "کیلوگرم",
-      "price": "536,360",
-      "price_numeric": 536360
+      "unittt": "کیلوگرم",
+      "price_strrr": "536,360",
+      "price_nummm": 536360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "100*100",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "100*100",
       "col_1": "شاخه",
       "col_2": "2",
-      "unit": "کیلوگرم",
-      "price": "536,360",
-      "price_numeric": 536360
+      "unittt": "کیلوگرم",
+      "price_strrr": "536,360",
+      "price_nummm": 536360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "20*40",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20*40",
       "col_1": "شاخه",
       "col_2": "3",
-      "unit": "کیلوگرم",
-      "price": "536,360",
-      "price_numeric": 536360
+      "unittt": "کیلوگرم",
+      "price_strrr": "536,360",
+      "price_nummm": 536360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "60*40",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "60*40",
       "col_1": "شاخه",
       "col_2": "3",
-      "unit": "کیلوگرم",
-      "price": "536,360",
-      "price_numeric": 536360
+      "unittt": "کیلوگرم",
+      "price_strrr": "536,360",
+      "price_nummm": 536360
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "group_infooo": {
+        "category_nameee": "سری 6000",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
-      "unit": "",
-      "price": "",
-      "price_numeric": null
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
