@@ -1,9 +1,8 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/انواع-ورق/17mn4-ورق/",
-  "scraped_at": "2026-01-04T03:52:11.368Z",
-  "updated_at": "2026-01-04T03:52:11.368Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/انواع-ورق/17mn4-ورق/",
+  "scraped_attt": "2026-01-04T04:18:55.324Z",
+  "headersss": [
     "ضخامت",
     "سایز",
     "برند",
@@ -11,122 +10,84 @@
     "محل تحویل",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "8",
-      "1500*6000",
-      "فولاد مبارکه",
-      "شیت",
-      "-",
-      "70,910"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "10",
-      "1500*6000",
-      "فولاد مبارکه",
-      "شیت",
-      "-",
-      "70,910"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "12",
-      "1500*6000",
-      "فولاد مبارکه",
-      "شیت",
-      "-",
-      "70,910"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
       "col_0": "8",
-      "size": "1500*6000",
-      "brand": "فولاد مبارکه",
+      "sizeee": "1500*6000",
+      "col_2": "فولاد مبارکه",
       "col_3": "شیت",
-      "_": "-",
-      "price": "70,910",
-      "price_numeric": 70910
+      "col_4": "-",
+      "price_strrr": "70,910",
+      "price_nummm": 70910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_2": "",
       "col_3": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
       "col_0": "10",
-      "size": "1500*6000",
-      "brand": "فولاد مبارکه",
+      "sizeee": "1500*6000",
+      "col_2": "فولاد مبارکه",
       "col_3": "شیت",
-      "_": "-",
-      "price": "70,910",
-      "price_numeric": 70910
+      "col_4": "-",
+      "price_strrr": "70,910",
+      "price_nummm": 70910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_2": "",
       "col_3": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "امروز"
+      },
       "col_0": "12",
-      "size": "1500*6000",
-      "brand": "فولاد مبارکه",
+      "sizeee": "1500*6000",
+      "col_2": "فولاد مبارکه",
       "col_3": "شیت",
-      "_": "-",
-      "price": "70,910",
-      "price_numeric": 70910
+      "col_4": "-",
+      "price_strrr": "70,910",
+      "price_nummm": 70910
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "امروز"
+      },
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "size": "",
-      "brand": "",
+      "sizeee": "",
+      "col_2": "",
       "col_3": "",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
