@@ -1,8 +1,9 @@
 {
   "source": "ahanonline.com",
-  "urlll": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84z/",
-  "scraped_attt": "2026-01-04T03:43:27.393Z",
-  "headersss": [
+  "url": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84z/",
+  "scraped_at": "2026-01-04T03:49:18.345Z",
+  "updated_at": "2026-01-04T03:49:18.344Z",
+  "headers": [
     "ارتفاع",
     "ضخامت(mm)",
     "طول(m)",
@@ -10,214 +11,312 @@
     "تحویل",
     "قیمت (تومان)"
   ],
-  "dataaa": [
+  "rows": [
+    [
+      "Z*16",
+      "2.5",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,270"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*18",
+      "2.5",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,270"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*20",
+      "2.5",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,450"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*22",
+      "2.5",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,450"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*16",
+      "3",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,270"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*18",
+      "3",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,270"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*20",
+      "3",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,450"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Z*22",
+      "3",
+      "طول سفارشی",
+      "کیلوگرم",
+      "اصفهان",
+      "67,450"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "data": [
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*16",
-      "col_1": "2.5",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "2.5",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,270",
-      "price_nummm": 67270
+      "price": "67,270",
+      "price_numeric": 67270
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*18",
-      "col_1": "2.5",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "2.5",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,270",
-      "price_nummm": 67270
+      "price": "67,270",
+      "price_numeric": 67270
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*20",
-      "col_1": "2.5",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "2.5",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,450",
-      "price_nummm": 67450
+      "price": "67,450",
+      "price_numeric": 67450
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*22",
-      "col_1": "2.5",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "2.5",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,450",
-      "price_nummm": 67450
+      "price": "67,450",
+      "price_numeric": 67450
     },
     {
-      "group_infooo": {
-        "category_nameee": "2.5",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*16",
-      "col_1": "3",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "3",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,270",
-      "price_nummm": 67270
+      "price": "67,270",
+      "price_numeric": 67270
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*18",
-      "col_1": "3",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "3",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,270",
-      "price_nummm": 67270
+      "price": "67,270",
+      "price_numeric": 67270
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*20",
-      "col_1": "3",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "3",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,450",
-      "price_nummm": 67450
+      "price": "67,450",
+      "price_numeric": 67450
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "Z*22",
-      "col_1": "3",
-      "col_2": "طول سفارشی",
-      "unittt": "کیلوگرم",
+      "mm": "3",
+      "m": "طول سفارشی",
+      "unit": "کیلوگرم",
       "col_4": "اصفهان",
-      "price_strrr": "67,450",
-      "price_nummm": 67450
+      "price": "67,450",
+      "price_numeric": 67450
     },
     {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
-      },
+      "group_title": "",
+      "last_update": "1404/10/10",
       "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
+      "mm": "",
+      "m": "",
+      "unit": "",
       "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price": "",
+      "price_numeric": null
     }
   ]
 }
