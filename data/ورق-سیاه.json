@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-01-04T07:57:10.187Z",
+  "scraped_attt": "2026-01-04T08:27:15.191Z",
   "headersss": [
     "سایز",
     "برند",
@@ -13,6 +13,201 @@
     "نمودار"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 2 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1000*2000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "68,860",
+      "price_nummm": 68860,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 2 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1250*2500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "67,950",
+      "price_nummm": 67950,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 3 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "2500*1250",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "67,050",
+      "price_nummm": 67050,
+      "col_6": "-2.6%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 3 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "67,500",
+      "price_nummm": 67500,
+      "col_6": "-0.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 4 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1000*2000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "68,410",
+      "price_nummm": 68410,
+      "col_6": "-2.6%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 4 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1250*2500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "67,500",
+      "price_nummm": 67500,
+      "col_6": "-2.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 4 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "67,500",
+      "price_nummm": 67500,
+      "col_6": "-0.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 5 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "67,500",
+      "price_nummm": 67500,
+      "col_6": "-0.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 6 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "59,230",
+      "price_nummm": 59230,
+      "col_6": "-0.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "59,230",
+      "price_nummm": 59230,
+      "col_6": "-0.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "59,230",
+      "price_nummm": 59230,
+      "col_6": "-0.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "59,230",
+      "price_nummm": 59230,
+      "col_6": "-0.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "col_4": "1404/10/14",
+      "price_strrr": "59,230",
+      "price_nummm": 59230,
+      "col_6": "-0.8%",
+      "col_7": ""
+    },
     {
       "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 2 میل",
@@ -40,36 +235,6 @@
       "col_4": "1404/10/10",
       "price_strrr": "65,640",
       "price_nummm": 65640,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 2 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1000*2000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "68,860",
-      "price_nummm": 68860,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 2 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1250*2500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "67,950",
-      "price_nummm": 67950,
       "col_6": "0.0%",
       "col_7": ""
     },
@@ -135,36 +300,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 3 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "2500*1250",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "68,860",
-      "price_nummm": 68860,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 3 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "67,950",
-      "price_nummm": 67950,
-      "col_6": "-0.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 4 میل",
         "update_labelll": ""
       },
@@ -210,51 +345,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 4 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1000*2000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "70,230",
-      "price_nummm": 70230,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 4 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1250*2500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "68,860",
-      "price_nummm": 68860,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 4 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "67,950",
-      "price_nummm": 67950,
-      "col_6": "-0.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 5 میل",
         "update_labelll": ""
       },
@@ -281,21 +371,6 @@
       "price_strrr": "68,860",
       "price_nummm": 68860,
       "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 5 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "67,950",
-      "price_nummm": 67950,
-      "col_6": "-0.7%",
       "col_7": ""
     },
     {
@@ -356,21 +431,6 @@
       "price_strrr": "61,050",
       "price_nummm": 61050,
       "col_6": "-0.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 6 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "59,680",
-      "price_nummm": 59680,
-      "col_6": "-1.5%",
       "col_7": ""
     },
     {
@@ -510,21 +570,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "59,680",
-      "price_nummm": 59680,
-      "col_6": "-1.5%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 10 میل",
         "update_labelll": ""
       },
@@ -626,21 +671,6 @@
       "price_strrr": "61,050",
       "price_nummm": 61050,
       "col_6": "-0.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 10 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "59,680",
-      "price_nummm": 59680,
-      "col_6": "-1.5%",
       "col_7": ""
     },
     {
@@ -813,21 +843,6 @@
         "category_nameee": "ورق سیاه ضخامت 12 میل",
         "update_labelll": ""
       },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "59,680",
-      "price_nummm": 59680,
-      "col_6": "-1.5%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
       "sizeee": "6000*1200",
       "col_1": "قطعات",
       "col_2": "شیت",
@@ -956,21 +971,6 @@
       "price_strrr": "61,050",
       "price_nummm": 61050,
       "col_6": "-0.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "col_4": "1404/10/10",
-      "price_strrr": "59,680",
-      "price_nummm": 59680,
-      "col_6": "-1.5%",
       "col_7": ""
     },
     {
