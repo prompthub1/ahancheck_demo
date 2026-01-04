@@ -1,8 +1,9 @@
 {
   "source": "ahanonline.com",
-  "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D8%B3%D9%BE%D8%B1%DB%8C/",
-  "scraped_attt": "2026-01-04T03:43:40.254Z",
-  "headersss": [
+  "url": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D8%B3%D9%BE%D8%B1%DB%8C/",
+  "scraped_at": "2026-01-04T03:49:46.215Z",
+  "updated_at": "2026-01-04T03:49:46.215Z",
+  "headers": [
     "سایز",
     "برند",
     "طول شاخه",
@@ -10,58 +11,80 @@
     "محل تحویل",
     "قیمت (تومان)"
   ],
-  "dataaa": [
+  "rows": [
+    [
+      "3",
+      "نورد سجاد",
+      "6 متری",
+      "کیلوگرم",
+      "بنگاه تهران",
+      "48,660"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "4",
+      "نورد سجاد",
+      "6 متری",
+      "کیلوگرم",
+      "بنگاه تهران",
+      "48,660"
+    ],
+    [
+      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "data": [
     {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "3",
-      "col_1": "نورد سجاد",
-      "col_2": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "48,660",
-      "price_nummm": 48660
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "3",
+      "brand": "نورد سجاد",
+      "_": "بنگاه تهران",
+      "unit": "کیلوگرم",
+      "price": "48,660",
+      "price_numeric": 48660
     },
     {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "brand": "",
+      "_": "",
+      "unit": "",
+      "price": "",
+      "price_numeric": null
     },
     {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "4",
-      "col_1": "نورد سجاد",
-      "col_2": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "48,660",
-      "price_nummm": 48660
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "4",
+      "brand": "نورد سجاد",
+      "_": "بنگاه تهران",
+      "unit": "کیلوگرم",
+      "price": "48,660",
+      "price_numeric": 48660
     },
     {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "group_title": "",
+      "last_update": "1404/10/10",
+      "size": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "brand": "",
+      "_": "",
+      "unit": "",
+      "price": "",
+      "price_numeric": null
     }
   ]
 }
