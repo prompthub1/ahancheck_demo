@@ -1,146 +1,223 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84z/",
-  "scraped_attt": "2026-01-04T09:56:25.907Z",
+  "scraped_attt": "2026-01-04T10:26:24.748Z",
   "headersss": [
     "ارتفاع",
     "ضخامت(mm)",
     "طول(m)",
     "واحد",
     "تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 2.5 میل",
-        "update_labelll": ""
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*16",
       "col_1": "2.5",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67270
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 2.5 میل",
-        "update_labelll": ""
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*18",
       "col_1": "2.5",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67270
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 2.5 میل",
-        "update_labelll": ""
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*20",
       "col_1": "2.5",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67450
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 2.5 میل",
-        "update_labelll": ""
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*22",
       "col_1": "2.5",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67450
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 3 میل",
-        "update_labelll": ""
+        "category_nameee": "2.5",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*16",
       "col_1": "3",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67270
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 3 میل",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*18",
       "col_1": "3",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67270
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 3 میل",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*20",
       "col_1": "3",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67450
     },
     {
       "group_infooo": {
-        "category_nameee": "پروفیل Z ضخامت 3 میل",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
       },
       "col_0": "Z*22",
       "col_1": "3",
       "col_2": "طول سفارشی",
       "unittt": "کیلوگرم",
       "col_4": "اصفهان",
-      "col_5": "1404/10/10",
       "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 67450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
