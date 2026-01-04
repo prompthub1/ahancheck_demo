@@ -1,100 +1,145 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ساندویچ-پانل/",
-  "scraped_attt": "2026-01-04T10:28:25.824Z",
+  "scraped_attt": "2026-01-04T10:58:43.469Z",
   "headersss": [
     "ضخامت(عایق)",
     "مدل",
     "واحد",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ساندویچ پانل سقفی",
-        "update_labelll": ""
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
       },
       "col_0": "ضخامت 4 سانتی متری",
       "col_1": "دو رو ورق",
       "unittt": "مترمربع",
-      "col_3": "1404/10/14",
       "price_strrr": "1,759,500",
-      "price_nummm": 1759500,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 1759500
     },
     {
       "group_infooo": {
-        "category_nameee": "ساندویچ پانل سقفی",
-        "update_labelll": ""
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
       },
       "col_0": "ضخامت 5 سانتی متر",
       "col_1": "دو رو ورق",
       "unittt": "مترمربع",
-      "col_3": "1404/10/14",
       "price_strrr": "1,850,960",
-      "price_nummm": 1850960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 1850960
     },
     {
       "group_infooo": {
-        "category_nameee": "ساندویچ پانل سقفی",
-        "update_labelll": ""
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
       },
       "col_0": "ضخامت 6 سانتی متری",
       "col_1": "دو رو ورق",
       "unittt": "مترمربع",
-      "col_3": "1404/10/14",
       "price_strrr": "1,942,430",
-      "price_nummm": 1942430,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 1942430
     },
     {
       "group_infooo": {
-        "category_nameee": "ساندویچ پانل دیواری",
-        "update_labelll": ""
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دیواری",
+        "update_labelll": "|"
       },
       "col_0": "ضخامت 4 سانتی متری",
       "col_1": "دو رو ورق",
       "unittt": "مترمربع",
-      "col_3": "1404/10/14",
       "price_strrr": "1,699,090",
-      "price_nummm": 1699090,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 1699090
     },
     {
       "group_infooo": {
-        "category_nameee": "ساندویچ پانل دیواری",
-        "update_labelll": ""
+        "category_nameee": "دیواری",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دیواری",
+        "update_labelll": "|"
       },
       "col_0": "ضخامت 6 سانتی متری",
       "col_1": "دو رو ورق",
       "unittt": "مترمربع",
-      "col_3": "1404/10/14",
       "price_strrr": "1,864,290",
-      "price_nummm": 1864290,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 1864290
     },
     {
       "group_infooo": {
-        "category_nameee": "ساندویچ پانل دیواری",
-        "update_labelll": ""
+        "category_nameee": "دیواری",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دیواری",
+        "update_labelll": "|"
       },
       "col_0": "ضخامت 10 سانتی متری",
       "col_1": "دو رو ورق",
       "unittt": "مترمربع",
-      "col_3": "1404/10/14",
       "price_strrr": "2,185,760",
-      "price_nummm": 2185760,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 2185760
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دیواری",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
