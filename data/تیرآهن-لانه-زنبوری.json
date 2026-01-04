@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%84%D8%A7%D9%86%D9%87-%D8%B2%D9%86%D8%A8%D9%88%D8%B1%DB%8C/",
-  "scraped_attt": "2026-01-04T10:26:07.934Z",
+  "scraped_attt": "2026-01-04T10:56:07.062Z",
   "headersss": [
     "نام کالا",
     "سایز",
@@ -9,13 +9,16 @@
     "واحد",
     "برند",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "تیرآهن لانه زنبوری بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "تیرآهن لانه زنبوری 22",
       "sizeee": "22",
@@ -23,27 +26,16 @@
       "unittt": "شاخه",
       "col_4": "ذوب آهن اصفهان",
       "col_5": "بنگاه تهران",
+      "col_6": "1404/10/14",
       "price_strrr": "28,045,450",
-      "price_nummm": 28045450
+      "price_nummm": 28045450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "تیرآهن لانه زنبوری بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "تیرآهن لانه زنبوری 20",
       "sizeee": "20",
@@ -51,27 +43,16 @@
       "unittt": "شاخه",
       "col_4": "ذوب آهن اصفهان",
       "col_5": "بنگاه تهران",
+      "col_6": "1404/10/14",
       "price_strrr": "24,136,360",
-      "price_nummm": 24136360
+      "price_nummm": 24136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "تیرآهن لانه زنبوری بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "تیرآهن لانه زنبوری 18",
       "sizeee": "18",
@@ -79,27 +60,16 @@
       "unittt": "شاخه",
       "col_4": "ذوب آهن اصفهان",
       "col_5": "بنگاه تهران",
+      "col_6": "1404/10/14",
       "price_strrr": "12,045,450",
-      "price_nummm": 12045450
+      "price_nummm": 12045450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "تیرآهن لانه زنبوری بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "تیرآهن لانه زنبوری 16",
       "sizeee": "16",
@@ -107,27 +77,16 @@
       "unittt": "شاخه",
       "col_4": "ذوب آهن اصفهان",
       "col_5": "بنگاه تهران",
+      "col_6": "1404/10/14",
       "price_strrr": "10,136,360",
-      "price_nummm": 10136360
+      "price_nummm": 10136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "تیرآهن لانه زنبوری بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "تیرآهن لانه زنبوری 14",
       "sizeee": "14",
@@ -135,22 +94,11 @@
       "unittt": "شاخه",
       "col_4": "ذوب آهن اصفهان",
       "col_5": "بنگاه تهران",
+      "col_6": "1404/10/14",
       "price_strrr": "9,590,910",
-      "price_nummm": 9590910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 9590910,
+      "col_8": "0.0%",
+      "col_9": ""
     }
   ]
 }
