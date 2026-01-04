@@ -1,184 +1,145 @@
 {
   "source": "ahanonline.com",
-  "url": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/%D8%B1%DB%8C%D9%84-%D8%AC%D8%B1%D8%AB%D9%82%DB%8C%D9%84%DB%8C/",
-  "scraped_at": "2026-01-04T03:20:11.374Z",
-  "updated_at": "2026-01-04T03:20:11.374Z",
-  "headers": [
+  "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/%D8%B1%DB%8C%D9%84-%D8%AC%D8%B1%D8%AB%D9%82%DB%8C%D9%84%DB%8C/",
+  "scraped_attt": "2026-01-04T03:43:50.263Z",
+  "headersss": [
     "برند",
     "محل تحویل",
     "گرید ریل",
     "قیمت (تومان)"
   ],
-  "rows": [
-    [
-      "وارداتی",
-      "بنگاه تهران",
-      "A120",
-      "217,200"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "وارداتی",
-      "بنگاه تهران",
-      "A55",
-      "300,040"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "وارداتی",
-      "بنگاه تهران",
-      "A 75",
-      "225,740"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "وارداتی",
-      "بنگاه تهران",
-      "A 100",
-      "225,740"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "وارداتی",
-      "بنگاه تهران",
-      "A 45",
-      "299,040"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ],
-    [
-      "وارداتی",
-      "بنگاه تهران",
-      "A 65",
-      "225,740"
-    ],
-    [
-      "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "data": [
+  "dataaa": [
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "وارداتی",
-      "_": "A120",
-      "price": "217,200",
-      "price_numeric": 217200
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A120",
+      "price_strrr": "217,200",
+      "price_nummm": 217200
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "وارداتی",
-      "_": "A55",
-      "price": "300,040",
-      "price_numeric": 300040
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A55",
+      "price_strrr": "300,040",
+      "price_nummm": 300040
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "وارداتی",
-      "_": "A 75",
-      "price": "225,740",
-      "price_numeric": 225740
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A 75",
+      "price_strrr": "225,740",
+      "price_nummm": 225740
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "وارداتی",
-      "_": "A 100",
-      "price": "225,740",
-      "price_numeric": 225740
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A 100",
+      "price_strrr": "225,740",
+      "price_nummm": 225740
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "وارداتی",
-      "_": "A 45",
-      "price": "299,040",
-      "price_numeric": 299040
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A 45",
+      "price_strrr": "299,040",
+      "price_nummm": 299040
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "وارداتی",
-      "_": "A 65",
-      "price": "225,740",
-      "price_numeric": 225740
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A 65",
+      "price_strrr": "225,740",
+      "price_nummm": 225740
     },
     {
-      "group_title": "",
-      "last_update": "1404/10/10",
-      "brand": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
-      "_": "",
-      "price": "",
-      "price_numeric": null
+      "group_infooo": {
+        "category_nameee": "وارداتی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
