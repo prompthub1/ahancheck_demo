@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-01-05T00:26:56.183Z",
+  "scraped_attt": "2026-01-05T00:57:00.930Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -10,78 +10,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "8",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -0.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "12",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "48,450",
-      "price_nummm": 48450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -0.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "14",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "48,270",
-      "price_nummm": 48270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -0.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "ناب تبریز",
@@ -354,6 +282,30 @@
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "47,640",
+      "price_nummm": 47640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -0.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
       "col_3": "کارخانه",
       "price_strrr": "45,000",
       "price_nummm": 45000
@@ -450,6 +402,30 @@
       "sizeee": "12",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "48,450",
+      "price_nummm": 48450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -0.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "12",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
       "col_3": "کارخانه",
       "price_strrr": "45,000",
       "price_nummm": 45000
@@ -484,6 +460,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -1.8%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "14",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "48,270",
+      "price_nummm": 48270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/14 نمودار نوسانات : -0.9%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
