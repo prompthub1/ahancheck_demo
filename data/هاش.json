@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-01-06T07:57:13.211Z",
+  "scraped_attt": "2026-01-06T08:27:04.978Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -9,13 +9,16 @@
     "برند",
     "محل تحویل",
     "واحد",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "10",
       "col_1": "HEA",
@@ -23,27 +26,16 @@
       "col_3": "ترک-کره",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "109,090",
-      "price_nummm": 109090
+      "price_nummm": 109090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "HEA",
@@ -51,27 +43,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "HEA",
@@ -79,27 +60,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "91,820",
-      "price_nummm": 91820
+      "price_nummm": 91820,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "HEA",
@@ -107,27 +77,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "HEA",
@@ -135,27 +94,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "HEA",
@@ -163,27 +111,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "HEA",
@@ -191,27 +128,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "26",
       "col_1": "HEA",
@@ -219,27 +145,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "28",
       "col_1": "HEA",
@@ -247,27 +162,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "30",
       "col_1": "HEA",
@@ -275,27 +179,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "32",
       "col_1": "HEA",
@@ -303,27 +196,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "34",
       "col_1": "HEA",
@@ -331,27 +213,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "36",
       "col_1": "HEA",
@@ -359,27 +230,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "131,820",
-      "price_nummm": 131820
+      "price_nummm": 131820,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "40",
       "col_1": "HEA",
@@ -387,27 +247,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEA",
+        "update_labelll": ""
       },
       "sizeee": "12",
       "col_1": "HEA",
@@ -415,27 +264,16 @@
       "col_3": "ترک",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "10",
       "col_1": "HEB",
@@ -443,27 +281,16 @@
       "col_3": "ترک-کره",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "109,090",
-      "price_nummm": 109090
+      "price_nummm": 109090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "12",
       "col_1": "HEB",
@@ -471,27 +298,16 @@
       "col_3": "ترک-کره",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "HEB",
@@ -499,27 +315,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "HEB",
@@ -527,27 +332,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "HEB",
@@ -555,27 +349,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "131,820",
-      "price_nummm": 131820
+      "price_nummm": 131820,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "HEB",
@@ -583,27 +366,16 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "100,000",
-      "price_nummm": 100000
+      "price_nummm": 100000,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "HEB",
@@ -611,27 +383,16 @@
       "col_3": "ذوب آهن اصفهان",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "100,000",
-      "price_nummm": 100000
+      "price_nummm": 100000,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "HEB",
@@ -639,27 +400,16 @@
       "col_3": "ذوب آهن اصفهان",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "26",
       "col_1": "HEB",
@@ -667,27 +417,16 @@
       "col_3": "ذوب آهن اصفهان",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "127,270",
-      "price_nummm": 127270
+      "price_nummm": 127270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "26",
       "col_1": "HEB",
@@ -695,27 +434,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "28",
       "col_1": "HEB",
@@ -723,55 +451,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "30",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "136,360",
-      "price_nummm": 136360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "30",
       "col_1": "HEB",
@@ -779,27 +468,33 @@
       "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "sizeee": "30",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
+      "price_strrr": "136,360",
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "32",
       "col_1": "HEB",
@@ -807,27 +502,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "34",
       "col_1": "HEB",
@@ -835,27 +519,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "36",
       "col_1": "HEB",
@@ -863,27 +536,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "40",
       "col_1": "HEB",
@@ -891,27 +553,16 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
+        "category_nameee": "هاش HEB",
+        "update_labelll": ""
       },
       "sizeee": "50",
       "col_1": "HEB",
@@ -919,22 +570,11 @@
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/16",
       "price_strrr": "136,360",
-      "price_nummm": 136360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 136360,
+      "col_8": "0.0%",
+      "col_9": ""
     }
   ]
 }
