@@ -1,782 +1,497 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-st52/",
-  "scraped_attt": "2026-01-07T13:27:56.150Z",
+  "scraped_attt": "2026-01-07T13:57:35.829Z",
   "headersss": [
     "کارخانه",
     "وضعیت",
     "ابعاد",
     "انبار",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 6 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "رول",
       "sizeee": "1500",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "67,950",
-      "price_nummm": 67950
+      "price_nummm": 67950,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 6 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "-2.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "شیت",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "71,640",
-      "price_nummm": 71640
+      "price_nummm": 71640,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "شیت",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "69,730",
-      "price_nummm": 69730
+      "price_nummm": 69730,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "67,950",
-      "price_nummm": 67950
+      "price_nummm": 67950,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "-2.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "رول",
       "sizeee": "1500",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "67,950",
-      "price_nummm": 67950
+      "price_nummm": 67950,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "71,640",
-      "price_nummm": 71640
+      "price_nummm": 71640,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "69,730",
-      "price_nummm": 69730
+      "price_nummm": 69730,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "-2.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "شیت",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "69,770",
-      "price_nummm": 69770
+      "price_nummm": 69770,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "فابریک",
       "sizeee": "6000*1500",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "67,950",
-      "price_nummm": 67950
+      "price_nummm": 67950,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "-2.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "رول",
       "sizeee": "1500",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "67,950",
-      "price_nummm": 67950
+      "price_nummm": 67950,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "74,820",
-      "price_nummm": 74820
+      "price_nummm": 74820,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "72,050",
-      "price_nummm": 72050
+      "price_nummm": 72050,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "-2.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 20 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "70,230",
-      "price_nummm": 70230
+      "price_nummm": 70230,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 20 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "6000*2000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "68,410",
-      "price_nummm": 68410
+      "price_nummm": 68410,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 25 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "12000*2000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "66,590",
-      "price_nummm": 66590
+      "price_nummm": 66590,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 25 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "66,590",
-      "price_nummm": 66590
+      "price_nummm": 66590,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 25 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "64,730",
-      "price_nummm": 64730
+      "price_nummm": 64730,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 25 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "6000*2000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "64,730",
-      "price_nummm": 64730
+      "price_nummm": 64730,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 30 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "66,590",
-      "price_nummm": 66590
+      "price_nummm": 66590,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 30 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "64,730",
-      "price_nummm": 64730
+      "price_nummm": 64730,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 30 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "6000*2000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "66,590",
-      "price_nummm": 66590
+      "price_nummm": 66590,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 35 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "6000*2000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "75,770",
-      "price_nummm": 75770
+      "price_nummm": 75770,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 40 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "12000*2000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 40 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "12000*2000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "66,590",
-      "price_nummm": 66590
+      "price_nummm": 66590,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 40 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "69,320",
-      "price_nummm": 69320
+      "price_nummm": 69320,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "50",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 50 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
+      "col_4": "1404/10/17",
       "price_strrr": "76,680",
-      "price_nummm": 76680
+      "price_nummm": 76680,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "50",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "50",
-        "update_labelll": "|"
+        "category_nameee": "ورق ST52 ضخامت 50 میل",
+        "update_labelll": ""
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "کارخانه",
+      "col_4": "1404/10/17",
       "price_strrr": "73,910",
-      "price_nummm": 73910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "50",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 73910,
+      "col_6": "0.0%",
+      "col_7": ""
     }
   ]
 }
