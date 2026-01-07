@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/Ck45/",
-  "scraped_attt": "2026-01-07T05:58:49.836Z",
+  "scraped_attt": "2026-01-07T06:28:29.813Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -9,16 +9,13 @@
     "برند",
     "حالت",
     "محل تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "Ck45 ضخامت 10",
-        "update_labelll": ""
+        "category_nameee": "10",
+        "update_labelll": "امروز"
       },
       "col_0": "CK 45",
       "col_1": "10",
@@ -26,16 +23,27 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "col_6": "1404/10/16",
       "price_strrr": "148,180",
-      "price_nummm": 148180,
-      "col_8": "0.0%",
-      "col_9": ""
+      "price_nummm": 148180
     },
     {
       "group_infooo": {
-        "category_nameee": "Ck45 ضخامت 12",
-        "update_labelll": ""
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "امروز"
       },
       "col_0": "CK 45",
       "col_1": "12",
@@ -43,16 +51,27 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "col_6": "1404/10/16",
       "price_strrr": "148,180",
-      "price_nummm": 148180,
-      "col_8": "0.0%",
-      "col_9": ""
+      "price_nummm": 148180
     },
     {
       "group_infooo": {
-        "category_nameee": "Ck45 ضخامت 15",
-        "update_labelll": ""
+        "category_nameee": "12",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "امروز"
       },
       "col_0": "CK 45",
       "col_1": "15",
@@ -60,11 +79,22 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "col_6": "1404/10/16",
       "price_strrr": "148,180",
-      "price_nummm": 148180,
-      "col_8": "0.0%",
-      "col_9": ""
+      "price_nummm": 148180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
