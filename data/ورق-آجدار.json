@@ -1,212 +1,326 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آجدار/",
-  "scraped_attt": "2026-01-07T15:27:58.781Z",
+  "scraped_attt": "2026-01-07T15:58:27.561Z",
   "headersss": [
     "ابعاد",
     "کشور / کارخانه",
     "وضعیت",
     "انبار",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 3",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "|"
       },
       "sizeee": "1000*2000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "87,180",
-      "price_nummm": 87180,
-      "col_6": "-1.0%",
-      "col_7": ""
+      "price_nummm": 87180
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 3",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -1.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "|"
       },
       "sizeee": "1250*2500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "87,230",
-      "price_nummm": 87230,
-      "col_6": "+ 7.9%",
-      "col_7": ""
+      "price_nummm": 87230
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 3",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +7.9%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "|"
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "89,090",
-      "price_nummm": 89090,
-      "col_6": "+ 5.4%",
-      "col_7": ""
+      "price_nummm": 89090
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 4",
-        "update_labelll": ""
+        "category_nameee": "3",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +5.4%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
       },
       "sizeee": "1000*2000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "84,450",
-      "price_nummm": 84450,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 84450
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 4",
-        "update_labelll": ""
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
       },
       "sizeee": "1250*2500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "90,000",
-      "price_nummm": 90000,
-      "col_6": "+ 8.9%",
-      "col_7": ""
+      "price_nummm": 90000
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 4",
-        "update_labelll": ""
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +8.9%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "82,640",
-      "price_nummm": 82640,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 82640
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 5",
-        "update_labelll": ""
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "5",
+        "update_labelll": "|"
       },
       "sizeee": "1000*2000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "84,450",
-      "price_nummm": 84450,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 84450
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 5",
-        "update_labelll": ""
+        "category_nameee": "5",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "5",
+        "update_labelll": "|"
       },
       "sizeee": "1250*2500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "83,550",
-      "price_nummm": 83550,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 83550
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 5",
-        "update_labelll": ""
+        "category_nameee": "5",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "5",
+        "update_labelll": "|"
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "88,180",
-      "price_nummm": 88180,
-      "col_6": "+ 3.2%",
-      "col_7": ""
+      "price_nummm": 88180
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 6",
-        "update_labelll": ""
+        "category_nameee": "5",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +3.2%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
       },
       "sizeee": "1250*2500",
       "col_1": "فولاد مبارکه",
       "col_2": "-",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "84,450",
-      "price_nummm": 84450,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 84450
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 6",
-        "update_labelll": ""
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
       },
       "sizeee": "2000*1000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "85,410",
-      "price_nummm": 85410,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 85410
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 6",
-        "update_labelll": ""
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "80,820",
-      "price_nummm": 80820,
-      "col_6": "-2.2%",
-      "col_7": ""
+      "price_nummm": 80820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق آجدار 8",
-        "update_labelll": ""
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : -2.2%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1404/10/17",
       "price_strrr": "84,450",
-      "price_nummm": 84450,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 84450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/10/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
