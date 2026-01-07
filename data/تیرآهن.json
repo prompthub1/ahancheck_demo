@@ -1,1046 +1,618 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-01-07T05:57:08.582Z",
+  "scraped_attt": "2026-01-07T06:26:58.112Z",
   "headersss": [
     "سایز",
     "محل تحویل",
     "واحد",
     "وزن",
-    "قیمت (تومان)"
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "12",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "125",
       "price_strrr": "9,636,360",
-      "price_nummm": 9636360
+      "price_nummm": 9636360,
+      "col_5": "+ 1.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "155",
       "price_strrr": "60,050",
-      "price_nummm": 60050
+      "price_nummm": 60050,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "155",
       "price_strrr": "9,254,550",
-      "price_nummm": 9254550
+      "price_nummm": 9254550,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "155",
       "price_strrr": "9,181,820",
-      "price_nummm": 9181820
+      "price_nummm": 9181820,
+      "col_5": "+ 1.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "190",
       "price_strrr": "9,709,090",
-      "price_nummm": 9709090
+      "price_nummm": 9709090,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "190",
       "price_strrr": "50,910",
-      "price_nummm": 50910
+      "price_nummm": 50910,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "190",
       "price_strrr": "9,709,090",
-      "price_nummm": 9709090
+      "price_nummm": 9709090,
+      "col_5": "-1.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "230",
       "price_strrr": "11,818,180",
-      "price_nummm": 11818180
+      "price_nummm": 11818180,
+      "col_5": "+ 0.8%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.8%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "230",
       "price_strrr": "51,730",
-      "price_nummm": 51730
+      "price_nummm": 51730,
+      "col_5": "+ 1.6%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.6%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "230",
       "price_strrr": "11,481,820",
-      "price_nummm": 11481820
+      "price_nummm": 11481820,
+      "col_5": "-1.3%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "270",
       "price_strrr": "23,363,640",
-      "price_nummm": 23363640
+      "price_nummm": 23363640,
+      "col_5": "-1.2%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.2%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "270",
       "price_strrr": "85,450",
-      "price_nummm": 85450
+      "price_nummm": 85450,
+      "col_5": "-1.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "270",
       "price_strrr": "23,345,450",
-      "price_nummm": 23345450
+      "price_nummm": 23345450,
+      "col_5": "-0.4%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -0.4%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "320",
       "price_strrr": "27,436,360",
-      "price_nummm": 27436360
+      "price_nummm": 27436360,
+      "col_5": "-1.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "320",
       "price_strrr": "85,450",
-      "price_nummm": 85450
+      "price_nummm": 85450,
+      "col_5": "-1.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "320",
       "price_strrr": "27,454,550",
-      "price_nummm": 27454550
+      "price_nummm": 27454550,
+      "col_5": "-1.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "370",
       "price_strrr": "32,436,360",
-      "price_nummm": 32436360
+      "price_nummm": 32436360,
+      "col_5": "+ 0.6%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "370",
       "price_strrr": "85,450",
-      "price_nummm": 85450
+      "price_nummm": 85450,
+      "col_5": "-1.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "370",
       "price_strrr": "32,000,000",
-      "price_nummm": 32000000
+      "price_nummm": 32000000,
+      "col_5": "-0.8%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -0.8%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "27",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "440",
       "price_strrr": "41,090,910",
-      "price_nummm": 41090910
+      "price_nummm": 41090910,
+      "col_5": "+ 1.6%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.6%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "27",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "440",
       "price_strrr": "94,450",
-      "price_nummm": 94450
+      "price_nummm": 94450,
+      "col_5": "+ 0.9%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "27",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "440",
       "price_strrr": "41,090,910",
-      "price_nummm": 41090910
+      "price_nummm": 41090910,
+      "col_5": "-0.7%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -0.7%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "30",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "510",
       "price_strrr": "43,818,180",
-      "price_nummm": 43818180
+      "price_nummm": 43818180,
+      "col_5": "+ 0.4%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.4%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ذوب آهن",
+        "update_labelll": ""
       },
       "sizeee": "30",
       "col_1": "بنگاه اصفهان",
       "unittt": "شاخه",
       "col_3": "510",
       "price_strrr": "43,818,180",
-      "price_nummm": 43818180
+      "price_nummm": 43818180,
+      "col_5": "-0.6%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : -0.6%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فایکو",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن فایکو",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "250",
       "price_strrr": "14,545,450",
-      "price_nummm": 14545450
+      "price_nummm": 14545450,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فایکو",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "-",
       "price_strrr": "19,545,450",
-      "price_nummm": 19545450
+      "price_nummm": 19545450,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "-",
       "price_strrr": "23,181,820",
-      "price_nummm": 23181820
+      "price_nummm": 23181820,
+      "col_5": "+ 2.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +2.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "کارخانه",
       "unittt": "شاخه",
       "col_3": "255",
       "price_strrr": "15,436,360",
-      "price_nummm": 15436360
+      "price_nummm": 15436360,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن یزد",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "135",
       "price_strrr": "7,000,000",
-      "price_nummm": 7000000
+      "price_nummm": 7000000,
+      "col_5": "+ 6.9%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +6.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن یزد",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "205",
       "price_strrr": "11,363,640",
-      "price_nummm": 11363640
+      "price_nummm": 11363640,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن یزد",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "240",
       "price_strrr": "14,090,910",
-      "price_nummm": 14090910
+      "price_nummm": 14090910,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن یزد",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "300",
       "price_strrr": "20,000,000",
-      "price_nummm": 20000000
+      "price_nummm": 20000000,
+      "col_5": "+ 2.3%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +2.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن یزد",
+        "update_labelll": ""
       },
       "sizeee": "24",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "-",
       "price_strrr": "23,163,640",
-      "price_nummm": 23163640
+      "price_nummm": 23163640,
+      "col_5": "+ 4.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +4.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن بناب",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "135",
       "price_strrr": "6,363,640",
-      "price_nummm": 6363640
+      "price_nummm": 6363640,
+      "col_5": "+ 7.7%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +7.7%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ماهان",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ماهان",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "165",
       "price_strrr": "8,000,000",
-      "price_nummm": 8000000
+      "price_nummm": 8000000,
+      "col_5": "+ 1.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ماهان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ماهان",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن ماهان",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "190",
       "price_strrr": "11,090,910",
-      "price_nummm": 11090910
+      "price_nummm": 11090910,
+      "col_5": "+ 0.8%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ماهان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.8%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن کرمانشاه",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "130",
       "price_strrr": "50,000",
-      "price_nummm": 50000
+      "price_nummm": 50000,
+      "col_5": "+ 1.9%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن کرمانشاه",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "130",
       "price_strrr": "6,090,910",
-      "price_nummm": 6090910
+      "price_nummm": 6090910,
+      "col_5": "+ 4.7%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +4.7%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن کرمانشاه",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "کارخانه",
       "unittt": "کیلوگرم",
       "col_3": "-",
       "price_strrr": "50,000",
-      "price_nummm": 50000
+      "price_nummm": 50000,
+      "col_5": "+ 1.9%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اطلس",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن اطلس",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "120",
       "price_strrr": "6,072,730",
-      "price_nummm": 6072730
+      "price_nummm": 6072730,
+      "col_5": "+ 3.1%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "اطلس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +3.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن خیام سپهر فولاد نیشابور",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "245",
       "price_strrr": "14,981,820",
-      "price_nummm": 14981820
+      "price_nummm": 14981820,
+      "col_5": "+ 1.9%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن خیام سپهر فولاد نیشابور",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "172",
       "price_strrr": "8,981,820",
-      "price_nummm": 8981820
+      "price_nummm": 8981820,
+      "col_5": "+ 1.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
+        "category_nameee": "تیرآهن خیام سپهر فولاد نیشابور",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "135",
       "price_strrr": "7,000,000",
-      "price_nummm": 7000000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 7000000,
+      "col_5": "0.0%",
+      "col_6": ""
     }
   ]
 }
