@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/",
-  "scraped_attt": "2026-01-08T09:26:19.742Z",
+  "scraped_attt": "2026-01-08T09:56:21.503Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -9,13 +9,16 @@
     "محل بارگیری",
     "برند",
     "واحد",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده کویر کاشان",
+        "update_labelll": ""
       },
       "sizeee": "5.5",
       "col_1": "کلاف",
@@ -23,27 +26,16 @@
       "col_3": "کارخانه",
       "col_4": "کاشان",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "49,550",
-      "price_nummm": 49550
+      "price_nummm": 49550,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده کویر کاشان",
+        "update_labelll": ""
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
@@ -51,27 +43,16 @@
       "col_3": "کارخانه",
       "col_4": "کاشان",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "49,550",
-      "price_nummm": 49550
+      "price_nummm": 49550,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده ابهر",
+        "update_labelll": ""
       },
       "sizeee": "5.5",
       "col_1": "کلاف",
@@ -79,27 +60,16 @@
       "col_3": "کارخانه",
       "col_4": "ابهر",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "49,090",
-      "price_nummm": 49090
+      "price_nummm": 49090,
+      "col_8": "+ 1.5%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده ابهر",
+        "update_labelll": ""
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
@@ -107,27 +77,16 @@
       "col_3": "کارخانه",
       "col_4": "ابهر",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "49,090",
-      "price_nummm": 49090
+      "price_nummm": 49090,
+      "col_8": "+ 1.5%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نطنز",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده نطنز",
+        "update_labelll": ""
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
@@ -135,27 +94,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "نطنز",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "48,640",
-      "price_nummm": 48640
+      "price_nummm": 48640,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "نطنز",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نطنز",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده نطنز",
+        "update_labelll": ""
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
@@ -163,27 +111,16 @@
       "col_3": "کارخانه",
       "col_4": "نطنز",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "48,910",
-      "price_nummm": 48910
+      "price_nummm": 48910,
+      "col_8": "+ 1.5%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "نطنز",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "10",
       "col_1": "شاخه 6 متری",
@@ -191,27 +128,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "48,090",
-      "price_nummm": 48090
+      "price_nummm": 48090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "10",
       "col_1": "-",
@@ -219,27 +145,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "52,640",
-      "price_nummm": 52640
+      "price_nummm": 52640,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "12",
       "col_1": "شاخه 6 متری",
@@ -247,27 +162,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,360",
-      "price_nummm": 50360
+      "price_nummm": 50360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "14",
       "col_1": "شاخه 6 متری",
@@ -275,27 +179,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "16",
       "col_1": "شاخه 6 متری",
@@ -303,27 +196,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "18",
       "col_1": "شاخه 6 متری",
@@ -331,27 +213,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "شاخه 6 متری",
@@ -359,27 +230,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "20",
       "col_1": "شاخه",
@@ -387,27 +247,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "22",
       "col_1": "شاخه",
@@ -415,27 +264,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده متین",
+        "update_labelll": ""
       },
       "sizeee": "25",
       "col_1": "شاخه 6 متری",
@@ -443,27 +281,16 @@
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "50,090",
-      "price_nummm": 50090
+      "price_nummm": 50090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ملایر",
-        "update_labelll": "|"
+        "category_nameee": "میلگرد ساده ملایر",
+        "update_labelll": ""
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
@@ -471,22 +298,11 @@
       "col_3": "بنگاه تهران",
       "col_4": "ملایر",
       "unittt": "کیلوگرم",
+      "col_6": "1404/10/18",
       "price_strrr": "48,640",
-      "price_nummm": 48640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ملایر",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/10/18 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 48640,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
