@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-فایبر-گلاس/",
-  "scraped_attt": "2026-01-31T06:57:58.979Z",
+  "scraped_attt": "2026-01-31T07:29:28.635Z",
   "headersss": [
     "حالت",
     "نوع",
@@ -13,7 +13,7 @@
     {
       "group_infooo": {
         "category_nameee": "صاف",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "صاف",
       "col_1": "750 گرمی",
@@ -25,9 +25,81 @@
     {
       "group_infooo": {
         "category_nameee": "صاف",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوزنقه",
+        "update_labelll": "|"
+      },
+      "col_0": "ذوزنقه",
+      "col_1": "300 گرمی",
+      "unittt": "مترمربع",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "251,860",
+      "price_nummm": 251860
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوزنقه",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوزنقه",
+        "update_labelll": "|"
+      },
+      "col_0": "ذوزنقه",
+      "col_1": "750 گرمی",
+      "unittt": "مترمربع",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "452,900",
+      "price_nummm": 452900
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوزنقه",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "|"
+      },
+      "col_0": "سینوسی",
+      "col_1": "750 گرمی",
+      "unittt": "مترمربع",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "452,900",
+      "price_nummm": 452900
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -136,54 +208,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "ذوزنقه",
-      "col_1": "300 گرمی",
-      "unittt": "مترمربع",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "251,860",
-      "price_nummm": 251860
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ذوزنقه",
-      "col_1": "750 گرمی",
-      "unittt": "مترمربع",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "452,900",
-      "price_nummm": 452900
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ذوزنقه",
       "col_1": "600 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
@@ -213,30 +237,6 @@
       "col_3": "بنگاه تهران",
       "price_strrr": "440,750",
       "price_nummm": 440750
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "سینوسی",
-      "col_1": "750 گرمی",
-      "unittt": "مترمربع",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "452,900",
-      "price_nummm": 452900
     },
     {
       "group_infooo": {
