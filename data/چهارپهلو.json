@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو/",
-  "scraped_attt": "2026-01-31T12:27:27.362Z",
+  "scraped_attt": "2026-01-31T12:33:58.476Z",
   "headersss": [
     "حالت",
     "سایز",
@@ -107,6 +107,28 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "77,870",
       "price_nummm": 77870
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "نرمال",
+      "sizeee": "30*50",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "77,820",
+      "price_nummm": 77820
     },
     {
       "group_infooo": {
@@ -309,6 +331,28 @@
     {
       "group_infooo": {
         "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "ترانس",
+      "sizeee": "4*4",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "83,510",
+      "price_nummm": 83510
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
@@ -554,28 +598,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ترانس",
-      "sizeee": "4*4",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "83,510",
-      "price_nummm": 83510
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "price_strrr": "",
