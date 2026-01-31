@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-01-31T08:56:46.405Z",
+  "scraped_attt": "2026-01-31T09:26:43.308Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -231,6 +231,30 @@
         "category_nameee": "یزد",
         "update_labelll": "|"
       },
+      "sizeee": "18",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "205",
+      "price_strrr": "11,363,640",
+      "price_nummm": 11363640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "یزد",
+        "update_labelll": "|"
+      },
       "sizeee": "24",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
@@ -244,6 +268,54 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.8%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ماهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "165",
+      "price_strrr": "8,181,820",
+      "price_nummm": 8181820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ماهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کرمانشاه",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "کارخانه",
+      "unittt": "کیلوگرم",
+      "col_3": "130",
+      "price_strrr": "50,000",
+      "price_nummm": 50000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کرمانشاه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -831,30 +903,6 @@
         "category_nameee": "یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "18",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "205",
-      "price_strrr": "11,181,820",
-      "price_nummm": 11181820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -5.4%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "امروز"
-      },
       "sizeee": "20",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
@@ -916,54 +964,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +7.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ماهان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "165",
-      "price_strrr": "8,181,820",
-      "price_nummm": 8181820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ماهان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "کارخانه",
-      "unittt": "کیلوگرم",
-      "col_3": "130",
-      "price_strrr": "50,000",
-      "price_nummm": 50000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.5%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
