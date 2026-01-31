@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
-  "scraped_attt": "2026-01-31T12:57:32.278Z",
+  "scraped_attt": "2026-01-31T13:57:48.306Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -10,6 +10,30 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "99,450",
+      "price_nummm": 99450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
@@ -25,6 +49,30 @@
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "112,730",
+      "price_nummm": 112730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
@@ -84,6 +132,30 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "روی اندود",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "97,910",
+      "price_nummm": 97910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "روی اندود",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "دشتستان",
         "update_labelll": "|"
       },
@@ -108,30 +180,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "تاراز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "99,450",
-      "price_nummm": 99450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "تاراز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
@@ -148,54 +196,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "112,730",
-      "price_nummm": 112730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "روی اندود",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "97,910",
-      "price_nummm": 97910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "روی اندود",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
