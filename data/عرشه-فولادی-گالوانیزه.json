@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
-  "scraped_attt": "2026-01-31T12:57:14.226Z",
+  "scraped_attt": "2026-01-31T13:57:26.186Z",
   "headersss": [
     "ضخامت (میل)",
     "برند",
@@ -9,6 +9,28 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "col_1": "هفت الماس",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "88,270",
+      "price_nummm": 88270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
@@ -111,6 +133,28 @@
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "col_1": "کاشان",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "88,360",
+      "price_nummm": 88360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
@@ -256,28 +300,6 @@
         "category_nameee": "هفت الماس",
         "update_labelll": "امروز"
       },
-      "col_0": "0.8",
-      "col_1": "هفت الماس",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "88,270",
-      "price_nummm": 88270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
       "col_0": "1",
       "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
@@ -312,28 +334,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "col_1": "کاشان",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "88,360",
-      "price_nummm": 88360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
