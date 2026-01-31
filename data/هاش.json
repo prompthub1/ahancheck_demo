@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-01-31T12:27:00.866Z",
+  "scraped_attt": "2026-01-31T12:33:34.543Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -12,6 +12,34 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "HEA",
+      "col_2": "شاخه 12 متری",
+      "col_3": "ذوب آهن",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "127,270",
+      "price_nummm": 127270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "HEA",
@@ -157,6 +185,62 @@
         "category_nameee": "HEB",
         "update_labelll": "|"
       },
+      "sizeee": "14",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "ذوب آهن",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "129,090",
+      "price_nummm": 129090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "ذوب آهن",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "129,090",
+      "price_nummm": 129090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
       "sizeee": "20",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
@@ -266,6 +350,34 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "30",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "ذوب آهن",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "131,820",
+      "price_nummm": 131820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "HEA",
         "update_labelll": "امروز"
       },
@@ -354,34 +466,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "18",
-      "col_1": "HEA",
-      "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "127,270",
-      "price_nummm": 127270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
       "col_1": "HEA",
       "col_2": "شاخه 12 متری",
       "col_3": "ذوب آهن",
@@ -605,62 +689,6 @@
         "category_nameee": "HEB",
         "update_labelll": "امروز"
       },
-      "sizeee": "14",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "129,090",
-      "price_nummm": 129090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "129,090",
-      "price_nummm": 129090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
       "sizeee": "26",
       "col_1": "HEB",
       "col_2": "12 متری",
@@ -732,34 +760,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "30",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "131,820",
-      "price_nummm": 131820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.3%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
