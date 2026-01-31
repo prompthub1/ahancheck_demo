@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-اسید-شوئی/",
-  "scraped_attt": "2026-01-31T07:28:43.992Z",
+  "scraped_attt": "2026-01-31T07:57:25.765Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -11,6 +11,58 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ST37",
+        "update_labelll": "|"
+      },
+      "col_0": "ST37",
+      "col_1": "5",
+      "col_2": "فولاد غرب",
+      "sizeee": "1250",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "90,820",
+      "price_nummm": 90820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ST37",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
+      "col_1": "",
+      "col_2": "",
+      "sizeee": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ST37",
+        "update_labelll": "|"
+      },
+      "col_0": "ST37",
+      "col_1": "3",
+      "col_2": "فولاد غرب",
+      "sizeee": "1000",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "90,770",
+      "price_nummm": 90770
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ST37",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "sizeee": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "ST37",
@@ -487,32 +539,6 @@
       "col_0": "ST37",
       "col_1": "5",
       "col_2": "فولاد غرب",
-      "sizeee": "1250",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "90,820",
-      "price_nummm": 90820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ST37",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ST37",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ST37",
-      "col_1": "5",
-      "col_2": "فولاد غرب",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
       "price_strrr": "90,820",
@@ -595,32 +621,6 @@
       "col_4": "بنگاه تهران",
       "price_strrr": "91,230",
       "price_nummm": 91230
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ST37",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ST37",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ST37",
-      "col_1": "3",
-      "col_2": "فولاد غرب",
-      "sizeee": "1000",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "90,770",
-      "price_nummm": 90770
     },
     {
       "group_infooo": {
