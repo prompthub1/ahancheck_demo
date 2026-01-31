@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-01-31T12:26:39.481Z",
+  "scraped_attt": "2026-01-31T12:33:18.387Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -156,6 +156,30 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "50,780",
+      "price_nummm": 50780
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "هموزن اروپا",
         "update_labelll": "|"
       },
@@ -213,6 +237,30 @@
       "col_3": "بنگاه تهران",
       "price_strrr": "53,890",
       "price_nummm": 53890
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "120,640",
+      "price_nummm": 120640
     },
     {
       "group_infooo": {
@@ -652,30 +700,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "50,960",
-      "price_nummm": 50960
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
