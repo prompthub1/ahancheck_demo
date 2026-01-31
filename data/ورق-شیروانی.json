@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-شیروانی/",
-  "scraped_attt": "2026-01-31T07:57:51.335Z",
+  "scraped_attt": "2026-01-31T08:28:28.814Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -13,49 +13,23 @@
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
+        "category_nameee": "چینی",
         "update_labelll": "|"
       },
-      "col_0": "0.5",
+      "col_0": "0.47",
       "sizeee": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
       "col_4": "قرمز",
-      "price_strrr": "116,640",
-      "price_nummm": 116640
+      "price_strrr": "113,820",
+      "price_nummm": 113820
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
+        "category_nameee": "چینی",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "0.5",
-      "sizeee": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "col_4": "سفید یخچالی",
-      "price_strrr": "116,640",
-      "price_nummm": 116640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "unittt": "",
@@ -72,39 +46,13 @@
       "sizeee": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_4": "آبی",
+      "col_4": "سفید یخچالی",
       "price_strrr": "113,820",
       "price_nummm": 113820
     },
     {
       "group_infooo": {
         "category_nameee": "چینی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "0.48",
-      "sizeee": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "col_4": "قرمز",
-      "price_strrr": "113,180",
-      "price_nummm": 113180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
@@ -124,9 +72,9 @@
       "sizeee": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_4": "آبی",
-      "price_strrr": "112,730",
-      "price_nummm": 112730
+      "col_4": "سفید یخچالی",
+      "price_strrr": "113,640",
+      "price_nummm": 113640
     },
     {
       "group_infooo": {
@@ -134,6 +82,58 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "sizeee": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_4": "قرمز",
+      "price_strrr": "116,640",
+      "price_nummm": 116640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "sizeee": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_4": "سفید یخچالی",
+      "price_strrr": "116,640",
+      "price_nummm": 116640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "sizeee": "",
       "col_2": "",
       "unittt": "",
@@ -176,7 +176,7 @@
       "sizeee": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_4": "قرمز",
+      "col_4": "آبی",
       "price_strrr": "113,820",
       "price_nummm": 113820
     },
@@ -185,33 +185,7 @@
         "category_nameee": "چینی",
         "update_labelll": "امروز"
       },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چینی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.47",
-      "sizeee": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "col_4": "سفید یخچالی",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چینی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "sizeee": "",
       "col_2": "",
       "unittt": "",
@@ -228,9 +202,35 @@
       "sizeee": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_4": "سفید یخچالی",
-      "price_strrr": "113,640",
-      "price_nummm": 113640
+      "col_4": "آبی",
+      "price_strrr": "112,730",
+      "price_nummm": 112730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "sizeee": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_4": "قرمز",
+      "price_strrr": "113,180",
+      "price_nummm": 113180
     },
     {
       "group_infooo": {
