@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-01-31T07:56:15.314Z",
+  "scraped_attt": "2026-01-31T08:26:16.736Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -14,8 +14,30 @@
         "category_nameee": "ظفر بناب",
         "update_labelll": "|"
       },
-      "sizeee": "12",
-      "col_1": "A3",
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "48,000",
+      "price_nummm": 48000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "47,640",
       "price_nummm": 47640
@@ -36,84 +58,40 @@
         "category_nameee": "ظفر بناب",
         "update_labelll": "|"
       },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.4%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "|"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.4%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "|"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,820",
-      "price_nummm": 46820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -3.7%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "|"
-      },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,820",
-      "price_nummm": 46820
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
-        "category_nameee": "نیشابور",
+        "category_nameee": "ظفر بناب",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -3.7%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,270",
+      "price_nummm": 47270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -124,7 +102,7 @@
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "22",
+      "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "46,820",
@@ -135,7 +113,51 @@
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -3.7%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,820",
+      "price_nummm": 46820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,820",
+      "price_nummm": 46820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -146,8 +168,30 @@
         "category_nameee": "ابهر",
         "update_labelll": "|"
       },
-      "sizeee": "10",
-      "col_1": "A3",
+      "sizeee": "5.5",
+      "col_1": "A1",
+      "col_2": "کارخانه",
+      "price_strrr": "50,000",
+      "price_nummm": 50000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "48,180",
       "price_nummm": 48180
@@ -168,29 +212,7 @@
         "category_nameee": "ابهر",
         "update_labelll": "|"
       },
-      "sizeee": "12",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -2.3%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "22",
+      "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "46,360",
@@ -209,21 +231,87 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "راد همدان",
+        "category_nameee": "ابهر",
         "update_labelll": "|"
       },
-      "sizeee": "8",
-      "col_1": "A2",
+      "sizeee": "20",
+      "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "50,950",
-      "price_nummm": 50950
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
-        "category_nameee": "راد همدان",
+        "category_nameee": "ابهر",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,360",
+      "price_nummm": 46360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "48,640",
+      "price_nummm": 48640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "48,640",
+      "price_nummm": 48640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -234,7 +322,29 @@
         "category_nameee": "راد همدان",
         "update_labelll": "|"
       },
-      "sizeee": "20",
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,400",
+      "price_nummm": 49400
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "49,130",
@@ -245,7 +355,7 @@
         "category_nameee": "راد همدان",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -256,7 +366,7 @@
         "category_nameee": "راد همدان",
         "update_labelll": "|"
       },
-      "sizeee": "28",
+      "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "49,220",
@@ -275,21 +385,21 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
+        "category_nameee": "نورد گرم سمنان",
         "update_labelll": "|"
       },
-      "sizeee": "12",
-      "col_1": "A2",
+      "sizeee": "8",
+      "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,360",
-      "price_nummm": 47360
+      "price_strrr": "48,180",
+      "price_nummm": 48180
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
+        "category_nameee": "نورد گرم سمنان",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -7.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.1%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -300,7 +410,51 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "|"
       },
-      "sizeee": "22",
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,730",
+      "price_nummm": 47730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "47,640",
+      "price_nummm": 47640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "47,270",
@@ -320,20 +474,108 @@
     {
       "group_infooo": {
         "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,270",
+      "price_nummm": 47270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "48,180",
+      "price_nummm": 48180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "48,180",
+      "price_nummm": 48180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,820",
+      "price_nummm": 47820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +3.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "47,820",
+      "price_nummm": 47820
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
+        "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -7.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -341,21 +583,87 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن اصفهان",
-        "update_labelll": "امروز"
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
-      "sizeee": "12",
+      "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "60,000",
-      "price_nummm": 60000
+      "price_strrr": "47,410",
+      "price_nummm": 47410
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوب آهن اصفهان",
-        "update_labelll": "امروز"
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +8.2%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,410",
+      "price_nummm": 47410
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,180",
+      "price_nummm": 47180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,270",
+      "price_nummm": 47270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +2.4%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -369,15 +677,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "59,360",
-      "price_nummm": 59360
+      "price_strrr": "54,820",
+      "price_nummm": 54820
     },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +8.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -7.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -391,15 +699,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "57,090",
-      "price_nummm": 57090
+      "price_strrr": "52,550",
+      "price_nummm": 52550
     },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +8.7%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -8.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -435,15 +743,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "53,180",
-      "price_nummm": 53180
+      "price_strrr": "48,640",
+      "price_nummm": 48640
     },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +9.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -8.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -457,15 +765,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "55,450",
-      "price_nummm": 55450
+      "price_strrr": "50,910",
+      "price_nummm": 50910
     },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +8.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -8.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -479,15 +787,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "60,000",
-      "price_nummm": 60000
+      "price_strrr": "55,450",
+      "price_nummm": 55450
     },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +8.2%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -7.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -523,15 +831,15 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
+      "price_strrr": "52,730",
+      "price_nummm": 52730
     },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +8.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -7.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -677,15 +985,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "46,000",
+      "price_nummm": 46000
     },
     {
       "group_infooo": {
         "category_nameee": "میانه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +3.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -699,15 +1007,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "46,000",
+      "price_nummm": 46000
     },
     {
       "group_infooo": {
         "category_nameee": "میانه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +3.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -762,50 +1070,6 @@
         "category_nameee": "ظفر بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "47,360",
-      "price_nummm": 47360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "47,000",
-      "price_nummm": 47000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "امروز"
-      },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
@@ -828,18 +1092,18 @@
         "category_nameee": "ظفر بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "14",
+      "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
+      "price_strrr": "47,180",
+      "price_nummm": 47180
     },
     {
       "group_infooo": {
         "category_nameee": "ظفر بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -850,18 +1114,40 @@
         "category_nameee": "ظفر بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "18",
+      "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "ظفر بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,820",
+      "price_nummm": 46820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -875,15 +1161,37 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "ظفر بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,820",
+      "price_nummm": 46820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -913,43 +1221,21 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظفر بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "53,550",
-      "price_nummm": 53550
+      "price_strrr": "51,450",
+      "price_nummm": 51450
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.7%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -985,15 +1271,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "58,820",
-      "price_nummm": 58820
+      "price_strrr": "56,730",
+      "price_nummm": 56730
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1007,15 +1293,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "51,090",
-      "price_nummm": 51090
+      "price_strrr": "48,820",
+      "price_nummm": 48820
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.4%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1029,15 +1315,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "49,820",
-      "price_nummm": 49820
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1048,18 +1334,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "14",
+      "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,640",
-      "price_nummm": 48640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1095,15 +1381,59 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "49,820",
-      "price_nummm": 49820
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,360",
+      "price_nummm": 46360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,360",
+      "price_nummm": 46360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1119,28 +1449,6 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "49,820",
       "price_nummm": 49820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "48,640",
-      "price_nummm": 48640
     },
     {
       "group_infooo": {
@@ -1161,15 +1469,37 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "49,820",
-      "price_nummm": 49820
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,360",
+      "price_nummm": 46360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1202,40 +1532,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "48,640",
-      "price_nummm": 48640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "49,820",
-      "price_nummm": 49820
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1246,18 +1554,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "28",
+      "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,640",
-      "price_nummm": 48640
+      "price_strrr": "46,640",
+      "price_nummm": 46640
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.4%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1287,18 +1595,18 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "نیشابور",
+        "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "32",
-      "col_1": "A3",
+      "sizeee": "6.5",
+      "col_1": "A1",
       "col_2": "کارخانه",
-      "price_strrr": "49,820",
-      "price_nummm": 49820
+      "price_strrr": "50,000",
+      "price_nummm": 50000
     },
     {
       "group_infooo": {
-        "category_nameee": "نیشابور",
+        "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
@@ -1312,62 +1620,18 @@
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "5.5",
-      "col_1": "A1",
-      "col_2": "کارخانه",
-      "price_strrr": "49,090",
-      "price_nummm": 49090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6.5",
-      "col_1": "A1",
-      "col_2": "کارخانه",
-      "price_strrr": "49,090",
-      "price_nummm": 49090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
+      "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "49,270",
-      "price_nummm": 49270
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.7%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.3%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1379,17 +1643,39 @@
         "update_labelll": "امروز"
       },
       "sizeee": "10",
-      "col_1": "A2",
+      "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,360",
-      "price_nummm": 48360
+      "price_strrr": "48,180",
+      "price_nummm": 48180
     },
     {
       "group_infooo": {
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.7%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "12",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "47,270",
+      "price_nummm": 47270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.3%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1422,40 +1708,18 @@
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.3%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1469,15 +1733,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.3%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1488,18 +1752,18 @@
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "20",
+      "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.3%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1507,21 +1771,21 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ابهر",
+        "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "25",
+      "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
-        "category_nameee": "ابهر",
+        "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1543,29 +1807,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1579,15 +1821,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "48,270",
-      "price_nummm": 48270
+      "price_strrr": "48,360",
+      "price_nummm": 48360
     },
     {
       "group_infooo": {
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1609,7 +1851,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1623,15 +1865,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "47,180",
-      "price_nummm": 47180
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1653,29 +1895,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "47,180",
-      "price_nummm": 47180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1697,7 +1917,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1711,15 +1931,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "47,180",
-      "price_nummm": 47180
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1741,7 +1961,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1755,15 +1975,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "47,180",
-      "price_nummm": 47180
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1785,29 +2005,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "47,180",
-      "price_nummm": 47180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1829,7 +2027,29 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1862,40 +2082,18 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,910",
-      "price_nummm": 45910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
+      "price_strrr": "47,550",
+      "price_nummm": 47550
     },
     {
       "group_infooo": {
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1917,7 +2115,7 @@
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1983,7 +2181,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2005,7 +2203,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2027,7 +2225,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2049,7 +2247,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2093,7 +2291,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2115,7 +2313,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2137,7 +2335,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2159,7 +2357,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2181,7 +2379,7 @@
         "category_nameee": "فایکو",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2195,15 +2393,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,610",
-      "price_nummm": 47610
+      "price_strrr": "47,150",
+      "price_nummm": 47150
     },
     {
       "group_infooo": {
         "category_nameee": "جهان فولاد سیرجان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2217,15 +2415,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,550",
-      "price_nummm": 45550
+      "price_strrr": "45,090",
+      "price_nummm": 45090
     },
     {
       "group_infooo": {
         "category_nameee": "جهان فولاد سیرجان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2239,15 +2437,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,550",
-      "price_nummm": 45550
+      "price_strrr": "45,090",
+      "price_nummm": 45090
     },
     {
       "group_infooo": {
         "category_nameee": "جهان فولاد سیرجان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2261,15 +2459,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "جهان فولاد سیرجان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2327,15 +2525,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "جهان فولاد سیرجان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2349,15 +2547,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "جهان فولاد سیرجان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2437,15 +2635,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "50,000",
-      "price_nummm": 50000
+      "price_strrr": "47,000",
+      "price_nummm": 47000
     },
     {
       "group_infooo": {
         "category_nameee": "بافق یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.8%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2459,15 +2657,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,730",
-      "price_nummm": 48730
+      "price_strrr": "45,730",
+      "price_nummm": 45730
     },
     {
       "group_infooo": {
         "category_nameee": "بافق یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2503,15 +2701,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,450",
-      "price_nummm": 48450
+      "price_strrr": "45,450",
+      "price_nummm": 45450
     },
     {
       "group_infooo": {
         "category_nameee": "بافق یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2547,15 +2745,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,450",
-      "price_nummm": 48450
+      "price_strrr": "45,450",
+      "price_nummm": 45450
     },
     {
       "group_infooo": {
         "category_nameee": "بافق یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -4.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2591,15 +2789,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,910",
-      "price_nummm": 48910
+      "price_strrr": "45,910",
+      "price_nummm": 45910
     },
     {
       "group_infooo": {
         "category_nameee": "بافق یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.1%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2613,15 +2811,15 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,910",
-      "price_nummm": 48910
+      "price_strrr": "45,910",
+      "price_nummm": 45910
     },
     {
       "group_infooo": {
         "category_nameee": "بافق یزد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -3.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -6.1%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2635,15 +2833,15 @@
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
+      "price_strrr": "49,090",
+      "price_nummm": 49090
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2657,15 +2855,15 @@
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "49,090",
-      "price_nummm": 49090
+      "price_strrr": "48,640",
+      "price_nummm": 48640
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2679,15 +2877,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,450",
-      "price_nummm": 48450
+      "price_strrr": "48,000",
+      "price_nummm": 48000
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2723,15 +2921,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2767,15 +2965,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2789,15 +2987,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,680",
-      "price_nummm": 47680
+      "price_strrr": "47,230",
+      "price_nummm": 47230
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2811,15 +3009,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,680",
-      "price_nummm": 47680
+      "price_strrr": "47,230",
+      "price_nummm": 47230
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2833,15 +3031,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
+      "price_strrr": "47,000",
+      "price_nummm": 47000
     },
     {
       "group_infooo": {
         "category_nameee": "شاهرود",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2921,15 +3119,15 @@
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2965,15 +3163,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,180",
-      "price_nummm": 47180
+      "price_strrr": "48,090",
+      "price_nummm": 48090
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2987,15 +3185,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3009,15 +3207,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3031,15 +3229,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3075,15 +3273,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3097,15 +3295,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3119,15 +3317,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3141,15 +3339,15 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "شاهین بناب",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3163,15 +3361,15 @@
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "43,450",
-      "price_nummm": 43450
+      "price_strrr": "43,730",
+      "price_nummm": 43730
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3185,15 +3383,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "43,000",
-      "price_nummm": 43000
+      "price_strrr": "43,270",
+      "price_nummm": 43270
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3207,15 +3405,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,550",
-      "price_nummm": 46550
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3229,15 +3427,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "42,000",
-      "price_nummm": 42000
+      "price_strrr": "42,270",
+      "price_nummm": 42270
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3251,15 +3449,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,550",
-      "price_nummm": 46550
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3273,15 +3471,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,550",
-      "price_nummm": 46550
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3339,15 +3537,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,550",
-      "price_nummm": 46550
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3361,15 +3559,37 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,550",
-      "price_nummm": 46550
+      "price_strrr": "46,820",
+      "price_nummm": 46820
     },
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد زاگرس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "49,090",
+      "price_nummm": 49090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3383,37 +3603,15 @@
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "48,590",
-      "price_nummm": 48590
+      "price_strrr": "48,360",
+      "price_nummm": 48360
     },
     {
       "group_infooo": {
         "category_nameee": "راد همدان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "راد همدان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,770",
-      "price_nummm": 47770
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "راد همدان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3427,37 +3625,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,500",
-      "price_nummm": 47500
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "راد همدان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "راد همدان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,500",
-      "price_nummm": 47500
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "راد همدان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3469,6 +3645,28 @@
         "update_labelll": "امروز"
       },
       "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,270",
+      "price_nummm": 47270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "47,500",
@@ -3493,15 +3691,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,590",
-      "price_nummm": 47590
+      "price_strrr": "47,360",
+      "price_nummm": 47360
     },
     {
       "group_infooo": {
         "category_nameee": "راد همدان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3512,18 +3710,18 @@
         "category_nameee": "راد همدان",
         "update_labelll": "امروز"
       },
-      "sizeee": "25",
+      "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,590",
-      "price_nummm": 47590
+      "price_strrr": "47,360",
+      "price_nummm": 47360
     },
     {
       "group_infooo": {
         "category_nameee": "راد همدان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3537,15 +3735,15 @@
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "بنگاه تهران",
-      "price_strrr": "48,000",
-      "price_nummm": 48000
+      "price_strrr": "48,450",
+      "price_nummm": 48450
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3559,15 +3757,15 @@
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "47,820",
-      "price_nummm": 47820
+      "price_strrr": "48,270",
+      "price_nummm": 48270
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3603,15 +3801,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3669,15 +3867,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3691,15 +3889,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
+      "price_strrr": "47,730",
+      "price_nummm": 47730
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3713,15 +3911,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,820",
-      "price_nummm": 47820
+      "price_strrr": "48,270",
+      "price_nummm": 48270
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3735,15 +3933,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,820",
-      "price_nummm": 47820
+      "price_strrr": "48,270",
+      "price_nummm": 48270
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3757,37 +3955,15 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,820",
-      "price_nummm": 47820
+      "price_strrr": "48,270",
+      "price_nummm": 48270
     },
     {
       "group_infooo": {
         "category_nameee": "آناهیتا گیلان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,730",
-      "price_nummm": 51730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3809,7 +3985,29 @@
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,730",
+      "price_nummm": 51730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3831,7 +4029,7 @@
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3897,7 +4095,7 @@
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3919,7 +4117,7 @@
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -3941,7 +4139,7 @@
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4007,7 +4205,7 @@
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4065,15 +4263,15 @@
       "sizeee": "6.5",
       "col_1": "A1",
       "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
+      "price_strrr": "50,450",
+      "price_nummm": 50450
     },
     {
       "group_infooo": {
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.8%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4095,7 +4293,7 @@
         "category_nameee": "قائم",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.2%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4183,7 +4381,7 @@
         "category_nameee": "قائم",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.2%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4205,7 +4403,7 @@
         "category_nameee": "قائم",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4227,7 +4425,7 @@
         "category_nameee": "قائم",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4271,29 +4469,7 @@
         "category_nameee": "قائم",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد گرم سمنان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد گرم سمنان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4304,40 +4480,18 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,730",
-      "price_nummm": 51730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
+      "sizeee": "12",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "51,640",
-      "price_nummm": 51640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -9.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4392,40 +4546,18 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,270",
-      "price_nummm": 51270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "51,270",
-      "price_nummm": 51270
+      "price_strrr": "46,270",
+      "price_nummm": 46270
     },
     {
       "group_infooo": {
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -9.8%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4436,18 +4568,40 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "20",
+      "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "51,270",
-      "price_nummm": 51270
+      "price_strrr": "46,270",
+      "price_nummm": 46270
     },
     {
       "group_infooo": {
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -9.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,270",
+      "price_nummm": 46270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -9.8%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4469,7 +4623,7 @@
         "category_nameee": "فولاد سپهر ایرانیان",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4483,59 +4637,15 @@
       "sizeee": "8",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,730",
-      "price_nummm": 47730
+      "price_strrr": "47,000",
+      "price_nummm": 47000
     },
     {
       "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4593,15 +4703,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4615,37 +4725,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4659,15 +4747,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4681,37 +4769,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاوه تیکمه داش",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4769,15 +4835,15 @@
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
+      "price_strrr": "48,000",
+      "price_nummm": 48000
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4791,15 +4857,15 @@
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "46,730",
-      "price_nummm": 46730
+      "price_strrr": "47,640",
+      "price_nummm": 47640
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4813,15 +4879,15 @@
       "sizeee": "12",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "46,730",
-      "price_nummm": 46730
+      "price_strrr": "47,640",
+      "price_nummm": 47640
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.9%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4835,15 +4901,15 @@
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4857,15 +4923,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4879,15 +4945,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4901,15 +4967,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4945,15 +5011,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,360",
-      "price_nummm": 46360
+      "price_strrr": "47,270",
+      "price_nummm": 47270
     },
     {
       "group_infooo": {
         "category_nameee": "درپاد تبریز",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4984,6 +5050,402 @@
     {
       "group_infooo": {
         "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,450",
+      "price_nummm": 47450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,090",
+      "price_nummm": 46090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,450",
+      "price_nummm": 45450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,450",
+      "price_nummm": 45450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,450",
+      "price_nummm": 45450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,450",
+      "price_nummm": 45450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "46,820",
+      "price_nummm": 46820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "45,910",
+      "price_nummm": 45910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "47,910",
+      "price_nummm": 47910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "47,000",
+      "price_nummm": 47000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
       "sizeee": "12",
@@ -4994,10 +5456,10 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5005,65 +5467,21 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,640",
-      "price_nummm": 45640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "46,180",
+      "price_nummm": 46180
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5071,21 +5489,21 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "46,640",
+      "price_nummm": 46640
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5093,21 +5511,21 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "46,180",
+      "price_nummm": 46180
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5115,186 +5533,10 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
+        "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
       "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کوثر اهواز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "46,360",
@@ -5302,274 +5544,10 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خلیج فارس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "هیربد",
         "update_labelll": "امروز"
       },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "48,360",
-      "price_nummm": 48360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,450",
-      "price_nummm": 47450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,770",
-      "price_nummm": 46770
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,770",
-      "price_nummm": 46770
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,550",
-      "price_nummm": 46550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,640",
-      "price_nummm": 46640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "46,820",
-      "price_nummm": 46820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.6%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5583,15 +5561,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "46,270",
-      "price_nummm": 46270
+      "price_strrr": "45,820",
+      "price_nummm": 45820
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5627,15 +5605,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,550",
-      "price_nummm": 45550
+      "price_strrr": "45,090",
+      "price_nummm": 45090
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5649,15 +5627,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5671,15 +5649,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5693,15 +5671,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5737,15 +5715,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5759,37 +5737,15 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "45,450",
-      "price_nummm": 45450
+      "price_strrr": "45,000",
+      "price_nummm": 45000
     },
     {
       "group_infooo": {
         "category_nameee": "ابرکوه",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +2.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "47,730",
-      "price_nummm": 47730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.4%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5811,29 +5767,7 @@
         "category_nameee": "پردیس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "47,090",
-      "price_nummm": 47090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5855,7 +5789,51 @@
         "category_nameee": "پردیس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "47,090",
+      "price_nummm": 47090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "47,730",
+      "price_nummm": 47730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5899,7 +5877,7 @@
         "category_nameee": "پردیس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5943,7 +5921,7 @@
         "category_nameee": "پردیس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -5987,7 +5965,7 @@
         "category_nameee": "پردیس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6031,7 +6009,7 @@
         "category_nameee": "پردیس",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +4.1%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6045,15 +6023,15 @@
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,640",
-      "price_nummm": 48640
+      "price_strrr": "47,360",
+      "price_nummm": 47360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6067,15 +6045,15 @@
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "48,270",
-      "price_nummm": 48270
+      "price_strrr": "47,000",
+      "price_nummm": 47000
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.6%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6111,15 +6089,15 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6133,15 +6111,15 @@
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6155,15 +6133,15 @@
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6177,15 +6155,15 @@
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6199,15 +6177,15 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6221,15 +6199,15 @@
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,640",
-      "price_nummm": 47640
+      "price_strrr": "46,360",
+      "price_nummm": 46360
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6243,15 +6221,15 @@
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "47,590",
-      "price_nummm": 47590
+      "price_strrr": "46,320",
+      "price_nummm": 46320
     },
     {
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -2.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -6260,55 +6238,55 @@
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
-        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,000 تا 60,000 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4927 تومان افزایش همراه بوده است که معادل 8.3%"
+        "update_labelll": "در این صفحه از آهن آنلاین، قیمت روز میلگرد کارخانه‌های تولیدکننده مختلف را به‌همراه مشخصات فنی دقیق مشاهده می‌کنید. قیمت میلگرد با توجه به سایز و کارخانه، به ازای هر کیلو از 42,270 تا 56,730 توما ن است. نرخ میلگرد امروز (شنبه 11 بهمن 1404) ، نسبت به روز گذشته با 4221 تومان کاهش همراه بوده است که معادل -7.7%"
       }
     }
   ]
