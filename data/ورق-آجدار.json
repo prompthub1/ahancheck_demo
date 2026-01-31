@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آجدار/",
-  "scraped_attt": "2026-01-31T12:57:09.314Z",
+  "scraped_attt": "2026-01-31T13:57:20.757Z",
   "headersss": [
     "ابعاد",
     "کشور / کارخانه",
@@ -28,6 +28,30 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +8.4%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "|"
+      },
+      "sizeee": "1250*2500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "87,230",
+      "price_nummm": 87230
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -183,6 +207,30 @@
         "category_nameee": "6",
         "update_labelll": "|"
       },
+      "sizeee": "1250*2500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "-",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "84,450",
+      "price_nummm": 84450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
       "sizeee": "2000*1000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
@@ -204,22 +252,46 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
+        "category_nameee": "6",
+        "update_labelll": "|"
       },
-      "sizeee": "1250*2500",
+      "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "price_strrr": "87,230",
-      "price_nummm": 87230
+      "price_strrr": "80,820",
+      "price_nummm": 80820
     },
     {
       "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "امروز"
+        "category_nameee": "6",
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "84,450",
+      "price_nummm": 84450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -241,78 +313,6 @@
     {
       "group_infooo": {
         "category_nameee": "5",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "1250*2500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "-",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "84,450",
-      "price_nummm": 84450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "80,820",
-      "price_nummm": 80820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "84,450",
-      "price_nummm": 84450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : +0.0%",
