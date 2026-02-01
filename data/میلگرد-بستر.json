@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
-  "scraped_attt": "2026-01-31T21:26:13.423Z",
+  "scraped_attt": "2026-02-01T03:56:13.071Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -11,6 +11,32 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "4",
+      "col_1": "شاخه 3 متری",
+      "col_2": "11",
+      "col_3": "بنگاه تهران",
+      "unittt": "شاخه",
+      "price_strrr": "49,090",
+      "price_nummm": 49090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.9%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "4",
@@ -44,7 +70,7 @@
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
-      "col_2": "11",
+      "col_2": "5.5",
       "col_3": "بنگاه تهران",
       "unittt": "شاخه",
       "price_strrr": "48,180",
@@ -55,33 +81,7 @@
         "category_nameee": "4",
         "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "4",
-      "col_1": "شاخه 3 متری",
-      "col_2": "5.5",
-      "col_3": "بنگاه تهران",
-      "unittt": "شاخه",
-      "price_strrr": "47,270",
-      "price_nummm": 47270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -1.9%",
+      "sizeee": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +1.9%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
