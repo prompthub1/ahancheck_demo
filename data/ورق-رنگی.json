@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_attt": "2026-01-31T21:27:16.098Z",
+  "scraped_attt": "2026-02-01T03:56:57.708Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -226,6 +226,32 @@
       },
       "col_0": "0.48",
       "col_1": "1250",
+      "col_2": "سفید یخچالی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "112,550",
+      "price_nummm": 112550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
       "col_2": "قرمز",
       "col_3": "چین",
       "col_4": "بنگاه تهران",
@@ -273,23 +299,23 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
+        "category_nameee": "هفت الماس",
         "update_labelll": "امروز"
       },
       "col_0": "0.48",
       "col_1": "1250",
-      "col_2": "سفید یخچالی",
-      "col_3": "چین",
+      "col_2": "قرمز",
+      "col_3": "هفت الماس",
       "col_4": "بنگاه تهران",
-      "price_strrr": "112,550",
-      "price_nummm": 112550
+      "price_strrr": "112,820",
+      "price_nummm": 112820
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
+        "category_nameee": "هفت الماس",
         "update_labelll": "امروز"
       },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -304,11 +330,11 @@
       },
       "col_0": "0.48",
       "col_1": "1250",
-      "col_2": "قرمز",
+      "col_2": "آبی",
       "col_3": "هفت الماس",
       "col_4": "بنگاه تهران",
-      "price_strrr": "112,820",
-      "price_nummm": 112820
+      "price_strrr": "111,910",
+      "price_nummm": 111910
     },
     {
       "group_infooo": {
@@ -368,32 +394,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/11 نمودار نوسانات : -0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "آبی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "111,910",
-      "price_nummm": 111910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/9 نمودار نوسانات : -0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
