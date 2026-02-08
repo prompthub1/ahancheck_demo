@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آلومینیوم/",
-  "scraped_attt": "2026-02-08T06:57:03.955Z",
+  "scraped_attt": "2026-02-08T07:27:16.994Z",
   "headersss": [
     "آلیاژ",
     "ضخامت",
@@ -12,6 +12,34 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "پارس آلومان کار",
+        "update_labelll": "|"
+      },
+      "col_0": "1050",
+      "col_1": "0.4",
+      "col_2": "شیت",
+      "sizeee": "1000*2000",
+      "col_4": "پارس آلومان کار",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "555,000",
+      "price_nummm": 555000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پارس آلومان کار",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "sizeee": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "نورد آلومینیوم اراک",
@@ -1205,34 +1233,6 @@
     {
       "group_infooo": {
         "category_nameee": "نورد آلومینیوم اراک",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پارس آلومان کار",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1050",
-      "col_1": "0.4",
-      "col_2": "شیت",
-      "sizeee": "1000*2000",
-      "col_4": "پارس آلومان کار",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "555,000",
-      "price_nummm": 555000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پارس آلومان کار",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/18 نمودار نوسانات : +0.0%",
