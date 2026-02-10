@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A516/",
-  "scraped_attt": "2026-02-10T22:27:28.728Z",
+  "scraped_attt": "2026-02-10T22:57:54.498Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -12,34 +12,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "col_0": "Gr 70",
-      "col_1": "15",
-      "sizeee": "1500",
-      "col_3": "فولاد مبارکه",
-      "col_4": "رول",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "66,090",
-      "price_nummm": 66090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
@@ -137,6 +109,34 @@
       "col_5": "بنگاه تهران",
       "price_strrr": "68,860",
       "price_nummm": 68860
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/21 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "Gr 70",
+      "col_1": "15",
+      "sizeee": "1500",
+      "col_3": "فولاد مبارکه",
+      "col_4": "رول",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "66,090",
+      "price_nummm": 66090
     },
     {
       "group_infooo": {
