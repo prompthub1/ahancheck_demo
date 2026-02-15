@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-اسید-شوئی/",
-  "scraped_attt": "2026-02-15T06:27:12.066Z",
+  "scraped_attt": "2026-02-15T06:57:36.778Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -383,7 +383,7 @@
       "col_0": "ST37",
       "col_1": "2",
       "col_2": "فولاد غرب",
-      "sizeee": "1000",
+      "sizeee": "1250",
       "col_4": "بنگاه تهران",
       "price_strrr": "82,550",
       "price_nummm": 82550
@@ -409,7 +409,7 @@
       "col_0": "ST37",
       "col_1": "2",
       "col_2": "فولاد غرب",
-      "sizeee": "1250",
+      "sizeee": "1000",
       "col_4": "بنگاه تهران",
       "price_strrr": "82,550",
       "price_nummm": 82550
@@ -643,7 +643,7 @@
       "col_0": "ST37",
       "col_1": "2.5",
       "col_2": "فولاد مبارکه",
-      "sizeee": "1250",
+      "sizeee": "1000",
       "col_4": "بنگاه تهران",
       "price_strrr": "82,180",
       "price_nummm": 82180
@@ -669,7 +669,7 @@
       "col_0": "ST37",
       "col_1": "2.5",
       "col_2": "فولاد مبارکه",
-      "sizeee": "1000",
+      "sizeee": "1250",
       "col_4": "بنگاه تهران",
       "price_strrr": "82,180",
       "price_nummm": 82180
@@ -771,12 +771,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "W22",
-      "col_1": "4.5",
+      "col_1": "5",
       "col_2": "فولاد غرب",
-      "sizeee": "1250",
+      "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "83,730",
-      "price_nummm": 83730
+      "price_strrr": "83,640",
+      "price_nummm": 83640
     },
     {
       "group_infooo": {
@@ -797,12 +797,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "W22",
-      "col_1": "5",
+      "col_1": "4.5",
       "col_2": "فولاد غرب",
-      "sizeee": "1000",
+      "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "83,640",
-      "price_nummm": 83640
+      "price_strrr": "83,730",
+      "price_nummm": 83730
     },
     {
       "group_infooo": {
