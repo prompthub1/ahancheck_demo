@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/تسمه/",
-  "scraped_attt": "2026-02-18T11:27:22.630Z",
+  "scraped_attt": "2026-02-18T11:57:19.228Z",
   "headersss": [
     "حالت",
     "ضخامت",
@@ -473,6 +473,30 @@
       },
       "col_0": "ماشینکاری",
       "col_1": "5",
+      "col_2": "عرض 120 میلیمتر",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "75,910",
+      "price_nummm": 75910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ماشینکاری",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/11/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ماشینکاری",
+        "update_labelll": "|"
+      },
+      "col_0": "ماشینکاری",
+      "col_1": "5",
       "col_2": "عرض 100 میلیمتر",
       "col_3": "بنگاه تهران",
       "price_strrr": "74,360",
@@ -2081,7 +2105,7 @@
       },
       "col_0": "فابریک",
       "col_1": "3",
-      "col_2": "عرض 30 میلی متر",
+      "col_2": "عرض 40 میلیمتر",
       "col_3": "بنگاه اصفهان",
       "price_strrr": "63,640",
       "price_nummm": 63640
@@ -2105,7 +2129,7 @@
       },
       "col_0": "فابریک",
       "col_1": "3",
-      "col_2": "عرض 40 میلیمتر",
+      "col_2": "عرض 30 میلی متر",
       "col_3": "بنگاه اصفهان",
       "price_strrr": "63,640",
       "price_nummm": 63640
@@ -3042,30 +3066,6 @@
       "col_0": "ماشینکاری",
       "col_1": "3",
       "col_2": "عرض 100 میلیمتر",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "75,910",
-      "price_nummm": 75910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ماشینکاری",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/26 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ماشینکاری",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ماشینکاری",
-      "col_1": "5",
-      "col_2": "عرض 120 میلیمتر",
       "col_3": "بنگاه تهران",
       "price_strrr": "75,910",
       "price_nummm": 75910
