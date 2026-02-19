@@ -1,63 +1,9 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پانچ-سیاه/",
-  "scraped_attt": "2026-02-18T23:57:47.714Z",
-  "headersss": [
-    "ضخامت (mm)",
-    "کارخانه تولیدکننده",
-    "ابعاد (mm)",
-    "تحویل",
-    "قیمت (تومان)"
-  ],
+  "scraped_attt": "2026-02-19T00:26:47.746Z",
+  "headersss": [],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "2000*1000",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "col_1": "فولاد مبارکه",
-      "sizeee": "2000*1000",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "2,085,450",
-      "price_nummm": 2085450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2000*1000",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/29 نمودار نوسانات : +0.5%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2500*1250",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "col_1": "فولاد مبارکه",
-      "sizeee": "2500*1250",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "3,251,820",
-      "price_nummm": 3251820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2500*1250",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/11/29 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
