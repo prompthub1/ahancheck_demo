@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-ضد-سایش/",
-  "scraped_attt": "2026-02-22T23:27:29.452Z",
+  "scraped_attt": "2026-02-22T23:57:21.713Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -12,34 +12,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "col_0": "ضد ساییش",
-      "col_1": "25",
-      "sizeee": "2000*6000",
-      "col_3": "چینی",
-      "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "141,360",
-      "price_nummm": 141360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "8",
@@ -141,6 +113,34 @@
     {
       "group_infooo": {
         "category_nameee": "15",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "25",
+        "update_labelll": "امروز"
+      },
+      "col_0": "ضد ساییش",
+      "col_1": "25",
+      "sizeee": "2000*6000",
+      "col_3": "چینی",
+      "col_4": "شیت",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "141,360",
+      "price_nummm": 141360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "25",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
