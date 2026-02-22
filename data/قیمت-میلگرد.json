@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-02-22T07:26:14.318Z",
+  "scraped_attt": "2026-02-22T07:56:14.734Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -9,6 +9,732 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "50,450",
+      "price_nummm": 50450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "50,270",
+      "price_nummm": 50270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "50,450",
+      "price_nummm": 50450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,550",
+      "price_nummm": 49550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,550",
+      "price_nummm": 49550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,550",
+      "price_nummm": 49550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,550",
+      "price_nummm": 49550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,550",
+      "price_nummm": 49550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "49,550",
+      "price_nummm": 49550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,550",
+      "price_nummm": 51550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "51,450",
+      "price_nummm": 51450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "51,180",
+      "price_nummm": 51180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,270",
+      "price_nummm": 51270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,090",
+      "price_nummm": 51090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,090",
+      "price_nummm": 51090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,090",
+      "price_nummm": 51090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,090",
+      "price_nummm": 51090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,090",
+      "price_nummm": 51090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,090",
+      "price_nummm": 51090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "53,640",
+      "price_nummm": 53640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "52,090",
+      "price_nummm": 52090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "52,270",
+      "price_nummm": 52270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "52,730",
+      "price_nummm": 52730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,360",
+      "price_nummm": 51360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,640",
+      "price_nummm": 51640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "51,640",
+      "price_nummm": 51640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +1.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
@@ -1148,248 +1874,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "51,360",
-      "price_nummm": 51360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.7%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,360",
-      "price_nummm": 51360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.7%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,270",
-      "price_nummm": 50270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "49,550",
-      "price_nummm": 49550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.8%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4235,226 +4719,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "50,910",
-      "price_nummm": 50910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,000",
-      "price_nummm": 51000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,730",
-      "price_nummm": 50730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "50,640",
-      "price_nummm": 50640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,550",
-      "price_nummm": 50550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,550",
-      "price_nummm": 50550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,550",
-      "price_nummm": 50550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,550",
-      "price_nummm": 50550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,550",
-      "price_nummm": 50550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,550",
-      "price_nummm": 50550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "فولاد سپهر ایرانیان",
         "update_labelll": "امروز"
       },
@@ -5768,270 +6032,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +2.5%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "52,730",
-      "price_nummm": 52730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,180",
-      "price_nummm": 51180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "51,360",
-      "price_nummm": 51360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "51,820",
-      "price_nummm": 51820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,450",
-      "price_nummm": 50450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,730",
-      "price_nummm": 50730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "50,730",
-      "price_nummm": 50730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پردیس",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +1.8%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
