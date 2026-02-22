@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84-%D9%85%D8%A8%D9%84%DB%8C/",
-  "scraped_attt": "2026-02-22T20:56:42.666Z",
+  "scraped_attt": "2026-02-22T21:26:32.711Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -11,32 +11,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "0.7",
-        "update_labelll": "|"
-      },
-      "sizeee": "40*80",
-      "col_1": "6 متری",
-      "col_2": "کارخانه",
-      "col_3": "0.7",
-      "unittt": "کیلوگرم",
-      "price_strrr": "88,180",
-      "price_nummm": 88180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "0.7",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "0.7",
@@ -277,6 +251,32 @@
         "update_labelll": "امروز"
       },
       "sizeee": "60*60",
+      "col_1": "6 متری",
+      "col_2": "کارخانه",
+      "col_3": "0.7",
+      "unittt": "کیلوگرم",
+      "price_strrr": "88,180",
+      "price_nummm": 88180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "0.7",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "0.7",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "40*80",
       "col_1": "6 متری",
       "col_2": "کارخانه",
       "col_3": "0.7",
