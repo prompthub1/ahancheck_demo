@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
-  "scraped_attt": "2026-02-24T06:27:40.962Z",
+  "scraped_attt": "2026-02-24T06:57:47.541Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -13,7 +13,7 @@
     {
       "group_infooo": {
         "category_nameee": "تاراز",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
@@ -25,9 +25,9 @@
     {
       "group_infooo": {
         "category_nameee": "تاراز",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -37,7 +37,7 @@
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
@@ -49,9 +49,9 @@
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -61,7 +61,7 @@
     {
       "group_infooo": {
         "category_nameee": "کاشان",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
@@ -73,9 +73,81 @@
     {
       "group_infooo": {
         "category_nameee": "کاشان",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "94,180",
+      "price_nummm": 94180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "روی اندود",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "93,360",
+      "price_nummm": 93360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "روی اندود",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دشتستان",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "93,270",
+      "price_nummm": 93270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دشتستان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -145,78 +217,6 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "94,180",
-      "price_nummm": 94180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "روی اندود",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "93,360",
-      "price_nummm": 93360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "روی اندود",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دشتستان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "93,270",
-      "price_nummm": 93270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دشتستان",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
