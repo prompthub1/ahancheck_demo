@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/17mn4-ورق/",
-  "scraped_attt": "2026-02-24T08:28:00.855Z",
+  "scraped_attt": "2026-02-24T09:28:37.831Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -11,6 +11,84 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "8",
+      "sizeee": "1500*6000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "شیت",
+      "col_4": "-",
+      "price_strrr": "73,890",
+      "price_nummm": 73890
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +3.8%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "|"
+      },
+      "col_0": "10",
+      "sizeee": "1500*6000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "شیت",
+      "col_4": "-",
+      "price_strrr": "74,820",
+      "price_nummm": 74820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +3.8%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "|"
+      },
+      "col_0": "12",
+      "sizeee": "1500*6000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "شیت",
+      "col_4": "-",
+      "price_strrr": "76,700",
+      "price_nummm": 76700
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +3.7%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "8",
@@ -30,84 +108,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/11/27 نمودار نوسانات :",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "8",
-      "sizeee": "1500*6000",
-      "col_2": "فولاد مبارکه",
-      "col_3": "شیت",
-      "col_4": "-",
-      "price_strrr": "71,160",
-      "price_nummm": 71160
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "10",
-      "sizeee": "1500*6000",
-      "col_2": "فولاد مبارکه",
-      "col_3": "شیت",
-      "col_4": "-",
-      "price_strrr": "72,090",
-      "price_nummm": 72090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "12",
-      "sizeee": "1500*6000",
-      "col_2": "فولاد مبارکه",
-      "col_3": "شیت",
-      "col_4": "-",
-      "price_strrr": "73,970",
-      "price_nummm": 73970
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
