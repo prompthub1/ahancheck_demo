@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A131/",
-  "scraped_attt": "2026-02-24T09:57:50.083Z",
+  "scraped_attt": "2026-02-24T10:28:01.357Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -10,6 +10,30 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "|"
+      },
+      "col_0": "15",
+      "sizeee": "2000*6000",
+      "col_2": "بنگاه تهران",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "68,010",
+      "price_nummm": 68010
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1404/12/5 نمودار نوسانات : +2.1%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "10",
@@ -52,30 +76,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1404/12/2 نمودار نوسانات : +3.4%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "15",
-      "sizeee": "2000*6000",
-      "col_2": "بنگاه تهران",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "66,600",
-      "price_nummm": 66600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1404/12/4 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
