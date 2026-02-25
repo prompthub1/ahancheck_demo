@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-02-25T20:26:14.819Z",
+  "scraped_attt": "2026-02-25T20:56:14.299Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -1101,50 +1101,6 @@
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "5.5",
-      "col_1": "A1",
-      "col_2": "کارخانه",
-      "price_strrr": "60,000",
-      "price_nummm": 60000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "|"
-      },
-      "sizeee": "6.5",
-      "col_1": "A1",
-      "col_2": "کارخانه",
-      "price_strrr": "60,000",
-      "price_nummm": 60000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
@@ -3971,50 +3927,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "sizeee": "5.5",
-      "col_1": "A1",
-      "col_2": "کارخانه",
-      "price_strrr": "60,450",
-      "price_nummm": 60450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "sizeee": "6.5",
-      "col_1": "A1",
-      "col_2": "کارخانه",
-      "price_strrr": "60,450",
-      "price_nummm": 60450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "قائم",
         "update_labelll": "|"
       },
@@ -6250,6 +6162,94 @@
       "group_infooo": {
         "category_nameee": "پرشین فولاد",
         "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "5.5",
+      "col_1": "A1",
+      "col_2": "کارخانه",
+      "price_strrr": "60,000",
+      "price_nummm": 60000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6.5",
+      "col_1": "A1",
+      "col_2": "کارخانه",
+      "price_strrr": "60,000",
+      "price_nummm": 60000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "5.5",
+      "col_1": "A1",
+      "col_2": "کارخانه",
+      "price_strrr": "60,450",
+      "price_nummm": 60450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6.5",
+      "col_1": "A1",
+      "col_2": "کارخانه",
+      "price_strrr": "60,450",
+      "price_nummm": 60450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
       "col_1": "",
