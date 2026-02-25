@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-02-25T21:57:02.170Z",
+  "scraped_attt": "2026-02-25T22:26:54.887Z",
   "headersss": [
     "سایز",
     "برند",
@@ -444,30 +444,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "5",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "71,180",
-      "price_nummm": 71180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "5",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "6",
         "update_labelll": "|"
       },
@@ -669,30 +645,6 @@
       "col_3": "کارخانه",
       "price_strrr": "68,000",
       "price_nummm": 68000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "69,820",
-      "price_nummm": 69820
     },
     {
       "group_infooo": {
@@ -1012,30 +964,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "72,410",
-      "price_nummm": 72410
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +10.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -1980,6 +1908,30 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "5",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "71,180",
+      "price_nummm": 71180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "5",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "6",
         "update_labelll": "امروز"
       },
@@ -2085,6 +2037,30 @@
       "col_3": "کارخانه",
       "price_strrr": "78,930",
       "price_nummm": 78930
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "69,820",
+      "price_nummm": 69820
     },
     {
       "group_infooo": {
@@ -2236,6 +2212,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "72,410",
+      "price_nummm": 72410
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1404/12/6 نمودار نوسانات : +10.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
