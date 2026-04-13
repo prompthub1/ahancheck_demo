@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-04-13T14:27:05.542Z",
+  "scraped_attt": "2026-04-13T14:57:16.077Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -771,12 +771,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "3",
-      "sizeee": "1500*3000",
+      "sizeee": "1500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "481,960",
-      "price_nummm": 481960
+      "price_strrr": "480,090",
+      "price_nummm": 480090
     },
     {
       "group_infooo": {
@@ -797,12 +797,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "3",
-      "sizeee": "1500",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "480,090",
-      "price_nummm": 480090
+      "price_strrr": "481,960",
+      "price_nummm": 481960
     },
     {
       "group_infooo": {
@@ -1629,12 +1629,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "10",
-      "sizeee": "1500*3000",
+      "sizeee": "1500*6000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "477,690",
-      "price_nummm": 477690
+      "price_strrr": "482,090",
+      "price_nummm": 482090
     },
     {
       "group_infooo": {
@@ -1655,12 +1655,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "10",
-      "sizeee": "1500*6000",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "482,090",
-      "price_nummm": 482090
+      "price_strrr": "477,690",
+      "price_nummm": 477690
     },
     {
       "group_infooo": {
@@ -1941,12 +1941,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "1",
-      "sizeee": "1250*2500",
+      "sizeee": "1500",
       "col_2": "316L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "777,730",
-      "price_nummm": 777730
+      "price_strrr": "772,000",
+      "price_nummm": 772000
     },
     {
       "group_infooo": {
@@ -1967,12 +1967,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "1",
-      "sizeee": "1500",
+      "sizeee": "1250*2500",
       "col_2": "316L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "772,000",
-      "price_nummm": 772000
+      "price_strrr": "777,730",
+      "price_nummm": 777730
     },
     {
       "group_infooo": {
