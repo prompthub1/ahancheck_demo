@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-04-14T01:26:57.553Z",
+  "scraped_attt": "2026-04-14T01:56:43.244Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -13,7 +13,7 @@
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "بنگاه تهران",
@@ -25,33 +25,9 @@
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/1/24 نمودار نوسانات : +3.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "|"
-      },
-      "sizeee": "20",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "270",
-      "price_strrr": "30,636,360",
-      "price_nummm": 30636360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/1/24 نمودار نوسانات : +3.7%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -268,6 +244,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/1/24 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "20",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "270",
+      "price_strrr": "30,636,360",
+      "price_nummm": 30636360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/1/24 نمودار نوسانات : +3.7%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
