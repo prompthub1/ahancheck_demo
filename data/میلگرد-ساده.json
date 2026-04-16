@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/",
-  "scraped_attt": "2026-04-16T17:26:19.785Z",
+  "scraped_attt": "2026-04-16T17:56:21.971Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -186,13 +186,13 @@
         "update_labelll": "|"
       },
       "sizeee": "10",
-      "col_1": "-",
+      "col_1": "شاخه 6 متری",
       "col_2": "A1",
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
-      "price_strrr": "70,090",
-      "price_nummm": 70090
+      "price_strrr": "65,550",
+      "price_nummm": 65550
     },
     {
       "group_infooo": {
@@ -214,13 +214,13 @@
         "update_labelll": "|"
       },
       "sizeee": "10",
-      "col_1": "شاخه 6 متری",
+      "col_1": "-",
       "col_2": "A1",
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
-      "price_strrr": "65,550",
-      "price_nummm": 65550
+      "price_strrr": "70,090",
+      "price_nummm": 70090
     },
     {
       "group_infooo": {
@@ -354,8 +354,8 @@
         "update_labelll": "|"
       },
       "sizeee": "20",
-      "col_1": "شاخه",
-      "col_2": "-",
+      "col_1": "شاخه 6 متری",
+      "col_2": "A1",
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
@@ -382,8 +382,8 @@
         "update_labelll": "|"
       },
       "sizeee": "20",
-      "col_1": "شاخه 6 متری",
-      "col_2": "A1",
+      "col_1": "شاخه",
+      "col_2": "-",
       "col_3": "بنگاه تهران",
       "col_4": "فولاد متین",
       "unittt": "کیلوگرم",
