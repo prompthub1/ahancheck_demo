@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A131/",
-  "scraped_attt": "2026-04-20T13:58:02.560Z",
+  "scraped_attt": "2026-04-20T14:28:35.894Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -12,22 +12,70 @@
   "dataaa": [
     {
       "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "col_0": "6",
+      "sizeee": "1500*6000",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "108,730",
+      "price_nummm": 108730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/1/31 نمودار نوسانات : -7.6%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "8",
+      "sizeee": "1500*6000",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "107,250",
+      "price_nummm": 107250
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/1/31 نمودار نوسانات : -8.9%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "10",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "10",
       "sizeee": "1500*6000",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "price_strrr": "117,730",
-      "price_nummm": 117730
+      "price_strrr": "107,250",
+      "price_nummm": 107250
     },
     {
       "group_infooo": {
         "category_nameee": "10",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/1/30 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/1/31 نمودار نوسانات : -8.9%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
