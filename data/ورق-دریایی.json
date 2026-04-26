@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-دریایی/",
-  "scraped_attt": "2026-04-26T20:58:04.510Z",
+  "scraped_attt": "2026-04-26T21:27:38.437Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -14,7 +14,7 @@
     {
       "group_infooo": {
         "category_nameee": "6",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "6",
       "sizeee": "6000*1500",
@@ -27,7 +27,7 @@
     {
       "group_infooo": {
         "category_nameee": "6",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/6 نمودار نوسانات : +0.0%",
       "sizeee": "",
@@ -40,7 +40,7 @@
     {
       "group_infooo": {
         "category_nameee": "8",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "8",
       "sizeee": "6000*1500",
@@ -53,7 +53,7 @@
     {
       "group_infooo": {
         "category_nameee": "8",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/6 نمودار نوسانات : +0.0%",
       "sizeee": "",
@@ -66,7 +66,7 @@
     {
       "group_infooo": {
         "category_nameee": "10",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "10",
       "sizeee": "6000*1500",
@@ -79,33 +79,7 @@
     {
       "group_infooo": {
         "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/6 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "15",
-      "sizeee": "6000*1500",
-      "col_2": "فولاد مبارکه",
-      "col_3": "شیت",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "106,390",
-      "price_nummm": 106390
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/6 نمودار نوسانات : +0.0%",
       "sizeee": "",
@@ -134,6 +108,32 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/5 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "امروز"
+      },
+      "col_0": "15",
+      "sizeee": "6000*1500",
+      "col_2": "فولاد مبارکه",
+      "col_3": "شیت",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "106,390",
+      "price_nummm": 106390
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/6 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
