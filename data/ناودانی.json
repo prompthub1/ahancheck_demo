@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-05-02T22:26:35.866Z",
+  "scraped_attt": "2026-05-02T22:56:32.204Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -567,54 +567,6 @@
         "category_nameee": "هموزن اروپا",
         "update_labelll": "|"
       },
-      "sizeee": "28",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "131,700",
-      "price_nummm": 131700
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هموزن اروپا",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هموزن اروپا",
-        "update_labelll": "|"
-      },
-      "sizeee": "26",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "170,150",
-      "price_nummm": 170150
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هموزن اروپا",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هموزن اروپا",
-        "update_labelll": "|"
-      },
       "sizeee": "8",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
@@ -852,8 +804,56 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "28",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "131,700",
+      "price_nummm": 131700
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "26",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "170,150",
+      "price_nummm": 170150
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "12 متری",
@@ -865,7 +865,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +2.0%",
       "col_1": "",
@@ -877,7 +877,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "12 متری",
@@ -889,7 +889,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +2.0%",
       "col_1": "",
@@ -901,7 +901,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "6 متری",
@@ -913,7 +913,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +2.0%",
       "col_1": "",
@@ -925,7 +925,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "6 متری",
@@ -937,7 +937,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +2.0%",
       "col_1": "",
@@ -949,7 +949,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "12 متری",
@@ -961,7 +961,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +2.0%",
       "col_1": "",
