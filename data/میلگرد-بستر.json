@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
-  "scraped_attt": "2026-05-02T09:56:10.670Z",
+  "scraped_attt": "2026-05-02T10:26:12.011Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -14,22 +14,22 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "15",
       "col_3": "بنگاه تهران",
       "unittt": "شاخه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
+      "price_strrr": "64,550",
+      "price_nummm": 64550
     },
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/2/10 نمودار نوسانات : +1.5%",
+      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +3.6%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -40,11 +40,37 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "11",
+      "col_3": "بنگاه تهران",
+      "unittt": "شاخه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "4",
+      "col_1": "شاخه 3 متری",
+      "col_2": "5.5",
       "col_3": "بنگاه تهران",
       "unittt": "شاخه",
       "price_strrr": "60,910",
@@ -53,35 +79,9 @@
     {
       "group_infooo": {
         "category_nameee": "4",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/2/10 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "4",
-      "col_1": "شاخه 3 متری",
-      "col_2": "5.5",
-      "col_3": "بنگاه تهران",
-      "unittt": "شاخه",
-      "price_strrr": "60,000",
-      "price_nummm": 60000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/10 نمودار نوسانات : +1.5%",
+      "sizeee": "آخرین بروز رسانی : 1405/2/12 نمودار نوسانات : +1.5%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
