@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-05-06T14:57:37.121Z",
+  "scraped_attt": "2026-05-06T15:27:25.775Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -2539,32 +2539,6 @@
         "update_labelll": "|"
       },
       "col_0": "4",
-      "sizeee": "1500*6000",
-      "col_2": "316L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "901,090",
-      "price_nummm": 901090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "316L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/16 نمودار نوسانات : -21.3%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "316L",
-        "update_labelll": "|"
-      },
-      "col_0": "4",
       "sizeee": "1500*3000",
       "col_2": "316L",
       "col_3": "شیت",
@@ -2578,6 +2552,32 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/16 نمودار نوسانات : -21.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "316L",
+        "update_labelll": "|"
+      },
+      "col_0": "4",
+      "sizeee": "1500*6000",
+      "col_2": "316L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "901,090",
+      "price_nummm": 901090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "316L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/16 نمودار نوسانات : -21.3%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
