@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_attt": "2026-05-09T20:26:54.610Z",
+  "scraped_attt": "2026-05-09T20:57:36.628Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -11,136 +11,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "نارنجی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "197,350",
-      "price_nummm": 197350
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قهوه ای سوخته",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "197,160",
-      "price_nummm": 197160
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "سفید یخچالی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "197,270",
-      "price_nummm": 197270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قرمز",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "197,270",
-      "price_nummm": 197270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "آبی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "197,150",
-      "price_nummm": 197150
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
@@ -287,6 +157,136 @@
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "نارنجی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,350",
+      "price_nummm": 197350
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قهوه ای سوخته",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,160",
+      "price_nummm": 197160
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "سفید یخچالی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,270",
+      "price_nummm": 197270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قرمز",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,270",
+      "price_nummm": 197270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "آبی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,150",
+      "price_nummm": 197150
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/19 نمودار نوسانات : +0.0%",
