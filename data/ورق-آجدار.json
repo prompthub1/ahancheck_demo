@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آجدار/",
-  "scraped_attt": "2026-05-11T20:57:11.587Z",
+  "scraped_attt": "2026-05-11T21:27:38.412Z",
   "headersss": [
     "ابعاد",
     "کشور / کارخانه",
@@ -10,30 +10,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "1000*2000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "140,000",
-      "price_nummm": 140000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/21 نمودار نوسانات : -10.2%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "3",
@@ -316,6 +292,30 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/21 نمودار نوسانات : -5.4%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1000*2000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "140,000",
+      "price_nummm": 140000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/21 نمودار نوسانات : -10.2%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
