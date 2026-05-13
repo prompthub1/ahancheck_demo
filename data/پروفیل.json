@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/",
-  "scraped_attt": "2026-05-13T11:56:37.248Z",
+  "scraped_attt": "2026-05-13T12:26:29.276Z",
   "headersss": [
     "سایز",
     "ضخامت",
@@ -1680,32 +1680,6 @@
         "category_nameee": "اطلس فولاد مازندران",
         "update_labelll": "|"
       },
-      "sizeee": "20*20",
-      "col_1": "2",
-      "col_2": "6 متری",
-      "col_3": "کارخانه",
-      "unittt": "کیلوگرم",
-      "price_strrr": "128,640",
-      "price_nummm": 128640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اطلس فولاد مازندران",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/23 نمودار نوسانات : -1.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اطلس فولاد مازندران",
-        "update_labelll": "|"
-      },
       "sizeee": "چارچوب فرانسه",
       "col_1": "2",
       "col_2": "6 متری",
@@ -1732,7 +1706,7 @@
         "category_nameee": "اطلس فولاد مازندران",
         "update_labelll": "|"
       },
-      "sizeee": "25*25",
+      "sizeee": "20*20",
       "col_1": "2",
       "col_2": "6 متری",
       "col_3": "کارخانه",
@@ -1759,6 +1733,32 @@
         "update_labelll": "|"
       },
       "sizeee": "30*20",
+      "col_1": "2",
+      "col_2": "6 متری",
+      "col_3": "کارخانه",
+      "unittt": "کیلوگرم",
+      "price_strrr": "128,640",
+      "price_nummm": 128640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اطلس فولاد مازندران",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/23 نمودار نوسانات : -1.4%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اطلس فولاد مازندران",
+        "update_labelll": "|"
+      },
+      "sizeee": "25*25",
       "col_1": "2",
       "col_2": "6 متری",
       "col_3": "کارخانه",
