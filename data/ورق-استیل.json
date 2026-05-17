@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-05-17T11:57:16.442Z",
+  "scraped_attt": "2026-05-17T12:27:17.422Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -901,12 +901,12 @@
         "update_labelll": "|"
       },
       "col_0": "4",
-      "sizeee": "1500*3000",
+      "sizeee": "1500*6000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "631,960",
-      "price_nummm": 631960
+      "price_strrr": "627,370",
+      "price_nummm": 627370
     },
     {
       "group_infooo": {
@@ -927,12 +927,12 @@
         "update_labelll": "|"
       },
       "col_0": "4",
-      "sizeee": "1500*6000",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "627,370",
-      "price_nummm": 627370
+      "price_strrr": "631,960",
+      "price_nummm": 631960
     },
     {
       "group_infooo": {
@@ -1551,12 +1551,12 @@
         "update_labelll": "|"
       },
       "col_0": "8",
-      "sizeee": "1000*2000",
+      "sizeee": "1000",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "678,740",
-      "price_nummm": 678740
+      "price_strrr": "623,140",
+      "price_nummm": 623140
     },
     {
       "group_infooo": {
@@ -1577,12 +1577,12 @@
         "update_labelll": "|"
       },
       "col_0": "8",
-      "sizeee": "1000",
+      "sizeee": "1000*2000",
       "col_2": "304L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "623,140",
-      "price_nummm": 623140
+      "price_strrr": "678,740",
+      "price_nummm": 678740
     },
     {
       "group_infooo": {
