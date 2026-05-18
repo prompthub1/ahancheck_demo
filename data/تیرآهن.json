@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-05-18T19:26:58.487Z",
+  "scraped_attt": "2026-05-18T19:56:53.429Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -660,54 +660,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "24",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "-",
-      "price_strrr": "30,727,270",
-      "price_nummm": 30727270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "22",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "-",
-      "price_strrr": "26,181,820",
-      "price_nummm": 26181820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "یزد",
         "update_labelll": "|"
       },
@@ -828,30 +780,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "|"
-      },
-      "sizeee": "24",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "-",
-      "price_strrr": "30,727,270",
-      "price_nummm": 30727270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "بناب",
         "update_labelll": "|"
       },
@@ -868,30 +796,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات :",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بناب",
-        "update_labelll": "|"
-      },
-      "sizeee": "16",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "170",
-      "price_strrr": "13,183,640",
-      "price_nummm": 13183640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بناب",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : -2.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -996,8 +900,104 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "24",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "-",
+      "price_strrr": "30,727,270",
+      "price_nummm": 30727270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "-",
+      "price_strrr": "26,181,820",
+      "price_nummm": 26181820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "یزد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "24",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "-",
+      "price_strrr": "30,727,270",
+      "price_nummm": 30727270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "یزد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بناب",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "170",
+      "price_strrr": "13,183,640",
+      "price_nummm": 13183640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بناب",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : -2.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "کرمانشاه",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "کارخانه",
@@ -1009,7 +1009,7 @@
     {
       "group_infooo": {
         "category_nameee": "کرمانشاه",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
       "col_1": "",
@@ -1021,7 +1021,7 @@
     {
       "group_infooo": {
         "category_nameee": "اطلس",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
@@ -1033,7 +1033,7 @@
     {
       "group_infooo": {
         "category_nameee": "اطلس",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : -1.9%",
       "col_1": "",
@@ -1045,7 +1045,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "20",
       "col_1": "بنگاه تهران",
@@ -1057,7 +1057,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
       "col_1": "",
@@ -1069,7 +1069,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "بنگاه تهران",
@@ -1081,7 +1081,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
       "col_1": "",
@@ -1093,7 +1093,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
@@ -1105,7 +1105,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
       "col_1": "",
