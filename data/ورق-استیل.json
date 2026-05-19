@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-05-19T09:57:08.716Z",
+  "scraped_attt": "2026-05-19T10:27:53.625Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -563,12 +563,12 @@
         "update_labelll": "|"
       },
       "col_0": "3",
-      "sizeee": "1000",
+      "sizeee": "1500",
       "col_2": "316L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,171,820",
-      "price_nummm": 1171820
+      "price_strrr": "1,167,910",
+      "price_nummm": 1167910
     },
     {
       "group_infooo": {
@@ -589,12 +589,12 @@
         "update_labelll": "|"
       },
       "col_0": "3",
-      "sizeee": "1500",
+      "sizeee": "1000",
       "col_2": "316L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,167,910",
-      "price_nummm": 1167910
+      "price_strrr": "1,171,820",
+      "price_nummm": 1171820
     },
     {
       "group_infooo": {
@@ -2409,12 +2409,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "2.5",
-      "sizeee": "1000*2000",
+      "sizeee": "1250*2500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "697,510",
-      "price_nummm": 697510
+      "price_strrr": "628,380",
+      "price_nummm": 628380
     },
     {
       "group_infooo": {
@@ -2435,12 +2435,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "2.5",
-      "sizeee": "1250*2500",
+      "sizeee": "1000*2000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "628,380",
-      "price_nummm": 628380
+      "price_strrr": "697,510",
+      "price_nummm": 697510
     },
     {
       "group_infooo": {
@@ -3449,12 +3449,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "10",
-      "sizeee": "1000*2000",
+      "sizeee": "1250*2500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "636,240",
-      "price_nummm": 636240
+      "price_strrr": "632,550",
+      "price_nummm": 632550
     },
     {
       "group_infooo": {
@@ -3475,12 +3475,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "10",
-      "sizeee": "1250*2500",
+      "sizeee": "1000*2000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "632,550",
-      "price_nummm": 632550
+      "price_strrr": "636,240",
+      "price_nummm": 636240
     },
     {
       "group_infooo": {
@@ -4203,32 +4203,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "0.4",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "407,550",
-      "price_nummm": 407550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +12.6%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.4",
       "sizeee": "1000*2000",
       "col_2": "430",
       "col_3": "رول",
@@ -4242,6 +4216,32 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +12.4%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.4",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "407,550",
+      "price_nummm": 407550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +12.6%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
