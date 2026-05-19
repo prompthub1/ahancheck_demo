@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/شمش-قلع-انواع-ورق/",
-  "scraped_attt": "2026-05-19T07:57:43.810Z",
+  "scraped_attt": "2026-05-19T08:27:42.610Z",
   "headersss": [
     "برند",
     "انبار",
@@ -11,27 +11,7 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "مالزی",
-      "col_1": "بنگاه تهران",
-      "price_strrr": "13,709,090",
-      "price_nummm": 13709090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "اندونزی",
       "col_1": "بنگاه تهران",
@@ -41,9 +21,29 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/2/28 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/2/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "مالزی",
+      "col_1": "بنگاه تهران",
+      "price_strrr": "13,709,090",
+      "price_nummm": 13709090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/29 نمودار نوسانات : +0.0%",
       "col_1": "",
       "price_strrr": "",
       "price_nummm": null
