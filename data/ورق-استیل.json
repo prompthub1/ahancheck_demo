@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-05-31T14:57:36.162Z",
+  "scraped_attt": "2026-05-31T15:27:33.872Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -11,32 +11,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "1",
-      "sizeee": "1500",
-      "col_2": "304L",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "631,770",
-      "price_nummm": 631770
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "304L",
@@ -69,12 +43,12 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1250*2500",
+      "sizeee": "1500",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "636,500",
-      "price_nummm": 636500
+      "price_strrr": "631,770",
+      "price_nummm": 631770
     },
     {
       "group_infooo": {
@@ -101,6 +75,32 @@
       "unittt": "کیلوگرم",
       "price_strrr": "631,910",
       "price_nummm": 631910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "sizeee": "1250*2500",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "636,500",
+      "price_nummm": 636500
     },
     {
       "group_infooo": {
@@ -381,12 +381,12 @@
         "update_labelll": "|"
       },
       "col_0": "1.5",
-      "sizeee": "1250",
+      "sizeee": "1000*2000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "636,500",
-      "price_nummm": 636500
+      "price_strrr": "632,000",
+      "price_nummm": 632000
     },
     {
       "group_infooo": {
@@ -407,12 +407,12 @@
         "update_labelll": "|"
       },
       "col_0": "1.5",
-      "sizeee": "1000*2000",
+      "sizeee": "1250",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "632,000",
-      "price_nummm": 632000
+      "price_strrr": "636,500",
+      "price_nummm": 636500
     },
     {
       "group_infooo": {
@@ -459,7 +459,7 @@
         "update_labelll": "|"
       },
       "col_0": "2",
-      "sizeee": "1500*3000",
+      "sizeee": "1250*2500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -485,7 +485,7 @@
         "update_labelll": "|"
       },
       "col_0": "2",
-      "sizeee": "1250*2500",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -1161,12 +1161,12 @@
         "update_labelll": "|"
       },
       "col_0": "5",
-      "sizeee": "1000*2000",
+      "sizeee": "1250",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "631,960",
-      "price_nummm": 631960
+      "price_strrr": "631,910",
+      "price_nummm": 631910
     },
     {
       "group_infooo": {
@@ -1187,12 +1187,12 @@
         "update_labelll": "|"
       },
       "col_0": "5",
-      "sizeee": "1250",
+      "sizeee": "1000*2000",
       "col_2": "304L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "631,910",
-      "price_nummm": 631910
+      "price_strrr": "631,960",
+      "price_nummm": 631960
     },
     {
       "group_infooo": {
@@ -1941,12 +1941,12 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1250*2500",
+      "sizeee": "1500",
       "col_2": "316L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,182,270",
-      "price_nummm": 1182270
+      "price_strrr": "1,176,550",
+      "price_nummm": 1176550
     },
     {
       "group_infooo": {
@@ -1967,12 +1967,12 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1500",
+      "sizeee": "1250*2500",
       "col_2": "316L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,176,550",
-      "price_nummm": 1176550
+      "price_strrr": "1,182,270",
+      "price_nummm": 1182270
     },
     {
       "group_infooo": {
@@ -2123,7 +2123,7 @@
         "update_labelll": "|"
       },
       "col_0": "1.5",
-      "sizeee": "1000*2000",
+      "sizeee": "1250*2500",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -2149,7 +2149,7 @@
         "update_labelll": "|"
       },
       "col_0": "1.5",
-      "sizeee": "1250*2500",
+      "sizeee": "1000*2000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -3891,12 +3891,12 @@
         "update_labelll": "|"
       },
       "col_0": "0.8",
-      "sizeee": "عرض 1000",
+      "sizeee": "عرض 1250",
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "408,090",
-      "price_nummm": 408090
+      "price_strrr": "406,360",
+      "price_nummm": 406360
     },
     {
       "group_infooo": {
@@ -3917,12 +3917,12 @@
         "update_labelll": "|"
       },
       "col_0": "0.8",
-      "sizeee": "عرض 1250",
+      "sizeee": "عرض 1000",
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "406,360",
-      "price_nummm": 406360
+      "price_strrr": "408,090",
+      "price_nummm": 408090
     },
     {
       "group_infooo": {
@@ -4229,12 +4229,12 @@
         "update_labelll": "|"
       },
       "col_0": "0.4",
-      "sizeee": "1000*2000",
+      "sizeee": "1000",
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "412,820",
-      "price_nummm": 412820
+      "price_strrr": "404,550",
+      "price_nummm": 404550
     },
     {
       "group_infooo": {
@@ -4255,12 +4255,12 @@
         "update_labelll": "|"
       },
       "col_0": "0.4",
-      "sizeee": "1000",
+      "sizeee": "1000*2000",
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "404,550",
-      "price_nummm": 404550
+      "price_strrr": "412,820",
+      "price_nummm": 412820
     },
     {
       "group_infooo": {
@@ -4723,7 +4723,7 @@
         "update_labelll": "|"
       },
       "col_0": "2",
-      "sizeee": "1250*2500",
+      "sizeee": "1000*2000",
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -4749,7 +4749,7 @@
         "update_labelll": "|"
       },
       "col_0": "2",
-      "sizeee": "1000*2000",
+      "sizeee": "1250*2500",
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
