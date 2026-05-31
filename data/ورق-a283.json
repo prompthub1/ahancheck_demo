@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-a283/",
-  "scraped_attt": "2026-05-31T14:58:22.186Z",
+  "scraped_attt": "2026-05-31T15:28:26.494Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -191,15 +191,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price_strrr": "94,550",
-      "price_nummm": 94550
+      "price_strrr": "95,000",
+      "price_nummm": 95000
     },
     {
       "group_infooo": {
         "category_nameee": "10",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.2%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -219,15 +219,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "97,270",
-      "price_nummm": 97270
+      "price_strrr": "97,730",
+      "price_nummm": 97730
     },
     {
       "group_infooo": {
         "category_nameee": "10",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -4.5%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : +0.5%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -297,6 +297,62 @@
         "category_nameee": "12",
         "update_labelll": "|"
       },
+      "col_0": "A283",
+      "col_1": "12",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "95,000",
+      "price_nummm": 95000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.2%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "12",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "97,730",
+      "price_nummm": 97730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -4.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "12",
+        "update_labelll": "|"
+      },
       "col_0": "Gr C",
       "col_1": "12",
       "sizeee": "1500",
@@ -340,6 +396,62 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -6.1%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "15",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "95,000",
+      "price_nummm": 95000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.2%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "15",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "97,730",
+      "price_nummm": 97730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -4.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -406,148 +518,8 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "12",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "98,180",
-      "price_nummm": 98180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "12",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "101,820",
-      "price_nummm": 101820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "15",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "98,180",
-      "price_nummm": 98180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "15",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "101,820",
-      "price_nummm": 101820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "20",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "20",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "83,640",
-      "price_nummm": 83640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "20",
@@ -555,15 +527,43 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "86,360",
-      "price_nummm": 86360
+      "price_strrr": "83,180",
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
         "category_nameee": "20",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "20",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "20",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "80,450",
+      "price_nummm": 80450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "20",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.3%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -575,7 +575,7 @@
     {
       "group_infooo": {
         "category_nameee": "25",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "25",
@@ -583,15 +583,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "85,910",
-      "price_nummm": 85910
+      "price_strrr": "83,180",
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
         "category_nameee": "25",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.2%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -603,35 +603,7 @@
     {
       "group_infooo": {
         "category_nameee": "30",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "30",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "83,640",
-      "price_nummm": 83640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "30",
@@ -639,15 +611,43 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "85,910",
-      "price_nummm": 85910
+      "price_strrr": "83,180",
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
         "category_nameee": "30",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.7%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "30",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "30",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "80,450",
+      "price_nummm": 80450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "30",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -659,7 +659,7 @@
     {
       "group_infooo": {
         "category_nameee": "35",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "35",
@@ -667,15 +667,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price_strrr": "83,640",
-      "price_nummm": 83640
+      "price_strrr": "80,450",
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
         "category_nameee": "35",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -687,7 +687,7 @@
     {
       "group_infooo": {
         "category_nameee": "35",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "35",
@@ -695,15 +695,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "85,910",
-      "price_nummm": 85910
+      "price_strrr": "83,180",
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
         "category_nameee": "35",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.2%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -715,35 +715,7 @@
     {
       "group_infooo": {
         "category_nameee": "40",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "40",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "83,640",
-      "price_nummm": 83640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "40",
@@ -751,15 +723,43 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "85,910",
-      "price_nummm": 85910
+      "price_strrr": "83,180",
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
         "category_nameee": "40",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : +0.5%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "40",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "40",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "80,450",
+      "price_nummm": 80450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "40",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -3.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -771,7 +771,7 @@
     {
       "group_infooo": {
         "category_nameee": "45",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "45",
@@ -779,15 +779,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price_strrr": "86,820",
-      "price_nummm": 86820
+      "price_strrr": "80,450",
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
         "category_nameee": "45",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -7.3%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -799,7 +799,7 @@
     {
       "group_infooo": {
         "category_nameee": "45",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "45",
@@ -807,15 +807,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
-      "price_strrr": "90,450",
-      "price_nummm": 90450
+      "price_strrr": "83,180",
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
         "category_nameee": "45",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -8.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -827,7 +827,7 @@
     {
       "group_infooo": {
         "category_nameee": "50",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "A283",
       "col_1": "50",
@@ -835,15 +835,15 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
-      "price_strrr": "87,730",
-      "price_nummm": 87730
+      "price_strrr": "84,090",
+      "price_nummm": 84090
     },
     {
       "group_infooo": {
         "category_nameee": "50",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/10 نمودار نوسانات : -4.1%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
