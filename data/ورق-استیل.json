@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-06-07T11:56:56.439Z",
+  "scraped_attt": "2026-06-07T12:27:09.143Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -225,12 +225,12 @@
         "update_labelll": "|"
       },
       "col_0": "1.5",
-      "sizeee": "1250",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "636,500",
-      "price_nummm": 636500
+      "price_strrr": "631,910",
+      "price_nummm": 631910
     },
     {
       "group_infooo": {
@@ -251,12 +251,12 @@
         "update_labelll": "|"
       },
       "col_0": "1.5",
-      "sizeee": "1500*3000",
+      "sizeee": "1250",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "631,910",
-      "price_nummm": 631910
+      "price_strrr": "636,500",
+      "price_nummm": 636500
     },
     {
       "group_infooo": {
@@ -1031,12 +1031,12 @@
         "update_labelll": "|"
       },
       "col_0": "6",
-      "sizeee": "1500",
+      "sizeee": "1500*3000",
       "col_2": "304L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "631,870",
-      "price_nummm": 631870
+      "price_strrr": "633,010",
+      "price_nummm": 633010
     },
     {
       "group_infooo": {
@@ -1057,12 +1057,12 @@
         "update_labelll": "|"
       },
       "col_0": "6",
-      "sizeee": "1500*3000",
+      "sizeee": "1500",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "633,010",
-      "price_nummm": 633010
+      "price_strrr": "631,870",
+      "price_nummm": 631870
     },
     {
       "group_infooo": {
@@ -2279,12 +2279,12 @@
         "update_labelll": "|"
       },
       "col_0": "5",
-      "sizeee": "1250*2500",
+      "sizeee": "1500",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,173,180",
-      "price_nummm": 1173180
+      "price_strrr": "1,168,640",
+      "price_nummm": 1168640
     },
     {
       "group_infooo": {
@@ -2305,12 +2305,12 @@
         "update_labelll": "|"
       },
       "col_0": "5",
-      "sizeee": "1500",
+      "sizeee": "1250*2500",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,168,640",
-      "price_nummm": 1168640
+      "price_strrr": "1,173,180",
+      "price_nummm": 1173180
     },
     {
       "group_infooo": {
@@ -3579,12 +3579,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "8",
-      "sizeee": "1500",
+      "sizeee": "1250",
       "col_2": "304L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "700,170",
-      "price_nummm": 700170
+      "price_strrr": "699,710",
+      "price_nummm": 699710
     },
     {
       "group_infooo": {
@@ -3605,12 +3605,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "8",
-      "sizeee": "1250",
+      "sizeee": "1500",
       "col_2": "304L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "699,710",
-      "price_nummm": 699710
+      "price_strrr": "700,170",
+      "price_nummm": 700170
     },
     {
       "group_infooo": {
@@ -3839,12 +3839,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "1",
-      "sizeee": "عرض 1000",
+      "sizeee": "عرض 1250",
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "406,910",
-      "price_nummm": 406910
+      "price_strrr": "408,910",
+      "price_nummm": 408910
     },
     {
       "group_infooo": {
@@ -3865,12 +3865,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "1",
-      "sizeee": "عرض 1250",
+      "sizeee": "عرض 1000",
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "408,910",
-      "price_nummm": 408910
+      "price_strrr": "406,910",
+      "price_nummm": 406910
     },
     {
       "group_infooo": {
