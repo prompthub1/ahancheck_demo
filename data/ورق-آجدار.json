@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آجدار/",
-  "scraped_attt": "2026-06-08T21:28:26.642Z",
+  "scraped_attt": "2026-06-08T21:57:27.444Z",
   "headersss": [
     "ابعاد",
     "کشور / کارخانه",
@@ -231,30 +231,6 @@
         "category_nameee": "6",
         "update_labelll": "|"
       },
-      "sizeee": "1250*2500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "-",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "110,910",
-      "price_nummm": 110910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/3/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
-      },
       "sizeee": "2000*1000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
@@ -314,6 +290,30 @@
       "group_infooo": {
         "category_nameee": "8",
         "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/3/18 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1250*2500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "-",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/3/18 نمودار نوسانات : +0.0%",
       "col_1": "",
