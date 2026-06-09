@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-فایبر-گلاس/",
-  "scraped_attt": "2026-06-09T07:58:09.083Z",
+  "scraped_attt": "2026-06-09T08:27:53.855Z",
   "headersss": [
     "حالت",
     "نوع",
@@ -208,30 +208,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "سینوسی",
-      "col_1": "750 گرمی",
-      "unittt": "مترمربع",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "1,590,910",
-      "price_nummm": 1590910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/18 نمودار نوسانات : +6.1%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "سینوسی",
       "col_1": "600 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
@@ -244,6 +220,30 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/3/18 نمودار نوسانات : +6.5%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "سینوسی",
+      "col_1": "750 گرمی",
+      "unittt": "مترمربع",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "1,590,910",
+      "price_nummm": 1590910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/18 نمودار نوسانات : +6.1%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
