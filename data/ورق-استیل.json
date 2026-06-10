@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-06-10T20:57:05.445Z",
+  "scraped_attt": "2026-06-10T21:27:29.556Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -1758,58 +1758,6 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "15",
-      "sizeee": "1000*2000",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "636,360",
-      "price_nummm": 636360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : -9.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "15",
-      "sizeee": "1500*6000",
-      "col_2": "304L",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "636,360",
-      "price_nummm": 636360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : +0.9%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
       "col_0": "20",
       "sizeee": "1500*6000",
       "col_2": "304L",
@@ -1928,6 +1876,58 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : -2.9%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "امروز"
+      },
+      "col_0": "15",
+      "sizeee": "1000*2000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "636,360",
+      "price_nummm": 636360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : -9.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "امروز"
+      },
+      "col_0": "15",
+      "sizeee": "1500*6000",
+      "col_2": "304L",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "636,360",
+      "price_nummm": 636360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : +0.9%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
