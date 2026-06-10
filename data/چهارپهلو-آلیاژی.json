@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو-آلیاژی/",
-  "scraped_attt": "2026-06-10T09:57:50.657Z",
+  "scraped_attt": "2026-06-10T10:28:29.974Z",
   "headersss": [
     "آلیاژ",
     "حالت",
@@ -12,22 +12,22 @@
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "25*25",
+      "col_1": "ترانس",
+      "sizeee": "4*4",
       "col_3": "بنگاه تهران",
-      "price_strrr": "93,390",
-      "price_nummm": 93390
+      "price_strrr": "108,050",
+      "price_nummm": 108050
     },
     {
       "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : +0.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -36,70 +36,22 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "30*50",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "91,290",
-      "price_nummm": 91290
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "10*10",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "92,440",
-      "price_nummm": 92440
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "10*10",
+      "col_1": "ترانس",
+      "sizeee": "5*5",
       "col_3": "بنگاه تهران",
-      "price_strrr": "96,910",
-      "price_nummm": 96910
+      "price_strrr": "108,500",
+      "price_nummm": 108500
     },
     {
       "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : +0.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -108,166 +60,46 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "12*12",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "92,010",
-      "price_nummm": 92010
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "14*14",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "92,010",
-      "price_nummm": 92010
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "15*15",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "92,010",
-      "price_nummm": 92010
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "16*16",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "93,030",
-      "price_nummm": 93030
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "18*18",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "90,200",
-      "price_nummm": 90200
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "20*20",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "88,110",
-      "price_nummm": 88110
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "20*20",
+      "col_1": "ترانس",
+      "sizeee": "6*6",
       "col_3": "بنگاه تهران",
-      "price_strrr": "95,220",
-      "price_nummm": 95220
+      "price_strrr": "108,540",
+      "price_nummm": 108540
     },
     {
       "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "St52",
+      "col_1": "ترانس",
+      "sizeee": "8*8",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "108,250",
+      "price_nummm": 108250
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/20 نمودار نوسانات : +0.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -285,54 +117,6 @@
       "col_3": "بنگاه تهران",
       "price_strrr": "81,270",
       "price_nummm": 81270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "30*30",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "89,060",
-      "price_nummm": 89060
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "30*30",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "96,230",
-      "price_nummm": 96230
     },
     {
       "group_infooo": {
@@ -377,54 +161,6 @@
       },
       "col_0": "CK 45",
       "col_1": "نرمال",
-      "sizeee": "40*40",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "89,110",
-      "price_nummm": 89110
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "40*40",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "95,220",
-      "price_nummm": 95220
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
       "sizeee": "50*50",
       "col_3": "بنگاه تهران",
       "price_strrr": "88,110",
@@ -447,54 +183,6 @@
         "category_nameee": "نرمال",
         "update_labelll": "امروز"
       },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "50*50",
-      "col_3": "کارخانه",
-      "price_strrr": "90,930",
-      "price_nummm": 90930
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "50*50",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "96,230",
-      "price_nummm": 96230
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
       "col_0": "CK 45",
       "col_1": "نرمال",
       "sizeee": "60*60",
@@ -519,60 +207,12 @@
         "category_nameee": "نرمال",
         "update_labelll": "امروز"
       },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "60*60",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "96,230",
-      "price_nummm": 96230
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
       "col_0": "CK 45",
       "col_1": "نرمال",
       "sizeee": "70*70",
       "col_3": "بنگاه تهران",
       "price_strrr": "93,300",
       "price_nummm": 93300
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "70*70",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,440",
-      "price_nummm": 99440
     },
     {
       "group_infooo": {
@@ -601,294 +241,6 @@
     {
       "group_infooo": {
         "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "80*80",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,440",
-      "price_nummm": 99440
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "80*50",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,440",
-      "price_nummm": 99440
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "90*90",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,440",
-      "price_nummm": 99440
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "100*100",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,440",
-      "price_nummm": 99440
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "120*50",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "98,430",
-      "price_nummm": 98430
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "120*80",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,440",
-      "price_nummm": 99440
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "120*120",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "100,460",
-      "price_nummm": 100460
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "ترانس",
-      "sizeee": "4*4",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "108,050",
-      "price_nummm": 108050
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "ترانس",
-      "sizeee": "5*5",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "108,500",
-      "price_nummm": 108500
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "ترانس",
-      "sizeee": "6*6",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "108,540",
-      "price_nummm": 108540
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "ترانس",
-      "sizeee": "8*8",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "108,250",
-      "price_nummm": 108250
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "ترانس",
-      "sizeee": "10*10",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "106,980",
-      "price_nummm": 106980
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/3/19 نمودار نوسانات : +0.0%",
