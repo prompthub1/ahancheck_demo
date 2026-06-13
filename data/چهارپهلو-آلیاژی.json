@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو-آلیاژی/",
-  "scraped_attt": "2026-06-13T11:57:34.172Z",
+  "scraped_attt": "2026-06-13T12:27:24.404Z",
   "headersss": [
     "آلیاژ",
     "حالت",
@@ -10,6 +10,30 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "St52",
+      "col_1": "ترانس",
+      "sizeee": "4*4",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "108,050",
+      "price_nummm": 108050
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/23 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "ترانس",
@@ -217,30 +241,6 @@
     {
       "group_infooo": {
         "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "ترانس",
-      "sizeee": "4*4",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "108,050",
-      "price_nummm": 108050
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/3/21 نمودار نوسانات : +0.0%",
