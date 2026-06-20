@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/آلوزینک/",
-  "scraped_attt": "2026-06-20T09:58:38.646Z",
+  "scraped_attt": "2026-06-20T10:27:47.235Z",
   "headersss": [
     "عرض",
     "ضخامت",
@@ -14,7 +14,7 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "1000",
       "col_1": "0.5",
@@ -27,9 +27,9 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/28 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -40,7 +40,7 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "1250",
       "col_1": "0.5",
@@ -53,9 +53,9 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/28 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -66,7 +66,7 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "1250",
       "col_1": "0.48",
@@ -79,9 +79,9 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/28 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -92,7 +92,7 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "1000",
       "col_1": "0.48",
@@ -105,9 +105,9 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/28 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -118,33 +118,7 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1250",
-      "col_1": "0.6",
-      "col_2": "هفت الماس",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "195,270",
-      "price_nummm": 195270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "1000",
       "col_1": "0.6",
@@ -157,9 +131,35 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/28 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "1250",
+      "col_1": "0.6",
+      "col_2": "هفت الماس",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "195,270",
+      "price_nummm": 195270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
