@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A516/",
-  "scraped_attt": "2026-06-21T10:27:17.999Z",
+  "scraped_attt": "2026-06-21T10:57:39.594Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -15,7 +15,7 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "Gr 70",
       "col_1": "5",
@@ -23,15 +23,43 @@
       "col_3": "فولاد مبارکه",
       "col_4": "برش خورده",
       "col_5": "بنگاه تهران",
-      "price_strrr": "114,600",
-      "price_nummm": 114600
+      "price_strrr": "118,240",
+      "price_nummm": 118240
     },
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات : +3.2%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "Gr 70",
+      "col_1": "8",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
+      "col_4": "برش خورده",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "116,050",
+      "price_nummm": 116050
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات : +6.7%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -53,34 +81,6 @@
       "col_5": "بنگاه تهران",
       "price_strrr": "109,140",
       "price_nummm": 109140
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/3/30 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "Gr 70",
-      "col_1": "8",
-      "sizeee": "6000*1500",
-      "col_3": "فولاد مبارکه",
-      "col_4": "برش خورده",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "108,770",
-      "price_nummm": 108770
     },
     {
       "group_infooo": {
