@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-06-21T21:56:57.491Z",
+  "scraped_attt": "2026-06-21T22:26:59.863Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -12,62 +12,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "45",
-      "col_1": "HEB",
-      "col_2": "12 متری",
-      "col_3": "ترک-کره",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "205,450",
-      "price_nummm": 205450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات :",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "50",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "213,640",
-      "price_nummm": 213640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات : -6.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "HEA",
@@ -1012,6 +956,62 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "45",
+      "col_1": "HEB",
+      "col_2": "12 متری",
+      "col_3": "ترک-کره",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "205,450",
+      "price_nummm": 205450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات :",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "50",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "213,640",
+      "price_nummm": 213640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/3/31 نمودار نوسانات : -6.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
