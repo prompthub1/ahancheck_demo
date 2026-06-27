@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-06-27T08:56:40.662Z",
+  "scraped_attt": "2026-06-27T09:26:54.802Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -306,6 +306,30 @@
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "69,730",
+      "price_nummm": 69730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -2.5%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
       "col_3": "کارخانه",
       "price_strrr": "65,640",
       "price_nummm": 65640
@@ -580,6 +604,30 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -2.7%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اسپیرال",
+        "update_labelll": "|"
+      },
+      "sizeee": "5",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "73,360",
+      "price_nummm": 73360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اسپیرال",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -916,54 +964,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "71,550",
-      "price_nummm": 71550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "5",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "73,640",
-      "price_nummm": 73640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/4 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
