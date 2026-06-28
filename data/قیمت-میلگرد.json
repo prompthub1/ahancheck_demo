@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-06-28T07:56:14.025Z",
+  "scraped_attt": "2026-06-28T08:26:13.365Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -11,18 +11,480 @@
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "64,090",
+      "price_nummm": 64090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
         "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "64,910",
-      "price_nummm": 64910
+      "price_strrr": "62,730",
+      "price_nummm": 62730
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,640",
+      "price_nummm": 63640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,640",
+      "price_nummm": 63640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,270",
+      "price_nummm": 62270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,270",
+      "price_nummm": 62270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,270",
+      "price_nummm": 62270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,270",
+      "price_nummm": 62270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,270",
+      "price_nummm": 62270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,270",
+      "price_nummm": 62270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "61,450",
+      "price_nummm": 61450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "61,270",
+      "price_nummm": 61270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "61,090",
+      "price_nummm": 61090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "60,180",
+      "price_nummm": 60180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "60,180",
+      "price_nummm": 60180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "60,180",
+      "price_nummm": 60180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "60,180",
+      "price_nummm": 60180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "60,180",
+      "price_nummm": 60180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "61,090",
+      "price_nummm": 61090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "61,090",
+      "price_nummm": 61090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "61,090",
+      "price_nummm": 61090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
@@ -58,11 +520,11 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "|"
       },
-      "sizeee": "12",
-      "col_1": "A3",
+      "sizeee": "10",
+      "col_1": "A2",
       "col_2": "کارخانه",
-      "price_strrr": "64,450",
-      "price_nummm": 64450
+      "price_strrr": "64,910",
+      "price_nummm": 64910
     },
     {
       "group_infooo": {
@@ -85,6 +547,28 @@
       "col_2": "کارخانه",
       "price_strrr": "63,730",
       "price_nummm": 63730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "64,450",
+      "price_nummm": 64450
     },
     {
       "group_infooo": {
@@ -224,6 +708,204 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "58,270",
+      "price_nummm": 58270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,550",
+      "price_nummm": 57550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,730",
+      "price_nummm": 57730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,450",
+      "price_nummm": 57450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,450",
+      "price_nummm": 57450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,450",
+      "price_nummm": 57450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,450",
+      "price_nummm": 57450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,450",
+      "price_nummm": 57450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "57,450",
+      "price_nummm": 57450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.3%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1321,248 +2003,6 @@
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "64,090",
-      "price_nummm": 64090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "62,730",
-      "price_nummm": 62730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "63,640",
-      "price_nummm": 63640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "62,730",
-      "price_nummm": 62730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "63,640",
-      "price_nummm": 63640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "62,270",
-      "price_nummm": 62270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
@@ -3641,248 +4081,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "61,450",
-      "price_nummm": 61450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "61,270",
-      "price_nummm": 61270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "61,090",
-      "price_nummm": 61090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "60,180",
-      "price_nummm": 60180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "60,180",
-      "price_nummm": 60180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "60,180",
-      "price_nummm": 60180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "60,180",
-      "price_nummm": 60180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "60,180",
-      "price_nummm": 60180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "61,090",
-      "price_nummm": 61090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "61,090",
-      "price_nummm": 61090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "61,090",
-      "price_nummm": 61090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آناهیتا گیلان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
@@ -5482,204 +5680,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "58,090",
-      "price_nummm": 58090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,360",
-      "price_nummm": 57360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,550",
-      "price_nummm": 57550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "57,270",
-      "price_nummm": 57270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/6 نمودار نوسانات : -1.1%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
