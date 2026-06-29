@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-ضد-سایش/",
-  "scraped_attt": "2026-06-29T05:58:09.462Z",
+  "scraped_attt": "2026-06-29T06:28:10.868Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -9,13 +9,16 @@
     "برند",
     "حالت",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق ضد سایش 6",
+        "update_labelll": ""
       },
       "col_0": "ضد ساییش",
       "col_1": "6",
@@ -23,27 +26,16 @@
       "col_3": "چینی",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "286,360",
-      "price_nummm": 286360
+      "price_nummm": 286360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق ضد سایش 8",
+        "update_labelll": ""
       },
       "col_0": "ضد ساییش",
       "col_1": "8",
@@ -51,27 +43,16 @@
       "col_3": "چینی",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "286,330",
-      "price_nummm": 286330
+      "price_nummm": 286330,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق ضد سایش 10",
+        "update_labelll": ""
       },
       "col_0": "ضد ساییش",
       "col_1": "10",
@@ -79,27 +60,16 @@
       "col_3": "چینی",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "286,330",
-      "price_nummm": 286330
+      "price_nummm": 286330,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق ضد سایش 12",
+        "update_labelll": ""
       },
       "col_0": "ضد ساییش",
       "col_1": "12",
@@ -107,27 +77,16 @@
       "col_3": "چینی",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "286,330",
-      "price_nummm": 286330
+      "price_nummm": 286330,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق ضد سایش 15",
+        "update_labelll": ""
       },
       "col_0": "ضد ساییش",
       "col_1": "15",
@@ -135,27 +94,16 @@
       "col_3": "چینی",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "285,880",
-      "price_nummm": 285880
+      "price_nummm": 285880,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق ضد سایش 25",
+        "update_labelll": ""
       },
       "col_0": "ضد ساییش",
       "col_1": "25",
@@ -163,22 +111,11 @@
       "col_3": "چینی",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "285,880",
-      "price_nummm": 285880
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 285880,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
