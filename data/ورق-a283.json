@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-a283/",
-  "scraped_attt": "2026-06-29T09:01:12.515Z",
+  "scraped_attt": "2026-06-29T09:59:07.335Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -9,13 +9,16 @@
     "کشور / کارخانه",
     "وضعیت",
     "انبار",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 6 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "6",
@@ -23,27 +26,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "98,680",
-      "price_nummm": 98680
+      "price_nummm": 98680,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 6 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "6",
@@ -51,27 +43,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "103,180",
-      "price_nummm": 103180
+      "price_nummm": 103180,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "8",
@@ -79,27 +60,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "106,360",
-      "price_nummm": 106360
+      "price_nummm": 106360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "8",
@@ -107,27 +77,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "97,360",
-      "price_nummm": 97360
+      "price_nummm": 97360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "-",
       "col_1": "8",
@@ -135,27 +94,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "105,000",
-      "price_nummm": 105000
+      "price_nummm": 105000,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "8",
@@ -163,27 +111,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "101,820",
-      "price_nummm": 101820
+      "price_nummm": 101820,
+      "col_8": "+ 1.8%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +1.8%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "10",
@@ -191,27 +128,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "93,180",
-      "price_nummm": 93180
+      "price_nummm": 93180,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "10",
@@ -219,27 +145,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "95,910",
-      "price_nummm": 95910
+      "price_nummm": 95910,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "10",
@@ -247,27 +162,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "94,140",
-      "price_nummm": 94140
+      "price_nummm": 94140,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "10",
@@ -275,27 +179,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "98,180",
-      "price_nummm": 98180
+      "price_nummm": 98180,
+      "col_8": "+ 1.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "12",
@@ -303,27 +196,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "93,180",
-      "price_nummm": 93180
+      "price_nummm": 93180,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "12",
@@ -331,27 +213,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "95,910",
-      "price_nummm": 95910
+      "price_nummm": 95910,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "12",
@@ -359,27 +230,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "90,050",
-      "price_nummm": 90050
+      "price_nummm": 90050,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "12",
@@ -387,27 +247,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "94,590",
-      "price_nummm": 94590
+      "price_nummm": 94590,
+      "col_8": "+ 2.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +2.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "15",
@@ -415,27 +264,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "95,000",
-      "price_nummm": 95000
+      "price_nummm": 95000,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "15",
@@ -443,27 +281,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "97,730",
-      "price_nummm": 97730
+      "price_nummm": 97730,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "15",
@@ -471,27 +298,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "85,180",
-      "price_nummm": 85180
+      "price_nummm": 85180,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "15",
@@ -499,27 +315,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "90,950",
-      "price_nummm": 90950
+      "price_nummm": 90950,
+      "col_8": "+ 4.2%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +4.2%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 20 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "20",
@@ -527,27 +332,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "77,730",
-      "price_nummm": 77730
+      "price_nummm": 77730,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 20 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "20",
@@ -555,27 +349,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "80,450",
-      "price_nummm": 80450
+      "price_nummm": 80450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 25 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "25",
@@ -583,27 +366,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "80,450",
-      "price_nummm": 80450
+      "price_nummm": 80450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 30 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "30",
@@ -611,27 +383,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "77,730",
-      "price_nummm": 77730
+      "price_nummm": 77730,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 30 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "30",
@@ -639,27 +400,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "80,450",
-      "price_nummm": 80450
+      "price_nummm": 80450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 35 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "35",
@@ -667,27 +417,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "77,730",
-      "price_nummm": 77730
+      "price_nummm": 77730,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 35 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "35",
@@ -695,27 +434,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "80,450",
-      "price_nummm": 80450
+      "price_nummm": 80450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 40 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "40",
@@ -723,27 +451,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "77,730",
-      "price_nummm": 77730
+      "price_nummm": 77730,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 40 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "40",
@@ -751,27 +468,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "80,450",
-      "price_nummm": 80450
+      "price_nummm": 80450,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "45",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 45 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "45",
@@ -779,27 +485,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "76,820",
-      "price_nummm": 76820
+      "price_nummm": 76820,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "45",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "45",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 45 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "45",
@@ -807,27 +502,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/4/7",
       "price_strrr": "79,550",
-      "price_nummm": 79550
+      "price_nummm": 79550,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "45",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "50",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق A283 ضخامت 50 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "50",
@@ -835,22 +519,11 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/4/7",
       "price_strrr": "81,360",
-      "price_nummm": 81360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "50",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 81360,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
