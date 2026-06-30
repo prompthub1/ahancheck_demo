@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-06-30T17:58:02.592Z",
+  "scraped_attt": "2026-06-30T20:59:19.893Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -615,30 +615,6 @@
         "category_nameee": "فایکو",
         "update_labelll": "|"
       },
-      "sizeee": "16",
-      "col_1": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "col_3": "-",
-      "price_strrr": "12,727,270",
-      "price_nummm": 12727270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فایکو",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فایکو",
-        "update_labelll": "|"
-      },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
@@ -924,30 +900,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "|"
-      },
-      "sizeee": "24",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "-",
-      "price_strrr": "28,181,820",
-      "price_nummm": 28181820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "یزد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "بناب",
         "update_labelll": "|"
       },
@@ -1068,54 +1020,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "|"
-      },
-      "sizeee": "16",
-      "col_1": "کارخانه",
-      "unittt": "کیلوگرم",
-      "col_3": "-",
-      "price_strrr": "73,640",
-      "price_nummm": 73640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کرمانشاه",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اطلس",
-        "update_labelll": "|"
-      },
-      "sizeee": "14",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "120",
-      "price_strrr": "8,818,180",
-      "price_nummm": 8818180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اطلس",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
         "update_labelll": "|"
       },
@@ -1164,8 +1068,104 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_3": "-",
+      "price_strrr": "12,727,270",
+      "price_nummm": 12727270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "یزد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "24",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "-",
+      "price_strrr": "28,181,820",
+      "price_nummm": 28181820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "یزد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کرمانشاه",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "کارخانه",
+      "unittt": "کیلوگرم",
+      "col_3": "-",
+      "price_strrr": "73,640",
+      "price_nummm": 73640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کرمانشاه",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اطلس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "14",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "120",
+      "price_strrr": "8,818,180",
+      "price_nummm": 8818180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اطلس",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
@@ -1177,7 +1177,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : -1.7%",
       "col_1": "",
