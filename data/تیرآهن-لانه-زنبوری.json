@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%84%D8%A7%D9%86%D9%87-%D8%B2%D9%86%D8%A8%D9%88%D8%B1%DB%8C/",
-  "scraped_attt": "2026-07-01T11:56:07.976Z",
+  "scraped_attt": "2026-07-01T12:32:47.492Z",
   "headersss": [
     "نام کالا",
     "سایز",
@@ -12,6 +12,34 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "titleee": "تیرآهن لانه زنبوری 22",
+      "sizeee": "22",
+      "col_2": "CPE",
+      "unittt": "شاخه",
+      "col_4": "ذوب آهن اصفهان",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "29,727,320",
+      "price_nummm": 29727320
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : -0.9%",
+      "sizeee": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
@@ -32,34 +60,6 @@
         "update_labelll": "امروز"
       },
       "titleee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.5%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "titleee": "تیرآهن لانه زنبوری 22",
-      "sizeee": "22",
-      "col_2": "CPE",
-      "unittt": "شاخه",
-      "col_4": "ذوب آهن اصفهان",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "30,000,050",
-      "price_nummm": 30000050
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "unittt": "",
