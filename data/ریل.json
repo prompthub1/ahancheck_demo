@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/",
-  "scraped_attt": "2026-07-01T11:58:53.308Z",
+  "scraped_attt": "2026-07-01T12:30:06.351Z",
   "headersss": [
     "نوع ریل",
     "برند",
@@ -19,6 +19,28 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "13,701,830",
       "price_nummm": 13701830
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "col_0": "A55",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "329,570",
+      "price_nummm": 329570
     },
     {
       "group_infooo": {
@@ -166,20 +188,20 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "A120",
-      "col_1": "وارداتی",
+      "col_0": "UIC 60",
+      "col_1": "ذوب آهن",
       "col_2": "بنگاه تهران",
-      "price_strrr": "322,990",
-      "price_nummm": 322990
+      "price_strrr": "203,620",
+      "price_nummm": 203620
     },
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -190,11 +212,11 @@
         "category_nameee": "بنگاه تهران",
         "update_labelll": "امروز"
       },
-      "col_0": "A55",
+      "col_0": "A120",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
-      "price_strrr": "329,570",
-      "price_nummm": 329570
+      "price_strrr": "322,990",
+      "price_nummm": 322990
     },
     {
       "group_infooo": {
@@ -239,28 +261,6 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "229,730",
       "price_nummm": 229730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "UIC 60",
-      "col_1": "ذوب آهن",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "203,620",
-      "price_nummm": 203620
     },
     {
       "group_infooo": {
