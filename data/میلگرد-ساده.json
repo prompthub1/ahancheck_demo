@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/",
-  "scraped_attt": "2026-07-01T10:56:50.065Z",
+  "scraped_attt": "2026-07-01T11:27:26.462Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -9,6 +9,182 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "شاخه 6 متری",
+      "unittt": "کیلوگرم",
+      "price_strrr": "66,180",
+      "price_nummm": 66180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "شاخه 6 متری",
+      "unittt": "کیلوگرم",
+      "price_strrr": "65,910",
+      "price_nummm": 65910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "شاخه",
+      "unittt": "کیلوگرم",
+      "price_strrr": "67,270",
+      "price_nummm": 67270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "5.5",
+      "col_1": "کلاف",
+      "unittt": "کیلوگرم",
+      "price_strrr": "67,730",
+      "price_nummm": 67730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرآباد",
+        "update_labelll": "|"
+      },
+      "sizeee": "6.5",
+      "col_1": "کلاف",
+      "unittt": "کیلوگرم",
+      "price_strrr": "64,550",
+      "price_nummm": 64550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرآباد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "5.5",
+      "col_1": "کلاف",
+      "unittt": "کیلوگرم",
+      "price_strrr": "71,820",
+      "price_nummm": 71820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ملایر",
+        "update_labelll": "|"
+      },
+      "sizeee": "6.5",
+      "col_1": "کلاف",
+      "unittt": "کیلوگرم",
+      "price_strrr": "64,550",
+      "price_nummm": 64550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ملایر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نطنز",
+        "update_labelll": "|"
+      },
+      "sizeee": "6.5",
+      "col_1": "کلاف",
+      "unittt": "کیلوگرم",
+      "price_strrr": "64,550",
+      "price_nummm": 64550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نطنز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "فولاد متین",
@@ -41,28 +217,6 @@
       "unittt": "کیلوگرم",
       "price_strrr": "68,450",
       "price_nummm": 68450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "شاخه 6 متری",
-      "unittt": "کیلوگرم",
-      "price_strrr": "66,180",
-      "price_nummm": 66180
     },
     {
       "group_infooo": {
@@ -124,28 +278,6 @@
         "category_nameee": "فولاد متین",
         "update_labelll": "امروز"
       },
-      "sizeee": "18",
-      "col_1": "شاخه 6 متری",
-      "unittt": "کیلوگرم",
-      "price_strrr": "65,910",
-      "price_nummm": 65910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
       "sizeee": "20",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
@@ -173,28 +305,6 @@
       "unittt": "کیلوگرم",
       "price_strrr": "65,910",
       "price_nummm": 65910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "شاخه",
-      "unittt": "کیلوگرم",
-      "price_strrr": "67,270",
-      "price_nummm": 67270
     },
     {
       "group_infooo": {
@@ -234,28 +344,6 @@
         "category_nameee": "ابهر",
         "update_labelll": "امروز"
       },
-      "sizeee": "5.5",
-      "col_1": "کلاف",
-      "unittt": "کیلوگرم",
-      "price_strrr": "67,730",
-      "price_nummm": 67730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
@@ -275,50 +363,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "امیرآباد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6.5",
-      "col_1": "کلاف",
-      "unittt": "کیلوگرم",
-      "price_strrr": "64,550",
-      "price_nummm": 64550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرآباد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "5.5",
-      "col_1": "کلاف",
-      "unittt": "کیلوگرم",
-      "price_strrr": "71,820",
-      "price_nummm": 71820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
@@ -353,28 +397,6 @@
     {
       "group_infooo": {
         "category_nameee": "مازندران",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ملایر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6.5",
-      "col_1": "کلاف",
-      "unittt": "کیلوگرم",
-      "price_strrr": "64,550",
-      "price_nummm": 64550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ملایر",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
@@ -393,28 +415,6 @@
       "unittt": "کیلوگرم",
       "price_strrr": "64,820",
       "price_nummm": 64820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نطنز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/9 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نطنز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6.5",
-      "col_1": "کلاف",
-      "unittt": "کیلوگرم",
-      "price_strrr": "64,550",
-      "price_nummm": 64550
     },
     {
       "group_infooo": {
