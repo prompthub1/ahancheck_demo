@@ -1,145 +1,98 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-دریایی/",
-  "scraped_attt": "2026-07-04T06:57:41.361Z",
+  "scraped_attt": "2026-07-04T07:27:30.421Z",
   "headersss": [
     "ضخامت",
     "سایز",
     "برند",
     "حالت",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق دریایی 6",
+        "update_labelll": ""
       },
       "col_0": "6",
       "sizeee": "6000*1500",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/4/11",
       "price_strrr": "104,180",
-      "price_nummm": 104180
+      "price_nummm": 104180,
+      "col_7": "+ 0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/11 نمودار نوسانات : +0.4%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق دریایی 8",
+        "update_labelll": ""
       },
       "col_0": "8",
       "sizeee": "6000*1500",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/4/11",
       "price_strrr": "103,200",
-      "price_nummm": 103200
+      "price_nummm": 103200,
+      "col_7": "+ 0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/11 نمودار نوسانات : +0.4%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق دریایی 10",
+        "update_labelll": ""
       },
       "col_0": "10",
       "sizeee": "6000*1500",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/4/11",
       "price_strrr": "98,710",
-      "price_nummm": 98710
+      "price_nummm": 98710,
+      "col_7": "-0.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/11 نمودار نوسانات : -0.5%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق دریایی 12",
+        "update_labelll": ""
       },
       "col_0": "12",
       "sizeee": "6000*1500",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/4/11",
       "price_strrr": "95,200",
-      "price_nummm": 95200
+      "price_nummm": 95200,
+      "col_7": "-0.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/11 نمودار نوسانات : -0.5%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق دریایی 15",
+        "update_labelll": ""
       },
       "col_0": "15",
       "sizeee": "6000*1500",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/4/11",
       "price_strrr": "91,840",
-      "price_nummm": 91840
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/11 نمودار نوسانات : +0.5%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 91840,
+      "col_7": "+ 0.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
