@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-07-07T20:26:46.044Z",
+  "scraped_attt": "2026-07-07T20:56:41.523Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -1215,30 +1215,6 @@
         "category_nameee": "اروپا",
         "update_labelll": "|"
       },
-      "sizeee": "16",
-      "col_1": "12 متری",
-      "unittt": "شاخه",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "2,730",
-      "price_nummm": 2730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اروپا",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات :",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اروپا",
-        "update_labelll": "|"
-      },
       "sizeee": "18",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
@@ -1716,8 +1692,32 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "16",
+      "col_1": "12 متری",
+      "unittt": "شاخه",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "2,730",
+      "price_nummm": 2730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات :",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "12 متری",
@@ -1729,7 +1729,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات : +4.2%",
       "col_1": "",
@@ -1741,7 +1741,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "6 متری",
@@ -1753,7 +1753,7 @@
     {
       "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات : +4.2%",
       "col_1": "",
