@@ -1,93 +1,66 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/17mn4-ورق/",
-  "scraped_attt": "2026-07-08T08:57:44.839Z",
+  "scraped_attt": "2026-07-08T09:27:52.512Z",
   "headersss": [
     "ضخامت",
     "سایز",
     "برند",
     "حالت",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "17mn4 ورق ضخامت 8",
+        "update_labelll": ""
       },
       "col_0": "8",
       "sizeee": "1500*6000",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "-",
+      "col_5": "1405/4/16",
       "price_strrr": "110,040",
-      "price_nummm": 110040
+      "price_nummm": 110040,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "17mn4 ورق ضخامت 10",
+        "update_labelll": ""
       },
       "col_0": "10",
       "sizeee": "1500*6000",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "-",
+      "col_5": "1405/4/16",
       "price_strrr": "109,510",
-      "price_nummm": 109510
+      "price_nummm": 109510,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "17mn4 ورق ضخامت 12",
+        "update_labelll": ""
       },
       "col_0": "12",
       "sizeee": "1500*6000",
       "col_2": "فولاد مبارکه",
       "col_3": "شیت",
       "col_4": "-",
+      "col_5": "1405/4/16",
       "price_strrr": "111,410",
-      "price_nummm": 111410
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 111410,
+      "col_7": "0.0%",
+      "col_8": ""
     }
   ]
 }
