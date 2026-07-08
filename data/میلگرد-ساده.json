@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/",
-  "scraped_attt": "2026-07-08T07:56:20.787Z",
+  "scraped_attt": "2026-07-08T08:26:21.501Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -9,6 +9,28 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "شاخه",
+      "unittt": "کیلوگرم",
+      "price_strrr": "67,450",
+      "price_nummm": 67450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "فولاد متین",
@@ -173,28 +195,6 @@
       "unittt": "کیلوگرم",
       "price_strrr": "66,090",
       "price_nummm": 66090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/16 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد متین",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "شاخه",
-      "unittt": "کیلوگرم",
-      "price_strrr": "67,450",
-      "price_nummm": 67450
     },
     {
       "group_infooo": {
