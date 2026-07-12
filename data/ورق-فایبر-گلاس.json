@@ -1,302 +1,197 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-فایبر-گلاس/",
-  "scraped_attt": "2026-07-12T13:59:11.539Z",
+  "scraped_attt": "2026-07-12T14:29:10.037Z",
   "headersss": [
     "حالت",
     "نوع",
     "واحد",
     "محل انبار",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس صاف",
+        "update_labelll": ""
       },
       "col_0": "صاف",
       "col_1": "750 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,590,910",
-      "price_nummm": 1590910
+      "price_nummm": 1590910,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس صاف",
+        "update_labelll": ""
       },
       "col_0": "صاف",
       "col_1": "450 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,227,270",
-      "price_nummm": 1227270
+      "price_nummm": 1227270,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس صاف",
+        "update_labelll": ""
       },
       "col_0": "صاف",
       "col_1": "300 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,136,360",
-      "price_nummm": 1136360
+      "price_nummm": 1136360,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس صاف",
+        "update_labelll": ""
       },
       "col_0": "صاف",
       "col_1": "600 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,500,000",
-      "price_nummm": 1500000
+      "price_nummm": 1500000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس ذوزنقه",
+        "update_labelll": ""
       },
       "col_0": "ذوزنقه",
       "col_1": "450 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,227,270",
-      "price_nummm": 1227270
+      "price_nummm": 1227270,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس ذوزنقه",
+        "update_labelll": ""
       },
       "col_0": "ذوزنقه",
       "col_1": "300 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,136,360",
-      "price_nummm": 1136360
+      "price_nummm": 1136360,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس ذوزنقه",
+        "update_labelll": ""
       },
       "col_0": "ذوزنقه",
       "col_1": "750 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,590,910",
-      "price_nummm": 1590910
+      "price_nummm": 1590910,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس ذوزنقه",
+        "update_labelll": ""
       },
       "col_0": "ذوزنقه",
       "col_1": "600 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,500,000",
-      "price_nummm": 1500000
+      "price_nummm": 1500000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس سینوسی",
+        "update_labelll": ""
       },
       "col_0": "سینوسی",
       "col_1": "600 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,500,000",
-      "price_nummm": 1500000
+      "price_nummm": 1500000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس سینوسی",
+        "update_labelll": ""
       },
       "col_0": "سینوسی",
       "col_1": "750 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,590,910",
-      "price_nummm": 1590910
+      "price_nummm": 1590910,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس سینوسی",
+        "update_labelll": ""
       },
       "col_0": "سینوسی",
       "col_1": "300 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,136,360",
-      "price_nummm": 1136360
+      "price_nummm": 1136360,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق فایبر گلاس سینوسی",
+        "update_labelll": ""
       },
       "col_0": "سینوسی",
       "col_1": "450 گرمی",
       "unittt": "مترمربع",
       "col_3": "بنگاه تهران",
+      "col_4": "1405/4/21",
       "price_strrr": "1,227,270",
-      "price_nummm": 1227270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 1227270,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
