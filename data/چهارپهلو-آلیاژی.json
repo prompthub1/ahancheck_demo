@@ -1,77 +1,110 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو-آلیاژی/",
-  "scraped_attt": "2026-07-12T05:58:17.546Z",
+  "scraped_attt": "2026-07-12T06:28:42.933Z",
   "headersss": [
     "آلیاژ",
     "حالت",
     "سایز",
     "تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو آلیاژی ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
       },
       "col_0": "St52",
       "col_1": "ترانس",
       "sizeee": "4*4",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/4/17",
       "price_strrr": "108,050",
-      "price_nummm": 108050,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 108050
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو آلیاژی ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
       },
       "col_0": "St52",
       "col_1": "ترانس",
       "sizeee": "5*5",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/4/17",
       "price_strrr": "108,500",
-      "price_nummm": 108500,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 108500
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو آلیاژی ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
       },
       "col_0": "St52",
       "col_1": "ترانس",
       "sizeee": "6*6",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/4/17",
       "price_strrr": "108,540",
-      "price_nummm": 108540,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 108540
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو آلیاژی ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
       },
       "col_0": "St52",
       "col_1": "ترانس",
       "sizeee": "8*8",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/4/17",
       "price_strrr": "108,250",
-      "price_nummm": 108250,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 108250
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/17 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
