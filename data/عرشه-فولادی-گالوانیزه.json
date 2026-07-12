@@ -1,240 +1,365 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
-  "scraped_attt": "2026-07-12T15:57:40.204Z",
+  "scraped_attt": "2026-07-12T16:27:54.460Z",
   "headersss": [
     "ضخامت (میل)",
     "برند",
     "انبار",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "0.8",
       "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,820",
-      "price_nummm": 132820,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 132820
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "0.9",
       "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,640",
-      "price_nummm": 132640,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 132640
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1",
       "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,640",
-      "price_nummm": 132640,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 132640
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1.25",
       "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,640",
-      "price_nummm": 132640,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 132640
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه شهر کرد",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
       },
       "col_0": "0.8",
       "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,730",
-      "price_nummm": 132730,
-      "col_5": "-0.7%",
-      "col_6": ""
+      "price_nummm": 132730
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه شهر کرد",
-        "update_labelll": ""
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : -0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
       },
       "col_0": "0.9",
       "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,820",
-      "price_nummm": 132820,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 132820
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه شهر کرد",
-        "update_labelll": ""
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
       },
       "col_0": "1",
       "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "132,820",
-      "price_nummm": 132820,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 132820
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه شهر کرد",
-        "update_labelll": ""
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
       },
       "col_0": "1.25",
       "col_1": "شهرکرد",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "133,270",
-      "price_nummm": 133270,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 133270
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه کاشان",
-        "update_labelll": ""
+        "category_nameee": "شهرکرد",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "col_0": "0.8",
       "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "134,730",
-      "price_nummm": 134730,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 134730
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "col_0": "0.9",
       "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "134,270",
-      "price_nummm": 134270,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 134270
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "col_0": "1",
       "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "134,910",
-      "price_nummm": 134910,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 134910
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "col_0": "1.25",
       "col_1": "کاشان",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "134,450",
-      "price_nummm": 134450,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 134450
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه تاراز",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
       },
       "col_0": "0.8",
       "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "133,000",
-      "price_nummm": 133000,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 133000
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه تاراز",
-        "update_labelll": ""
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
       },
       "col_0": "0.9",
       "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "133,000",
-      "price_nummm": 133000,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 133000
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه تاراز",
-        "update_labelll": ""
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
       },
       "col_0": "1",
       "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "133,640",
-      "price_nummm": 133640,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 133640
     },
     {
       "group_infooo": {
-        "category_nameee": "عرشه فولادی گالوانیزه تاراز",
-        "update_labelll": ""
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
       },
       "col_0": "1.25",
       "col_1": "تاراز",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/21",
       "price_strrr": "134,090",
-      "price_nummm": 134090,
-      "col_5": "+ 0.7%",
-      "col_6": ""
+      "price_nummm": 134090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "تاراز",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
