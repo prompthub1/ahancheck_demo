@@ -1,242 +1,374 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-مسی/",
-  "scraped_attt": "2026-07-13T07:58:15.707Z",
+  "scraped_attt": "2026-07-13T08:28:01.179Z",
   "headersss": [
     "ضخامت",
     "سایز",
     "برند",
     "حالت",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "0.4",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/2/20",
       "price_strrr": "2,757,500",
-      "price_nummm": 2757500,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2757500
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/20 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "0.5",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/2/20",
       "price_strrr": "2,757,500",
-      "price_nummm": 2757500,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2757500
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/20 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "0.7",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "0.8",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/2/20",
       "price_strrr": "2,940,000",
-      "price_nummm": 2940000,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2940000
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/20 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "1",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "1.25",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/2/20",
       "price_strrr": "2,940,000",
-      "price_nummm": 2940000,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2940000
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/20 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "1.5",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/2/20",
       "price_strrr": "2,940,000",
-      "price_nummm": 2940000,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2940000
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/20 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "2",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "5",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "3",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "4",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "6",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "7",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "8",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/2/20",
       "price_strrr": "2,940,000",
-      "price_nummm": 2940000,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2940000
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق مسی بنگاه تهران",
-        "update_labelll": ""
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/2/20 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
       },
       "col_0": "10",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
-      "col_4": "1405/4/21",
       "price_strrr": "2,481,820",
-      "price_nummm": 2481820,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 2481820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
