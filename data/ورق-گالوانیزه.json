@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-گالوانیزه/",
-  "scraped_attt": "2026-07-13T21:27:19.550Z",
+  "scraped_attt": "2026-07-13T21:57:43.165Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -11,110 +11,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "0.7",
-      "col_1": "1000",
-      "col_2": "کاشان",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "140,090",
-      "price_nummm": 140090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "0.7",
-      "col_1": "1250",
-      "col_2": "کاشان",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "139,910",
-      "price_nummm": 139910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "0.8",
-      "col_1": "1000",
-      "col_2": "کاشان",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "139,450",
-      "price_nummm": 139450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "0.8",
-      "col_1": "1250",
-      "col_2": "کاشان",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "139,450",
-      "price_nummm": 139450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "شهریار تبریز",
@@ -1044,6 +940,110 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1000",
+      "col_2": "کاشان",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "140,090",
+      "price_nummm": 140090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1250",
+      "col_2": "کاشان",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "139,910",
+      "price_nummm": 139910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1000",
+      "col_2": "کاشان",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "139,450",
+      "price_nummm": 139450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1250",
+      "col_2": "کاشان",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "139,450",
+      "price_nummm": 139450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
