@@ -1,282 +1,431 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/",
-  "scraped_attt": "2026-07-13T11:56:21.282Z",
+  "scraped_attt": "2026-07-13T12:26:19.894Z",
   "headersss": [
     "سایز",
     "حالت",
     "واحد",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "65,000",
-      "price_nummm": 65000,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 65000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "69,550",
-      "price_nummm": 69550,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 69550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "شاخه",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "68,820",
-      "price_nummm": 68820,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 68820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "شاخه",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "68,360",
-      "price_nummm": 68360,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 68360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده فولاد متین",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "شاخه 6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده ابهر",
-        "update_labelll": ""
+        "category_nameee": "فولاد متین",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "5.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "68,640",
-      "price_nummm": 68640,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 68640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,730",
-      "price_nummm": 67730,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده امیرآباد",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرآباد",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "65,450",
-      "price_nummm": 65450,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 65450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده کاشان",
-        "update_labelll": ""
+        "category_nameee": "امیرآباد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "5.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "72,730",
-      "price_nummm": 72730,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 72730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "72,730",
-      "price_nummm": 72730,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 72730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده مازندران",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "مازندران",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "65,450",
-      "price_nummm": 65450,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 65450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده ملایر",
-        "update_labelll": ""
+        "category_nameee": "مازندران",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ملایر",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده نطنز",
-        "update_labelll": ""
+        "category_nameee": "ملایر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نطنز",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "65,730",
-      "price_nummm": 65730,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 65730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ساده نطنز",
-        "update_labelll": ""
+        "category_nameee": "نطنز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نطنز",
+        "update_labelll": "|"
       },
       "sizeee": "6.5",
       "col_1": "کلاف",
       "unittt": "کیلوگرم",
-      "col_3": "1405/4/22",
       "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 67270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نطنز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/22 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
