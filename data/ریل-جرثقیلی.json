@@ -1,145 +1,100 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/%D8%B1%DB%8C%D9%84-%D8%AC%D8%B1%D8%AB%D9%82%DB%8C%D9%84%DB%8C/",
-  "scraped_attt": "2026-07-13T07:57:42.976Z",
+  "scraped_attt": "2026-07-13T08:27:18.767Z",
   "headersss": [
     "برند",
     "محل تحویل",
     "گرید ریل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "وارداتی",
-      "col_1": "بنگاه تهران",
-      "col_2": "A 45",
-      "price_strrr": "472,730",
-      "price_nummm": 472730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات :",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "وارداتی",
-      "col_1": "بنگاه تهران",
-      "col_2": "A 65",
-      "price_strrr": "474,810",
-      "price_nummm": 474810
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +36.6%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "وارداتی",
-      "col_1": "بنگاه تهران",
-      "col_2": "A55",
-      "price_strrr": "473,320",
-      "price_nummm": 473320
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +36.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل جرثقیلی وارداتی",
+        "update_labelll": ""
       },
       "col_0": "وارداتی",
       "col_1": "بنگاه تهران",
       "col_2": "A120",
-      "price_strrr": "339,140",
-      "price_nummm": 339140
+      "col_3": "1405/4/22",
+      "price_strrr": "475,500",
+      "price_nummm": 475500,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل جرثقیلی وارداتی",
+        "update_labelll": ""
       },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A55",
+      "col_3": "1405/4/22",
+      "price_strrr": "473,320",
+      "price_nummm": 473320,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل جرثقیلی وارداتی",
+        "update_labelll": ""
       },
       "col_0": "وارداتی",
       "col_1": "بنگاه تهران",
       "col_2": "A 75",
-      "price_strrr": "342,290",
-      "price_nummm": 342290
+      "col_3": "1405/4/22",
+      "price_strrr": "478,650",
+      "price_nummm": 478650,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل جرثقیلی وارداتی",
+        "update_labelll": ""
       },
       "col_0": "وارداتی",
       "col_1": "بنگاه تهران",
       "col_2": "A 100",
+      "col_3": "1405/4/22",
       "price_strrr": "338,610",
-      "price_nummm": 338610
+      "price_nummm": 338610,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "وارداتی",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل جرثقیلی وارداتی",
+        "update_labelll": ""
       },
-      "col_0": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A 65",
+      "col_3": "1405/4/22",
+      "price_strrr": "474,810",
+      "price_nummm": 474810,
+      "col_5": "0.0%",
+      "col_6": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ریل جرثقیلی وارداتی",
+        "update_labelll": ""
+      },
+      "col_0": "وارداتی",
+      "col_1": "بنگاه تهران",
+      "col_2": "A 45",
+      "col_3": "1405/4/22",
+      "price_strrr": "472,730",
+      "price_nummm": 472730,
+      "col_5": "0.0%",
+      "col_6": ""
     }
   ]
 }
