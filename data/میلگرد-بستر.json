@@ -1,93 +1,66 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1/",
-  "scraped_attt": "2026-07-13T08:26:12.803Z",
+  "scraped_attt": "2026-07-13T08:56:20.154Z",
   "headersss": [
     "سایز",
     "حالت",
     "ضخامت",
     "محل تحویل",
     "واحد",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
+        "category_nameee": "میلگرد بستر سایز 4",
+        "update_labelll": ""
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "15",
       "col_3": "بنگاه تهران",
       "unittt": "شاخه",
+      "col_5": "1405/4/21",
       "price_strrr": "63,640",
-      "price_nummm": 63640
+      "price_nummm": 63640,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
+        "category_nameee": "میلگرد بستر سایز 4",
+        "update_labelll": ""
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "11",
       "col_3": "بنگاه تهران",
       "unittt": "شاخه",
+      "col_5": "1405/4/21",
       "price_strrr": "62,270",
-      "price_nummm": 62270
+      "price_nummm": 62270,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
+        "category_nameee": "میلگرد بستر سایز 4",
+        "update_labelll": ""
       },
       "sizeee": "4",
       "col_1": "شاخه 3 متری",
       "col_2": "5.5",
       "col_3": "بنگاه تهران",
       "unittt": "شاخه",
+      "col_5": "1405/4/21",
       "price_strrr": "61,360",
-      "price_nummm": 61360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 61360,
+      "col_7": "0.0%",
+      "col_8": ""
     }
   ]
 }
