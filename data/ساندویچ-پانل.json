@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ساندویچ-پانل/",
-  "scraped_attt": "2026-07-18T07:57:54.310Z",
+  "scraped_attt": "2026-07-18T08:29:26.242Z",
   "headersss": [
     "ضخامت(عایق)",
     "مدل",
@@ -9,6 +9,72 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "ضخامت 4 سانتی متری",
+      "col_1": "دو رو ورق",
+      "unittt": "متر مربع",
+      "price_strrr": "3,832,000",
+      "price_nummm": 3832000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "ضخامت 5 سانتی متر",
+      "col_1": "دو رو ورق",
+      "unittt": "مترمربع",
+      "price_strrr": "4,131,000",
+      "price_nummm": 4131000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "ضخامت 6 سانتی متری",
+      "col_1": "دو رو ورق",
+      "unittt": "مترمربع",
+      "price_strrr": "4,461,000",
+      "price_nummm": 4461000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سقفی",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "دیواری",
@@ -70,72 +136,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سقفی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ضخامت 4 سانتی متری",
-      "col_1": "دو رو ورق",
-      "unittt": "متر مربع",
-      "price_strrr": "3,832,000",
-      "price_nummm": 3832000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سقفی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/25 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سقفی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ضخامت 5 سانتی متر",
-      "col_1": "دو رو ورق",
-      "unittt": "مترمربع",
-      "price_strrr": "4,131,000",
-      "price_nummm": 4131000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سقفی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/25 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سقفی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "ضخامت 6 سانتی متری",
-      "col_1": "دو رو ورق",
-      "unittt": "مترمربع",
-      "price_strrr": "4,461,000",
-      "price_nummm": 4461000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سقفی",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/25 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "price_strrr": "",
