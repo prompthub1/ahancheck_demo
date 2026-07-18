@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-07-18T10:59:00.627Z",
+  "scraped_attt": "2026-07-18T11:27:18.565Z",
   "headersss": [
     "سایز",
     "برند",
@@ -140,6 +140,21 @@
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "113,100",
+      "price_nummm": 113100,
+      "col_6": "-0.4%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 5 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
       "col_4": "1405/4/27",
@@ -170,12 +185,27 @@
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "120,000",
+      "price_nummm": 120000,
+      "col_6": "+ 8.2%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 6 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
       "col_4": "1405/4/27",
-      "price_strrr": "112,730",
-      "price_nummm": 112730,
-      "col_6": "+ 1.6%",
+      "price_strrr": "117,270",
+      "price_nummm": 117270,
+      "col_6": "+ 4.0%",
       "col_7": ""
     },
     {
@@ -191,6 +221,51 @@
       "price_strrr": "94,550",
       "price_nummm": 94550,
       "col_6": "+ 2.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "114,640",
+      "price_nummm": 114640,
+      "col_6": "+ 4.6%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "2000*6000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "114,090",
+      "price_nummm": 114090,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "113,640",
+      "price_nummm": 113640,
+      "col_6": "+ 4.6%",
       "col_7": ""
     },
     {
@@ -215,12 +290,72 @@
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "116,360",
+      "price_nummm": 116360,
+      "col_6": "+ 8.5%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
       "col_4": "1405/4/27",
-      "price_strrr": "115,450",
-      "price_nummm": 115450,
-      "col_6": "+ 6.7%",
+      "price_strrr": "120,000",
+      "price_nummm": 120000,
+      "col_6": "+ 3.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "106,360",
+      "price_nummm": 106360,
+      "col_6": "-1.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "108,640",
+      "price_nummm": 108640,
+      "col_6": "+ 3.5%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "105,910",
+      "price_nummm": 105910,
+      "col_6": "+ 4.0%",
       "col_7": ""
     },
     {
@@ -281,6 +416,66 @@
       "price_strrr": "100,450",
       "price_nummm": 100450,
       "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "105,450",
+      "price_nummm": 105450,
+      "col_6": "+ 4.5%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "105,000",
+      "price_nummm": 105000,
+      "col_6": "+ 4.5%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "108,180",
+      "price_nummm": 108180,
+      "col_6": "+ 5.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "105,910",
+      "price_nummm": 105910,
+      "col_6": "+ 6.9%",
       "col_7": ""
     },
     {
@@ -378,6 +573,51 @@
         "category_nameee": "ورق سیاه ضخامت 15 میل",
         "update_labelll": ""
       },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "107,270",
+      "price_nummm": 107270,
+      "col_6": "+ 4.4%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "106,820",
+      "price_nummm": 106820,
+      "col_6": "+ 4.4%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "104,090",
+      "price_nummm": 104090,
+      "col_6": "+ 7.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
@@ -483,6 +723,51 @@
         "category_nameee": "ورق سیاه ضخامت 20 میل",
         "update_labelll": ""
       },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "88,640",
+      "price_nummm": 88640,
+      "col_6": "+ 4.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 20 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "88,180",
+      "price_nummm": 88180,
+      "col_6": "+ 4.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 20 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "90,910",
+      "price_nummm": 90910,
+      "col_6": "+ 4.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 20 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -536,6 +821,51 @@
       "price_strrr": "82,730",
       "price_nummm": 82730,
       "col_6": "-1.1%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 25 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "88,640",
+      "price_nummm": 88640,
+      "col_6": "+ 2.6%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 25 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "88,180",
+      "price_nummm": 88180,
+      "col_6": "+ 2.6%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 25 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "90,910",
+      "price_nummm": 90910,
+      "col_6": "+ 0.5%",
       "col_7": ""
     },
     {
@@ -603,6 +933,21 @@
         "category_nameee": "ورق سیاه ضخامت 30 میل",
         "update_labelll": ""
       },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "-",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "88,180",
+      "price_nummm": 88180,
+      "col_6": "+ 4.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 30 میل",
+        "update_labelll": ""
+      },
       "sizeee": "1500*6000",
       "col_1": "آتیه",
       "col_2": "فابریک",
@@ -611,6 +956,36 @@
       "price_strrr": "82,730",
       "price_nummm": 82730,
       "col_6": "-1.1%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 30 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "87,270",
+      "price_nummm": 87270,
+      "col_6": "+ 4.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 30 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "90,450",
+      "price_nummm": 90450,
+      "col_6": "+ 3.1%",
       "col_7": ""
     },
     {
@@ -708,6 +1083,51 @@
         "category_nameee": "ورق سیاه ضخامت 35 میل",
         "update_labelll": ""
       },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "87,730",
+      "price_nummm": 87730,
+      "col_6": "+ 4.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 35 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "87,270",
+      "price_nummm": 87270,
+      "col_6": "+ 4.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 35 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "90,910",
+      "price_nummm": 90910,
+      "col_6": "+ 3.6%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 35 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -753,6 +1173,51 @@
         "category_nameee": "ورق سیاه ضخامت 40 میل",
         "update_labelll": ""
       },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "85,910",
+      "price_nummm": 85910,
+      "col_6": "+ 2.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 40 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "85,450",
+      "price_nummm": 85450,
+      "col_6": "+ 2.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 40 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "88,640",
+      "price_nummm": 88640,
+      "col_6": "+ 0.5%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 40 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -776,6 +1241,66 @@
       "price_strrr": "86,370",
       "price_nummm": 86370,
       "col_6": "+ 2.2%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 45 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "85,910",
+      "price_nummm": 85910,
+      "col_6": "+ 3.3%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 45 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "90,910",
+      "price_nummm": 90910,
+      "col_6": "+ 2.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 50 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/4/27",
+      "price_strrr": "86,820",
+      "price_nummm": 86820,
+      "col_6": "+ 2.1%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 50 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "12000*2000",
+      "col_1": "اکسین اهواز",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/4/27",
+      "price_strrr": "90,000",
+      "price_nummm": 90000,
+      "col_6": "+ 3.7%",
       "col_7": ""
     },
     {
@@ -915,21 +1440,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 5 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "107,280",
-      "price_nummm": 107280,
-      "col_6": "+ 4.9%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 6 میل",
         "update_labelll": ""
       },
@@ -956,66 +1466,6 @@
       "price_strrr": "108,180",
       "price_nummm": 108180,
       "col_6": "+ 6.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 6 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "110,910",
-      "price_nummm": 110910,
-      "col_6": "+ 4.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "109,090",
-      "price_nummm": 109090,
-      "col_6": "+ 2.6%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "2000*6000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "114,090",
-      "price_nummm": 114090,
-      "col_6": "+ 2.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "108,640",
-      "price_nummm": 108640,
-      "col_6": "+ 2.6%",
       "col_7": ""
     },
     {
@@ -1061,51 +1511,6 @@
       "price_strrr": "104,550",
       "price_nummm": 104550,
       "col_6": "+ 6.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "107,270",
-      "price_nummm": 107270,
-      "col_6": "+ 4.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 10 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 2.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 10 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "105,000",
-      "price_nummm": 105000,
-      "col_6": "+ 2.7%",
       "col_7": ""
     },
     {
@@ -1170,66 +1575,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 10 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "101,820",
-      "price_nummm": 101820,
-      "col_6": "+ 5.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "100,910",
-      "price_nummm": 100910,
-      "col_6": "+ 2.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "100,450",
-      "price_nummm": 100450,
-      "col_6": "+ 2.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 2.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 12 میل",
         "update_labelll": ""
       },
@@ -1290,51 +1635,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "99,090",
-      "price_nummm": 99090,
-      "col_6": "+ 2.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "102,730",
-      "price_nummm": 102730,
-      "col_6": "+ 2.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 2.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ورق سیاه ضخامت 15 میل",
         "update_labelll": ""
       },
@@ -1361,21 +1661,6 @@
       "price_strrr": "99,090",
       "price_nummm": 99090,
       "col_6": "+ 8.5%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "97,270",
-      "price_nummm": 97270,
-      "col_6": "+ 0.9%",
       "col_7": ""
     },
     {
@@ -1413,51 +1698,6 @@
         "category_nameee": "ورق سیاه ضخامت 20 میل",
         "update_labelll": ""
       },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "84,550",
-      "price_nummm": 84550,
-      "col_6": "+ 3.3%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 20 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "84,090",
-      "price_nummm": 84090,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 20 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "89,550",
-      "price_nummm": 89550,
-      "col_6": "+ 3.2%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 20 میل",
-        "update_labelll": ""
-      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -1481,51 +1721,6 @@
       "price_strrr": "80,910",
       "price_nummm": 80910,
       "col_6": "-1.1%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 25 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "86,360",
-      "price_nummm": 86360,
-      "col_6": "+ 3.3%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 25 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "85,910",
-      "price_nummm": 85910,
-      "col_6": "+ 3.3%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 25 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "90,450",
-      "price_nummm": 90450,
-      "col_6": "+ 3.1%",
       "col_7": ""
     },
     {
@@ -1563,51 +1758,6 @@
         "category_nameee": "ورق سیاه ضخامت 30 میل",
         "update_labelll": ""
       },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "-",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "84,090",
-      "price_nummm": 84090,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 30 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "83,180",
-      "price_nummm": 83180,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 30 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "87,730",
-      "price_nummm": 87730,
-      "col_6": "+ 3.2%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 30 میل",
-        "update_labelll": ""
-      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -1631,51 +1781,6 @@
       "price_strrr": "80,910",
       "price_nummm": 80910,
       "col_6": "-1.1%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 35 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "83,640",
-      "price_nummm": 83640,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 35 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "83,180",
-      "price_nummm": 83180,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 35 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "87,730",
-      "price_nummm": 87730,
-      "col_6": "+ 3.2%",
       "col_7": ""
     },
     {
@@ -1713,51 +1818,6 @@
         "category_nameee": "ورق سیاه ضخامت 40 میل",
         "update_labelll": ""
       },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "83,640",
-      "price_nummm": 83640,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 40 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "83,180",
-      "price_nummm": 83180,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 40 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "88,180",
-      "price_nummm": 88180,
-      "col_6": "+ 3.2%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 40 میل",
-        "update_labelll": ""
-      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -1788,21 +1848,6 @@
         "category_nameee": "ورق سیاه ضخامت 45 میل",
         "update_labelll": ""
       },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "83,180",
-      "price_nummm": 83180,
-      "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 45 میل",
-        "update_labelll": ""
-      },
       "sizeee": "12000*2000",
       "col_1": "اکسین اهواز",
       "col_2": "فابریک",
@@ -1811,51 +1856,6 @@
       "price_strrr": "83,640",
       "price_nummm": 83640,
       "col_6": "+ 3.4%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 45 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "88,180",
-      "price_nummm": 88180,
-      "col_6": "+ 3.2%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 50 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/4/25",
-      "price_strrr": "85,000",
-      "price_nummm": 85000,
-      "col_6": "+ 3.3%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 50 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "12000*2000",
-      "col_1": "اکسین اهواز",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/4/25",
-      "price_strrr": "86,820",
-      "price_nummm": 86820,
-      "col_6": "+ 3.2%",
       "col_7": ""
     }
   ]
