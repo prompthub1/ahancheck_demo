@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-07-18T20:56:54.074Z",
+  "scraped_attt": "2026-07-18T21:26:54.703Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -12,34 +12,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "|"
-      },
-      "sizeee": "10",
-      "col_1": "HEA",
-      "col_2": "12 متری",
-      "col_3": "ترک-کره",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "181,820",
-      "price_nummm": 181820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "HEA",
@@ -452,34 +424,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "10",
-      "col_1": "HEB",
-      "col_2": "12 متری",
-      "col_3": "ترک-کره",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "172,730",
-      "price_nummm": 172730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -1025,6 +969,34 @@
         "category_nameee": "HEA",
         "update_labelll": "امروز"
       },
+      "sizeee": "10",
+      "col_1": "HEA",
+      "col_2": "12 متری",
+      "col_3": "ترک-کره",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "181,820",
+      "price_nummm": 181820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "امروز"
+      },
       "sizeee": "20",
       "col_1": "HEA",
       "col_2": "شاخه 12 متری",
@@ -1040,6 +1012,34 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/25 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "10",
+      "col_1": "HEB",
+      "col_2": "12 متری",
+      "col_3": "ترک-کره",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "172,730",
+      "price_nummm": 172730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
