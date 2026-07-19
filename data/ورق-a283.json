@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-a283/",
-  "scraped_attt": "2026-07-19T21:57:41.373Z",
+  "scraped_attt": "2026-07-19T22:28:03.944Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -228,34 +228,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +0.4%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "Gr C",
-      "col_1": "15",
-      "sizeee": "6000*1500",
-      "col_3": "فولاد مبارکه",
-      "col_4": "شیت",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "104,130",
-      "price_nummm": 104130
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +5.5%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -844,6 +816,34 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "امروز"
+      },
+      "col_0": "Gr C",
+      "col_1": "15",
+      "sizeee": "6000*1500",
+      "col_3": "فولاد مبارکه",
+      "col_4": "شیت",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "104,130",
+      "price_nummm": 104130
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "15",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +5.5%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
