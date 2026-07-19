@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-شیروانی/",
-  "scraped_attt": "2026-07-19T19:58:01.617Z",
+  "scraped_attt": "2026-07-19T20:27:53.584Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -11,58 +11,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "چینی",
-        "update_labelll": "|"
-      },
-      "col_0": "0.47",
-      "sizeee": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "col_4": "قرمز",
-      "price_strrr": "171,090",
-      "price_nummm": 171090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چینی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.1%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چینی",
-        "update_labelll": "|"
-      },
-      "col_0": "0.47",
-      "sizeee": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "col_4": "آبی",
-      "price_strrr": "171,090",
-      "price_nummm": 171090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چینی",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.1%",
-      "sizeee": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
@@ -131,6 +79,58 @@
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.1%",
+      "sizeee": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چینی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.47",
+      "sizeee": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_4": "قرمز",
+      "price_strrr": "171,090",
+      "price_nummm": 171090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چینی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.1%",
+      "sizeee": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چینی",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.47",
+      "sizeee": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_4": "آبی",
+      "price_strrr": "171,090",
+      "price_nummm": 171090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چینی",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.1%",
