@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-07-19T07:56:51.076Z",
+  "scraped_attt": "2026-07-19T08:26:42.021Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -10,6 +10,150 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "89,180",
+      "price_nummm": 89180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "77,360",
+      "price_nummm": 77360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "73,730",
+      "price_nummm": 73730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "73,730",
+      "price_nummm": 73730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "73,730",
+      "price_nummm": 73730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "73,730",
+      "price_nummm": 73730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/4/28 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "ناب تبریز",
@@ -1012,150 +1156,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +4.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "76,450",
-      "price_nummm": 76450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +3.7%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "88,270",
-      "price_nummm": 88270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +3.2%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "72,820",
-      "price_nummm": 72820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +3.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "72,820",
-      "price_nummm": 72820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +3.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "72,820",
-      "price_nummm": 72820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +3.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "72,820",
-      "price_nummm": 72820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/4/27 نمودار نوسانات : +3.9%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
