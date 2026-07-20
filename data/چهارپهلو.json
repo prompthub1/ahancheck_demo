@@ -1,338 +1,519 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو/",
-  "scraped_attt": "2026-07-20T19:57:23.605Z",
+  "scraped_attt": "2026-07-20T20:27:18.799Z",
   "headersss": [
     "حالت",
     "سایز",
     "تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "20*20",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "81,600",
-      "price_nummm": 81600,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 81600
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "22*22",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "76,960",
-      "price_nummm": 76960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 76960
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "30*30",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "76,960",
-      "price_nummm": 76960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 76960
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "30*50",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "92,810",
-      "price_nummm": 92810,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 92810
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "40*40",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "76,960",
-      "price_nummm": 76960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 76960
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "50*50",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "76,960",
-      "price_nummm": 76960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 76960
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "60*60",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "76,960",
-      "price_nummm": 76960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 76960
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "80*50",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "92,860",
-      "price_nummm": 92860,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 92860
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "90*90",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "92,860",
-      "price_nummm": 92860,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 92860
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "100*100",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "86,640",
-      "price_nummm": 86640,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 86640
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "120*50",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "86,640",
-      "price_nummm": 86640,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 86640
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "120*80",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "86,750",
-      "price_nummm": 86750,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 86750
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو نرمال",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
       },
       "col_0": "نرمال",
       "sizeee": "120*120",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "86,640",
-      "price_nummm": 86640,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 86640
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "4*4",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "99,030",
-      "price_nummm": 99030,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 99030
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "4*4",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "99,070",
-      "price_nummm": 99070,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 99070
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "5*5",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "99,070",
-      "price_nummm": 99070,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 99070
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "6*6",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "99,070",
-      "price_nummm": 99070,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 99070
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "8*8",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "99,070",
-      "price_nummm": 99070,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 99070
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "10*10",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "97,340",
-      "price_nummm": 97340,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 97340
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "12*12",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "97,340",
-      "price_nummm": 97340,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 97340
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "14*14",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "97,340",
-      "price_nummm": 97340,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 97340
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "16*16",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "97,340",
-      "price_nummm": 97340,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 97340
     },
     {
       "group_infooo": {
-        "category_nameee": "چهارپهلو ترانس",
-        "update_labelll": ""
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
       },
       "col_0": "ترانس",
       "sizeee": "18*18",
       "col_2": "بنگاه تهران",
-      "col_3": "1405/4/29",
       "price_strrr": "92,960",
-      "price_nummm": 92960,
-      "col_5": "0.0%",
-      "col_6": ""
+      "price_nummm": 92960
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
