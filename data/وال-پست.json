@@ -1,128 +1,189 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%88%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA/",
-  "scraped_attt": "2026-07-21T13:18:33.705Z",
+  "scraped_attt": "2026-07-21T13:26:45.507Z",
   "headersss": [
     "بال",
     "ضخامت",
     "سایز",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "20*40",
-      "col_3": "1405/4/30",
       "price_strrr": "264,680",
-      "price_nummm": 264680,
-      "col_5": "-5.0%",
-      "col_6": ""
+      "price_nummm": 264680
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -5.0%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "10*40",
-      "col_3": "1405/4/30",
       "price_strrr": "198,400",
-      "price_nummm": 198400,
-      "col_5": "-8.4%",
-      "col_6": ""
+      "price_nummm": 198400
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -8.4%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "20*300",
-      "col_3": "1405/4/30",
       "price_strrr": "2,348,830",
-      "price_nummm": 2348830,
-      "col_5": "-5.5%",
-      "col_6": ""
+      "price_nummm": 2348830
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -5.5%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "15*300",
-      "col_3": "1405/4/30",
       "price_strrr": "2,076,570",
-      "price_nummm": 2076570,
-      "col_5": "+ 13.4%",
-      "col_6": ""
+      "price_nummm": 2076570
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : +13.4%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "15*40",
-      "col_3": "1405/4/30",
       "price_strrr": "234,870",
-      "price_nummm": 234870,
-      "col_5": "-7.2%",
-      "col_6": ""
+      "price_nummm": 234870
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -7.2%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "10*30",
-      "col_3": "1405/4/30",
       "price_strrr": "141,240",
-      "price_nummm": 141240,
-      "col_5": "-15.0%",
-      "col_6": ""
+      "price_nummm": 141240
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -15.0%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "10*20",
-      "col_3": "1405/4/30",
       "price_strrr": "105,260",
-      "price_nummm": 105260,
-      "col_5": "-5.0%",
-      "col_6": ""
+      "price_nummm": 105260
     },
     {
       "group_infooo": {
-        "category_nameee": "وال پست ضخامت 2 میلیمتر",
-        "update_labelll": ""
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -5.0%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
       },
       "col_0": "7",
       "col_1": "2",
       "sizeee": "15*20",
-      "col_3": "1405/4/30",
       "price_strrr": "122,590",
-      "price_nummm": 122590,
-      "col_5": "-18.2%",
-      "col_6": ""
+      "price_nummm": 122590
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/4/30 نمودار نوسانات : -18.2%",
+      "col_1": "",
+      "sizeee": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
