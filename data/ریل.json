@@ -1,277 +1,184 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%B1%DB%8C%D9%84/",
-  "scraped_attt": "2026-07-21T08:57:05.179Z",
+  "scraped_attt": "2026-07-21T09:27:49.078Z",
   "headersss": [
     "نوع ریل",
     "برند",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "T5/T9 (جفت)",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "15,257,330",
-      "price_nummm": 15257330
+      "price_nummm": 15257330,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "A120",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "504,270",
-      "price_nummm": 504270
+      "price_nummm": 504270,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A55",
-      "col_1": "وارداتی",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "501,960",
-      "price_nummm": 501960
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "R 24",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "507,150",
-      "price_nummm": 507150
+      "price_nummm": 507150,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "col_0": "A55",
+      "col_1": "وارداتی",
+      "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
+      "price_strrr": "501,960",
+      "price_nummm": 501960,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "R 18",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "485,020",
-      "price_nummm": 485020
+      "price_nummm": 485020,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "A 75",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "507,610",
-      "price_nummm": 507610
+      "price_nummm": 507610,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "A 100",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "359,100",
-      "price_nummm": 359100
+      "price_nummm": 359100,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "A 65",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "503,530",
-      "price_nummm": 503530
+      "price_nummm": 503530,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "A 45",
       "col_1": "وارداتی",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "501,330",
-      "price_nummm": 501330
+      "price_nummm": 501330,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "S 49",
       "col_1": "ذوب آهن",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "511,050",
-      "price_nummm": 511050
+      "price_nummm": 511050,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "U 33",
       "col_1": "ذوب آهن",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "255,810",
-      "price_nummm": 255810
+      "price_nummm": 255810,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "category_nameee": "ریل بنگاه تهران",
+        "update_labelll": ""
       },
       "col_0": "UIC 60",
       "col_1": "ذوب آهن",
       "col_2": "بنگاه تهران",
+      "col_3": "1405/4/30",
       "price_strrr": "226,730",
-      "price_nummm": 226730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/4/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 226730,
+      "col_5": "0.0%",
+      "col_6": ""
     },
     {
       "group_infooo": {
