@@ -1,114 +1,171 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/آلوزینک/",
-  "scraped_attt": "2026-07-25T07:27:51.121Z",
+  "scraped_attt": "2026-07-25T07:57:39.750Z",
   "headersss": [
     "عرض",
     "ضخامت",
     "برند",
     "محل انبار",
     "واحد",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "آلوزینک هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1000",
       "col_1": "0.5",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_5": "1405/5/1",
       "price_strrr": "204,820",
-      "price_nummm": 204820,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 204820
     },
     {
       "group_infooo": {
-        "category_nameee": "آلوزینک هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1250",
       "col_1": "0.5",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_5": "1405/5/1",
       "price_strrr": "204,820",
-      "price_nummm": 204820,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 204820
     },
     {
       "group_infooo": {
-        "category_nameee": "آلوزینک هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1250",
       "col_1": "0.48",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_5": "1405/5/1",
       "price_strrr": "204,730",
-      "price_nummm": 204730,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 204730
     },
     {
       "group_infooo": {
-        "category_nameee": "آلوزینک هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1000",
       "col_1": "0.48",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_5": "1405/5/1",
       "price_strrr": "204,730",
-      "price_nummm": 204730,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 204730
     },
     {
       "group_infooo": {
-        "category_nameee": "آلوزینک هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1000",
       "col_1": "0.6",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_5": "1405/5/1",
       "price_strrr": "204,360",
-      "price_nummm": 204360,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 204360
     },
     {
       "group_infooo": {
-        "category_nameee": "آلوزینک هفت الماس",
-        "update_labelll": ""
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "1250",
       "col_1": "0.6",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "col_5": "1405/5/1",
       "price_strrr": "204,360",
-      "price_nummm": 204360,
-      "col_7": "0.0%",
-      "col_8": ""
+      "price_nummm": 204360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
