@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-a283/",
-  "scraped_attt": "2026-07-25T10:57:34.030Z",
+  "scraped_attt": "2026-07-25T11:28:44.718Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -630,6 +630,34 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "35",
+        "update_labelll": "|"
+      },
+      "col_0": "A283",
+      "col_1": "35",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "85,910",
+      "price_nummm": 85910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "35",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "40",
         "update_labelll": "|"
       },
@@ -788,34 +816,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/1 نمودار نوسانات : -0.8%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "امروز"
-      },
-      "col_0": "A283",
-      "col_1": "35",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "85,000",
-      "price_nummm": 85000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/1 نمودار نوسانات : -1.1%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
