@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-a283/",
-  "scraped_attt": "2026-07-25T22:57:28.475Z",
+  "scraped_attt": "2026-07-26T00:28:58.533Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -12,34 +12,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "|"
-      },
-      "col_0": "A283",
-      "col_1": "35",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "85,910",
-      "price_nummm": 85910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "35",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +1.1%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "6",
@@ -115,7 +87,7 @@
         "category_nameee": "8",
         "update_labelll": "امروز"
       },
-      "col_0": "آخرین بروز رسانی : 1405/5/1 نمودار نوسانات : -0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/4/31 نمودار نوسانات : -0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -694,6 +666,34 @@
       "sizeee": "2000*6000",
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "85,910",
+      "price_nummm": 85910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "35",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/3 نمودار نوسانات : +1.1%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "35",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A283",
+      "col_1": "35",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
       "col_5": "بنگاه تهران",
       "price_strrr": "87,730",
       "price_nummm": 87730
@@ -703,7 +703,7 @@
         "category_nameee": "35",
         "update_labelll": "امروز"
       },
-      "col_0": "آخرین بروز رسانی : 1405/5/1 نمودار نوسانات : -1.0%",
+      "col_0": "آخرین بروز رسانی : 1405/4/31 نمودار نوسانات : -1.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
