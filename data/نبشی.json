@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A8%D8%B4%DB%8C/",
-  "scraped_attt": "2026-07-27T21:26:41.750Z",
+  "scraped_attt": "2026-07-27T21:57:11.351Z",
   "headersss": [
     "سایز",
     "ضخامت",
@@ -543,32 +543,6 @@
       "col_4": "کارخانه",
       "price_strrr": "81,820",
       "price_nummm": 81820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "|"
-      },
-      "sizeee": "10",
-      "col_1": "8",
-      "col_2": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "کارخانه",
-      "price_strrr": "78,220",
-      "price_nummm": 78220
     },
     {
       "group_infooo": {
@@ -2133,6 +2107,32 @@
     {
       "group_infooo": {
         "category_nameee": "زنجان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اشتهارد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "10",
+      "col_1": "8",
+      "col_2": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_4": "کارخانه",
+      "price_strrr": "78,220",
+      "price_nummm": 78220
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اشتهارد",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
