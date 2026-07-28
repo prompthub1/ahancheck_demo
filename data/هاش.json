@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-07-28T07:57:06.713Z",
+  "scraped_attt": "2026-07-28T08:26:52.850Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -15,7 +15,7 @@
     {
       "group_infooo": {
         "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "HEA",
@@ -29,9 +29,65 @@
     {
       "group_infooo": {
         "category_nameee": "HEA",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1405/5/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "HEB",
+      "col_2": "12 متری",
+      "col_3": "ترک-کره",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "154,550",
+      "price_nummm": 154550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "HEB",
+      "col_2": "12 متری",
+      "col_3": "ترک-کره",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "218,180",
+      "price_nummm": 218180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/6 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -381,62 +437,6 @@
         "category_nameee": "HEB",
         "update_labelll": "امروز"
       },
-      "sizeee": "10",
-      "col_1": "HEB",
-      "col_2": "12 متری",
-      "col_3": "ترک-کره",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "154,550",
-      "price_nummm": 154550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "HEB",
-      "col_2": "12 متری",
-      "col_3": "ترک-کره",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "218,180",
-      "price_nummm": 218180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
       "sizeee": "14",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
@@ -551,8 +551,8 @@
       },
       "sizeee": "22",
       "col_1": "HEB",
-      "col_2": "12 متری",
-      "col_3": "ذوب آهن اصفهان",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
       "price_strrr": "195,450",
@@ -579,8 +579,8 @@
       },
       "sizeee": "22",
       "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
+      "col_2": "12 متری",
+      "col_3": "ذوب آهن اصفهان",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
       "price_strrr": "195,450",
