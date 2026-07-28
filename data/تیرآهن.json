@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-07-28T08:26:45.421Z",
+  "scraped_attt": "2026-07-28T08:56:53.227Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -15,12 +15,12 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "|"
       },
-      "sizeee": "22",
+      "sizeee": "24",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "-",
-      "price_strrr": "25,000,000",
-      "price_nummm": 25000000
+      "price_strrr": "30,000,000",
+      "price_nummm": 30000000
     },
     {
       "group_infooo": {
@@ -39,12 +39,12 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "|"
       },
-      "sizeee": "24",
+      "sizeee": "22",
       "col_1": "بنگاه تهران",
       "unittt": "شاخه",
       "col_3": "-",
-      "price_strrr": "30,000,000",
-      "price_nummm": 30000000
+      "price_strrr": "25,000,000",
+      "price_nummm": 25000000
     },
     {
       "group_infooo": {
@@ -333,6 +333,30 @@
       "col_3": "172",
       "price_strrr": "13,909,090",
       "price_nummm": 13909090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خیام سپهر فولاد نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خیام سپهر فولاد نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "135",
+      "price_strrr": "10,909,090",
+      "price_nummm": 10909090
     },
     {
       "group_infooo": {
@@ -996,54 +1020,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "کارخانه",
-      "unittt": "شاخه",
-      "col_3": "210",
-      "price_strrr": "80,180",
-      "price_nummm": 80180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : -1.2%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "کارخانه",
-      "unittt": "شاخه",
-      "col_3": "255",
-      "price_strrr": "80,180",
-      "price_nummm": 80180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : -1.2%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "اهواز",
         "update_labelll": "امروز"
       },
@@ -1084,30 +1060,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : -0.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "135",
-      "price_strrr": "10,909,090",
-      "price_nummm": 10909090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
