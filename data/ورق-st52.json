@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-st52/",
-  "scraped_attt": "2026-07-27T23:57:14.306Z",
+  "scraped_attt": "2026-07-28T00:27:25.678Z",
   "headersss": [
     "کارخانه",
     "وضعیت",
@@ -13,7 +13,7 @@
     {
       "group_infooo": {
         "category_nameee": "6",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "فولاد مبارکه",
       "col_1": "شیت",
@@ -25,33 +25,9 @@
     {
       "group_infooo": {
         "category_nameee": "6",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "فولاد مبارکه",
-      "col_1": "شیت",
-      "sizeee": "6000*1500",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : -0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -124,6 +100,30 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "فولاد مبارکه",
+      "col_1": "شیت",
+      "sizeee": "6000*1500",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "118,180",
+      "price_nummm": 118180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/5 نمودار نوسانات : -0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
