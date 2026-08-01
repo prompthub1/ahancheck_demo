@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آجدار/",
-  "scraped_attt": "2026-08-01T22:57:17.681Z",
+  "scraped_attt": "2026-08-01T23:27:18.736Z",
   "headersss": [
     "ابعاد",
     "کشور / کارخانه",
@@ -10,102 +10,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "1000*2000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "121,820",
-      "price_nummm": 121820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -0.7%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "1250*2500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "124,550",
-      "price_nummm": 124550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "124,090",
-      "price_nummm": 124090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "3",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "|"
-      },
-      "sizeee": "1000*2000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "129,090",
-      "price_nummm": 129090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "4",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "5",
@@ -132,22 +36,94 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1000*2000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "121,820",
+      "price_nummm": 121820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -0.7%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1250*2500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "124,550",
+      "price_nummm": 124550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.9%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "3",
+        "update_labelll": "امروز"
       },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "price_strrr": "136,360",
-      "price_nummm": 136360
+      "price_strrr": "124,090",
+      "price_nummm": 124090
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
+        "category_nameee": "3",
+        "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +11.1%",
+      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1000*2000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "129,090",
+      "price_nummm": 129090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "4",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -292,6 +268,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "136,360",
+      "price_nummm": 136360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +11.1%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
