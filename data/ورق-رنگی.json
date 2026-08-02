@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_attt": "2026-08-02T07:27:05.483Z",
+  "scraped_attt": "2026-08-02T07:57:14.464Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -14,6 +14,70 @@
     "نمودار"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قرمز",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "col_5": "1405/5/11",
+      "price_strrr": "172,360",
+      "price_nummm": 172360,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "نارنجی",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "col_5": "1405/5/11",
+      "price_strrr": "172,360",
+      "price_nummm": 172360,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "آبی",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "col_5": "1405/5/11",
+      "price_strrr": "171,450",
+      "price_nummm": 171450,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "سفید یخچالی",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "col_5": "1405/5/11",
+      "price_strrr": "171,180",
+      "price_nummm": 171180,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
     {
       "group_infooo": {
         "category_nameee": "ورق رنگی فولاد مبارکه",
@@ -187,70 +251,6 @@
       "col_5": "1405/5/10",
       "price_strrr": "170,790",
       "price_nummm": 170790,
-      "col_7": "0.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق رنگی هفت الماس",
-        "update_labelll": ""
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قرمز",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "col_5": "1405/5/10",
-      "price_strrr": "172,360",
-      "price_nummm": 172360,
-      "col_7": "0.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق رنگی هفت الماس",
-        "update_labelll": ""
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "نارنجی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "col_5": "1405/5/10",
-      "price_strrr": "172,360",
-      "price_nummm": 172360,
-      "col_7": "0.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق رنگی هفت الماس",
-        "update_labelll": ""
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "آبی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "col_5": "1405/5/10",
-      "price_strrr": "171,450",
-      "price_nummm": 171450,
-      "col_7": "0.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق رنگی هفت الماس",
-        "update_labelll": ""
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "سفید یخچالی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "col_5": "1405/5/10",
-      "price_strrr": "171,180",
-      "price_nummm": 171180,
       "col_7": "0.0%",
       "col_8": ""
     }
