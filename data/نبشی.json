@@ -1,2095 +1,1298 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A8%D8%B4%DB%8C/",
-  "scraped_attt": "2026-08-02T04:26:52.396Z",
+  "scraped_attt": "2026-08-02T04:57:06.398Z",
   "headersss": [
     "سایز",
     "ضخامت",
     "حالت",
     "واحد",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "70*70",
       "col_1": "7",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,670",
-      "price_nummm": 72670
+      "price_nummm": 72670,
+      "col_7": "+ 1.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,680",
-      "price_nummm": 72680
+      "price_nummm": 72680,
+      "col_7": "-1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "76,320",
-      "price_nummm": 76320
+      "price_nummm": 76320,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,670",
-      "price_nummm": 72670
+      "price_nummm": 72670,
+      "col_7": "+ 1.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,640",
-      "price_nummm": 72640
+      "price_nummm": 72640,
+      "col_7": "+ 1.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "75,820",
-      "price_nummm": 75820
+      "price_nummm": 75820,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,690",
-      "price_nummm": 72690
+      "price_nummm": 72690,
+      "col_7": "+ 1.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "79,620",
-      "price_nummm": 79620
+      "price_nummm": 79620,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,700",
-      "price_nummm": 72700
+      "price_nummm": 72700,
+      "col_7": "-9.1%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -9.1%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "82,370",
-      "price_nummm": 82370
+      "price_nummm": 82370,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,720",
-      "price_nummm": 72720
+      "price_nummm": 72720,
+      "col_7": "-11.1%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -11.1%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "83,590",
-      "price_nummm": 83590
+      "price_nummm": 83590,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "77,370",
-      "price_nummm": 77370
+      "price_nummm": 77370,
+      "col_7": "-7.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -7.6%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "120*120",
       "col_1": "12",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "79,650",
-      "price_nummm": 79650
+      "price_nummm": 79650,
+      "col_7": "-9.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -9.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آریان فولاد",
+        "update_labelll": ""
       },
       "sizeee": "120*120",
       "col_1": "12",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "77,450",
-      "price_nummm": 77450
+      "price_nummm": 77450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "30*30",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "76,150",
-      "price_nummm": 76150
+      "price_nummm": 76150,
+      "col_7": "-2.9%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -2.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "30*30",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,140",
-      "price_nummm": 73140
+      "price_nummm": 73140,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "76,200",
-      "price_nummm": 76200
+      "price_nummm": 76200,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,140",
-      "price_nummm": 73140
+      "price_nummm": 73140,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,050",
-      "price_nummm": 73050
+      "price_nummm": 73050,
+      "col_7": "+ 0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,050",
-      "price_nummm": 73050
+      "price_nummm": 73050,
+      "col_7": "-8.7%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -8.7%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,020",
-      "price_nummm": 73020
+      "price_nummm": 73020,
+      "col_7": "-7.7%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -7.7%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی شکفته",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,500",
-      "price_nummm": 73500
+      "price_nummm": 73500,
+      "col_7": "-8.7%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -8.7%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,700",
-      "price_nummm": 73700
+      "price_nummm": 73700,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,550",
-      "price_nummm": 74550
+      "price_nummm": 74550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,240",
-      "price_nummm": 73240
+      "price_nummm": 73240,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,640",
-      "price_nummm": 73640
+      "price_nummm": 73640,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,550",
-      "price_nummm": 74550
+      "price_nummm": 74550,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "70*70",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "76,410",
-      "price_nummm": 76410
+      "price_nummm": 76410,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,740",
-      "price_nummm": 72740
+      "price_nummm": 72740,
+      "col_7": "+ 1.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,090",
-      "price_nummm": 74090
+      "price_nummm": 74090,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "70*70",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,460",
-      "price_nummm": 75460
+      "price_nummm": 75460,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "70*70",
       "col_1": "5",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "77,280",
-      "price_nummm": 77280
+      "price_nummm": 77280,
+      "col_7": "-1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "78,190",
-      "price_nummm": 78190
+      "price_nummm": 78190,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "70*70",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,610",
-      "price_nummm": 74610
+      "price_nummm": 74610,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "70*70",
       "col_1": "6",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "76,370",
-      "price_nummm": 76370
+      "price_nummm": 76370,
+      "col_7": "-1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,580",
-      "price_nummm": 74580
+      "price_nummm": 74580,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "7",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "73,640",
-      "price_nummm": 73640
+      "price_nummm": 73640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "7",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,110",
-      "price_nummm": 74110
+      "price_nummm": 74110,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "76,830",
-      "price_nummm": 76830
+      "price_nummm": 76830,
+      "col_7": "+ 2.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +2.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "8",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "78,640",
-      "price_nummm": 78640
+      "price_nummm": 78640,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,640",
-      "price_nummm": 73640
+      "price_nummm": 73640,
+      "col_7": "+ 1.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,460",
-      "price_nummm": 75460
+      "price_nummm": 75460,
+      "col_7": "-7.8%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -7.8%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "81,370",
-      "price_nummm": 81370
+      "price_nummm": 81370,
+      "col_7": "-3.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ناب تبریز",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "78,190",
-      "price_nummm": 78190
+      "price_nummm": 78190,
+      "col_7": "+ 1.2%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +1.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی صنایع فولاد کوهپایه",
+        "update_labelll": ""
       },
       "sizeee": "30*30",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "79,270",
-      "price_nummm": 79270
+      "price_nummm": 79270,
+      "col_7": "+ 10.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +10.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی صنایع فولاد کوهپایه",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,710",
-      "price_nummm": 73710
+      "price_nummm": 73710,
+      "col_7": "+ 10.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +10.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی صنایع فولاد کوهپایه",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "72,860",
-      "price_nummm": 72860
+      "price_nummm": 72860,
+      "col_7": "+ 10.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "اسپیرال",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +10.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "30*30",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,370",
-      "price_nummm": 75370
+      "price_nummm": 75370,
+      "col_7": "-3.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "30*30",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "75,390",
-      "price_nummm": 75390
+      "price_nummm": 75390,
+      "col_7": "-3.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "75,300",
-      "price_nummm": 75300
+      "price_nummm": 75300,
+      "col_7": "-3.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,920",
-      "price_nummm": 74920
+      "price_nummm": 74920,
+      "col_7": "-2.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -2.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "75,420",
-      "price_nummm": 75420
+      "price_nummm": 75420,
+      "col_7": "-2.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -2.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,400",
-      "price_nummm": 75400
+      "price_nummm": 75400,
+      "col_7": "-2.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -2.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "77,770",
-      "price_nummm": 77770
+      "price_nummm": 77770,
+      "col_7": "-3.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "75,160",
-      "price_nummm": 75160
+      "price_nummm": 75160,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "77,650",
-      "price_nummm": 77650
+      "price_nummm": 77650,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ظهوریان",
+        "update_labelll": ""
       },
       "sizeee": "80*80",
       "col_1": "8",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,980",
-      "price_nummm": 75980
+      "price_nummm": 75980,
+      "col_7": "-2.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ظهوریان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -2.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آونگان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی آونگان",
+        "update_labelll": ""
       },
       "sizeee": "150*150",
       "col_1": "15",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "225,450",
-      "price_nummm": 225450
+      "price_nummm": 225450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "آونگان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد سپهر ایرانیان",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,950",
-      "price_nummm": 75950
+      "price_nummm": 75950,
+      "col_7": "+ 2.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +2.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد سپهر ایرانیان",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,460",
-      "price_nummm": 75460
+      "price_nummm": 75460,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد سپهر ایرانیان",
+        "update_labelll": ""
       },
       "sizeee": "30*30",
       "col_1": "2/5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "76,800",
-      "price_nummm": 76800
+      "price_nummm": 76800,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد سپهر ایرانیان",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "2.5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,950",
-      "price_nummm": 75950
+      "price_nummm": 75950,
+      "col_7": "+ 0.7%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.7%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "74,580",
-      "price_nummm": 74580
+      "price_nummm": 74580,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,660",
-      "price_nummm": 73660
+      "price_nummm": 73660,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,660",
-      "price_nummm": 73660
+      "price_nummm": 73660,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,660",
-      "price_nummm": 73660
+      "price_nummm": 73660,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,660",
-      "price_nummm": 73660
+      "price_nummm": 73660,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "3",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,660",
-      "price_nummm": 73660
+      "price_nummm": 73660,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی فولاد جاوید بناب",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,660",
-      "price_nummm": 73660
+      "price_nummm": 73660,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد جاوید بناب",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی ابهر",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "77,280",
-      "price_nummm": 77280
+      "price_nummm": 77280,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ابهر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی زنجان",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,210",
-      "price_nummm": 73210
+      "price_nummm": 73210,
+      "col_7": "-3.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی زنجان",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,120",
-      "price_nummm": 73120
+      "price_nummm": 73120,
+      "col_7": "-3.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی زنجان",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,120",
-      "price_nummm": 73120
+      "price_nummm": 73120,
+      "col_7": "-3.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی زنجان",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "73,150",
-      "price_nummm": 73150
+      "price_nummm": 73150,
+      "col_7": "-3.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -3.6%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی زنجان",
+        "update_labelll": ""
       },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "73,140",
-      "price_nummm": 73140
+      "price_nummm": 73140,
+      "col_7": "-4.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -4.6%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی زنجان",
+        "update_labelll": ""
       },
       "sizeee": "60*60",
       "col_1": "6",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "73,100",
-      "price_nummm": 73100
+      "price_nummm": 73100,
+      "col_7": "-5.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "زنجان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : -5.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی اشتهارد",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/5/10",
       "price_strrr": "78,640",
-      "price_nummm": 78640
+      "price_nummm": 78640,
+      "col_7": "+ 4.8%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +4.8%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی اشتهارد",
+        "update_labelll": ""
       },
       "sizeee": "10",
       "col_1": "8",
       "col_2": "12 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "78,220",
-      "price_nummm": 78220
+      "price_nummm": 78220,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "امروز"
+        "category_nameee": "نبشی اشتهارد",
+        "update_labelll": ""
       },
       "sizeee": "100*100",
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/5/10",
       "price_strrr": "75,180",
-      "price_nummm": 75180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "اشتهارد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/10 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 75180,
+      "col_7": "0.0%",
+      "col_8": ""
     }
   ]
 }
