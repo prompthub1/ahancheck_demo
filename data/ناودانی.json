@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-08-03T21:56:43.601Z",
+  "scraped_attt": "2026-08-03T22:26:46.072Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -13,10 +13,58 @@
     {
       "group_infooo": {
         "category_nameee": "ناب تبریز",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "75,030",
+      "price_nummm": 75030
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "75,030",
+      "price_nummm": 75030
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
-      "col_1": "6 متری",
+      "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
       "price_strrr": "75,070",
@@ -25,54 +73,6 @@
     {
       "group_infooo": {
         "category_nameee": "ناب تبریز",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "75,030",
-      "price_nummm": 75030
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "75,030",
-      "price_nummm": 75030
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ناب تبریز",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
@@ -88,7 +88,7 @@
         "update_labelll": "امروز"
       },
       "sizeee": "10",
-      "col_1": "12 متری",
+      "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
       "price_strrr": "75,070",
