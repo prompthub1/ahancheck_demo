@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-08-03T09:27:16.535Z",
+  "scraped_attt": "2026-08-03T09:58:21.118Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -25,6 +25,34 @@
       "unittt": "کیلوگرم",
       "price_strrr": "181,820",
       "price_nummm": 181820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "HEA",
+      "col_2": "شاخه 12 متری",
+      "col_3": "ذوب آهن",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "200,000",
+      "price_nummm": 200000
     },
     {
       "group_infooo": {
@@ -928,34 +956,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/12 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "HEA",
-      "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "200,000",
-      "price_nummm": 200000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/11 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
