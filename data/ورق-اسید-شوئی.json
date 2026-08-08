@@ -1,275 +1,178 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-اسید-شوئی/",
-  "scraped_attt": "2026-08-08T06:58:41.041Z",
+  "scraped_attt": "2026-08-08T07:28:16.287Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
     "برند",
     "سایز",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "4",
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "134,000",
-      "price_nummm": 134000
+      "col_5": "1405/5/17",
+      "price_strrr": "133,640",
+      "price_nummm": 133640,
+      "col_7": "-0.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "4",
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "134,000",
-      "price_nummm": 134000
+      "col_5": "1405/5/17",
+      "price_strrr": "133,640",
+      "price_nummm": 133640,
+      "col_7": "-0.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "3.5",
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "134,000",
-      "price_nummm": 134000
+      "col_5": "1405/5/17",
+      "price_strrr": "133,640",
+      "price_nummm": 133640,
+      "col_7": "-0.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "3.5",
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "134,230",
-      "price_nummm": 134230
+      "col_5": "1405/5/17",
+      "price_strrr": "133,730",
+      "price_nummm": 133730,
+      "col_7": "-0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "3",
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "133,770",
-      "price_nummm": 133770
+      "col_5": "1405/5/17",
+      "price_strrr": "133,270",
+      "price_nummm": 133270,
+      "col_7": "-0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "3",
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "133,770",
-      "price_nummm": 133770
+      "col_5": "1405/5/17",
+      "price_strrr": "133,270",
+      "price_nummm": 133270,
+      "col_7": "-0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "2.5",
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "133,230",
-      "price_nummm": 133230
+      "col_5": "1405/5/17",
+      "price_strrr": "132,730",
+      "price_nummm": 132730,
+      "col_7": "-0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "2.5",
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "133,320",
-      "price_nummm": 133320
+      "col_5": "1405/5/17",
+      "price_strrr": "132,820",
+      "price_nummm": 132820,
+      "col_7": "-0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "2",
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "133,770",
-      "price_nummm": 133770
+      "col_5": "1405/5/17",
+      "price_strrr": "133,270",
+      "price_nummm": 133270,
+      "col_7": "-0.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق اسید شوئی W22",
+        "update_labelll": ""
       },
       "col_0": "W22",
       "col_1": "2",
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "131,950",
-      "price_nummm": 131950
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/15 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "col_5": "1405/5/17",
+      "price_strrr": "131,450",
+      "price_nummm": 131450,
+      "col_7": "-0.4%",
+      "col_8": ""
     }
   ]
 }
