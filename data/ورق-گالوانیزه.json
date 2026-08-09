@@ -1,1809 +1,1122 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-گالوانیزه/",
-  "scraped_attt": "2026-08-09T07:57:17.820Z",
+  "scraped_attt": "2026-08-09T08:26:54.624Z",
   "headersss": [
     "ضخامت",
     "عرض",
     "برند",
     "محل تحویل",
     "واحد",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه شهریار تبریز",
+        "update_labelll": ""
+      },
+      "col_0": "2",
+      "col_1": "1250",
+      "col_2": "شهریار تبریز",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,640",
+      "price_nummm": 144640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهریار تبریز",
+        "update_labelll": ""
+      },
+      "col_0": "2",
+      "col_1": "1000",
+      "col_2": "شهریار تبریز",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,640",
+      "price_nummm": 144640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهریار تبریز",
+        "update_labelll": ""
+      },
+      "col_0": "2.5",
+      "col_1": "1250",
+      "col_2": "شهریار تبریز",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "146,820",
+      "price_nummm": 146820,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهریار تبریز",
+        "update_labelll": ""
+      },
+      "col_0": "2.5",
+      "col_1": "1000",
+      "col_2": "شهریار تبریز",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "146,820",
+      "price_nummm": 146820,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهریار تبریز",
+        "update_labelll": ""
+      },
+      "col_0": "3",
+      "col_1": "1250",
+      "col_2": "شهریار تبریز",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "173,640",
+      "price_nummm": 173640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهریار تبریز",
+        "update_labelll": ""
+      },
+      "col_0": "3",
+      "col_1": "1000",
+      "col_2": "شهریار تبریز",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "159,090",
+      "price_nummm": 159090,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.4",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "158,910",
+      "price_nummm": 158910,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.5",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "154,000",
+      "price_nummm": 154000,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "154,730",
+      "price_nummm": 154730,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.6",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "150,090",
+      "price_nummm": 150090,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.6",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "152,090",
+      "price_nummm": 152090,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.7",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "145,640",
+      "price_nummm": 145640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.7",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "145,360",
+      "price_nummm": 145360,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.8",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,640",
+      "price_nummm": 144640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.8",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,640",
+      "price_nummm": 144640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.9",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,360",
+      "price_nummm": 144360,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "0.9",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "145,000",
+      "price_nummm": 145000,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "1",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "143,820",
+      "price_nummm": 143820,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "1",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "143,820",
+      "price_nummm": 143820,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "1.25",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,910",
+      "price_nummm": 144910,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "1.25",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "144,910",
+      "price_nummm": 144910,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "1.5",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "145,640",
+      "price_nummm": 145640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "1.5",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "145,640",
+      "price_nummm": 145640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "2",
+      "col_1": "1250",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "146,090",
+      "price_nummm": 146090,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه شهرکرد",
+        "update_labelll": ""
+      },
+      "col_0": "2",
+      "col_1": "1000",
+      "col_2": "شهرکرد",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "146,090",
+      "price_nummm": 146090,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.3",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "180,910",
-      "price_nummm": 180910
+      "price_nummm": 180910,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "165,730",
-      "price_nummm": 165730
+      "price_nummm": 165730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "165,450",
-      "price_nummm": 165450
+      "price_nummm": 165450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.45",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "160,360",
-      "price_nummm": 160360
+      "price_nummm": 160360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.45",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "160,730",
-      "price_nummm": 160730
+      "price_nummm": 160730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "156,360",
-      "price_nummm": 156360
+      "price_nummm": 156360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "156,360",
-      "price_nummm": 156360
+      "price_nummm": 156360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.55",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "150,270",
-      "price_nummm": 150270
+      "price_nummm": 150270,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.55",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "150,270",
-      "price_nummm": 150270
+      "price_nummm": 150270,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "153,640",
-      "price_nummm": 153640
+      "price_nummm": 153640,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "153,640",
-      "price_nummm": 153640
+      "price_nummm": 153640,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "151,000",
-      "price_nummm": 151000
+      "price_nummm": 151000,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "150,820",
-      "price_nummm": 150820
+      "price_nummm": 150820,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "149,450",
-      "price_nummm": 149450
+      "price_nummm": 149450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "149,450",
-      "price_nummm": 149450
+      "price_nummm": 149450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "148,910",
-      "price_nummm": 148910
+      "price_nummm": 148910,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "148,640",
-      "price_nummm": 148640
+      "price_nummm": 148640,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "147,730",
-      "price_nummm": 147730
+      "price_nummm": 147730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "147,180",
-      "price_nummm": 147180
+      "price_nummm": 147180,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "147,550",
-      "price_nummm": 147550
+      "price_nummm": 147550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "147,550",
-      "price_nummm": 147550
+      "price_nummm": 147550,
+      "col_7": "-7.4%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : -7.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق گالوانیزه کاشان",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "145,730",
-      "price_nummm": 145730
+      "price_nummm": 145730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "col_1": "1250",
-      "col_2": "شهریار تبریز",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,640",
-      "price_nummm": 144640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "col_1": "1000",
-      "col_2": "شهریار تبریز",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,640",
-      "price_nummm": 144640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2.5",
-      "col_1": "1250",
-      "col_2": "شهریار تبریز",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "146,820",
-      "price_nummm": 146820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2.5",
-      "col_1": "1000",
-      "col_2": "شهریار تبریز",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "146,820",
-      "price_nummm": 146820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "3",
-      "col_1": "1250",
-      "col_2": "شهریار تبریز",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "173,640",
-      "price_nummm": 173640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -7.7%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "3",
-      "col_1": "1000",
-      "col_2": "شهریار تبریز",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "159,090",
-      "price_nummm": 159090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهریار تبریز",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -2.8%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.4",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "158,910",
-      "price_nummm": 158910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -8.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "154,000",
-      "price_nummm": 154000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "154,730",
-      "price_nummm": 154730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "150,090",
-      "price_nummm": 150090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.7%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "152,090",
-      "price_nummm": 152090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.7",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "145,640",
-      "price_nummm": 145640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.7",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "145,360",
-      "price_nummm": 145360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,640",
-      "price_nummm": 144640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,640",
-      "price_nummm": 144640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.9",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "145,000",
-      "price_nummm": 145000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.9",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,360",
-      "price_nummm": 144360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "143,820",
-      "price_nummm": 143820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "143,820",
-      "price_nummm": 143820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -6.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.25",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,910",
-      "price_nummm": 144910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.25",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "144,910",
-      "price_nummm": 144910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "145,640",
-      "price_nummm": 145640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "145,640",
-      "price_nummm": 145640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "col_1": "1250",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "146,090",
-      "price_nummm": 146090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "col_1": "1000",
-      "col_2": "شهرکرد",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "146,090",
-      "price_nummm": 146090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -5.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "161,730",
-      "price_nummm": 161730
+      "price_nummm": 161730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "161,180",
-      "price_nummm": 161180
+      "price_nummm": 161180,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "153,450",
-      "price_nummm": 153450
+      "price_nummm": 153450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +2.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "152,910",
-      "price_nummm": 152910
+      "price_nummm": 152910,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +2.4%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "148,090",
-      "price_nummm": 148090
+      "price_nummm": 148090,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "148,550",
-      "price_nummm": 148550
+      "price_nummm": 148550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "145,180",
-      "price_nummm": 145180
+      "price_nummm": 145180,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "145,820",
-      "price_nummm": 145820
+      "price_nummm": 145820,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,730",
-      "price_nummm": 142730
+      "price_nummm": 142730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,550",
-      "price_nummm": 142550
+      "price_nummm": 142550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,550",
-      "price_nummm": 142550
+      "price_nummm": 142550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,360",
-      "price_nummm": 142360
+      "price_nummm": 142360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "col_1": "1250",
-      "col_2": "هفت الماس",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "142,550",
-      "price_nummm": 142550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,820",
-      "price_nummm": 142820
+      "price_nummm": 142820,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "col_0": "1",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
+      "price_strrr": "142,550",
+      "price_nummm": 142550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,000",
-      "price_nummm": 142000
+      "price_nummm": 142000,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,000",
-      "price_nummm": 142000
+      "price_nummm": 142000,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,910",
-      "price_nummm": 142910
+      "price_nummm": 142910,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,730",
-      "price_nummm": 142730
+      "price_nummm": 142730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,730",
-      "price_nummm": 142730
+      "price_nummm": 142730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "142,730",
-      "price_nummm": 142730
+      "price_nummm": 142730,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "2.5",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "144,450",
-      "price_nummm": 144450
+      "price_nummm": 144450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق گالوانیزه هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "2.5",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_5": "1405/5/18",
       "price_strrr": "145,000",
-      "price_nummm": 145000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 145000,
+      "col_7": "0.0%",
+      "col_8": ""
     }
   ]
 }
