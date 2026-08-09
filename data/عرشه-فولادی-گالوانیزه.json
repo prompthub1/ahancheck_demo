@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
-  "scraped_attt": "2026-08-09T07:57:56.837Z",
+  "scraped_attt": "2026-08-09T08:27:15.663Z",
   "headersss": [
     "ضخامت (میل)",
     "برند",
@@ -59,6 +59,28 @@
         "update_labelll": "|"
       },
       "col_0": "1",
+      "col_1": "هفت الماس",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "147,180",
+      "price_nummm": 147180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "1.25",
       "col_1": "هفت الماس",
       "col_2": "بنگاه تهران",
       "price_strrr": "147,180",
@@ -334,28 +356,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.25",
-      "col_1": "هفت الماس",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "147,180",
-      "price_nummm": 147180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -8.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
