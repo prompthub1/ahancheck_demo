@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-08-09T06:57:03.904Z",
+  "scraped_attt": "2026-08-09T07:27:06.039Z",
   "headersss": [
     "سایز",
     "برند",
@@ -13,6 +13,81 @@
     "نمودار"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 6 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "-",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/5/18",
+      "price_strrr": "98,180",
+      "price_nummm": 98180,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "6 متری",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/5/18",
+      "price_strrr": "93,180",
+      "price_nummm": 93180,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "شیت",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/5/18",
+      "price_strrr": "83,640",
+      "price_nummm": 83640,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "شیت",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/5/18",
+      "price_strrr": "79,090",
+      "price_nummm": 79090,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "شیت",
+      "col_3": "بنگاه تهران",
+      "col_4": "1405/5/18",
+      "price_strrr": "79,090",
+      "price_nummm": 79090,
+      "col_6": "0.0%",
+      "col_7": ""
+    },
     {
       "group_infooo": {
         "category_nameee": "ورق سیاه 2 میل",
@@ -303,21 +378,6 @@
         "category_nameee": "ورق سیاه 6 میل",
         "update_labelll": ""
       },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "-",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
-      "price_strrr": "98,180",
-      "price_nummm": 98180,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 6 میل",
-        "update_labelll": ""
-      },
       "sizeee": "1500",
       "col_1": "فولاد مبارکه",
       "col_2": "رول",
@@ -370,21 +430,6 @@
       "col_4": "1405/5/14",
       "price_strrr": "107,270",
       "price_nummm": 107270,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "6 متری",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
-      "price_strrr": "93,180",
-      "price_nummm": 93180,
       "col_6": "0.0%",
       "col_7": ""
     },
@@ -648,21 +693,6 @@
         "category_nameee": "ورق سیاه ضخامت 10 میل",
         "update_labelll": ""
       },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
-      "price_strrr": "83,640",
-      "price_nummm": 83640,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 10 میل",
-        "update_labelll": ""
-      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -828,21 +858,6 @@
         "category_nameee": "ورق سیاه ضخامت 12 میل",
         "update_labelll": ""
       },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
-      "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -985,21 +1000,6 @@
       "col_4": "1405/5/14",
       "price_strrr": "98,180",
       "price_nummm": 98180,
-      "col_6": "0.0%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
-      "price_strrr": "79,090",
-      "price_nummm": 79090,
       "col_6": "0.0%",
       "col_7": ""
     },
