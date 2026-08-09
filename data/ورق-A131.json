@@ -1,62 +1,86 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A131/",
-  "scraped_attt": "2026-08-09T06:58:00.972Z",
+  "scraped_attt": "2026-08-09T07:28:11.452Z",
   "headersss": [
     "ضخامت",
     "سایز",
     "حالت",
     "محل تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ورق A131 ضخامت 6",
-        "update_labelll": ""
+        "category_nameee": "6",
+        "update_labelll": "امروز"
       },
       "col_0": "6",
       "sizeee": "1500*6000",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
       "price_strrr": "107,730",
-      "price_nummm": 107730,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 107730
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق A131 ضخامت 8",
-        "update_labelll": ""
+        "category_nameee": "6",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
       },
       "col_0": "8",
       "sizeee": "1500*6000",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
       "price_strrr": "107,270",
-      "price_nummm": 107270,
-      "col_6": "-0.4%",
-      "col_7": ""
+      "price_nummm": 107270
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق A131 ضخامت 10",
-        "update_labelll": ""
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : -0.4%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
       },
       "col_0": "10",
       "sizeee": "1500*6000",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/5/17",
       "price_strrr": "104,090",
-      "price_nummm": 104090,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 104090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/17 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
