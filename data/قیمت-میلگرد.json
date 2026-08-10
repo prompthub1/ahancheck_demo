@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-08-10T08:56:15.782Z",
+  "scraped_attt": "2026-08-10T09:26:15.388Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -148,10 +148,36 @@
       },
       "sizeee": "10",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "69,360",
+      "price_nummm": 69360,
+      "col_4": "+ 0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "67,360",
       "price_nummm": 67360,
       "col_4": "-1.1%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "74,640",
+      "price_nummm": 74640,
+      "col_4": "+ 0.6%",
       "col_5": ""
     },
     {
@@ -174,10 +200,36 @@
       },
       "sizeee": "14",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "65,910",
+      "price_nummm": 65910,
+      "col_4": "+ 0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "64,000",
       "price_nummm": 64000,
       "col_4": "-1.1%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "65,910",
+      "price_nummm": 65910,
+      "col_4": "+ 0.7%",
       "col_5": ""
     },
     {
@@ -200,10 +252,36 @@
       },
       "sizeee": "18",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "66,180",
+      "price_nummm": 66180,
+      "col_4": "+ 0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "64,000",
       "price_nummm": 64000,
       "col_4": "-1.1%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "65,910",
+      "price_nummm": 65910,
+      "col_4": "+ 0.7%",
       "col_5": ""
     },
     {
@@ -226,10 +304,36 @@
       },
       "sizeee": "22",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "66,180",
+      "price_nummm": 66180,
+      "col_4": "+ 0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "64,000",
       "price_nummm": 64000,
       "col_4": "-1.1%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "65,910",
+      "price_nummm": 65910,
+      "col_4": "+ 0.7%",
       "col_5": ""
     },
     {
@@ -252,6 +356,19 @@
       },
       "sizeee": "28",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "66,180",
+      "price_nummm": 66180,
+      "col_4": "+ 0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "64,000",
       "price_nummm": 64000,
@@ -265,10 +382,569 @@
       },
       "sizeee": "32",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "64,360",
+      "price_nummm": 64360,
+      "col_4": "+ 0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد نیشابور",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "66,270",
       "price_nummm": 66270,
       "col_4": "-1.1%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "68,640",
+      "price_nummm": 68640,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,640",
+      "price_nummm": 68640,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "68,640",
+      "price_nummm": 68640,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ابهر",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "67,730",
+      "price_nummm": 67730,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "67,730",
+      "price_nummm": 67730,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "67,270",
+      "price_nummm": 67270,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,360",
+      "price_nummm": 66360,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "64,430",
+      "price_nummm": 64430,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,820",
+      "price_nummm": 63820,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,820",
+      "price_nummm": 63820,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,640",
+      "price_nummm": 63640,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,640",
+      "price_nummm": 63640,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,180",
+      "price_nummm": 63180,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,180",
+      "price_nummm": 63180,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,180",
+      "price_nummm": 63180,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد جهان فولاد سیرجان",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,180",
+      "price_nummm": 63180,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "8",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "70,180",
+      "price_nummm": 70180,
+      "col_4": "-0.6%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,820",
+      "price_nummm": 68820,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,360",
+      "price_nummm": 68360,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "67,000",
+      "price_nummm": 67000,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "67,000",
+      "price_nummm": 67000,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,550",
+      "price_nummm": 66550,
+      "col_4": "-0.7%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد بافق یزد",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "67,270",
+      "price_nummm": 67270,
+      "col_4": "-0.7%",
       "col_5": ""
     },
     {
@@ -715,6 +1391,136 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "69,450",
+      "price_nummm": 69450,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "69,270",
+      "price_nummm": 69270,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,180",
+      "price_nummm": 68180,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,180",
+      "price_nummm": 68180,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,180",
+      "price_nummm": 68180,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,180",
+      "price_nummm": 68180,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "68,180",
+      "price_nummm": 68180,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,270",
+      "price_nummm": 69270,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,270",
+      "price_nummm": 69270,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد آناهیتا گیلان",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,270",
+      "price_nummm": 69270,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
         "category_nameee": "میلگرد نورد گرم سمنان",
         "update_labelll": ""
       },
@@ -871,6 +1677,227 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "69,820",
+      "price_nummm": 69820,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "69,450",
+      "price_nummm": 69450,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "69,450",
+      "price_nummm": 69450,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد درپاد تبریز",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730,
+      "col_4": "-5.5%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730,
+      "col_4": "-5.5%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730,
+      "col_4": "-5.5%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730,
+      "col_4": "-5.5%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730,
+      "col_4": "-5.5%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "63,640",
+      "price_nummm": 63640,
+      "col_4": "-5.4%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد خلیج فارس",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "62,730",
+      "price_nummm": 62730,
+      "col_4": "-5.5%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
         "category_nameee": "میلگرد ابرکوه",
         "update_labelll": ""
       },
@@ -983,6 +2010,292 @@
       "col_2": "کارخانه",
       "price_strrr": "63,640",
       "price_nummm": 63640,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "71,360",
+      "price_nummm": 71360,
+      "col_4": "-3.1%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "-3.2%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "69,550",
+      "price_nummm": 69550,
+      "col_4": "-3.2%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "69,090",
+      "price_nummm": 69090,
+      "col_4": "-3.2%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پردیس",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,820",
+      "price_nummm": 66820,
+      "col_4": "-3.3%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "67,090",
+      "price_nummm": 67090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,730",
+      "price_nummm": 66730,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,180",
+      "price_nummm": 66180,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,090",
+      "price_nummm": 66090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,090",
+      "price_nummm": 66090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,090",
+      "price_nummm": 66090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,090",
+      "price_nummm": 66090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,090",
+      "price_nummm": 66090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,090",
+      "price_nummm": 66090,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد پرشین فولاد",
+        "update_labelll": ""
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "66,050",
+      "price_nummm": 66050,
       "col_4": "0.0%",
       "col_5": ""
     },
@@ -1248,305 +2561,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "68,910",
-      "price_nummm": 68910,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "74,180",
-      "price_nummm": 74180,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,450",
-      "price_nummm": 65450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,450",
-      "price_nummm": 65450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,730",
-      "price_nummm": 65730,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,450",
-      "price_nummm": 65450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,730",
-      "price_nummm": 65730,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,450",
-      "price_nummm": 65450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "65,730",
-      "price_nummm": 65730,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "63,910",
-      "price_nummm": 63910,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "68,640",
-      "price_nummm": 68640,
-      "col_4": "+ 2.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,640",
-      "price_nummm": 68640,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "68,640",
-      "price_nummm": 68640,
-      "col_4": "+ 2.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "-0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "-0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "-0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "-0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "-0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "-0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "67,910",
-      "price_nummm": 67910,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,910",
-      "price_nummm": 67910,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "میلگرد امیرکبیر",
         "update_labelll": ""
       },
@@ -1563,38 +2577,12 @@
         "category_nameee": "میلگرد امیرکبیر",
         "update_labelll": ""
       },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "67,270",
       "price_nummm": 67270,
       "col_4": "-1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,550",
-      "price_nummm": 66550,
-      "col_4": "0.0%",
       "col_5": ""
     },
     {
@@ -1615,38 +2603,12 @@
         "category_nameee": "میلگرد امیرکبیر",
         "update_labelll": ""
       },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,550",
-      "price_nummm": 66550,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "67,270",
       "price_nummm": 67270,
       "col_4": "-1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,550",
-      "price_nummm": 66550,
-      "col_4": "0.0%",
       "col_5": ""
     },
     {
@@ -1667,38 +2629,12 @@
         "category_nameee": "میلگرد امیرکبیر",
         "update_labelll": ""
       },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,550",
-      "price_nummm": 66550,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "67,270",
       "price_nummm": 67270,
       "col_4": "-1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,550",
-      "price_nummm": 66550,
-      "col_4": "0.0%",
       "col_5": ""
     },
     {
@@ -1719,46 +2655,7 @@
         "category_nameee": "میلگرد امیرکبیر",
         "update_labelll": ""
       },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,550",
-      "price_nummm": 66550,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
       "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "67,550",
-      "price_nummm": 67550,
-      "col_4": "-1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,730",
-      "price_nummm": 66730,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "67,550",
@@ -1773,10 +2670,10 @@
       },
       "sizeee": "32",
       "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,730",
-      "price_nummm": 66730,
-      "col_4": "0.0%",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "67,550",
+      "price_nummm": 67550,
+      "col_4": "-1.3%",
       "col_5": ""
     },
     {
@@ -1906,266 +2803,6 @@
       "col_2": "کارخانه",
       "price_strrr": "65,450",
       "price_nummm": 65450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "64,880",
-      "price_nummm": 64880,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "64,270",
-      "price_nummm": 64270,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "64,270",
-      "price_nummm": 64270,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "64,090",
-      "price_nummm": 64090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "64,090",
-      "price_nummm": 64090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "63,640",
-      "price_nummm": 63640,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "63,640",
-      "price_nummm": 63640,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "63,640",
-      "price_nummm": 63640,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "63,640",
-      "price_nummm": 63640,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "8",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "70,640",
-      "price_nummm": 70640,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,270",
-      "price_nummm": 69270,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,820",
-      "price_nummm": 68820,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,450",
-      "price_nummm": 67450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,000",
-      "price_nummm": 67000,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,730",
-      "price_nummm": 67730,
       "col_4": "0.0%",
       "col_5": ""
     },
@@ -2297,136 +2934,6 @@
       "price_strrr": "67,450",
       "price_nummm": 67450,
       "col_4": "-1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "69,450",
-      "price_nummm": 69450,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "69,270",
-      "price_nummm": 69270,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,180",
-      "price_nummm": 68180,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,180",
-      "price_nummm": 68180,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,180",
-      "price_nummm": 68180,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,180",
-      "price_nummm": 68180,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "68,180",
-      "price_nummm": 68180,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,270",
-      "price_nummm": 69270,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,270",
-      "price_nummm": 69270,
-      "col_4": "-0.4%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,270",
-      "price_nummm": 69270,
-      "col_4": "-0.4%",
       "col_5": ""
     },
     {
@@ -2873,136 +3380,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "69,820",
-      "price_nummm": 69820,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "69,450",
-      "price_nummm": 69450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "69,450",
-      "price_nummm": 69450,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "میلگرد کوثر اهواز",
         "update_labelll": ""
       },
@@ -3115,97 +3492,6 @@
       "col_2": "کارخانه",
       "price_strrr": "64,550",
       "price_nummm": 64550,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,270",
-      "price_nummm": 67270,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,360",
-      "price_nummm": 66360,
       "col_4": "0.0%",
       "col_5": ""
     },
@@ -3349,292 +3635,6 @@
       "col_2": "کارخانه",
       "price_strrr": "66,910",
       "price_nummm": 66910,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "71,360",
-      "price_nummm": 71360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "71,820",
-      "price_nummm": 71820,
-      "col_4": "+ 1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 3.6%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "71,360",
-      "price_nummm": 71360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "69,090",
-      "price_nummm": 69090,
-      "col_4": "+ 0.7%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "67,090",
-      "price_nummm": 67090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,730",
-      "price_nummm": 66730,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,180",
-      "price_nummm": 66180,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,090",
-      "price_nummm": 66090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,090",
-      "price_nummm": 66090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,090",
-      "price_nummm": 66090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,090",
-      "price_nummm": 66090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,090",
-      "price_nummm": 66090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,090",
-      "price_nummm": 66090,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "66,050",
-      "price_nummm": 66050,
       "col_4": "0.0%",
       "col_5": ""
     },
