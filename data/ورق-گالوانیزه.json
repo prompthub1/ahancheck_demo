@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-گالوانیزه/",
-  "scraped_attt": "2026-08-10T08:27:00.803Z",
+  "scraped_attt": "2026-08-10T08:57:01.889Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -355,7 +355,7 @@
         "update_labelll": "|"
       },
       "col_0": "0.8",
-      "col_1": "1250",
+      "col_1": "1000",
       "col_2": "شهرکرد",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
@@ -381,7 +381,7 @@
         "update_labelll": "|"
       },
       "col_0": "0.8",
-      "col_1": "1000",
+      "col_1": "1250",
       "col_2": "شهرکرد",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
@@ -745,12 +745,12 @@
         "update_labelll": "|"
       },
       "col_0": "0.45",
-      "col_1": "1000",
+      "col_1": "1250",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "160,360",
-      "price_nummm": 160360
+      "price_strrr": "160,730",
+      "price_nummm": 160730
     },
     {
       "group_infooo": {
@@ -771,12 +771,12 @@
         "update_labelll": "|"
       },
       "col_0": "0.45",
-      "col_1": "1250",
+      "col_1": "1000",
       "col_2": "کاشان",
       "col_3": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "160,730",
-      "price_nummm": 160730
+      "price_strrr": "160,360",
+      "price_nummm": 160360
     },
     {
       "group_infooo": {
