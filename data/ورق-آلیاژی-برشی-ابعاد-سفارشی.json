@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آلیاژی-برشی-ابعاد-سفارشی/",
-  "scraped_attt": "2026-08-17T22:57:55.789Z",
+  "scraped_attt": "2026-08-17T23:28:59.798Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -12,34 +12,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "A283",
-      "col_1": "8",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "کارخانه",
-      "price_strrr": "113,640",
-      "price_nummm": 113640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "8",
@@ -88,34 +60,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "A283",
-      "col_1": "10",
-      "sizeee": "2000*6000",
-      "col_3": "اکسین اهواز",
-      "col_4": "فابریک",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "109,090",
-      "price_nummm": 109090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -297,6 +241,34 @@
         "category_nameee": "8",
         "update_labelll": "امروز"
       },
+      "col_0": "A283",
+      "col_1": "8",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "کارخانه",
+      "price_strrr": "113,640",
+      "price_nummm": 113640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
       "col_0": "Gr C",
       "col_1": "8",
       "sizeee": "1500",
@@ -340,6 +312,34 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : -0.9%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
+      "col_0": "A283",
+      "col_1": "10",
+      "sizeee": "2000*6000",
+      "col_3": "اکسین اهواز",
+      "col_4": "فابریک",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
