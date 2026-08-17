@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/شمش-قلع-انواع-ورق/",
-  "scraped_attt": "2026-08-17T08:27:26.751Z",
+  "scraped_attt": "2026-08-17T08:57:45.483Z",
   "headersss": [
     "نام کالا",
     "برند",
@@ -12,29 +12,7 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "titleee": "شمش قلع مالزی",
-      "col_1": "مالزی",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "13,709,090",
-      "price_nummm": 13709090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/5/24 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "titleee": "شمش قلع اندونزی",
       "col_1": "اندونزی",
@@ -45,9 +23,31 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "titleee": "آخرین بروز رسانی : 1405/5/24 نمودار نوسانات : +0.0%",
+      "titleee": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "titleee": "شمش قلع مالزی",
+      "col_1": "مالزی",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "13,709,090",
+      "price_nummm": 13709090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
