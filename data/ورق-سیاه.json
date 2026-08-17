@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-08-17T19:27:02.393Z",
+  "scraped_attt": "2026-08-17T19:56:56.119Z",
   "headersss": [
     "سایز",
     "برند",
@@ -577,30 +577,6 @@
     {
       "group_infooo": {
         "category_nameee": "6",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "6 متری",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "92,730",
-      "price_nummm": 92730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
@@ -2956,6 +2932,30 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +1.5%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "6 متری",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "92,730",
+      "price_nummm": 92730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/26 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
