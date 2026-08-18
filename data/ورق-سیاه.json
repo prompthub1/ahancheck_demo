@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-08-18T19:57:02.903Z",
+  "scraped_attt": "2026-08-18T20:27:01.467Z",
   "headersss": [
     "سایز",
     "برند",
@@ -457,30 +457,6 @@
     {
       "group_infooo": {
         "category_nameee": "5",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/27 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "-",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "97,270",
-      "price_nummm": 97270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/27 نمودار نوسانات : +0.0%",
@@ -1005,30 +981,6 @@
       "col_3": "بنگاه تهران",
       "price_strrr": "101,820",
       "price_nummm": 101820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/5/27 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "sizeee": "6000*1200",
-      "col_1": "قطعات",
-      "col_2": "شیت",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "83,640",
-      "price_nummm": 83640
     },
     {
       "group_infooo": {
@@ -2954,6 +2906,54 @@
       "group_infooo": {
         "category_nameee": "50",
         "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/27 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "-",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "97,270",
+      "price_nummm": 97270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/5/27 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6000*1200",
+      "col_1": "قطعات",
+      "col_2": "شیت",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "83,640",
+      "price_nummm": 83640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "10",
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/5/27 نمودار نوسانات : +0.0%",
       "col_1": "",
