@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-آلیاژی-برشی-ابعاد-سفارشی/",
-  "scraped_attt": "2026-08-21T08:58:16.576Z",
+  "scraped_attt": "2026-08-21T09:28:06.704Z",
   "headersss": [
     "گرید",
     "ضخامت",
@@ -9,13 +9,16 @@
     "کشور / کارخانه",
     "وضعیت",
     "انبار",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 6 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "6",
@@ -23,27 +26,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "104,550",
-      "price_nummm": 104550
+      "price_nummm": 104550,
+      "col_8": "+ 2.2%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +2.2%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 6 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "6",
@@ -51,27 +43,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "107,270",
-      "price_nummm": 107270
+      "price_nummm": 107270,
+      "col_8": "+ 2.2%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +2.2%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "8",
@@ -79,27 +60,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "113,640",
-      "price_nummm": 113640
+      "price_nummm": 113640,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "8",
@@ -107,27 +77,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "102,730",
-      "price_nummm": 102730
+      "price_nummm": 102730,
+      "col_8": "+ 0.4%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.4%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "-",
       "col_1": "8",
@@ -135,27 +94,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "116,820",
-      "price_nummm": 116820
+      "price_nummm": 116820,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 8 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "8",
@@ -163,27 +111,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "105,450",
-      "price_nummm": 105450
+      "price_nummm": 105450,
+      "col_8": "+ 0.4%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.4%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "10",
@@ -191,27 +128,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "109,090",
-      "price_nummm": 109090
+      "price_nummm": 109090,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "10",
@@ -219,27 +145,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "105,910",
-      "price_nummm": 105910
+      "price_nummm": 105910,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "10",
@@ -247,27 +162,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "99,090",
-      "price_nummm": 99090
+      "price_nummm": 99090,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 10 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "10",
@@ -275,27 +179,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "101,820",
-      "price_nummm": 101820
+      "price_nummm": 101820,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "12",
@@ -303,27 +196,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "98,640",
-      "price_nummm": 98640
+      "price_nummm": 98640,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "12",
@@ -331,27 +213,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "103,180",
-      "price_nummm": 103180
+      "price_nummm": 103180,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "12",
@@ -359,27 +230,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "99,090",
-      "price_nummm": 99090
+      "price_nummm": 99090,
+      "col_8": "+ 0.9%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 12 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "12",
@@ -387,27 +247,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "101,860",
-      "price_nummm": 101860
+      "price_nummm": 101860,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "12",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "15",
@@ -415,27 +264,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "104,550",
-      "price_nummm": 104550
+      "price_nummm": 104550,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "A283",
       "col_1": "15",
@@ -443,27 +281,16 @@
       "col_3": "اکسین اهواز",
       "col_4": "فابریک",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "108,180",
-      "price_nummm": 108180
+      "price_nummm": 108180,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "15",
@@ -471,27 +298,16 @@
       "col_3": "فولاد مبارکه",
       "col_4": "رول",
       "col_5": "کارخانه",
+      "col_6": "1405/5/29",
       "price_strrr": "94,550",
-      "price_nummm": 94550
+      "price_nummm": 94550,
+      "col_8": "+ 1.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +1.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
+        "category_nameee": "ورق آلیاژی برشی ابعاد سفارشی ضخامت 15 میل",
+        "update_labelll": ""
       },
       "col_0": "Gr C",
       "col_1": "15",
@@ -499,22 +315,11 @@
       "col_3": "فولاد مبارکه",
       "col_4": "شیت",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/5/29",
       "price_strrr": "97,270",
-      "price_nummm": 97270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "15",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "col_4": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 97270,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
