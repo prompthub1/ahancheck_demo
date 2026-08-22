@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-st52/",
-  "scraped_attt": "2026-08-22T22:27:27.961Z",
+  "scraped_attt": "2026-08-22T22:57:18.585Z",
   "headersss": [
     "کارخانه",
     "وضعیت",
@@ -52,54 +52,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : -1.6%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "اکسین اهواز",
-      "col_1": "شیت",
-      "sizeee": "2000*6000",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "112,730",
-      "price_nummm": 112730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : -0.4%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "اکسین اهواز",
-      "col_1": "شیت",
-      "sizeee": "2000*6000",
-      "col_3": "کارخانه",
-      "price_strrr": "109,090",
-      "price_nummm": 109090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : -0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -796,6 +748,54 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "اکسین اهواز",
+      "col_1": "شیت",
+      "sizeee": "2000*6000",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "112,730",
+      "price_nummm": 112730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : -0.4%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "اکسین اهواز",
+      "col_1": "شیت",
+      "sizeee": "2000*6000",
+      "col_3": "کارخانه",
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : -0.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
