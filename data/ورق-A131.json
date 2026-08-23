@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-A131/",
-  "scraped_attt": "2026-08-23T09:58:05.772Z",
+  "scraped_attt": "2026-08-23T10:27:49.823Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -13,9 +13,33 @@
     {
       "group_infooo": {
         "category_nameee": "6",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "6",
+      "sizeee": "1500*6000",
+      "col_2": "برش خورده",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "110,450",
+      "price_nummm": 110450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +0.8%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "8",
       "sizeee": "1500*6000",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
@@ -24,34 +48,10 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "6",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : +1.7%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "8",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "8",
-      "sizeee": "1500*6000",
-      "col_2": "برش خورده",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "107,730",
-      "price_nummm": 107730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : +1.7%",
+      "col_0": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +1.7%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -61,21 +61,21 @@
     {
       "group_infooo": {
         "category_nameee": "10",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "10",
       "sizeee": "1500*6000",
       "col_2": "برش خورده",
       "col_3": "بنگاه تهران",
-      "price_strrr": "105,000",
-      "price_nummm": 105000
+      "price_strrr": "105,910",
+      "price_nummm": 105910
     },
     {
       "group_infooo": {
         "category_nameee": "10",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/5/31 نمودار نوسانات : +2.7%",
+      "col_0": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +0.9%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
