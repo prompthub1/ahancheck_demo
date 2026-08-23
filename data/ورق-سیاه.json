@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-08-23T11:27:05.106Z",
+  "scraped_attt": "2026-08-23T11:57:25.053Z",
   "headersss": [
     "سایز",
     "برند",
@@ -13,6 +13,36 @@
     "نمودار"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 2 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "107,730",
+      "price_nummm": 107730,
+      "col_6": "+ 1.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 2 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1250",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "105,000",
+      "price_nummm": 105000,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
     {
       "group_infooo": {
         "category_nameee": "ورق سیاه 2 میل",
@@ -41,6 +71,51 @@
       "price_strrr": "109,090",
       "price_nummm": 109090,
       "col_6": "+ 6.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 3 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "109,090",
+      "price_nummm": 109090,
+      "col_6": "+ 1.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 3 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1250",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "105,450",
+      "price_nummm": 105450,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 3 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "104,550",
+      "price_nummm": 104550,
+      "col_6": "+ 1.8%",
       "col_7": ""
     },
     {
@@ -93,6 +168,51 @@
         "category_nameee": "ورق سیاه ضخامت 4 میل",
         "update_labelll": ""
       },
+      "sizeee": "1000",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "108,180",
+      "price_nummm": 108180,
+      "col_6": "+ 1.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 4 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1250",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "103,180",
+      "price_nummm": 103180,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 4 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "103,180",
+      "price_nummm": 103180,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 4 میل",
+        "update_labelll": ""
+      },
       "sizeee": "1000*2000",
       "col_1": "فولاد مبارکه",
       "col_2": "برش خورده",
@@ -138,6 +258,21 @@
         "category_nameee": "ورق سیاه ضخامت 5 میل",
         "update_labelll": ""
       },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "103,640",
+      "price_nummm": 103640,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 5 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "فابریک",
@@ -176,6 +311,36 @@
       "price_strrr": "97,270",
       "price_nummm": 97270,
       "col_6": "-0.5%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 6 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "107,270",
+      "price_nummm": 107270,
+      "col_6": "+ 1.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 6 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "110,000",
+      "price_nummm": 110000,
+      "col_6": "+ 1.7%",
       "col_7": ""
     },
     {
@@ -303,6 +468,36 @@
         "category_nameee": "ورق سیاه 8 میل",
         "update_labelll": ""
       },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "106,820",
+      "price_nummm": 106820,
+      "col_6": "+ 1.7%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 8 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "104,550",
+      "price_nummm": 104550,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 8 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "فابریک",
@@ -386,6 +581,36 @@
       "price_strrr": "100,910",
       "price_nummm": 100910,
       "col_6": "+ 0.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "102,730",
+      "price_nummm": 102730,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه 10 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "105,450",
+      "price_nummm": 105450,
+      "col_6": "+ 1.8%",
       "col_7": ""
     },
     {
@@ -543,6 +768,36 @@
         "category_nameee": "ورق سیاه ضخامت 12 میل",
         "update_labelll": ""
       },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "101,820",
+      "price_nummm": 101820,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "104,550",
+      "price_nummm": 104550,
+      "col_6": "+ 1.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 12 میل",
+        "update_labelll": ""
+      },
       "sizeee": "6000*1500",
       "col_1": "فولاد مبارکه",
       "col_2": "فابریک",
@@ -671,6 +926,36 @@
       "price_strrr": "109,550",
       "price_nummm": 109550,
       "col_6": "+ 0.8%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "رول",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "100,000",
+      "price_nummm": 100000,
+      "col_6": "+ 1.9%",
+      "col_7": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق سیاه ضخامت 15 میل",
+        "update_labelll": ""
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "کارخانه",
+      "col_4": "1405/6/1",
+      "price_strrr": "100,000",
+      "price_nummm": 100000,
+      "col_6": "+ 1.9%",
       "col_7": ""
     },
     {
@@ -1571,291 +1856,6 @@
       "price_strrr": "95,910",
       "price_nummm": 95910,
       "col_6": "+ 0.5%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 2 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "105,910",
-      "price_nummm": 105910,
-      "col_6": "+ 1.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 2 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1250",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "103,180",
-      "price_nummm": 103180,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 3 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "107,270",
-      "price_nummm": 107270,
-      "col_6": "+ 1.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 3 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1250",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "103,640",
-      "price_nummm": 103640,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 3 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "102,730",
-      "price_nummm": 102730,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 4 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1000",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "106,360",
-      "price_nummm": 106360,
-      "col_6": "+ 1.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 4 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1250",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "101,360",
-      "price_nummm": 101360,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 4 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "101,360",
-      "price_nummm": 101360,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 5 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "101,820",
-      "price_nummm": 101820,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 6 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "105,450",
-      "price_nummm": 105450,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 6 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "108,180",
-      "price_nummm": 108180,
-      "col_6": "+ 1.7%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "105,000",
-      "price_nummm": 105000,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 8 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "102,730",
-      "price_nummm": 102730,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 10 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "100,910",
-      "price_nummm": 100910,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه 10 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "103,640",
-      "price_nummm": 103640,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "100,000",
-      "price_nummm": 100000,
-      "col_6": "+ 1.9%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 12 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "102,730",
-      "price_nummm": 102730,
-      "col_6": "+ 1.8%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "رول",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "98,180",
-      "price_nummm": 98180,
-      "col_6": "+ 1.9%",
-      "col_7": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق سیاه ضخامت 15 میل",
-        "update_labelll": ""
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "کارخانه",
-      "col_4": "1405/5/31",
-      "price_strrr": "98,180",
-      "price_nummm": 98180,
-      "col_6": "+ 1.9%",
       "col_7": ""
     }
   ]
