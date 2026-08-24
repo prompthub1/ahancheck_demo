@@ -1,171 +1,114 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84-%DA%A9%D9%86%DA%AF%D8%B1%D9%87/",
-  "scraped_attt": "2026-08-24T07:26:41.090Z",
+  "scraped_attt": "2026-08-24T07:56:43.349Z",
   "headersss": [
     "سایز",
     "ضخامت",
     "حالت",
     "واحد",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
+        "category_nameee": "پروفیل کنگره 2",
+        "update_labelll": ""
       },
       "sizeee": "30*20",
       "col_1": "2",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/6/1",
       "price_strrr": "113,180",
-      "price_nummm": 113180
+      "price_nummm": 113180,
+      "col_7": "+ 3.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +3.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
+        "category_nameee": "پروفیل کنگره 2",
+        "update_labelll": ""
       },
       "sizeee": "20*40",
       "col_1": "2",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/6/1",
       "price_strrr": "112,730",
-      "price_nummm": 112730
+      "price_nummm": 112730,
+      "col_7": "+ 3.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +3.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
+        "category_nameee": "پروفیل کنگره 2",
+        "update_labelll": ""
       },
       "sizeee": "40*40",
       "col_1": "2",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/6/1",
       "price_strrr": "112,730",
-      "price_nummm": 112730
+      "price_nummm": 112730,
+      "col_7": "+ 3.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +3.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
+        "category_nameee": "پروفیل کنگره 2",
+        "update_labelll": ""
       },
       "sizeee": "30*50",
       "col_1": "2",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/6/1",
       "price_strrr": "112,730",
-      "price_nummm": 112730
+      "price_nummm": 112730,
+      "col_7": "+ 3.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +3.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
+        "category_nameee": "پروفیل کنگره 2",
+        "update_labelll": ""
       },
       "sizeee": "60*40",
       "col_1": "2",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/6/1",
       "price_strrr": "112,730",
-      "price_nummm": 112730
+      "price_nummm": 112730,
+      "col_7": "+ 3.3%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +3.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
+        "category_nameee": "پروفیل کنگره 2",
+        "update_labelll": ""
       },
       "sizeee": "40*80",
       "col_1": "2",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
+      "col_5": "1405/6/1",
       "price_strrr": "112,730",
-      "price_nummm": 112730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "2",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/1 نمودار نوسانات : +3.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 112730,
+      "col_7": "+ 3.3%",
+      "col_8": ""
     }
   ]
 }
