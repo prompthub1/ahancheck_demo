@@ -1,1497 +1,930 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-روغنی/",
-  "scraped_attt": "2026-08-25T10:27:21.835Z",
+  "scraped_attt": "2026-08-25T10:57:12.135Z",
   "headersss": [
     "ضخامت",
     "عرض",
     "برند",
     "استاندارد",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "153,450",
-      "price_nummm": 153450
+      "price_nummm": 153450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "153,450",
-      "price_nummm": 153450
+      "price_nummm": 153450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "152,090",
-      "price_nummm": 152090
+      "price_nummm": 152090,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "152,090",
-      "price_nummm": 152090
+      "price_nummm": 152090,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,450",
-      "price_nummm": 147450
+      "price_nummm": 147450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,450",
-      "price_nummm": 147450
+      "price_nummm": 147450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "151,450",
-      "price_nummm": 151450
+      "price_nummm": 151450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "151,450",
-      "price_nummm": 151450
+      "price_nummm": 151450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,820",
-      "price_nummm": 147820
+      "price_nummm": 147820,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,180",
-      "price_nummm": 147180
+      "price_nummm": 147180,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,910",
-      "price_nummm": 147910
+      "price_nummm": 147910,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,910",
-      "price_nummm": 147910
+      "price_nummm": 147910,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,910",
-      "price_nummm": 147910
+      "price_nummm": 147910,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,910",
-      "price_nummm": 147910
+      "price_nummm": 147910,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "148,730",
-      "price_nummm": 148730
+      "price_nummm": 148730,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "148,450",
-      "price_nummm": 148450
+      "price_nummm": 148450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1000",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "148,550",
-      "price_nummm": 148550
+      "price_nummm": 148550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1250",
       "col_2": "فولاد مبارکه",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "148,550",
-      "price_nummm": 148550
+      "price_nummm": 148550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "171,180",
-      "price_nummm": 171180
+      "price_nummm": 171180,
+      "col_7": "+ 0.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "171,180",
-      "price_nummm": 171180
+      "price_nummm": 171180,
+      "col_7": "+ 0.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "148,180",
-      "price_nummm": 148180
+      "price_nummm": 148180,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "148,270",
-      "price_nummm": 148270
+      "price_nummm": 148270,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "145,360",
-      "price_nummm": 145360
+      "price_nummm": 145360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "145,360",
-      "price_nummm": 145360
+      "price_nummm": 145360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,090",
-      "price_nummm": 144090
+      "price_nummm": 144090,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,180",
-      "price_nummm": 144180
+      "price_nummm": 144180,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "146,360",
-      "price_nummm": 146360
+      "price_nummm": 146360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "146,360",
-      "price_nummm": 146360
+      "price_nummm": 146360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,360",
-      "price_nummm": 144360
+      "price_nummm": 144360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,360",
-      "price_nummm": 144360
+      "price_nummm": 144360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,360",
-      "price_nummm": 144360
+      "price_nummm": 144360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,360",
-      "price_nummm": 144360
+      "price_nummm": 144360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,450",
-      "price_nummm": 144450
+      "price_nummm": 144450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.25",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,550",
-      "price_nummm": 144550
+      "price_nummm": 144550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,640",
-      "price_nummm": 144640
+      "price_nummm": 144640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,640",
-      "price_nummm": 144640
+      "price_nummm": 144640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1000",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,640",
-      "price_nummm": 144640
+      "price_nummm": 144640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,640",
-      "price_nummm": 144640
+      "price_nummm": 144640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.4",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "169,360",
-      "price_nummm": 169360
+      "price_nummm": 169360,
+      "col_7": "+ 0.5%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.5%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,180",
-      "price_nummm": 147180
+      "price_nummm": 147180,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "147,180",
-      "price_nummm": 147180
+      "price_nummm": 147180,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,910",
-      "price_nummm": 144910
+      "price_nummm": 144910,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.7",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,730",
-      "price_nummm": 144730
+      "price_nummm": 144730,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,550",
-      "price_nummm": 144550
+      "price_nummm": 144550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.8",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,640",
-      "price_nummm": 144640
+      "price_nummm": 144640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "146,550",
-      "price_nummm": 146550
+      "price_nummm": 146550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "146,640",
-      "price_nummm": 146640
+      "price_nummm": 146640,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,550",
-      "price_nummm": 144550
+      "price_nummm": 144550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "0.9",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,000",
-      "price_nummm": 144000
+      "price_nummm": 144000,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "1.2",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,000",
-      "price_nummm": 144000
+      "price_nummm": 144000,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "1.2",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,550",
-      "price_nummm": 144550
+      "price_nummm": 144550,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,270",
-      "price_nummm": 144270
+      "price_nummm": 144270,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "1",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,180",
-      "price_nummm": 144180
+      "price_nummm": 144180,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,450",
-      "price_nummm": 144450
+      "price_nummm": 144450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "1.5",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,450",
-      "price_nummm": 144450
+      "price_nummm": 144450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1000",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,360",
-      "price_nummm": 144360
+      "price_nummm": 144360,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
+        "category_nameee": "ورق روغنی فولاد غرب",
+        "update_labelll": ""
       },
       "col_0": "2",
       "col_1": "1250",
       "col_2": "فولاد غرب",
       "col_3": "ST12",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/6/3",
       "price_strrr": "144,450",
-      "price_nummm": 144450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد غرب",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/3 نمودار نوسانات : +0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 144450,
+      "col_7": "+ 0.6%",
+      "col_8": ""
     },
     {
       "group_infooo": {
