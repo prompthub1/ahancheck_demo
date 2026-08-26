@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-08-26T12:27:15.337Z",
+  "scraped_attt": "2026-08-26T12:34:14.300Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -84,13 +84,13 @@
         "update_labelll": ""
       },
       "col_0": "1",
-      "sizeee": "1000",
+      "sizeee": "1000*2000",
       "col_2": "304L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
-      "price_strrr": "668,180",
-      "price_nummm": 668180,
+      "price_strrr": "672,950",
+      "price_nummm": 672950,
       "col_7": "0.0%",
       "col_8": ""
     },
@@ -100,13 +100,13 @@
         "update_labelll": ""
       },
       "col_0": "1",
-      "sizeee": "1000*2000",
+      "sizeee": "1000",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
-      "price_strrr": "672,950",
-      "price_nummm": 672950,
+      "price_strrr": "668,180",
+      "price_nummm": 668180,
       "col_7": "0.0%",
       "col_8": ""
     },
@@ -388,13 +388,13 @@
         "update_labelll": ""
       },
       "col_0": "2.5",
-      "sizeee": "1250*2500",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
-      "price_strrr": "677,730",
-      "price_nummm": 677730,
+      "price_strrr": "672,950",
+      "price_nummm": 672950,
       "col_7": "0.0%",
       "col_8": ""
     },
@@ -404,13 +404,13 @@
         "update_labelll": ""
       },
       "col_0": "2.5",
-      "sizeee": "1500*3000",
+      "sizeee": "1250*2500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
-      "price_strrr": "672,950",
-      "price_nummm": 672950,
+      "price_strrr": "677,730",
+      "price_nummm": 677730,
       "col_7": "0.0%",
       "col_8": ""
     },
@@ -644,13 +644,13 @@
         "update_labelll": ""
       },
       "col_0": "4",
-      "sizeee": "1000",
+      "sizeee": "1000*2000",
       "col_2": "304L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
-      "price_strrr": "668,180",
-      "price_nummm": 668180,
+      "price_strrr": "677,730",
+      "price_nummm": 677730,
       "col_7": "0.0%",
       "col_8": ""
     },
@@ -660,13 +660,13 @@
         "update_labelll": ""
       },
       "col_0": "4",
-      "sizeee": "1000*2000",
+      "sizeee": "1000",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
-      "price_strrr": "677,730",
-      "price_nummm": 677730,
+      "price_strrr": "668,180",
+      "price_nummm": 668180,
       "col_7": "0.0%",
       "col_8": ""
     },
@@ -1204,9 +1204,9 @@
         "update_labelll": ""
       },
       "col_0": "1",
-      "sizeee": "1250*2500",
+      "sizeee": "1500",
       "col_2": "316L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
       "price_strrr": "1,181,820",
@@ -1220,9 +1220,9 @@
         "update_labelll": ""
       },
       "col_0": "1",
-      "sizeee": "1500",
+      "sizeee": "1250*2500",
       "col_2": "316L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
       "col_5": "1405/6/4",
       "price_strrr": "1,181,820",
@@ -1572,7 +1572,7 @@
         "update_labelll": ""
       },
       "col_0": "4",
-      "sizeee": "1500*6000",
+      "sizeee": "1500*3000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -1588,7 +1588,7 @@
         "update_labelll": ""
       },
       "col_0": "4",
-      "sizeee": "1500*3000",
+      "sizeee": "1500*6000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -2291,6 +2291,134 @@
         "category_nameee": "ورق استیل آلیاژ 430",
         "update_labelll": ""
       },
+      "col_0": "2",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "427,110",
+      "price_nummm": 427110,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "1.5",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "427,780",
+      "price_nummm": 427780,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "1.5",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "426,730",
+      "price_nummm": 426730,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "1.2",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "426,730",
+      "price_nummm": 426730,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "1.2",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "427,780",
+      "price_nummm": 427780,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "1",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "429,310",
+      "price_nummm": 429310,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "1",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "427,210",
+      "price_nummm": 427210,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "0.8",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "426,640",
+      "price_nummm": 426640,
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
       "col_0": "0.8",
       "sizeee": "عرض 1000",
       "col_2": "430",
@@ -2691,143 +2819,15 @@
         "category_nameee": "ورق استیل آلیاژ 430",
         "update_labelll": ""
       },
-      "col_0": "2",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "427,110",
-      "price_nummm": 427110,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "1.5",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "427,780",
-      "price_nummm": 427780,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "1.5",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "426,730",
-      "price_nummm": 426730,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "1.2",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "426,730",
-      "price_nummm": 426730,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "1.2",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "427,780",
-      "price_nummm": 427780,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "1",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "429,310",
-      "price_nummm": 429310,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "1",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "427,210",
-      "price_nummm": 427210,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "0.8",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "426,640",
-      "price_nummm": 426640,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
       "col_0": "1",
       "sizeee": "1250*2500",
       "col_2": "430",
       "col_3": "استیل",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "427,500",
       "price_nummm": 427500,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2840,10 +2840,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "433,170",
       "price_nummm": 433170,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2856,10 +2856,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "427,920",
       "price_nummm": 427920,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2872,10 +2872,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "433,750",
       "price_nummm": 433750,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2888,10 +2888,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "427,920",
       "price_nummm": 427920,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2904,10 +2904,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "433,750",
       "price_nummm": 433750,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2920,26 +2920,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "428,300",
       "price_nummm": 428300,
-      "col_7": "+ 5.0%",
-      "col_8": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ورق استیل آلیاژ 430",
-        "update_labelll": ""
-      },
-      "col_0": "2",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
-      "price_strrr": "428,300",
-      "price_nummm": 428300,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2952,10 +2936,26 @@
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "427,250",
       "price_nummm": 427250,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
+      "col_8": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ورق استیل آلیاژ 430",
+        "update_labelll": ""
+      },
+      "col_0": "2",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "col_5": "1405/6/4",
+      "price_strrr": "428,300",
+      "price_nummm": 428300,
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2968,10 +2968,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "428,300",
       "price_nummm": 428300,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -2984,10 +2984,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "452,260",
       "price_nummm": 452260,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -3000,10 +3000,10 @@
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "450,160",
       "price_nummm": 450160,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     },
     {
@@ -3016,10 +3016,10 @@
       "col_2": "430",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "col_5": "1405/6/3",
+      "col_5": "1405/6/4",
       "price_strrr": "445,390",
       "price_nummm": 445390,
-      "col_7": "+ 5.0%",
+      "col_7": "0.0%",
       "col_8": ""
     }
   ]
