@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-09-01T00:26:49.838Z",
+  "scraped_attt": "2026-09-01T00:57:07.962Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -10,30 +10,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "|"
-      },
-      "sizeee": "22",
-      "col_1": "بنگاه اصفهان",
-      "unittt": "شاخه",
-      "col_3": "320",
-      "price_strrr": "30,454,550",
-      "price_nummm": 30454550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/9 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "ذوب آهن",
@@ -333,6 +309,30 @@
       "col_3": "270",
       "price_strrr": "29,545,450",
       "price_nummm": 29545450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/9 نمودار نوسانات : +0.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "بنگاه اصفهان",
+      "unittt": "شاخه",
+      "col_3": "320",
+      "price_strrr": "30,454,550",
+      "price_nummm": 30454550
     },
     {
       "group_infooo": {
