@@ -1,3642 +1,6151 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-09-01T11:26:16.605Z",
+  "scraped_attt": "2026-09-01T11:56:20.796Z",
   "headersss": [
     "سایز",
     "استاندارد",
     "محل تحویل",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "87,730",
-      "price_nummm": 87730,
-      "col_4": "+ 5.5%",
-      "col_5": ""
+      "price_nummm": 87730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,000",
-      "price_nummm": 80000,
-      "col_4": "+ 6.0%",
-      "col_5": ""
+      "price_nummm": 80000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,730",
-      "price_nummm": 77730,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 77730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,000",
-      "price_nummm": 80000,
-      "col_4": "+ 5.4%",
-      "col_5": ""
+      "price_nummm": 80000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,640",
-      "price_nummm": 78640,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,180",
-      "price_nummm": 77180,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "ذوب آهن اصفهان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,730",
-      "price_nummm": 78730,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد میانه",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میانه",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "میانه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,410",
-      "price_nummm": 76410,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 76410
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "76,270",
-      "price_nummm": 76270,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 76270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,270",
-      "price_nummm": 76270,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 76270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ظفر بناب",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,730",
-      "price_nummm": 75730,
-      "col_4": "+ 1.6%",
-      "col_5": ""
+      "price_nummm": 75730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "ظفر بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,640",
-      "price_nummm": 80640,
-      "col_4": "+ 3.5%",
-      "col_5": ""
+      "price_nummm": 80640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "81,640",
-      "price_nummm": 81640,
-      "col_4": "+ 2.9%",
-      "col_5": ""
+      "price_nummm": 81640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,730",
-      "price_nummm": 79730,
-      "col_4": "+ 3.5%",
-      "col_5": ""
+      "price_nummm": 79730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "86,910",
-      "price_nummm": 86910,
-      "col_4": "+ 2.7%",
-      "col_5": ""
+      "price_nummm": 86910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,450",
-      "price_nummm": 78450,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,450",
-      "price_nummm": 78450,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 3.7%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "78,450",
-      "price_nummm": 78450,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 78450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نیشابور",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,640",
-      "price_nummm": 76640,
-      "col_4": "+ 3.1%",
-      "col_5": ""
+      "price_nummm": 76640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "83,180",
-      "price_nummm": 83180,
-      "col_4": "-0.5%",
-      "col_5": ""
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "83,180",
-      "price_nummm": 83180,
-      "col_4": "-0.5%",
-      "col_5": ""
+      "price_nummm": 83180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "82,730",
-      "price_nummm": 82730,
-      "col_4": "-0.5%",
-      "col_5": ""
+      "price_nummm": 82730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "82,730",
-      "price_nummm": 82730,
-      "col_4": "-0.5%",
-      "col_5": ""
+      "price_nummm": 82730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "82,730",
-      "price_nummm": 82730,
-      "col_4": "-0.5%",
-      "col_5": ""
+      "price_nummm": 82730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "-0.6%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "-0.6%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "-0.6%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "-0.6%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "-0.6%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابهر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "-0.6%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "ابهر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : -0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,730",
-      "price_nummm": 78730,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 78730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "78,730",
-      "price_nummm": 78730,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 78730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,360",
-      "price_nummm": 77360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,360",
-      "price_nummm": 77360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,360",
-      "price_nummm": 77360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,360",
-      "price_nummm": 77360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,360",
-      "price_nummm": 77360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "76,910",
-      "price_nummm": 76910,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 76910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,360",
-      "price_nummm": 77360,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "77,090",
-      "price_nummm": 77090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 77090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,550",
-      "price_nummm": 77550,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "77,090",
-      "price_nummm": 77090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 77090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,550",
-      "price_nummm": 77550,
-      "col_4": "+ 1.3%",
-      "col_5": ""
+      "price_nummm": 77550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,360",
-      "price_nummm": 81360,
-      "col_4": "+ 7.2%",
-      "col_5": ""
+      "price_nummm": 81360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,640",
-      "price_nummm": 80640,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فایکو",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 7.4%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "فایکو",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,340",
-      "price_nummm": 75340,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 75340
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,730",
-      "price_nummm": 74730,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,730",
-      "price_nummm": 74730,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,550",
-      "price_nummm": 74550,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,550",
-      "price_nummm": 74550,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,090",
-      "price_nummm": 74090,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,090",
-      "price_nummm": 74090,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,090",
-      "price_nummm": 74090,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد جهان فولاد سیرجان",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "74,090",
-      "price_nummm": 74090,
-      "col_4": "+ 1.2%",
-      "col_5": ""
+      "price_nummm": 74090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "جهان فولاد سیرجان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,550",
-      "price_nummm": 81550,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 81550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,180",
-      "price_nummm": 80180,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 80180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,730",
-      "price_nummm": 79730,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 79730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد بافق یزد",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,640",
-      "price_nummm": 78640,
-      "col_4": "+ 2.6%",
-      "col_5": ""
+      "price_nummm": 78640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "بافق یزد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_4": "+ 5.5%",
-      "col_5": ""
+      "price_nummm": 79090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,640",
-      "price_nummm": 78640,
-      "col_4": "+ 5.5%",
-      "col_5": ""
+      "price_nummm": 78640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,000",
-      "price_nummm": 78000,
-      "col_4": "+ 5.5%",
-      "col_5": ""
+      "price_nummm": 78000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,820",
-      "price_nummm": 76820,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 76820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,230",
-      "price_nummm": 77230,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 77230
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,230",
-      "price_nummm": 77230,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 77230
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,000",
-      "price_nummm": 77000,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 77000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهرود",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,000",
-      "price_nummm": 77000,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 77000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهرود",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,350",
-      "price_nummm": 79350,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 79350
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,280",
-      "price_nummm": 79280,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 79280
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,180",
-      "price_nummm": 79180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 79180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,000",
-      "price_nummm": 79000,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 79000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد شاهین بناب",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 3.6%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "شاهین بناب",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,000",
-      "price_nummm": 80000,
-      "col_4": "+ 6.0%",
-      "col_5": ""
+      "price_nummm": 80000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,730",
-      "price_nummm": 79730,
-      "col_4": "+ 6.0%",
-      "col_5": ""
+      "price_nummm": 79730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد صبا فولاد زاگرس",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 6.2%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد زاگرس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +6.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "81,720",
-      "price_nummm": 81720,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 81720
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "80,540",
-      "price_nummm": 80540,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 80540
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,540",
-      "price_nummm": 79540,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79540
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,000",
-      "price_nummm": 79000,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,000",
-      "price_nummm": 79000,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,000",
-      "price_nummm": 79000,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,000",
-      "price_nummm": 79000,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,270",
-      "price_nummm": 79270,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,270",
-      "price_nummm": 79270,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد راد همدان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,270",
-      "price_nummm": 79270,
-      "col_4": "+ 2.2%",
-      "col_5": ""
+      "price_nummm": 79270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "راد همدان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "بنگاه تهران",
       "price_strrr": "80,360",
-      "price_nummm": 80360,
-      "col_4": "+ 2.9%",
-      "col_5": ""
+      "price_nummm": 80360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "80,180",
-      "price_nummm": 80180,
-      "col_4": "+ 2.9%",
-      "col_5": ""
+      "price_nummm": 80180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 79090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 79090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 79090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 79090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,090",
-      "price_nummm": 79090,
-      "col_4": "+ 3.0%",
-      "col_5": ""
+      "price_nummm": 79090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,180",
-      "price_nummm": 80180,
-      "col_4": "+ 2.9%",
-      "col_5": ""
+      "price_nummm": 80180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,180",
-      "price_nummm": 80180,
-      "col_4": "+ 2.9%",
-      "col_5": ""
+      "price_nummm": 80180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آناهیتا گیلان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,180",
-      "price_nummm": 80180,
-      "col_4": "+ 2.9%",
-      "col_5": ""
+      "price_nummm": 80180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "آناهیتا گیلان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.9%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "84,910",
-      "price_nummm": 84910,
-      "col_4": "+ 4.5%",
-      "col_5": ""
+      "price_nummm": 84910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "84,090",
-      "price_nummm": 84090,
-      "col_4": "+ 4.5%",
-      "col_5": ""
+      "price_nummm": 84090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "84,180",
-      "price_nummm": 84180,
-      "col_4": "+ 4.5%",
-      "col_5": ""
+      "price_nummm": 84180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "84,180",
-      "price_nummm": 84180,
-      "col_4": "+ 4.5%",
-      "col_5": ""
+      "price_nummm": 84180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,450",
-      "price_nummm": 81450,
-      "col_4": "+ 4.7%",
-      "col_5": ""
+      "price_nummm": 81450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاشان",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "82,360",
-      "price_nummm": 82360,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 82360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,450",
-      "price_nummm": 76450,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد قائم",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "قائم",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,730",
-      "price_nummm": 76730,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 76730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد نورد گرم سمنان",
-        "update_labelll": ""
+        "category_nameee": "قائم",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نورد گرم سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,000",
-      "price_nummm": 80000,
-      "col_4": "+ 3.5%",
-      "col_5": ""
+      "price_nummm": 80000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "نورد گرم سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,820",
-      "price_nummm": 81820,
-      "col_4": "+ 7.1%",
-      "col_5": ""
+      "price_nummm": 81820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.1%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "81,730",
-      "price_nummm": 81730,
-      "col_4": "+ 7.2%",
-      "col_5": ""
+      "price_nummm": 81730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "81,270",
-      "price_nummm": 81270,
-      "col_4": "+ 7.2%",
-      "col_5": ""
+      "price_nummm": 81270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "80,550",
-      "price_nummm": 80550,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد آریان فولاد",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,450",
-      "price_nummm": 80450,
-      "col_4": "+ 7.3%",
-      "col_5": ""
+      "price_nummm": 80450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد فولاد سپهر ایرانیان",
-        "update_labelll": ""
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +7.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد سپهر ایرانیان",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,730",
-      "price_nummm": 79730,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 79730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "فولاد سپهر ایرانیان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,820",
-      "price_nummm": 79820,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 79820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,640",
-      "price_nummm": 78640,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,270",
-      "price_nummm": 78270,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 78270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,180",
-      "price_nummm": 79180,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 79180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,180",
-      "price_nummm": 79180,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 79180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کاوه تیکمه داش",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,180",
-      "price_nummm": 79180,
-      "col_4": "+ 0.3%",
-      "col_5": ""
+      "price_nummm": 79180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "کاوه تیکمه داش",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "78,910",
-      "price_nummm": 78910,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "78,550",
-      "price_nummm": 78550,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "78,550",
-      "price_nummm": 78550,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد درپاد تبریز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_4": "+ 4.2%",
-      "col_5": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,180",
-      "price_nummm": 75180,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 75180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,820",
-      "price_nummm": 73820,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد کوثر اهواز",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "73,640",
-      "price_nummm": 73640,
-      "col_4": "+ 2.5%",
-      "col_5": ""
+      "price_nummm": 73640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "کوثر اهواز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,360",
-      "price_nummm": 76360,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,360",
-      "price_nummm": 76360,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,360",
-      "price_nummm": 76360,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,360",
-      "price_nummm": 76360,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,360",
-      "price_nummm": 76360,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد خلیج فارس",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,360",
-      "price_nummm": 76360,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "خلیج فارس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,910",
-      "price_nummm": 79910,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 79910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,000",
-      "price_nummm": 79000,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 79000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,820",
-      "price_nummm": 80820,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 80820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,550",
-      "price_nummm": 77550,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 77550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,550",
-      "price_nummm": 77550,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 77550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,910",
-      "price_nummm": 77910,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 77910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد هیربد",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,360",
-      "price_nummm": 78360,
-      "col_4": "+ 0.6%",
-      "col_5": ""
+      "price_nummm": 78360
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "هیربد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,730",
-      "price_nummm": 76730,
-      "col_4": "+ 5.6%",
-      "col_5": ""
+      "price_nummm": 76730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,000",
-      "price_nummm": 76000,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "76,180",
-      "price_nummm": 76180,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 76180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,910",
-      "price_nummm": 75910,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 75910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,910",
-      "price_nummm": 75910,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 75910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,910",
-      "price_nummm": 75910,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 75910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,910",
-      "price_nummm": 75910,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 75910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,910",
-      "price_nummm": 75910,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 75910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ابرکوه",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "75,910",
-      "price_nummm": 75910,
-      "col_4": "+ 5.7%",
-      "col_5": ""
+      "price_nummm": 75910
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "ابرکوه",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +5.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "81,820",
-      "price_nummm": 81820,
-      "col_4": "+ 2.3%",
-      "col_5": ""
+      "price_nummm": 81820
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 2.3%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "80,000",
-      "price_nummm": 80000,
-      "col_4": "+ 2.3%",
-      "col_5": ""
+      "price_nummm": 80000
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A2",
       "col_2": "کارخانه",
       "price_strrr": "79,550",
-      "price_nummm": 79550,
-      "col_4": "+ 2.3%",
-      "col_5": ""
+      "price_nummm": 79550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پردیس",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,270",
-      "price_nummm": 77270,
-      "col_4": "+ 2.4%",
-      "col_5": ""
+      "price_nummm": 77270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پردیس",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +2.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,450",
-      "price_nummm": 78450,
-      "col_4": "+ 3.2%",
-      "col_5": ""
+      "price_nummm": 78450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "78,090",
-      "price_nummm": 78090,
-      "col_4": "+ 3.2%",
-      "col_5": ""
+      "price_nummm": 78090
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,550",
-      "price_nummm": 77550,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,450",
-      "price_nummm": 77450,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,450",
-      "price_nummm": 77450,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,450",
-      "price_nummm": 77450,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,450",
-      "price_nummm": 77450,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,450",
-      "price_nummm": 77450,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,450",
-      "price_nummm": 77450,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77450
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد پرشین فولاد",
-        "update_labelll": ""
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
       },
       "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "77,410",
-      "price_nummm": 77410,
-      "col_4": "+ 3.3%",
-      "col_5": ""
+      "price_nummm": 77410
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/10 نمودار نوسانات : +3.3%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
