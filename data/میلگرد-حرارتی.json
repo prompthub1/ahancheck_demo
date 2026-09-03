@@ -1,122 +1,173 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AF%D9%87/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C/",
-  "scraped_attt": "2026-09-03T05:26:14.467Z",
+  "scraped_attt": "2026-09-03T05:56:14.286Z",
   "headersss": [
     "نام کالا",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 امیرآباد کلاف کارخانه",
-      "col_1": "1405/6/12",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 5.5 ابهر کلاف کارخانه",
-      "col_1": "1405/6/12",
       "price_strrr": "83,640",
-      "price_nummm": 83640,
-      "col_3": "+ 0.5%",
-      "col_4": ""
+      "price_nummm": 83640
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.5%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 ابهر کلاف کارخانه",
-      "col_1": "1405/6/12",
       "price_strrr": "82,730",
-      "price_nummm": 82730,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 82730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 5.5 کاشان کلاف کارخانه",
-      "col_1": "1405/6/12",
       "price_strrr": "82,730",
-      "price_nummm": 82730,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 82730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 کاشان کلاف کارخانه",
-      "col_1": "1405/6/12",
       "price_strrr": "82,730",
-      "price_nummm": 82730,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 82730
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 امیرآباد کلاف بنگاه تهران",
-      "col_1": "1405/6/12",
       "price_strrr": "78,180",
-      "price_nummm": 78180,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 78180
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 ملایر کلاف تهران",
-      "col_1": "1405/6/12",
       "price_strrr": "79,270",
-      "price_nummm": 79270,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 79270
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 نطنز کلاف کارخانه",
-      "col_1": "1405/6/12",
       "price_strrr": "77,550",
-      "price_nummm": 77550,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 77550
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد حرارتی",
-        "update_labelll": ""
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
       },
       "titleee": "میلگرد ساده 6.5 نطنز کلاف تهران",
-      "col_1": "1405/6/12",
       "price_strrr": "79,270",
-      "price_nummm": 79270,
-      "col_3": "+ 0.6%",
-      "col_4": ""
+      "price_nummm": 79270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کلاف",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات : +0.6%",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
