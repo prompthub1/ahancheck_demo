@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A8%D8%B4%DB%8C/",
-  "scraped_attt": "2026-09-05T09:56:43.748Z",
+  "scraped_attt": "2026-09-05T10:26:42.721Z",
   "headersss": [
     "سایز",
     "ضخامت",
@@ -1391,6 +1391,32 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "نستا",
+        "update_labelll": "|"
+      },
+      "sizeee": "40*40",
+      "col_1": "4",
+      "col_2": "6متری سبک",
+      "unittt": "کیلوگرم",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "86,360",
+      "price_nummm": 86360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نستا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "ابهر",
         "update_labelll": "|"
       },
@@ -1720,32 +1746,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/6/14 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نستا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "40*40",
-      "col_1": "4",
-      "col_2": "6متری سبک",
-      "unittt": "کیلوگرم",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "86,360",
-      "price_nummm": 86360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نستا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/12 نمودار نوسانات :",
       "col_1": "",
       "col_2": "",
       "unittt": "",
