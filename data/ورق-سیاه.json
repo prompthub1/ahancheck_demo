@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-09-06T09:56:55.948Z",
+  "scraped_attt": "2026-09-06T10:26:53.899Z",
   "headersss": [
     "سایز",
     "برند",
@@ -193,6 +193,30 @@
     {
       "group_infooo": {
         "category_nameee": "4",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/15 نمودار نوسانات : +1.5%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "5",
+        "update_labelll": "|"
+      },
+      "sizeee": "6000*1500",
+      "col_1": "فولاد مبارکه",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "123,640",
+      "price_nummm": 123640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "5",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/6/15 نمودار نوسانات : +1.5%",
@@ -796,30 +820,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/6/14 نمودار نوسانات : +3.9%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "5",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6000*1500",
-      "col_1": "فولاد مبارکه",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "121,820",
-      "price_nummm": 121820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "5",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/14 نمودار نوسانات : +3.5%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
