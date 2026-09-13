@@ -1,230 +1,152 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
-  "scraped_attt": "2026-09-13T08:59:26.075Z",
+  "scraped_attt": "2026-09-13T09:29:30.790Z",
   "headersss": [
     "ضخامت",
     "عرض",
     "محل تحویل",
     "واحد",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "تاراز",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره تاراز",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "194,910",
-      "price_nummm": 194910
+      "price_nummm": 194910,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "تاراز",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره شهرکرد",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "194,910",
-      "price_nummm": 194910
+      "price_nummm": 194910,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "شهرکرد",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره کاشان",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "197,640",
-      "price_nummm": 197640
+      "price_nummm": 197640,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "205,910",
-      "price_nummm": 205910
+      "price_nummm": 205910,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "205,450",
-      "price_nummm": 205450
+      "price_nummm": 205450,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "206,360",
-      "price_nummm": 206360
+      "price_nummm": 206360,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "194,180",
-      "price_nummm": 194180
+      "price_nummm": 194180,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "روی اندود",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره روی اندود",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "193,360",
-      "price_nummm": 193360
+      "price_nummm": 193360,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "روی اندود",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دشتستان",
-        "update_labelll": "|"
+        "category_nameee": "ورق کرکره دشتستان",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
+      "col_4": "1405/6/22",
       "price_strrr": "193,270",
-      "price_nummm": 193270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دشتستان",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 193270,
+      "col_6": "+ 0.9%",
+      "col_7": ""
     }
   ]
 }
