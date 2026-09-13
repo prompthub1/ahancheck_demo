@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سیاه/",
-  "scraped_attt": "2026-09-13T20:56:54.487Z",
+  "scraped_attt": "2026-09-13T21:26:53.107Z",
   "headersss": [
     "سایز",
     "برند",
@@ -1719,30 +1719,6 @@
         "category_nameee": "20",
         "update_labelll": "|"
       },
-      "sizeee": "1500*6000",
-      "col_1": "خرم آباد",
-      "col_2": "6 متری",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "99,090",
-      "price_nummm": 99090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +4.8%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "20",
-        "update_labelll": "|"
-      },
       "sizeee": "12000*2000",
       "col_1": "اکسین اهواز",
       "col_2": "فابریک",
@@ -2031,30 +2007,6 @@
         "category_nameee": "25",
         "update_labelll": "|"
       },
-      "sizeee": "1500*6000",
-      "col_1": "خرم آباد",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "98,180",
-      "price_nummm": 98180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +3.8%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "25",
-        "update_labelll": "|"
-      },
       "sizeee": "6000*1250",
       "col_1": "کاویان",
       "col_2": "فابریک",
@@ -2260,30 +2212,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
-      },
-      "sizeee": "1500*6000",
-      "col_1": "خرم آباد",
-      "col_2": "فابریک",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "98,190",
-      "price_nummm": 98190
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "30",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +3.8%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -2932,6 +2860,78 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/6/21 نمودار نوسانات : +5.6%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "20",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1500*6000",
+      "col_1": "خرم آباد",
+      "col_2": "6 متری",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "99,090",
+      "price_nummm": 99090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "20",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +4.8%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "25",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1500*6000",
+      "col_1": "خرم آباد",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "98,180",
+      "price_nummm": 98180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "25",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +3.8%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "30",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "1500*6000",
+      "col_1": "خرم آباد",
+      "col_2": "فابریک",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "98,190",
+      "price_nummm": 98190
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "30",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +3.8%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
