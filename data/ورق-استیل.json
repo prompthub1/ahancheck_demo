@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-09-14T06:57:11.170Z",
+  "scraped_attt": "2026-09-14T07:27:01.361Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -17,6 +17,58 @@
         "update_labelll": "|"
       },
       "col_0": "1",
+      "sizeee": "1500",
+      "col_2": "304L",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "831,820",
+      "price_nummm": 831820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "sizeee": "1250",
+      "col_2": "304L",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "831,820",
+      "price_nummm": 831820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
       "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
@@ -120,20 +172,20 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "1",
-      "sizeee": "1500",
+      "col_0": "1.25",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "831,820",
-      "price_nummm": 831820
+      "price_strrr": "859,320",
+      "price_nummm": 859320
     },
     {
       "group_infooo": {
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +24.5%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -146,20 +198,20 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "1",
+      "col_0": "1.25",
       "sizeee": "1250",
       "col_2": "304L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "831,820",
-      "price_nummm": 831820
+      "price_strrr": "854,550",
+      "price_nummm": 854550
     },
     {
       "group_infooo": {
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +24.5%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -250,34 +302,8 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "1.25",
-      "sizeee": "1500*3000",
-      "col_2": "304L",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "859,320",
-      "price_nummm": 859320
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "1.25",
-      "sizeee": "1250",
+      "col_0": "1.5",
+      "sizeee": "1000",
       "col_2": "304L",
       "col_3": "رول",
       "unittt": "کیلوگرم",
@@ -289,7 +315,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -406,58 +432,6 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "1.5",
-      "sizeee": "1000",
-      "col_2": "304L",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "854,550",
-      "price_nummm": 854550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "2",
-      "sizeee": "1000",
-      "col_2": "304L",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "836,360",
-      "price_nummm": 836360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
       "col_0": "2",
       "sizeee": "1500",
       "col_2": "304L",
@@ -471,7 +445,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -497,7 +471,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -523,7 +497,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -549,7 +523,33 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "2",
+      "sizeee": "1000",
+      "col_2": "304L",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "836,360",
+      "price_nummm": 836360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -575,7 +575,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -601,7 +601,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -627,7 +627,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -653,7 +653,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -679,7 +679,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -705,7 +705,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -731,7 +731,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -757,7 +757,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -783,7 +783,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -809,7 +809,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -824,6 +824,32 @@
       },
       "col_0": "3",
       "sizeee": "1250*2500",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "841,360",
+      "price_nummm": 841360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "3",
+      "sizeee": "1000*2000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -861,7 +887,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -887,7 +913,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -913,7 +939,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -939,7 +965,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -965,7 +991,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -991,7 +1017,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1017,7 +1043,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.1%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1043,7 +1069,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1069,7 +1095,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1095,7 +1121,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1121,7 +1147,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1147,7 +1173,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1173,7 +1199,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.1%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1199,7 +1225,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1225,7 +1251,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1251,7 +1277,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1277,7 +1303,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1303,7 +1329,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1329,33 +1355,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.1%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "6",
-      "sizeee": "1250",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "836,360",
-      "price_nummm": 836360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1381,7 +1381,33 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.1%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "6",
+      "sizeee": "1250",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "836,360",
+      "price_nummm": 836360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1407,7 +1433,33 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "8",
+      "sizeee": "1500*3000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "841,140",
+      "price_nummm": 841140
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1433,33 +1485,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "8",
-      "sizeee": "1500*3000",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "841,140",
-      "price_nummm": 841140
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1485,7 +1511,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1511,7 +1537,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1537,7 +1563,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.1%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1557,110 +1583,6 @@
       "unittt": "کیلوگرم",
       "price_strrr": "836,360",
       "price_nummm": 836360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.2%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "10",
-      "sizeee": "1500*6000",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "845,680",
-      "price_nummm": 845680
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "10",
-      "sizeee": "1500*3000",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "845,680",
-      "price_nummm": 845680
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "10",
-      "sizeee": "1250*2500",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "845,680",
-      "price_nummm": 845680
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "|"
-      },
-      "col_0": "10",
-      "sizeee": "1000*2000",
-      "col_2": "304L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "845,680",
-      "price_nummm": 845680
     },
     {
       "group_infooo": {
@@ -1693,7 +1615,111 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +8.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "10",
+      "sizeee": "1500*6000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "845,680",
+      "price_nummm": 845680
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "10",
+      "sizeee": "1500*3000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "845,680",
+      "price_nummm": 845680
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "10",
+      "sizeee": "1250*2500",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "845,680",
+      "price_nummm": 845680
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "10",
+      "sizeee": "1000*2000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "845,680",
+      "price_nummm": 845680
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -1765,6 +1791,32 @@
       "unittt": "کیلوگرم",
       "price_strrr": "845,680",
       "price_nummm": 845680
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "15",
+      "sizeee": "1500*3000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "854,770",
+      "price_nummm": 854770
     },
     {
       "group_infooo": {
@@ -1837,6 +1889,32 @@
         "update_labelll": "|"
       },
       "col_0": "20",
+      "sizeee": "1500*6000",
+      "col_2": "304L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "870,000",
+      "price_nummm": 870000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "304L",
+        "update_labelll": "|"
+      },
+      "col_0": "20",
       "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
@@ -1849,7 +1927,7 @@
         "category_nameee": "304L",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +7.3%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -2721,7 +2799,7 @@
         "update_labelll": "|"
       },
       "col_0": "6",
-      "sizeee": "1500*6000",
+      "sizeee": "1500*3000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -2747,7 +2825,7 @@
         "update_labelll": "|"
       },
       "col_0": "6",
-      "sizeee": "1500*3000",
+      "sizeee": "1500*6000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -3315,23 +3393,75 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "امروز"
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "1.5",
+      "sizeee": "1500*3000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "1.5",
+      "sizeee": "1250*2500",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
       },
       "col_0": "3",
       "sizeee": "1000*2000",
-      "col_2": "304L",
+      "col_2": "321",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "777,730",
-      "price_nummm": 777730
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
     },
     {
       "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "امروز"
+        "category_nameee": "321",
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -3341,23 +3471,23 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "امروز"
+        "category_nameee": "321",
+        "update_labelll": "|"
       },
-      "col_0": "15",
-      "sizeee": "1500*3000",
-      "col_2": "304L",
+      "col_0": "5",
+      "sizeee": "1500*6000",
+      "col_2": "321",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "854,770",
-      "price_nummm": 854770
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
     },
     {
       "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "امروز"
+        "category_nameee": "321",
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -3367,23 +3497,1375 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "امروز"
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "5",
+      "sizeee": "1000*2000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "6",
+      "sizeee": "1500*6000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "8",
+      "sizeee": "1500*6000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "10",
+      "sizeee": "1500*6000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "12",
+      "sizeee": "1500*6000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,074,090",
+      "price_nummm": 1074090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "14",
+      "sizeee": "1500*6000",
+      "col_2": "321",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "321",
+        "update_labelll": "|"
       },
       "col_0": "20",
       "sizeee": "1500*6000",
-      "col_2": "304L",
+      "col_2": "321",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "870,000",
-      "price_nummm": 870000
+      "price_strrr": "1,007,270",
+      "price_nummm": 1007270
     },
     {
       "group_infooo": {
-        "category_nameee": "304L",
-        "update_labelll": "امروز"
+        "category_nameee": "321",
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "2",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,930",
+      "price_nummm": 608930
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.5",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,600",
+      "price_nummm": 609600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.5",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,550",
+      "price_nummm": 608550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.2",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,550",
+      "price_nummm": 608550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.2",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,600",
+      "price_nummm": 609600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "611,130",
+      "price_nummm": 611130
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,030",
+      "price_nummm": 609030
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,450",
+      "price_nummm": 608450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "610,270",
+      "price_nummm": 610270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.7",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,450",
+      "price_nummm": 608450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.6",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,450",
+      "price_nummm": 608450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.6",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "610,270",
+      "price_nummm": 610270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,550",
+      "price_nummm": 608550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,310",
+      "price_nummm": 609310
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.4",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,550",
+      "price_nummm": 608550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.3",
+      "sizeee": "عرض 1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,310",
+      "price_nummm": 609310
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.3",
+      "sizeee": "عرض 1250",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,550",
+      "price_nummm": 608550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.3",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,740",
+      "price_nummm": 609740
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.3",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "612,410",
+      "price_nummm": 612410
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.4",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,740",
+      "price_nummm": 609740
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.4",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "615,280",
+      "price_nummm": 615280
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.4",
+      "sizeee": "1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "606,590",
+      "price_nummm": 606590
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "sizeee": "1250",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,550",
+      "price_nummm": 608550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,740",
+      "price_nummm": 609740
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.5",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "615,280",
+      "price_nummm": 615280
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.6",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,690",
+      "price_nummm": 608690
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.6",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "615,280",
+      "price_nummm": 615280
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.6",
+      "sizeee": "1220*2440",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,690",
+      "price_nummm": 608690
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.7",
+      "sizeee": "1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "610,410",
+      "price_nummm": 610410
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.7",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,600",
+      "price_nummm": 608600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.7",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,690",
+      "price_nummm": 608690
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,690",
+      "price_nummm": 608690
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "608,600",
+      "price_nummm": 608600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "استیل",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,310",
+      "price_nummm": 609310
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "614,990",
+      "price_nummm": 614990
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.2",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,740",
+      "price_nummm": 609740
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.2",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "615,560",
+      "price_nummm": 615560
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.5",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,740",
+      "price_nummm": 609740
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "1.5",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "615,560",
+      "price_nummm": 615560
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "2",
+      "sizeee": "1250*2500",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "610,120",
+      "price_nummm": 610120
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "2",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "610,120",
+      "price_nummm": 610120
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "2",
+      "sizeee": "1000",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "609,070",
+      "price_nummm": 609070
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "2",
+      "sizeee": "1220*2440",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "610,120",
+      "price_nummm": 610120
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "3",
+      "sizeee": "1500*3000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "634,080",
+      "price_nummm": 634080
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "3",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "631,980",
+      "price_nummm": 631980
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "3",
+      "sizeee": "1500",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "627,210",
+      "price_nummm": 627210
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -3410,1488 +4892,6 @@
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "sizeee": "1500*3000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "sizeee": "1250*2500",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "3",
-      "sizeee": "1000*2000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "5",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "5",
-      "sizeee": "1000*2000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "6",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "8",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "10",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "12",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,074,090",
-      "price_nummm": 1074090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "14",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "20",
-      "sizeee": "1500*6000",
-      "col_2": "321",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,007,270",
-      "price_nummm": 1007270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "321",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,600",
-      "price_nummm": 609600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,550",
-      "price_nummm": 608550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.2",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,550",
-      "price_nummm": 608550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.2",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,600",
-      "price_nummm": 609600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "611,130",
-      "price_nummm": 611130
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,030",
-      "price_nummm": 609030
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,450",
-      "price_nummm": 608450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "610,270",
-      "price_nummm": 610270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.7",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,450",
-      "price_nummm": 608450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,450",
-      "price_nummm": 608450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "610,270",
-      "price_nummm": 610270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,550",
-      "price_nummm": 608550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,310",
-      "price_nummm": 609310
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.4",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,550",
-      "price_nummm": 608550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.3",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,550",
-      "price_nummm": 608550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.3",
-      "sizeee": "عرض 1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,310",
-      "price_nummm": 609310
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "sizeee": "عرض 1250",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,930",
-      "price_nummm": 608930
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/21 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.3",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,740",
-      "price_nummm": 609740
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.3",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "612,410",
-      "price_nummm": 612410
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.4",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,740",
-      "price_nummm": 609740
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.4",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "615,280",
-      "price_nummm": 615280
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.4",
-      "sizeee": "1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "606,590",
-      "price_nummm": 606590
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "sizeee": "1250",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,550",
-      "price_nummm": 608550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,740",
-      "price_nummm": 609740
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.5",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "615,280",
-      "price_nummm": 615280
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,690",
-      "price_nummm": 608690
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "615,280",
-      "price_nummm": 615280
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.6",
-      "sizeee": "1220*2440",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,690",
-      "price_nummm": 608690
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.7",
-      "sizeee": "1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "610,410",
-      "price_nummm": 610410
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.7",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,600",
-      "price_nummm": 608600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.7",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,690",
-      "price_nummm": 608690
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,690",
-      "price_nummm": 608690
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "608,600",
-      "price_nummm": 608600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "استیل",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,310",
-      "price_nummm": 609310
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "614,990",
-      "price_nummm": 614990
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.2",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,740",
-      "price_nummm": 609740
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.2",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "615,560",
-      "price_nummm": 615560
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,740",
-      "price_nummm": 609740
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.5",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "615,560",
-      "price_nummm": 615560
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "610,120",
-      "price_nummm": 610120
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "sizeee": "1000",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "609,070",
-      "price_nummm": 609070
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "sizeee": "1220*2440",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "610,120",
-      "price_nummm": 610120
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/22 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "2",
-      "sizeee": "1250*2500",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "610,120",
-      "price_nummm": 610120
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/21 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "3",
-      "sizeee": "1500*3000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "634,080",
-      "price_nummm": 634080
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/21 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "3",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "631,980",
-      "price_nummm": 631980
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/21 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "3",
-      "sizeee": "1500",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "627,210",
-      "price_nummm": 627210
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/21 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
