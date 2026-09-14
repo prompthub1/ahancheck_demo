@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-09-14T11:56:22.388Z",
+  "scraped_attt": "2026-09-14T12:26:17.780Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -3484,32 +3484,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "میلگرد ذوب آهن اصفهان",
-        "update_labelll": ""
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "86,820",
-      "price_nummm": 86820,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "میلگرد امیرکبیر",
-        "update_labelll": ""
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "87,910",
-      "price_nummm": 87910,
-      "col_4": "0.0%",
-      "col_5": ""
-    },
-    {
-      "group_infooo": {
         "category_nameee": "میلگرد پرشین فولاد",
         "update_labelll": ""
       },
@@ -3635,6 +3609,32 @@
       "col_2": "کارخانه",
       "price_strrr": "86,770",
       "price_nummm": 86770,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد ذوب آهن اصفهان",
+        "update_labelll": ""
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "86,820",
+      "price_nummm": 86820,
+      "col_4": "0.0%",
+      "col_5": ""
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "میلگرد امیرکبیر",
+        "update_labelll": ""
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "87,910",
+      "price_nummm": 87910,
       "col_4": "0.0%",
       "col_5": ""
     },
