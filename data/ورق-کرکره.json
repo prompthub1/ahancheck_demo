@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-کرکره/",
-  "scraped_attt": "2026-09-19T07:27:45.989Z",
+  "scraped_attt": "2026-09-19T07:57:40.408Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -13,21 +13,21 @@
     {
       "group_infooo": {
         "category_nameee": "تاراز",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "187,640",
-      "price_nummm": 187640
+      "price_strrr": "189,450",
+      "price_nummm": 189450
     },
     {
       "group_infooo": {
         "category_nameee": "تاراز",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -37,21 +37,21 @@
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "187,640",
-      "price_nummm": 187640
+      "price_strrr": "189,450",
+      "price_nummm": 189450
     },
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -61,21 +61,21 @@
     {
       "group_infooo": {
         "category_nameee": "کاشان",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "188,550",
-      "price_nummm": 188550
+      "price_strrr": "193,090",
+      "price_nummm": 193090
     },
     {
       "group_infooo": {
         "category_nameee": "کاشان",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +2.4%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -85,93 +85,93 @@
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "213,180",
+      "price_nummm": 213180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +0.9%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "212,730",
+      "price_nummm": 212730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +0.9%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "213,640",
+      "price_nummm": 213640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +0.9%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "186,910",
-      "price_nummm": 186910
+      "price_strrr": "188,730",
+      "price_nummm": 188730
     },
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "211,360",
-      "price_nummm": 211360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "210,910",
-      "price_nummm": 210910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "211,820",
-      "price_nummm": 211820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -181,21 +181,21 @@
     {
       "group_infooo": {
         "category_nameee": "روی اندود",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "186,090",
-      "price_nummm": 186090
+      "price_strrr": "187,910",
+      "price_nummm": 187910
     },
     {
       "group_infooo": {
         "category_nameee": "روی اندود",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -205,21 +205,21 @@
     {
       "group_infooo": {
         "category_nameee": "دشتستان",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "بنگاه تهران",
       "unittt": "کیلوگرم",
-      "price_strrr": "186,000",
-      "price_nummm": 186000
+      "price_strrr": "187,820",
+      "price_nummm": 187820
     },
     {
       "group_infooo": {
         "category_nameee": "دشتستان",
-        "update_labelll": "امروز"
+        "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/6/26 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/6/28 نمودار نوسانات : +1.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
