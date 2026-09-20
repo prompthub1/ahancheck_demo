@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-09-20T07:57:01.338Z",
+  "scraped_attt": "2026-09-20T08:27:15.716Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -875,7 +875,7 @@
         "update_labelll": "|"
       },
       "col_0": "4",
-      "sizeee": "1500*6000",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -901,7 +901,7 @@
         "update_labelll": "|"
       },
       "col_0": "4",
-      "sizeee": "1500*3000",
+      "sizeee": "1500*6000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -1265,12 +1265,12 @@
         "update_labelll": "|"
       },
       "col_0": "6",
-      "sizeee": "1500",
+      "sizeee": "1500*3000",
       "col_2": "304L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "836,360",
-      "price_nummm": 836360
+      "price_strrr": "841,140",
+      "price_nummm": 841140
     },
     {
       "group_infooo": {
@@ -1291,12 +1291,12 @@
         "update_labelll": "|"
       },
       "col_0": "6",
-      "sizeee": "1500*3000",
+      "sizeee": "1500",
       "col_2": "304L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
-      "price_strrr": "841,140",
-      "price_nummm": 841140
+      "price_strrr": "836,360",
+      "price_nummm": 836360
     },
     {
       "group_infooo": {
@@ -1941,9 +1941,9 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1250",
+      "sizeee": "1250*2500",
       "col_2": "316L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
       "price_strrr": "1,345,450",
       "price_nummm": 1345450
@@ -1967,9 +1967,9 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1250*2500",
+      "sizeee": "1250",
       "col_2": "316L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
       "price_strrr": "1,345,450",
       "price_nummm": 1345450
@@ -2279,7 +2279,7 @@
         "update_labelll": "|"
       },
       "col_0": "2.5",
-      "sizeee": "1000*2000",
+      "sizeee": "1500*3000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -2305,7 +2305,7 @@
         "update_labelll": "|"
       },
       "col_0": "2.5",
-      "sizeee": "1500*3000",
+      "sizeee": "1000*2000",
       "col_2": "316L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
