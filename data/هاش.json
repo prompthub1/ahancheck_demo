@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-09-21T09:27:20.634Z",
+  "scraped_attt": "2026-09-21T09:56:52.124Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -185,6 +185,34 @@
         "category_nameee": "HEA",
         "update_labelll": "|"
       },
+      "sizeee": "30",
+      "col_1": "HEA",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "265,450",
+      "price_nummm": 265450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
       "sizeee": "32",
       "col_1": "HEA",
       "col_2": "شاخه 12 متری",
@@ -249,6 +277,34 @@
       "unittt": "کیلوگرم",
       "price_strrr": "272,730",
       "price_nummm": 272730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEA",
+        "update_labelll": "|"
+      },
+      "sizeee": "55",
+      "col_1": "HEA",
+      "col_2": "12 متری",
+      "col_3": "ترک-کره",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "281,820",
+      "price_nummm": 281820
     },
     {
       "group_infooo": {
@@ -493,6 +549,90 @@
         "category_nameee": "HEB",
         "update_labelll": "|"
       },
+      "sizeee": "26",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "264,730",
+      "price_nummm": 264730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "30",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "ذوب آهن",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "255,270",
+      "price_nummm": 255270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "30",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "262,840",
+      "price_nummm": 262840
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
       "sizeee": "32",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
@@ -522,6 +662,34 @@
         "update_labelll": "|"
       },
       "sizeee": "34",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "272,730",
+      "price_nummm": 272730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/6/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "36",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
       "col_3": "وارداتی",
@@ -630,62 +798,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "30",
-      "col_1": "HEA",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "265,450",
-      "price_nummm": 265450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "55",
-      "col_1": "HEA",
-      "col_2": "12 متری",
-      "col_3": "ترک-کره",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "281,820",
-      "price_nummm": 281820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEA",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "HEB",
         "update_labelll": "امروز"
       },
@@ -697,118 +809,6 @@
       "unittt": "کیلوگرم",
       "price_strrr": "265,450",
       "price_nummm": 265450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "26",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "264,730",
-      "price_nummm": 264730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "30",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "255,270",
-      "price_nummm": 255270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "30",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "262,840",
-      "price_nummm": 262840
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "36",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "272,730",
-      "price_nummm": 272730
     },
     {
       "group_infooo": {
