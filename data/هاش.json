@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-09-23T08:56:58.251Z",
+  "scraped_attt": "2026-09-23T09:27:01.843Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -549,6 +549,34 @@
         "category_nameee": "HEB",
         "update_labelll": "|"
       },
+      "sizeee": "24",
+      "col_1": "HEB",
+      "col_2": "شاخه 12 متری",
+      "col_3": "وارداتی",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "281,820",
+      "price_nummm": 281820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/1 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
       "sizeee": "26",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
@@ -580,7 +608,7 @@
       "sizeee": "30",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
-      "col_3": "ذوب آهن",
+      "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
       "price_strrr": "245,450",
@@ -608,7 +636,7 @@
       "sizeee": "30",
       "col_1": "HEB",
       "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
+      "col_3": "ذوب آهن",
       "col_4": "بنگاه تهران",
       "unittt": "کیلوگرم",
       "price_strrr": "245,450",
@@ -788,34 +816,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/1 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "24",
-      "col_1": "HEB",
-      "col_2": "شاخه 12 متری",
-      "col_3": "وارداتی",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "245,450",
-      "price_nummm": 245450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/31 نمودار نوسانات : -13.5%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
