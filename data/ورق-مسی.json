@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-مسی/",
-  "scraped_attt": "2026-09-23T23:27:18.985Z",
+  "scraped_attt": "2026-09-23T23:57:15.649Z",
   "headersss": [
     "ضخامت",
     "سایز",
@@ -13,7 +13,7 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "0.7",
       "sizeee": "660*2000",
@@ -25,31 +25,7 @@
     {
       "group_infooo": {
         "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/1 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "col_0": "3",
-      "sizeee": "660*2000",
-      "col_2": "باهنر",
-      "col_3": "شیت",
-      "price_strrr": "3,057,610",
-      "price_nummm": 3057610
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/1 نمودار نوسانات : +0.0%",
       "sizeee": "",
@@ -112,6 +88,30 @@
         "update_labelll": "امروز"
       },
       "col_0": "5",
+      "sizeee": "660*2000",
+      "col_2": "باهنر",
+      "col_3": "شیت",
+      "price_strrr": "3,057,610",
+      "price_nummm": 3057610
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/1 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "بنگاه تهران",
+        "update_labelll": "امروز"
+      },
+      "col_0": "3",
       "sizeee": "660*2000",
       "col_2": "باهنر",
       "col_3": "شیت",
