@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-09-26T21:27:03.116Z",
+  "scraped_attt": "2026-09-26T21:56:58.149Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -11,84 +11,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "|"
-      },
-      "col_0": "3",
-      "sizeee": "1500*3000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "906,810",
-      "price_nummm": 906810
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "|"
-      },
-      "col_0": "3",
-      "sizeee": "1000*2000",
-      "col_2": "430",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "904,710",
-      "price_nummm": 904710
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "|"
-      },
-      "col_0": "3",
-      "sizeee": "1500",
-      "col_2": "430",
-      "col_3": "رول",
-      "unittt": "کیلوگرم",
-      "price_strrr": "899,940",
-      "price_nummm": 899940
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "430",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "304L",
@@ -4885,6 +4807,84 @@
       "unittt": "کیلوگرم",
       "price_strrr": "882,850",
       "price_nummm": 882850
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "3",
+      "sizeee": "1500*3000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "906,810",
+      "price_nummm": 906810
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "3",
+      "sizeee": "1000*2000",
+      "col_2": "430",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "904,710",
+      "price_nummm": 904710
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "430",
+        "update_labelll": "امروز"
+      },
+      "col_0": "3",
+      "sizeee": "1500",
+      "col_2": "430",
+      "col_3": "رول",
+      "unittt": "کیلوگرم",
+      "price_strrr": "899,940",
+      "price_nummm": 899940
     },
     {
       "group_infooo": {
