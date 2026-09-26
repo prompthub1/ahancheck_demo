@@ -1,614 +1,392 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پلی-کربنات/",
-  "scraped_attt": "2026-09-26T11:28:39.825Z",
+  "scraped_attt": "2026-09-26T11:57:52.404Z",
   "headersss": [
     "سایز",
     "ضخامت(mm)",
     "محل انبار",
     "واحد",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات دو جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "8",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "22,317,270",
-      "price_nummm": 22317270
+      "price_nummm": 22317270,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات دو جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "10",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "24,590,000",
-      "price_nummm": 24590000
+      "price_nummm": 24590000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات دو جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "20,953,640",
-      "price_nummm": 20953640
+      "price_nummm": 20953640,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات دو جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "17,680,910",
-      "price_nummm": 17680910
+      "price_nummm": 17680910,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سه جداره (زنبوری)",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "8",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "24,135,450",
-      "price_nummm": 24135450
+      "price_nummm": 24135450,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سه جداره (زنبوری)",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "22,135,450",
-      "price_nummm": 22135450
+      "price_nummm": 22135450,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سه جداره (زنبوری)",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "10",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "27,044,550",
-      "price_nummm": 27044550
+      "price_nummm": 27044550,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سه جداره (زنبوری)",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "10",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "29,226,360",
-      "price_nummm": 29226360
+      "price_nummm": 29226360,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سه جداره (زنبوری)",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "8",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "27,317,270",
-      "price_nummm": 27317270
+      "price_nummm": 27317270,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات چهار جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "12",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "35,499,090",
-      "price_nummm": 35499090
+      "price_nummm": 35499090,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات چهار جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "16",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "43,135,450",
-      "price_nummm": 43135450
+      "price_nummm": 43135450,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات چهار جداره",
+        "update_labelll": ""
       },
       "sizeee": "6*2.10",
       "col_1": "14",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "40,044,550",
-      "price_nummm": 40044550
+      "price_nummm": 40044550,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "47,317,270",
-      "price_nummm": 47317270
+      "price_nummm": 47317270,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "12",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "69,135,450",
-      "price_nummm": 69135450
+      "price_nummm": 69135450,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "2",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "24,680,910",
-      "price_nummm": 24680910
+      "price_nummm": 24680910,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "10",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "69,590,000",
-      "price_nummm": 69590000
+      "price_nummm": 69590000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "4",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "35,226,360",
-      "price_nummm": 35226360
+      "price_nummm": 35226360,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "8",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "59,590,000",
-      "price_nummm": 59590000
+      "price_nummm": 59590000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات صاف",
+        "update_labelll": ""
       },
       "sizeee": "3.05*2.05",
       "col_1": "3",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "27,771,820",
-      "price_nummm": 27771820
+      "price_nummm": 27771820,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سینوسی",
+        "update_labelll": ""
       },
       "sizeee": "6.2*1.25",
       "col_1": "4",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "17,680,910",
-      "price_nummm": 17680910
+      "price_nummm": 17680910,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سینوسی",
+        "update_labelll": ""
       },
       "sizeee": "6.2*1.25",
       "col_1": "8",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "37,771,820",
-      "price_nummm": 37771820
+      "price_nummm": 37771820,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات سینوسی",
+        "update_labelll": ""
       },
       "sizeee": "6.2*1.25",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "30,953,640",
-      "price_nummm": 30953640
+      "price_nummm": 30953640,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات ذوزنقه",
+        "update_labelll": ""
       },
       "sizeee": "6.2*1.25",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "24,590,000",
-      "price_nummm": 24590000
+      "price_nummm": 24590000,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات ذوزنقه",
+        "update_labelll": ""
       },
       "sizeee": "6.2*1.25",
       "col_1": "4",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "17,199,090",
-      "price_nummm": 17199090
+      "price_nummm": 17199090,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "ورق پلی کربنات ذوزنقه",
+        "update_labelll": ""
       },
       "sizeee": "6.2*1.25",
       "col_1": "8",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
+      "col_4": "1405/7/4",
       "price_strrr": "30,499,090",
-      "price_nummm": 30499090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 30499090,
+      "col_6": "0.0%",
+      "col_7": ""
     },
     {
       "group_infooo": {
