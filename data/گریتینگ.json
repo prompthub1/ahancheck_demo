@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/گریتینگ/",
-  "scraped_attt": "2026-09-29T05:57:45.397Z",
+  "scraped_attt": "2026-09-29T06:27:29.521Z",
   "headersss": [
     "نام کالا",
     "حالت",
@@ -36,8 +36,8 @@
         "category_nameee": "گریتینگ گالوانیزه",
         "update_labelll": "|"
       },
-      "titleee": "گریتینگ گالوانیزه تسمه * نیم تسمه",
-      "col_1": "تسمه*نیم تسمه",
+      "titleee": "گریتینگ گالوانیزه تسمه * میلگرد",
+      "col_1": "تسمه*میلگرد",
       "col_2": "کارخانه",
       "price_strrr": "220,850",
       "price_nummm": 220850
@@ -58,8 +58,8 @@
         "category_nameee": "گریتینگ گالوانیزه",
         "update_labelll": "|"
       },
-      "titleee": "گریتینگ گالوانیزه تسمه * میلگرد",
-      "col_1": "تسمه*میلگرد",
+      "titleee": "گریتینگ گالوانیزه تسمه * نیم تسمه",
+      "col_1": "تسمه*نیم تسمه",
       "col_2": "کارخانه",
       "price_strrr": "220,850",
       "price_nummm": 220850
@@ -187,6 +187,50 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "گریتینگ پله",
+        "update_labelll": "|"
+      },
+      "titleee": "گریتینگ پله تسمه * نیم تسمه",
+      "col_1": "تسمه*نیم تسمه",
+      "col_2": "کارخانه",
+      "price_strrr": "220,940",
+      "price_nummm": 220940
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "گریتینگ پله",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "گریتینگ پله",
+        "update_labelll": "|"
+      },
+      "titleee": "گریتینگ پله تسمه * تسمه",
+      "col_1": "تسمه*تسمه",
+      "col_2": "کارخانه",
+      "price_strrr": "220,940",
+      "price_nummm": 220940
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "گریتینگ پله",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "گریتینگ استنلس استیل",
         "update_labelll": "|"
       },
@@ -202,50 +246,6 @@
         "update_labelll": "|"
       },
       "titleee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "گریتینگ پله",
-        "update_labelll": "امروز"
-      },
-      "titleee": "گریتینگ پله تسمه * نیم تسمه",
-      "col_1": "تسمه*نیم تسمه",
-      "col_2": "کارخانه",
-      "price_strrr": "220,940",
-      "price_nummm": 220940
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "گریتینگ پله",
-        "update_labelll": "امروز"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "گریتینگ پله",
-        "update_labelll": "امروز"
-      },
-      "titleee": "گریتینگ پله تسمه * تسمه",
-      "col_1": "تسمه*تسمه",
-      "col_2": "کارخانه",
-      "price_strrr": "220,940",
-      "price_nummm": 220940
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "گریتینگ پله",
-        "update_labelll": "امروز"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/6 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
