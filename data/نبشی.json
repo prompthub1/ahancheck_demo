@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A8%D8%B4%DB%8C/",
-  "scraped_attt": "2026-09-29T19:28:02.800Z",
+  "scraped_attt": "2026-09-29T19:56:48.788Z",
   "headersss": [
     "سایز",
     "ضخامت",
@@ -68,58 +68,6 @@
         "category_nameee": "آریان فولاد",
         "update_labelll": "|"
       },
-      "sizeee": "40*40",
-      "col_1": "4",
-      "col_2": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "کارخانه",
-      "price_strrr": "98,130",
-      "price_nummm": 98130
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "50*50",
-      "col_1": "4",
-      "col_2": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "کارخانه",
-      "price_strrr": "98,100",
-      "price_nummm": 98100
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
       "sizeee": "50*50",
       "col_1": "5",
       "col_2": "6 متری",
@@ -153,32 +101,6 @@
       "col_4": "کارخانه",
       "price_strrr": "98,140",
       "price_nummm": 98140
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "60*60",
-      "col_1": "5",
-      "col_2": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "کارخانه",
-      "price_strrr": "98,110",
-      "price_nummm": 98110
     },
     {
       "group_infooo": {
@@ -257,32 +179,6 @@
       "col_4": "بنگاه تهران",
       "price_strrr": "99,090",
       "price_nummm": 99090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "80*80",
-      "col_1": "8",
-      "col_2": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_4": "کارخانه",
-      "price_strrr": "98,090",
-      "price_nummm": 98090
     },
     {
       "group_infooo": {
@@ -1772,6 +1668,110 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "40*40",
+      "col_1": "4",
+      "col_2": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_4": "کارخانه",
+      "price_strrr": "98,130",
+      "price_nummm": 98130
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "50*50",
+      "col_1": "4",
+      "col_2": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_4": "کارخانه",
+      "price_strrr": "98,100",
+      "price_nummm": 98100
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "60*60",
+      "col_1": "5",
+      "col_2": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_4": "کارخانه",
+      "price_strrr": "98,110",
+      "price_nummm": 98110
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "80*80",
+      "col_1": "8",
+      "col_2": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_4": "کارخانه",
+      "price_strrr": "98,090",
+      "price_nummm": 98090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/7 نمودار نوسانات : +3.8%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
