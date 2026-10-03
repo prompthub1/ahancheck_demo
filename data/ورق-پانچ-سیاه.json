@@ -1,47 +1,62 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پانچ-سیاه/",
-  "scraped_attt": "2026-10-03T06:27:11.042Z",
+  "scraped_attt": "2026-10-03T06:57:14.339Z",
   "headersss": [
     "ضخامت (mm)",
     "کارخانه تولیدکننده",
     "ابعاد (mm)",
     "تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ورق پانچ سیاه 1000*2000",
-        "update_labelll": ""
+        "category_nameee": "2000*1000",
+        "update_labelll": "امروز"
       },
       "col_0": "2",
       "col_1": "فولاد مبارکه",
       "sizeee": "2000*1000",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/9",
       "price_strrr": "4,396,360",
-      "price_nummm": 4396360,
-      "col_6": "-5.0%",
-      "col_7": ""
+      "price_nummm": 4396360
     },
     {
       "group_infooo": {
-        "category_nameee": "ورق پانچ سیاه 1250*2500",
-        "update_labelll": ""
+        "category_nameee": "2000*1000",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/9 نمودار نوسانات : -5.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2500*1250",
+        "update_labelll": "امروز"
       },
       "col_0": "2",
       "col_1": "فولاد مبارکه",
       "sizeee": "2500*1250",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/9",
       "price_strrr": "5,740,000",
-      "price_nummm": 5740000,
-      "col_6": "-16.7%",
-      "col_7": ""
+      "price_nummm": 5740000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "2500*1250",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/9 نمودار نوسانات : -16.7%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
     },
     {
       "group_infooo": {
