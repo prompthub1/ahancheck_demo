@@ -1,737 +1,1166 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-10-03T20:57:00.425Z",
+  "scraped_attt": "2026-10-03T21:26:41.998Z",
   "headersss": [
     "سایز",
     "حالت",
     "واحد",
     "محل تحویل",
-    "تاریخ بروزرسانی",
-    "قیمت (تومان)",
-    "نوسانات",
-    "نمودار"
+    "قیمت (تومان)"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "28",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "215,610",
-      "price_nummm": 215610,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 215610
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "26",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "260,460",
-      "price_nummm": 260460,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 260460
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "8",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "111,650",
-      "price_nummm": 111650,
-      "col_6": "+ 4.2%",
-      "col_7": ""
+      "price_nummm": 111650
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +4.2%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "10",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "110,580",
-      "price_nummm": 110580,
-      "col_6": "+ 4.3%",
-      "col_7": ""
+      "price_nummm": 110580
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +4.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "110,070",
-      "price_nummm": 110070,
-      "col_6": "+ 4.3%",
-      "col_7": ""
+      "price_nummm": 110070
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +4.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "111,590",
-      "price_nummm": 111590,
-      "col_6": "+ 5.1%",
-      "col_7": ""
+      "price_nummm": 111590
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +5.1%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "110,610",
-      "price_nummm": 110610,
-      "col_6": "+ 4.3%",
-      "col_7": ""
+      "price_nummm": 110610
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +4.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "18",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "120,120",
-      "price_nummm": 120120,
-      "col_6": "+ 4.8%",
-      "col_7": ""
+      "price_nummm": 120120
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +4.8%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "20",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "138,250",
-      "price_nummm": 138250,
-      "col_6": "+ 3.4%",
-      "col_7": ""
+      "price_nummm": 138250
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +3.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "22",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "253,400",
-      "price_nummm": 253400,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 253400
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "24",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "252,210",
-      "price_nummm": 252210,
-      "col_6": "0.0%",
-      "col_7": ""
+      "price_nummm": 252210
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی هموزن اروپا",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
       },
       "sizeee": "65",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "228,710",
-      "price_nummm": 228710,
-      "col_6": "+ 1.6%",
-      "col_7": ""
+      "price_nummm": 228710
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +1.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,310",
-      "price_nummm": 102310,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102310
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "16",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102270
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102270
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102270
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "14",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102270
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102270
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صبا فولاد سمنان",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
       },
       "sizeee": "12",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "102,270",
-      "price_nummm": 102270,
-      "col_6": "+ 9.3%",
-      "col_7": ""
+      "price_nummm": 102270
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "صبا فولاد سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +9.3%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "8",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,490",
-      "price_nummm": 105490,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105490
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,490",
-      "price_nummm": 105490,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105490
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,530",
-      "price_nummm": 105530,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105530
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,530",
-      "price_nummm": 105530,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105530
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,490",
-      "price_nummm": 105490,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105490
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,490",
-      "price_nummm": 105490,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105490
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,530",
-      "price_nummm": 105530,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105530
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,500",
-      "price_nummm": 105500,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105500
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,530",
-      "price_nummm": 105530,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105530
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی ناب تبریز",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,470",
-      "price_nummm": 105470,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 105470
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "ناب تبریز",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "6",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "111,650",
-      "price_nummm": 111650,
-      "col_6": "+ 6.5%",
-      "col_7": ""
+      "price_nummm": 111650
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.5%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "6",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,450",
-      "price_nummm": 105450,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105450
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,000",
-      "price_nummm": 105000,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105000
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "112,020",
-      "price_nummm": 112020,
-      "col_6": "+ 6.5%",
-      "col_7": ""
+      "price_nummm": 112020
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.5%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,010",
-      "price_nummm": 105010,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105010
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "111,170",
-      "price_nummm": 111170,
-      "col_6": "+ 6.5%",
-      "col_7": ""
+      "price_nummm": 111170
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.5%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,010",
-      "price_nummm": 105010,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105010
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,030",
-      "price_nummm": 105030,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105030
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,000",
-      "price_nummm": 105000,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105000
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "12",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "112,630",
-      "price_nummm": 112630,
-      "col_6": "+ 6.4%",
-      "col_7": ""
+      "price_nummm": 112630
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,010",
-      "price_nummm": 105010,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105010
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,010",
-      "price_nummm": 105010,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105010
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "col_4": "1405/7/11",
       "price_strrr": "112,340",
-      "price_nummm": 112340,
-      "col_6": "+ 6.5%",
-      "col_7": ""
+      "price_nummm": 112340
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.5%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "104,610",
-      "price_nummm": 104610,
-      "col_6": "+ 5.0%",
-      "col_7": ""
+      "price_nummm": 104610
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی شکفته",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +5.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,030",
-      "price_nummm": 105030,
-      "col_6": "+ 6.9%",
-      "col_7": ""
+      "price_nummm": 105030
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی صنایع فولاد کوهپایه",
-        "update_labelll": ""
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +6.9%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "اسپیرال",
+        "update_labelll": "امروز"
       },
       "sizeee": "5",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "108,450",
-      "price_nummm": 108450,
-      "col_6": "+ 4.8%",
-      "col_7": ""
+      "price_nummm": 108450
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی کیمیا",
-        "update_labelll": ""
+        "category_nameee": "اسپیرال",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +4.8%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,560",
-      "price_nummm": 105560,
-      "col_6": "+ 5.4%",
-      "col_7": ""
+      "price_nummm": 105560
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی کیمیا",
-        "update_labelll": ""
+        "category_nameee": "کیمیا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +5.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,550",
-      "price_nummm": 105550,
-      "col_6": "+ 5.4%",
-      "col_7": ""
+      "price_nummm": 105550
     },
     {
       "group_infooo": {
-        "category_nameee": "ناودانی کیمیا",
-        "update_labelll": ""
+        "category_nameee": "کیمیا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +5.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "امروز"
       },
       "sizeee": "10",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "col_4": "1405/7/11",
       "price_strrr": "105,560",
-      "price_nummm": 105560,
-      "col_6": "+ 5.4%",
-      "col_7": ""
+      "price_nummm": 105560
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/11 نمودار نوسانات : +5.4%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
     }
   ]
 }
