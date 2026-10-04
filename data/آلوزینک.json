@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/آلوزینک/",
-  "scraped_attt": "2026-10-04T08:28:06.154Z",
+  "scraped_attt": "2026-10-04T08:58:01.295Z",
   "headersss": [
     "عرض",
     "ضخامت",
@@ -11,6 +11,32 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "1000",
+      "col_1": "0.5",
+      "col_2": "هفت الماس",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "188,450",
+      "price_nummm": 188450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/12 نمودار نوسانات :",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
@@ -30,32 +56,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/12 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "1000",
-      "col_1": "0.5",
-      "col_2": "هفت الماس",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/12 نمودار نوسانات :",
       "col_1": "",
       "col_2": "",
       "col_3": "",
