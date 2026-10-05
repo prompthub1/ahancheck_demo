@@ -1,405 +1,258 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_attt": "2026-10-05T11:57:13.942Z",
+  "scraped_attt": "2026-10-05T12:27:11.606Z",
   "headersss": [
     "ضخامت",
     "عرض",
     "رنگ",
     "برند",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "col_3": "فولاد مبارکه",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "256,090",
-      "price_nummm": 256090
+      "price_nummm": 256090,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "آبی",
       "col_3": "فولاد مبارکه",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "256,090",
-      "price_nummm": 256090
+      "price_nummm": 256090,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "قهوه ای سوخته",
       "col_3": "فولاد مبارکه",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "258,550",
-      "price_nummm": 258550
+      "price_nummm": 258550,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "نارنجی",
       "col_3": "فولاد مبارکه",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "256,270",
-      "price_nummm": 256270
+      "price_nummm": 256270,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.5",
       "col_1": "1250",
       "col_2": "قرمز",
       "col_3": "فولاد مبارکه",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "255,180",
-      "price_nummm": 255180
+      "price_nummm": 255180,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی فولاد مبارکه",
+        "update_labelll": ""
       },
       "col_0": "0.6",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "col_3": "فولاد مبارکه",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "261,020",
-      "price_nummm": 261020
+      "price_nummm": 261020,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "فولاد مبارکه",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی چین",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "نارنجی",
       "col_3": "چین",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,450",
-      "price_nummm": 253450
+      "price_nummm": 253450,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی چین",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "قهوه ای سوخته",
       "col_3": "چین",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,250",
-      "price_nummm": 253250
+      "price_nummm": 253250,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی چین",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "col_3": "چین",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,360",
-      "price_nummm": 253360
+      "price_nummm": 253360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی چین",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "قرمز",
       "col_3": "چین",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,360",
-      "price_nummm": 253360
+      "price_nummm": 253360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی چین",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "آبی",
       "col_3": "چین",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,250",
-      "price_nummm": 253250
+      "price_nummm": 253250,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "قرمز",
       "col_3": "هفت الماس",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,270",
-      "price_nummm": 253270
+      "price_nummm": 253270,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "نارنجی",
       "col_3": "هفت الماس",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "253,270",
-      "price_nummm": 253270
+      "price_nummm": 253270,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "آبی",
       "col_3": "هفت الماس",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "252,360",
-      "price_nummm": 252360
+      "price_nummm": 252360,
+      "col_7": "0.0%",
+      "col_8": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
+        "category_nameee": "ورق رنگی هفت الماس",
+        "update_labelll": ""
       },
       "col_0": "0.48",
       "col_1": "1250",
       "col_2": "سفید یخچالی",
       "col_3": "هفت الماس",
       "col_4": "بنگاه تهران",
+      "col_5": "1405/7/13",
       "price_strrr": "252,090",
-      "price_nummm": 252090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 252090,
+      "col_7": "0.0%",
+      "col_8": ""
     }
   ]
 }
