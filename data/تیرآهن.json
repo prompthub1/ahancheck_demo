@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-10-06T10:27:15.546Z",
+  "scraped_attt": "2026-10-06T10:56:49.761Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -381,6 +381,30 @@
       "col_3": "320",
       "price_strrr": "133,640",
       "price_nummm": 133640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوب آهن",
+        "update_labelll": "|"
+      },
+      "sizeee": "24",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "370",
+      "price_strrr": "48,363,640",
+      "price_nummm": 48363640
     },
     {
       "group_infooo": {
@@ -964,30 +988,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +2.4%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "24",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "370",
-      "price_strrr": "48,363,640",
-      "price_nummm": 48363640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ذوب آهن",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +0.0%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
