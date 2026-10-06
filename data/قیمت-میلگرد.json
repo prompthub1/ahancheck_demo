@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-10-06T18:56:16.720Z",
+  "scraped_attt": "2026-10-06T19:26:21.835Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -3839,50 +3839,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "نورد گرم سمنان",
-        "update_labelll": "|"
-      },
-      "sizeee": "8",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "109,090",
-      "price_nummm": 109090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد گرم سمنان",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "|"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "117,270",
-      "price_nummm": 117270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.8%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "|"
       },
@@ -5665,6 +5621,28 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "نورد گرم سمنان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نورد گرم سمنان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.8%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "آریان فولاد",
         "update_labelll": "امروز"
       },
@@ -5878,6 +5856,28 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +4.6%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد سپهر ایرانیان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "117,270",
+      "price_nummm": 117270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد سپهر ایرانیان",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.8%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
