@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-10-06T07:56:49.885Z",
+  "scraped_attt": "2026-10-06T08:26:37.154Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -25,6 +25,30 @@
     {
       "group_infooo": {
         "category_nameee": "اسپیرال",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "111,000",
+      "price_nummm": 111000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.0%",
@@ -1887,30 +1911,6 @@
         "category_nameee": "کیمیا",
         "update_labelll": "امروز"
       },
-      "sizeee": "14",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "111,000",
-      "price_nummm": 111000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات : +5.2%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
       "sizeee": "10",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
@@ -1983,7 +1983,7 @@
         "category_nameee": "کیمیا",
         "update_labelll": "امروز"
       },
-      "sizeee": "18",
+      "sizeee": "22",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
@@ -2007,7 +2007,7 @@
         "category_nameee": "کیمیا",
         "update_labelll": "امروز"
       },
-      "sizeee": "22",
+      "sizeee": "18",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
