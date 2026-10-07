@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D8%B3%D9%BE%D8%B1%DB%8C/",
-  "scraped_attt": "2026-10-07T09:56:45.990Z",
+  "scraped_attt": "2026-10-07T10:26:37.867Z",
   "headersss": [
     "نام کالا",
     "سایز",
@@ -9,13 +9,16 @@
     "طول شاخه",
     "واحد",
     "محل تحویل",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
+        "category_nameee": "سپری نورد سجاد",
+        "update_labelll": ""
       },
       "titleee": "سپری 3 نورد سجاد 6 متری در بنگاه تهران",
       "sizeee": "3",
@@ -23,27 +26,16 @@
       "col_3": "6 متری",
       "unittt": "کیلوگرم",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/7/15",
       "price_strrr": "118,250",
-      "price_nummm": 118250
+      "price_nummm": 118250,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
+        "category_nameee": "سپری نورد سجاد",
+        "update_labelll": ""
       },
       "titleee": "سپری 4 نورد سجاد 6 متری در بنگاه تهران",
       "sizeee": "4",
@@ -51,27 +43,16 @@
       "col_3": "6 متری",
       "unittt": "کیلوگرم",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/7/15",
       "price_strrr": "118,190",
-      "price_nummm": 118190
+      "price_nummm": 118190,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
+        "category_nameee": "سپری نورد سجاد",
+        "update_labelll": ""
       },
       "titleee": "سپری 5 نورد سجاد 6 متری در بنگاه تهران",
       "sizeee": "5",
@@ -79,27 +60,16 @@
       "col_3": "6 متری",
       "unittt": "کیلوگرم",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/7/15",
       "price_strrr": "118,190",
-      "price_nummm": 118190
+      "price_nummm": 118190,
+      "col_8": "0.0%",
+      "col_9": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
+        "category_nameee": "سپری نورد سجاد",
+        "update_labelll": ""
       },
       "titleee": "سپری 6 نورد سجاد 6 متری در بنگاه تهران",
       "sizeee": "6",
@@ -107,22 +77,11 @@
       "col_3": "6 متری",
       "unittt": "کیلوگرم",
       "col_5": "بنگاه تهران",
+      "col_6": "1405/7/15",
       "price_strrr": "118,190",
-      "price_nummm": 118190
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 118190,
+      "col_8": "0.0%",
+      "col_9": ""
     }
   ]
 }
