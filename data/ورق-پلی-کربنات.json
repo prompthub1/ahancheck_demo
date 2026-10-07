@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پلی-کربنات/",
-  "scraped_attt": "2026-10-07T18:29:29.836Z",
+  "scraped_attt": "2026-10-07T19:00:13.486Z",
   "headersss": [
     "سایز",
     "ضخامت(mm)",
@@ -10,102 +10,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "6*2.10",
-      "col_1": "6",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "24,590,000",
-      "price_nummm": 24590000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -18.2%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "6*2.10",
-      "col_1": "6",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "17,680,910",
-      "price_nummm": 17680910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -26.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "6*2.10",
-      "col_1": "8",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "40,044,550",
-      "price_nummm": 40044550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سه جداره (زنبوری)",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -4.3%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "6*2.10",
-      "col_1": "14",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "63,680,910",
-      "price_nummm": 63680910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چهار جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -5.4%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "صاف",
@@ -132,70 +36,22 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
+        "category_nameee": "دو جداره",
+        "update_labelll": "امروز"
       },
-      "sizeee": "3.05*2.05",
-      "col_1": "3",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "39,135,450",
-      "price_nummm": 39135450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -8.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "6.2*1.25",
-      "col_1": "8",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "36,862,730",
-      "price_nummm": 36862730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -34.1%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "6.2*1.25",
+      "sizeee": "6*2.10",
       "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
-      "price_strrr": "43,680,910",
-      "price_nummm": 43680910
+      "price_strrr": "24,590,000",
+      "price_nummm": 24590000
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
+        "category_nameee": "دو جداره",
+        "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -12.7%",
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -18.2%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -204,22 +60,22 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "دو جداره",
+        "update_labelll": "امروز"
       },
-      "sizeee": "6.2*1.25",
-      "col_1": "4",
+      "sizeee": "6*2.10",
+      "col_1": "6",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
-      "price_strrr": "17,199,090",
-      "price_nummm": 17199090
+      "price_strrr": "17,680,910",
+      "price_nummm": 17680910
     },
     {
       "group_infooo": {
-        "category_nameee": "ذوزنقه",
-        "update_labelll": "|"
+        "category_nameee": "دو جداره",
+        "update_labelll": "امروز"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -45.8%",
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -26.5%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -268,6 +124,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سه جداره (زنبوری)",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6*2.10",
+      "col_1": "8",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "40,044,550",
+      "price_nummm": 40044550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سه جداره (زنبوری)",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -4.3%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -376,6 +256,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "6*2.10",
+      "col_1": "14",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "63,680,910",
+      "price_nummm": 63680910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چهار جداره",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -5.4%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چهار جداره",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6*2.10",
       "col_1": "12",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
@@ -412,6 +316,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صاف",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "3.05*2.05",
+      "col_1": "3",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "39,135,450",
+      "price_nummm": 39135450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صاف",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -8.5%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -544,6 +472,54 @@
         "update_labelll": "امروز"
       },
       "sizeee": "6.2*1.25",
+      "col_1": "8",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "36,862,730",
+      "price_nummm": 36862730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -34.1%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6.2*1.25",
+      "col_1": "6",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "43,680,910",
+      "price_nummm": 43680910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -12.7%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6.2*1.25",
       "col_1": "4",
       "col_2": "بنگاه تهران",
       "unittt": "عدد",
@@ -556,6 +532,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/14 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوزنقه",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6.2*1.25",
+      "col_1": "4",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "17,199,090",
+      "price_nummm": 17199090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ذوزنقه",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/15 نمودار نوسانات : -45.8%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
