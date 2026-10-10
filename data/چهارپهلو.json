@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو/",
-  "scraped_attt": "2026-10-10T09:29:25.773Z",
+  "scraped_attt": "2026-10-10T09:57:51.352Z",
   "headersss": [
     "حالت",
     "سایز",
@@ -16,6 +16,28 @@
       },
       "col_0": "نرمال",
       "sizeee": "10*10",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "115,450",
+      "price_nummm": 115450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/18 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "نرمال",
+      "sizeee": "12*12",
       "col_2": "بنگاه تهران",
       "price_strrr": "115,450",
       "price_nummm": 115450
@@ -686,28 +708,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/18 نمودار نوسانات :",
-      "sizeee": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "نرمال",
-      "sizeee": "12*12",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "115,450",
-      "price_nummm": 115450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/16 نمودار نوسانات :",
       "sizeee": "",
       "col_2": "",
       "price_strrr": "",
