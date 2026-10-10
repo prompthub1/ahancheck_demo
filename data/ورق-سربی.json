@@ -1,52 +1,41 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-سربی/",
-  "scraped_attt": "2026-10-10T18:57:55.560Z",
+  "scraped_attt": "2026-10-10T19:28:32.760Z",
   "headersss": [
     "نام کالا",
     "انبار",
-    "قیمت (تومان)"
+    "تاریخ بروزرسانی",
+    "قیمت (تومان)",
+    "نوسانات",
+    "نمودار"
   ],
   "dataaa": [
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "ورق سربی بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "ورق سربی 2 میلیمتر",
       "col_1": "بنگاه تهران",
+      "col_2": "1405/7/18",
       "price_strrr": "498,220",
-      "price_nummm": 498220
+      "price_nummm": 498220,
+      "col_4": "+ 12.6%",
+      "col_5": ""
     },
     {
       "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/18 نمودار نوسانات : +12.6%",
-      "col_1": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
+        "category_nameee": "ورق سربی بنگاه تهران",
+        "update_labelll": ""
       },
       "titleee": "ورق سربی 1 میلیمتر",
       "col_1": "بنگاه تهران",
+      "col_2": "1405/7/18",
       "price_strrr": "498,220",
-      "price_nummm": 498220
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "بنگاه تهران",
-        "update_labelll": "|"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/7/18 نمودار نوسانات : +12.6%",
-      "col_1": "",
-      "price_strrr": "",
-      "price_nummm": null
+      "price_nummm": 498220,
+      "col_4": "+ 12.6%",
+      "col_5": ""
     }
   ]
 }
