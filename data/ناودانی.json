@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-10-11T06:56:47.490Z",
+  "scraped_attt": "2026-10-11T07:26:44.044Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -244,6 +244,54 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "111,000",
+      "price_nummm": 111000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کیمیا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -1602,7 +1650,7 @@
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
+      "col_3": "بنگاه تهران",
       "price_strrr": "تماس بگیرید",
       "price_nummm": null
     },
@@ -1626,7 +1674,7 @@
       "sizeee": "8",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
+      "col_3": "کارخانه",
       "price_strrr": "تماس بگیرید",
       "price_nummm": null
     },
@@ -1887,55 +1935,7 @@
         "category_nameee": "کیمیا",
         "update_labelll": "امروز"
       },
-      "sizeee": "14",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "111,000",
-      "price_nummm": 111000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/18 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
       "sizeee": "10",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/13 نمودار نوسانات :",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کیمیا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
