@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-10-12T22:26:48.046Z",
+  "scraped_attt": "2026-10-12T22:57:12.566Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -10,30 +10,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "8",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "116,570",
-      "price_nummm": 116570
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "ناب تبریز",
@@ -309,6 +285,30 @@
       "col_3": "کارخانه",
       "price_strrr": "110,000",
       "price_nummm": 110000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "8",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "116,570",
+      "price_nummm": 116570
     },
     {
       "group_infooo": {
