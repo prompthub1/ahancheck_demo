@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو-آلیاژی/",
-  "scraped_attt": "2026-10-12T05:29:10.080Z",
+  "scraped_attt": "2026-10-12T05:58:56.321Z",
   "headersss": [
     "آلیاژ",
     "حالت",
@@ -10,6 +10,54 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "St52",
+      "col_1": "نرمال",
+      "sizeee": "25*25",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "30*50",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "نرمال",
@@ -231,6 +279,54 @@
         "category_nameee": "نرمال",
         "update_labelll": "|"
       },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "25*25",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "30*30",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "137,600",
+      "price_nummm": 137600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
       "col_0": "St52",
       "col_1": "نرمال",
       "sizeee": "30*30",
@@ -257,6 +353,54 @@
       },
       "col_0": "St52",
       "col_1": "نرمال",
+      "sizeee": "35*35",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "40*40",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "137,600",
+      "price_nummm": 137600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "St52",
+      "col_1": "نرمال",
       "sizeee": "40*40",
       "col_3": "بنگاه تهران",
       "price_strrr": "تماس بگیرید",
@@ -268,6 +412,30 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "50*50",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "137,600",
+      "price_nummm": 137600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -327,6 +495,30 @@
         "category_nameee": "نرمال",
         "update_labelll": "|"
       },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "60*60",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "137,600",
+      "price_nummm": 137600
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
       "col_0": "St52",
       "col_1": "نرمال",
       "sizeee": "60*60",
@@ -351,9 +543,57 @@
         "category_nameee": "نرمال",
         "update_labelll": "|"
       },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "70*70",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
       "col_0": "St52",
       "col_1": "نرمال",
       "sizeee": "70*70",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نرمال",
+        "update_labelll": "|"
+      },
+      "col_0": "CK 45",
+      "col_1": "نرمال",
+      "sizeee": "80*80",
       "col_3": "بنگاه تهران",
       "price_strrr": "تماس بگیرید",
       "price_nummm": null
@@ -652,246 +892,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات :",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "25*25",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "30*50",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "25*25",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "30*30",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "137,600",
-      "price_nummm": 137600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "St52",
-      "col_1": "نرمال",
-      "sizeee": "35*35",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "40*40",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "137,600",
-      "price_nummm": 137600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "50*50",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "137,600",
-      "price_nummm": 137600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "60*60",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "137,600",
-      "price_nummm": 137600
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "70*70",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "CK 45",
-      "col_1": "نرمال",
-      "sizeee": "80*80",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نرمال",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات :",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
