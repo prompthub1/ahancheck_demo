@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-10-12T06:56:16.934Z",
+  "scraped_attt": "2026-10-12T07:26:18.011Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -231,6 +231,28 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "نورد گرم سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نورد گرم سمنان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "آریان فولاد",
         "update_labelll": "|"
       },
@@ -444,6 +466,28 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : -0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد سپهر ایرانیان",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "A2",
+      "col_2": "کارخانه",
+      "price_strrr": "115,910",
+      "price_nummm": 115910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد سپهر ایرانیان",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/20 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -1126,28 +1170,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/18 نمودار نوسانات : +0.9%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "-",
-      "col_2": "کارخانه",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/29 نمودار نوسانات :",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -4345,50 +4367,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "نورد گرم سمنان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "109,090",
-      "price_nummm": 109090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد گرم سمنان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "A2",
-      "col_2": "کارخانه",
-      "price_strrr": "115,910",
-      "price_nummm": 115910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "فولاد سپهر ایرانیان",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "کاوه تیکمه داش",
         "update_labelll": "امروز"
       },
@@ -5482,28 +5460,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/19 نمودار نوسانات : -3.3%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ابرکوه",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/6/9 نمودار نوسانات :",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
