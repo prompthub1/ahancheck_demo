@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/",
-  "scraped_attt": "2026-10-13T19:27:11.667Z",
+  "scraped_attt": "2026-10-13T19:57:08.336Z",
   "headersss": [
     "سایز",
     "محل تحویل",
@@ -756,54 +756,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "24",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "-",
-      "price_strrr": "42,727,270",
-      "price_nummm": 42727270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "22",
-      "col_1": "بنگاه تهران",
-      "unittt": "شاخه",
-      "col_3": "-",
-      "price_strrr": "35,454,550",
-      "price_nummm": 35454550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "آریان فولاد",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "اهواز",
         "update_labelll": "|"
       },
@@ -1044,8 +996,56 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "24",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "-",
+      "price_strrr": "42,727,270",
+      "price_nummm": 42727270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "22",
+      "col_1": "بنگاه تهران",
+      "unittt": "شاخه",
+      "col_3": "-",
+      "price_strrr": "35,454,550",
+      "price_nummm": 35454550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "آریان فولاد",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "اطلس",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
@@ -1057,7 +1057,7 @@
     {
       "group_infooo": {
         "category_nameee": "اطلس",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : -3.3%",
       "col_1": "",
@@ -1069,7 +1069,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "بنگاه تهران",
@@ -1081,7 +1081,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : -1.9%",
       "col_1": "",
@@ -1093,7 +1093,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "بنگاه تهران",
@@ -1105,7 +1105,7 @@
     {
       "group_infooo": {
         "category_nameee": "خیام سپهر فولاد نیشابور",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/21 نمودار نوسانات : -1.2%",
       "col_1": "",
