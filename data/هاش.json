@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86-%D9%88-%D9%87%D8%A7%D8%B4/%D9%87%D8%A7%D8%B4/",
-  "scraped_attt": "2026-10-17T13:18:52.254Z",
+  "scraped_attt": "2026-10-17T13:58:36.813Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -31,7 +31,7 @@
         "category_nameee": "HEA",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات : +3.8%",
+      "sizeee": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
@@ -803,34 +803,6 @@
       },
       "sizeee": "24",
       "col_1": "HEB",
-      "col_2": "12 متری",
-      "col_3": "ذوب آهن اصفهان",
-      "col_4": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "تماس بگیرید",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات :",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "HEB",
-        "update_labelll": "|"
-      },
-      "sizeee": "24",
-      "col_1": "HEB",
       "col_2": "شاخه 12 متری",
       "col_3": "وارداتی",
       "col_4": "بنگاه تهران",
@@ -857,7 +829,7 @@
         "category_nameee": "HEB",
         "update_labelll": "|"
       },
-      "sizeee": "26",
+      "sizeee": "24",
       "col_1": "HEB",
       "col_2": "12 متری",
       "col_3": "ذوب آهن اصفهان",
@@ -900,6 +872,34 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "26",
+      "col_1": "HEB",
+      "col_2": "12 متری",
+      "col_3": "ذوب آهن اصفهان",
+      "col_4": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "تماس بگیرید",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "HEB",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات :",
       "col_1": "",
       "col_2": "",
       "col_3": "",
