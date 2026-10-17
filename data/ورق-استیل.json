@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-10-17T10:57:17.149Z",
+  "scraped_attt": "2026-10-17T11:27:28.466Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -1941,9 +1941,9 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1500",
+      "sizeee": "1250*2500",
       "col_2": "316L",
-      "col_3": "رول",
+      "col_3": "شیت",
       "unittt": "کیلوگرم",
       "price_strrr": "2,227,270",
       "price_nummm": 2227270
@@ -1967,9 +1967,9 @@
         "update_labelll": "|"
       },
       "col_0": "1",
-      "sizeee": "1250*2500",
+      "sizeee": "1500",
       "col_2": "316L",
-      "col_3": "شیت",
+      "col_3": "رول",
       "unittt": "کیلوگرم",
       "price_strrr": "2,227,270",
       "price_nummm": 2227270
@@ -2526,6 +2526,32 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "316L",
+        "update_labelll": "|"
+      },
+      "col_0": "4",
+      "sizeee": "1000*2000",
+      "col_2": "316L",
+      "col_3": "شیت",
+      "unittt": "کیلوگرم",
+      "price_strrr": "2,363,640",
+      "price_nummm": 2363640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "316L",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات : +43.6%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
@@ -4866,32 +4892,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/25 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "316L",
-        "update_labelll": "امروز"
-      },
-      "col_0": "4",
-      "sizeee": "1000*2000",
-      "col_2": "316L",
-      "col_3": "شیت",
-      "unittt": "کیلوگرم",
-      "price_strrr": "1,645,450",
-      "price_nummm": 1645450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "316L",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/23 نمودار نوسانات : +0.0%",
       "sizeee": "",
       "col_2": "",
       "col_3": "",
