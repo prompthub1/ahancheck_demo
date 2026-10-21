@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پلی-کربنات/",
-  "scraped_attt": "2026-10-21T12:37:22.827Z",
+  "scraped_attt": "2026-10-21T12:59:22.363Z",
   "headersss": [
     "سایز",
     "ضخامت(mm)",
@@ -100,6 +100,30 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.2%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "|"
+      },
+      "sizeee": "6.2*1.25",
+      "col_1": "4",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "23,165,250",
+      "price_nummm": 23165250
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -28.1%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -529,30 +553,6 @@
     {
       "group_infooo": {
         "category_nameee": "صاف",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6.2*1.25",
-      "col_1": "4",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "32,226,360",
-      "price_nummm": 32226360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
