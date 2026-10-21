@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پلی-کربنات/",
-  "scraped_attt": "2026-10-21T19:58:40.428Z",
+  "scraped_attt": "2026-10-21T20:28:24.749Z",
   "headersss": [
     "سایز",
     "ضخامت(mm)",
@@ -76,30 +76,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -3.1%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "6*2.10",
-      "col_1": "10",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "31,115,000",
-      "price_nummm": 31115000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "دو جداره",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -55.7%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -420,30 +396,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "6.2*1.25",
-      "col_1": "6",
-      "col_2": "بنگاه تهران",
-      "unittt": "عدد",
-      "price_strrr": "25,280,750",
-      "price_nummm": 25280750
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "سینوسی",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -42.1%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "ذوزنقه",
         "update_labelll": "|"
       },
@@ -460,6 +412,30 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -49.1%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دو جداره",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6*2.10",
+      "col_1": "10",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "31,115,000",
+      "price_nummm": 31115000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "دو جداره",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -55.7%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -556,6 +532,30 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "6.2*1.25",
+      "col_1": "6",
+      "col_2": "بنگاه تهران",
+      "unittt": "عدد",
+      "price_strrr": "25,280,750",
+      "price_nummm": 25280750
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "سینوسی",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : -42.1%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
