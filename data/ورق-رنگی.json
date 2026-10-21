@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_attt": "2026-10-21T13:19:55.407Z",
+  "scraped_attt": "2026-10-21T13:27:33.814Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -11,6 +11,240 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "نارنجی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,900",
+      "price_nummm": 248900
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "سفید یخچالی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,820",
+      "price_nummm": 248820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قهوه ای سوخته",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,710",
+      "price_nummm": 248710
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قرمز",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,820",
+      "price_nummm": 248820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "آبی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,700",
+      "price_nummm": 248700
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "نارنجی",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "249,640",
+      "price_nummm": 249640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قرمز",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "249,640",
+      "price_nummm": 249640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "آبی",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,730",
+      "price_nummm": 248730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "سفید یخچالی",
+      "col_3": "هفت الماس",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "248,450",
+      "price_nummm": 248450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
@@ -157,240 +391,6 @@
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "نارنجی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,900",
-      "price_nummm": 248900
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قهوه ای سوخته",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,710",
-      "price_nummm": 248710
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "سفید یخچالی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,820",
-      "price_nummm": 248820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قرمز",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,820",
-      "price_nummm": 248820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "آبی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,700",
-      "price_nummm": 248700
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قرمز",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "249,640",
-      "price_nummm": 249640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "نارنجی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "249,640",
-      "price_nummm": 249640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "آبی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,730",
-      "price_nummm": 248730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "سفید یخچالی",
-      "col_3": "هفت الماس",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "248,450",
-      "price_nummm": 248450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +0.0%",
