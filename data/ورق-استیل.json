@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-استیل/",
-  "scraped_attt": "2026-10-24T07:57:14.170Z",
+  "scraped_attt": "2026-10-24T08:27:14.887Z",
   "headersss": [
     "ضخامت",
     "ابعاد",
@@ -225,7 +225,7 @@
         "update_labelll": "امروز"
       },
       "col_0": "1.25",
-      "sizeee": "1000*2000",
+      "sizeee": "1250*2500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -251,7 +251,7 @@
         "update_labelll": "امروز"
       },
       "col_0": "1.25",
-      "sizeee": "1250*2500",
+      "sizeee": "1000*2000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
@@ -771,12 +771,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "3",
-      "sizeee": "1500",
+      "sizeee": "1500*3000",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,109,090",
-      "price_nummm": 1109090
+      "price_strrr": "1,109,320",
+      "price_nummm": 1109320
     },
     {
       "group_infooo": {
@@ -797,12 +797,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "3",
-      "sizeee": "1500*3000",
+      "sizeee": "1500",
       "col_2": "304L",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "1,109,320",
-      "price_nummm": 1109320
+      "price_strrr": "1,109,090",
+      "price_nummm": 1109090
     },
     {
       "group_infooo": {
@@ -4385,12 +4385,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "0.6",
-      "sizeee": "1000*2000",
+      "sizeee": "1220*2440",
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "888,000",
-      "price_nummm": 888000
+      "price_strrr": "881,420",
+      "price_nummm": 881420
     },
     {
       "group_infooo": {
@@ -4411,12 +4411,12 @@
         "update_labelll": "امروز"
       },
       "col_0": "0.6",
-      "sizeee": "1220*2440",
+      "sizeee": "1000*2000",
       "col_2": "430",
       "col_3": "شیت",
       "unittt": "کیلوگرم",
-      "price_strrr": "881,420",
-      "price_nummm": 881420
+      "price_strrr": "888,000",
+      "price_nummm": 888000
     },
     {
       "group_infooo": {
