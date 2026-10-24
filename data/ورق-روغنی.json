@@ -1,9 +1,1498 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-روغنی/",
-  "scraped_attt": "2026-10-24T06:57:18.290Z",
-  "headersss": [],
+  "scraped_attt": "2026-10-24T07:27:10.887Z",
+  "headersss": [
+    "ضخامت",
+    "عرض",
+    "برند",
+    "استاندارد",
+    "محل تحویل",
+    "قیمت (تومان)"
+  ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "198,450",
+      "price_nummm": 198450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "198,450",
+      "price_nummm": 198450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,550",
+      "price_nummm": 197550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,550",
+      "price_nummm": 197550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "195,640",
+      "price_nummm": 195640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "194,730",
+      "price_nummm": 194730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.6",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,360",
+      "price_nummm": 197360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.6",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "197,360",
+      "price_nummm": 197360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "195,090",
+      "price_nummm": 195090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "194,450",
+      "price_nummm": 194450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "194,730",
+      "price_nummm": 194730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "194,730",
+      "price_nummm": 194730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "195,640",
+      "price_nummm": 195640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "195,640",
+      "price_nummm": 195640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.5",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "198,270",
+      "price_nummm": 198270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.5",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "198,000",
+      "price_nummm": 198000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "2",
+      "col_1": "1000",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "196,270",
+      "price_nummm": 196270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "2",
+      "col_1": "1250",
+      "col_2": "فولاد مبارکه",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "196,270",
+      "price_nummm": 196270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد مبارکه",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.4",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "211,180",
+      "price_nummm": 211180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.4",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "211,180",
+      "price_nummm": 211180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "195,450",
+      "price_nummm": 195450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "195,550",
+      "price_nummm": 195550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "192,640",
+      "price_nummm": 192640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "192,640",
+      "price_nummm": 192640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "191,360",
+      "price_nummm": 191360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "191,450",
+      "price_nummm": 191450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.6",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "192,730",
+      "price_nummm": 192730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.6",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "192,730",
+      "price_nummm": 192730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "188,910",
+      "price_nummm": 188910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "188,910",
+      "price_nummm": 188910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "188,910",
+      "price_nummm": 188910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "188,910",
+      "price_nummm": 188910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,000",
+      "price_nummm": 189000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.25",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,090",
+      "price_nummm": 189090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.5",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,180",
+      "price_nummm": 189180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.5",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,180",
+      "price_nummm": 189180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "2",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "185,550",
+      "price_nummm": 185550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "2",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "185,550",
+      "price_nummm": 185550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.4",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "214,360",
+      "price_nummm": 214360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "196,730",
+      "price_nummm": 196730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.5",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "196,730",
+      "price_nummm": 196730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "191,730",
+      "price_nummm": 191730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.7",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "191,550",
+      "price_nummm": 191550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "190,000",
+      "price_nummm": 190000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.8",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "190,090",
+      "price_nummm": 190090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.6",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "192,450",
+      "price_nummm": 192450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.6",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "192,550",
+      "price_nummm": 192550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "190,000",
+      "price_nummm": 190000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "0.9",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,450",
+      "price_nummm": 189450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.2",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,450",
+      "price_nummm": 189450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.2",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "190,000",
+      "price_nummm": 190000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,730",
+      "price_nummm": 189730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,640",
+      "price_nummm": 189640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.5",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,910",
+      "price_nummm": 189910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "1.5",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,910",
+      "price_nummm": 189910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "2",
+      "col_1": "1000",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,820",
+      "price_nummm": 189820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "2",
+      "col_1": "1250",
+      "col_2": "فولاد غرب",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "189,910",
+      "price_nummm": 189910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "فولاد غرب",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/7/30 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "نامشخص",
