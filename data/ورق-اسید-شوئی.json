@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-اسید-شوئی/",
-  "scraped_attt": "2026-10-25T11:27:35.107Z",
+  "scraped_attt": "2026-10-25T11:58:56.146Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -147,6 +147,32 @@
         "update_labelll": "|"
       },
       "col_0": "W22",
+      "col_1": "3",
+      "col_2": "فولاد مبارکه",
+      "sizeee": "1000",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "174,180",
+      "price_nummm": 174180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "W22",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +4.4%",
+      "col_1": "",
+      "col_2": "",
+      "sizeee": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "W22",
+        "update_labelll": "|"
+      },
+      "col_0": "W22",
       "col_1": "2.5",
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
@@ -238,32 +264,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +4.4%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "W22",
-      "col_1": "3",
-      "col_2": "فولاد مبارکه",
-      "sizeee": "1000",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "166,910",
-      "price_nummm": 166910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/2 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
