@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-10-25T08:26:39.307Z",
+  "scraped_attt": "2026-10-25T08:56:38.498Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -16,6 +16,30 @@
         "update_labelll": "|"
       },
       "sizeee": "10",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "111,360",
+      "price_nummm": 111360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات :",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
@@ -472,30 +496,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "14",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "110,010",
-      "price_nummm": 110010
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/29 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
       "col_1": "6 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
@@ -543,12 +543,12 @@
         "category_nameee": "هموزن اروپا",
         "update_labelll": "امروز"
       },
-      "sizeee": "28",
+      "sizeee": "26",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "price_strrr": "214,100",
-      "price_nummm": 214100
+      "price_strrr": "276,840",
+      "price_nummm": 276840
     },
     {
       "group_infooo": {
@@ -567,12 +567,12 @@
         "category_nameee": "هموزن اروپا",
         "update_labelll": "امروز"
       },
-      "sizeee": "26",
+      "sizeee": "28",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "بنگاه تهران",
-      "price_strrr": "276,840",
-      "price_nummm": 276840
+      "price_strrr": "214,100",
+      "price_nummm": 214100
     },
     {
       "group_infooo": {
