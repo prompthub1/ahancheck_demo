@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-پلی-کربنات/",
-  "scraped_attt": "2026-10-26T12:28:26.479Z",
+  "scraped_attt": "2026-10-26T12:34:44.783Z",
   "headersss": [
     "سایز",
     "ضخامت(mm)",
@@ -112,11 +112,11 @@
         "update_labelll": "|"
       },
       "sizeee": "6*2.10",
-      "col_1": "6",
-      "col_2": "16 کیلو",
+      "col_1": "8",
+      "col_2": "19 کیلو",
       "unittt": "عدد",
-      "price_strrr": "28,375,600",
-      "price_nummm": 28375600
+      "price_strrr": "32,871,000",
+      "price_nummm": 32871000
     },
     {
       "group_infooo": {
@@ -136,11 +136,11 @@
         "update_labelll": "|"
       },
       "sizeee": "6*2.10",
-      "col_1": "8",
-      "col_2": "19 کیلو",
+      "col_1": "6",
+      "col_2": "16 کیلو",
       "unittt": "عدد",
-      "price_strrr": "32,871,000",
-      "price_nummm": 32871000
+      "price_strrr": "28,375,600",
+      "price_nummm": 28375600
     },
     {
       "group_infooo": {
@@ -289,6 +289,30 @@
     {
       "group_infooo": {
         "category_nameee": "چهار جداره",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صاف",
+        "update_labelll": "|"
+      },
+      "sizeee": "3.05*2.05",
+      "col_1": "12",
+      "col_2": "90 کیلو",
+      "unittt": "عدد",
+      "price_strrr": "156,845,000",
+      "price_nummm": 156845000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "صاف",
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
@@ -532,30 +556,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "3.05*2.05",
-      "col_1": "12",
-      "col_2": "90 کیلو",
-      "unittt": "عدد",
-      "price_strrr": "156,845,000",
-      "price_nummm": 156845000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "صاف",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/7/28 نمودار نوسانات : +87.4%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
