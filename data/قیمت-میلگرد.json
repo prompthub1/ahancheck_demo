@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-10-26T08:26:13.589Z",
+  "scraped_attt": "2026-10-26T08:56:19.568Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -258,6 +258,28 @@
       },
       "sizeee": "12",
       "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "111,550",
+      "price_nummm": 111550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.5%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
       "col_2": "بنگاه تهران",
       "price_strrr": "119,270",
       "price_nummm": 119270
@@ -278,18 +300,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "12",
+      "sizeee": "14",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "120,640",
-      "price_nummm": 120640
+      "price_strrr": "109,090",
+      "price_nummm": 109090
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -302,9 +324,9 @@
       },
       "sizeee": "14",
       "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
+      "col_2": "بنگاه تهران",
+      "price_strrr": "110,550",
+      "price_nummm": 110550
     },
     {
       "group_infooo": {
@@ -325,8 +347,30 @@
       "sizeee": "16",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "110,550",
+      "price_nummm": 110550
     },
     {
       "group_infooo": {
@@ -334,6 +378,28 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -366,18 +432,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "18",
+      "sizeee": "20",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
+      "price_strrr": "109,090",
+      "price_nummm": 109090
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -410,18 +476,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "20",
+      "sizeee": "22",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
+      "price_strrr": "109,090",
+      "price_nummm": 109090
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -437,28 +503,6 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "110,820",
       "price_nummm": 110820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "|"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
     },
     {
       "group_infooo": {
@@ -479,8 +523,30 @@
       "sizeee": "25",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "110,550",
+      "price_nummm": 110550
     },
     {
       "group_infooo": {
@@ -488,6 +554,28 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "109,090",
+      "price_nummm": 109090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نیشابور",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.7%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -520,18 +608,18 @@
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "28",
+      "sizeee": "32",
       "col_1": "A3",
       "col_2": "کارخانه",
-      "price_strrr": "118,180",
-      "price_nummm": 118180
+      "price_strrr": "111,360",
+      "price_nummm": 111360
     },
     {
       "group_infooo": {
         "category_nameee": "نیشابور",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -7.5%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -544,9 +632,9 @@
       },
       "sizeee": "32",
       "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "120,450",
-      "price_nummm": 120450
+      "col_2": "بنگاه تهران",
+      "price_strrr": "109,000",
+      "price_nummm": 109000
     },
     {
       "group_infooo": {
@@ -852,6 +940,28 @@
       },
       "sizeee": "12",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "108,910",
+      "price_nummm": 108910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "109,090",
       "price_nummm": 109090
@@ -896,6 +1006,28 @@
       },
       "sizeee": "16",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "107,820",
+      "price_nummm": 107820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "108,180",
       "price_nummm": 108180
@@ -906,6 +1038,28 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "107,820",
+      "price_nummm": 107820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -940,6 +1094,28 @@
       },
       "sizeee": "20",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "107,820",
+      "price_nummm": 107820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "108,180",
       "price_nummm": 108180
@@ -950,6 +1126,28 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "107,820",
+      "price_nummm": 107820
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -984,6 +1182,28 @@
       },
       "sizeee": "25",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "107,910",
+      "price_nummm": 107910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "108,180",
       "price_nummm": 108180
@@ -1006,6 +1226,28 @@
       },
       "sizeee": "28",
       "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "108,090",
+      "price_nummm": 108090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
       "col_2": "کارخانه",
       "price_strrr": "108,360",
       "price_nummm": 108360
@@ -1016,6 +1258,28 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.7%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "108,090",
+      "price_nummm": 108090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "امیرکبیر",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
@@ -2233,6 +2497,226 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "111,910",
+      "price_nummm": 111910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "111,550",
+      "price_nummm": 111550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "111,000",
+      "price_nummm": 111000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "18",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "20",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "22",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "25",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "28",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,910",
+      "price_nummm": 110910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "32",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "110,860",
+      "price_nummm": 110860
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "پرشین فولاد",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : -1.2%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "ذوب آهن اصفهان",
         "update_labelll": "امروز"
       },
@@ -2673,116 +3157,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "110,550",
-      "price_nummm": 110550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "110,550",
-      "price_nummm": 110550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "110,550",
-      "price_nummm": 110550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "109,000",
-      "price_nummm": 109000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نیشابور",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "108,910",
-      "price_nummm": 108910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "امیرکبیر",
         "update_labelll": "امروز"
       },
@@ -2791,160 +3165,6 @@
       "col_2": "بنگاه تهران",
       "price_strrr": "107,820",
       "price_nummm": 107820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "107,820",
-      "price_nummm": 107820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "107,820",
-      "price_nummm": 107820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +2.7%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "107,820",
-      "price_nummm": 107820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "107,820",
-      "price_nummm": 107820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "107,910",
-      "price_nummm": 107910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "108,090",
-      "price_nummm": 108090
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "امیرکبیر",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "108,090",
-      "price_nummm": 108090
     },
     {
       "group_infooo": {
@@ -5897,226 +6117,6 @@
     {
       "group_infooo": {
         "category_nameee": "هیربد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "113,270",
-      "price_nummm": 113270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,910",
-      "price_nummm": 112910
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,360",
-      "price_nummm": 112360
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,270",
-      "price_nummm": 112270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "18",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,270",
-      "price_nummm": 112270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "20",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,270",
-      "price_nummm": 112270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "22",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,270",
-      "price_nummm": 112270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "25",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,270",
-      "price_nummm": 112270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "28",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,270",
-      "price_nummm": 112270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "32",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,230",
-      "price_nummm": 112230
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "پرشین فولاد",
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/3 نمودار نوسانات : +0.0%",
