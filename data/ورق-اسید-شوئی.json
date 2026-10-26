@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-اسید-شوئی/",
-  "scraped_attt": "2026-10-26T07:57:42.489Z",
+  "scraped_attt": "2026-10-26T08:27:39.182Z",
   "headersss": [
     "استاندارد",
     "ضخامت",
@@ -19,17 +19,17 @@
       "col_0": "W22",
       "col_1": "4",
       "col_2": "فولاد مبارکه",
-      "sizeee": "1250",
+      "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,910",
-      "price_nummm": 175910
+      "price_strrr": "180,450",
+      "price_nummm": 180450
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -45,43 +45,17 @@
       "col_0": "W22",
       "col_1": "4",
       "col_2": "فولاد مبارکه",
-      "sizeee": "1000",
+      "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,910",
-      "price_nummm": 175910
+      "price_strrr": "180,450",
+      "price_nummm": 180450
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "|"
-      },
-      "col_0": "W22",
-      "col_1": "3.5",
-      "col_2": "فولاد مبارکه",
-      "sizeee": "1000",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "176,000",
-      "price_nummm": 176000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -99,15 +73,67 @@
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,910",
-      "price_nummm": 175910
+      "price_strrr": "180,450",
+      "price_nummm": 180450
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "sizeee": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "W22",
+        "update_labelll": "|"
+      },
+      "col_0": "W22",
+      "col_1": "3.5",
+      "col_2": "فولاد مبارکه",
+      "sizeee": "1000",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "180,550",
+      "price_nummm": 180550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "W22",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
+      "col_1": "",
+      "col_2": "",
+      "sizeee": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "W22",
+        "update_labelll": "|"
+      },
+      "col_0": "W22",
+      "col_1": "3",
+      "col_2": "فولاد مبارکه",
+      "sizeee": "1000",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "180,090",
+      "price_nummm": 180090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "W22",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -125,41 +151,15 @@
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,550",
-      "price_nummm": 175550
+      "price_strrr": "180,090",
+      "price_nummm": 180090
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
-      "col_1": "",
-      "col_2": "",
-      "sizeee": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "|"
-      },
-      "col_0": "W22",
-      "col_1": "3",
-      "col_2": "فولاد مبارکه",
-      "sizeee": "1000",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "175,550",
-      "price_nummm": 175550
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "W22",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -177,15 +177,15 @@
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,000",
-      "price_nummm": 175000
+      "price_strrr": "179,550",
+      "price_nummm": 179550
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -203,15 +203,15 @@
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,090",
-      "price_nummm": 175090
+      "price_strrr": "179,640",
+      "price_nummm": 179640
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -229,15 +229,15 @@
       "col_2": "فولاد مبارکه",
       "sizeee": "1250",
       "col_4": "بنگاه تهران",
-      "price_strrr": "175,550",
-      "price_nummm": 175550
+      "price_strrr": "180,090",
+      "price_nummm": 180090
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
@@ -255,15 +255,15 @@
       "col_2": "فولاد مبارکه",
       "sizeee": "1000",
       "col_4": "بنگاه تهران",
-      "price_strrr": "173,730",
-      "price_nummm": 173730
+      "price_strrr": "178,270",
+      "price_nummm": 178270
     },
     {
       "group_infooo": {
         "category_nameee": "W22",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.8%",
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +2.6%",
       "col_1": "",
       "col_2": "",
       "sizeee": "",
