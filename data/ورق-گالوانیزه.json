@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-گالوانیزه/",
-  "scraped_attt": "2026-10-26T14:27:15.176Z",
+  "scraped_attt": "2026-10-26T14:57:00.542Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -1369,32 +1369,6 @@
         "update_labelll": "|"
       },
       "col_0": "0.7",
-      "col_1": "1000",
-      "col_2": "هفت الماس",
-      "col_3": "بنگاه تهران",
-      "unittt": "کیلوگرم",
-      "price_strrr": "210,180",
-      "price_nummm": 210180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +6.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "|"
-      },
-      "col_0": "0.7",
       "col_1": "1250",
       "col_2": "هفت الماس",
       "col_3": "بنگاه تهران",
@@ -1408,6 +1382,32 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +5.9%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.7",
+      "col_1": "1000",
+      "col_2": "هفت الماس",
+      "col_3": "بنگاه تهران",
+      "unittt": "کیلوگرم",
+      "price_strrr": "210,180",
+      "price_nummm": 210180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +6.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
