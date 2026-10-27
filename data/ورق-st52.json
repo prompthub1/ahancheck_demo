@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-st52/",
-  "scraped_attt": "2026-10-27T13:57:38.193Z",
+  "scraped_attt": "2026-10-27T14:28:03.193Z",
   "headersss": [
     "کارخانه",
     "وضعیت",
@@ -737,6 +737,30 @@
       },
       "col_0": "اکسین اهواز",
       "col_1": "فابریک",
+      "sizeee": "12000*2000",
+      "col_3": "کارخانه",
+      "price_strrr": "165,000",
+      "price_nummm": 165000
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "40",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/5 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "40",
+        "update_labelll": "|"
+      },
+      "col_0": "اکسین اهواز",
+      "col_1": "فابریک",
       "sizeee": "2000*6000",
       "col_3": "بنگاه تهران",
       "price_strrr": "170,000",
@@ -820,30 +844,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/5 نمودار نوسانات : +2.2%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
-      },
-      "col_0": "اکسین اهواز",
-      "col_1": "فابریک",
-      "sizeee": "12000*2000",
-      "col_3": "کارخانه",
-      "price_strrr": "165,000",
-      "price_nummm": 165000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "40",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/4 نمودار نوسانات : +0.6%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
