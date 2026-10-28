@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-روغنی/",
-  "scraped_attt": "2026-10-28T12:27:03.625Z",
+  "scraped_attt": "2026-10-28T12:33:44.792Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -647,6 +647,32 @@
       "col_4": "بنگاه تهران",
       "price_strrr": "205,910",
       "price_nummm": 205910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/6 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هفت الماس",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "col_1": "1250",
+      "col_2": "هفت الماس",
+      "col_3": "ST12",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "206,000",
+      "price_nummm": 206000
     },
     {
       "group_infooo": {
@@ -1460,32 +1486,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/6 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "col_1": "1250",
-      "col_2": "هفت الماس",
-      "col_3": "ST12",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "206,000",
-      "price_nummm": 206000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هفت الماس",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/5 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
