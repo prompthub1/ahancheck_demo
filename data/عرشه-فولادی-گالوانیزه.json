@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/عرشه-فولادی-گالوانیزه/",
-  "scraped_attt": "2026-10-31T07:57:15.918Z",
+  "scraped_attt": "2026-10-31T08:27:14.507Z",
   "headersss": [
     "ضخامت (میل)",
     "برند",
@@ -9,6 +9,94 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "0.8",
+      "col_1": "کاشان",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "228,360",
+      "price_nummm": 228360
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/9 نمودار نوسانات : +0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "0.9",
+      "col_1": "کاشان",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "227,910",
+      "price_nummm": 227910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/9 نمودار نوسانات : +0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "1",
+      "col_1": "کاشان",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "228,550",
+      "price_nummm": 228550
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/9 نمودار نوسانات : +0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "1.25",
+      "col_1": "کاشان",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "228,090",
+      "price_nummm": 228090
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "کاشان",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/9 نمودار نوسانات : +0.4%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "هفت الماس",
@@ -177,94 +265,6 @@
     {
       "group_infooo": {
         "category_nameee": "شهرکرد",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.8",
-      "col_1": "کاشان",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "227,450",
-      "price_nummm": 227450
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.9",
-      "col_1": "کاشان",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "227,000",
-      "price_nummm": 227000
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1",
-      "col_1": "کاشان",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "227,640",
-      "price_nummm": 227640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/7 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
-        "update_labelll": "امروز"
-      },
-      "col_0": "1.25",
-      "col_1": "کاشان",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "227,180",
-      "price_nummm": 227180
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "کاشان",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/7 نمودار نوسانات : +0.0%",
