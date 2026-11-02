@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/چهارپهلو/",
-  "scraped_attt": "2026-11-02T18:27:31.711Z",
+  "scraped_attt": "2026-11-02T18:58:28.543Z",
   "headersss": [
     "حالت",
     "سایز",
@@ -9,94 +9,6 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "ترانس",
-      "sizeee": "12*12",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "162,270",
-      "price_nummm": 162270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "ترانس",
-      "sizeee": "14*14",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "162,270",
-      "price_nummm": 162270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "ترانس",
-      "sizeee": "16*16",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "162,270",
-      "price_nummm": 162270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "ترانس",
-      "sizeee": "18*18",
-      "col_2": "بنگاه تهران",
-      "price_strrr": "162,270",
-      "price_nummm": 162270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "ترانس",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
     {
       "group_infooo": {
         "category_nameee": "نرمال",
@@ -441,6 +353,94 @@
     {
       "group_infooo": {
         "category_nameee": "نرمال",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "ترانس",
+      "sizeee": "12*12",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "162,270",
+      "price_nummm": 162270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "ترانس",
+      "sizeee": "14*14",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "162,270",
+      "price_nummm": 162270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "ترانس",
+      "sizeee": "16*16",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "162,270",
+      "price_nummm": 162270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
+      "sizeee": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
+        "update_labelll": "امروز"
+      },
+      "col_0": "ترانس",
+      "sizeee": "18*18",
+      "col_2": "بنگاه تهران",
+      "price_strrr": "162,270",
+      "price_nummm": 162270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "ترانس",
         "update_labelll": "امروز"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/11 نمودار نوسانات : +0.0%",
