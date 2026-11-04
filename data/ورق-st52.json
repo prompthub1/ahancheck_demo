@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-st52/",
-  "scraped_attt": "2026-11-04T10:58:00.987Z",
+  "scraped_attt": "2026-11-04T11:27:15.220Z",
   "headersss": [
     "کارخانه",
     "وضعیت",
@@ -16,18 +16,18 @@
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "شیت",
-      "sizeee": "6000*1500",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "171,820",
-      "price_nummm": 171820
+      "col_1": "رول",
+      "sizeee": "1500",
+      "col_3": "کارخانه",
+      "price_strrr": "178,180",
+      "price_nummm": 178180
     },
     {
       "group_infooo": {
         "category_nameee": "6",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : -1.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -40,18 +40,18 @@
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "رول",
-      "sizeee": "1500",
-      "col_3": "کارخانه",
-      "price_strrr": "180,000",
-      "price_nummm": 180000
+      "col_1": "شیت",
+      "sizeee": "6000*1500",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "180,910",
+      "price_nummm": 180910
     },
     {
       "group_infooo": {
         "category_nameee": "6",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +1.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +5.3%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -100,6 +100,30 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "فولاد مبارکه",
+      "col_1": "شیت",
+      "sizeee": "6000*1500",
+      "col_3": "کارخانه",
+      "price_strrr": "178,180",
+      "price_nummm": 178180
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : -1.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -132,22 +156,22 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
+        "category_nameee": "10",
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "شیت",
-      "sizeee": "6000*1500",
+      "col_1": "رول",
+      "sizeee": "1500",
       "col_3": "کارخانه",
-      "price_strrr": "180,000",
-      "price_nummm": 180000
+      "price_strrr": "177,270",
+      "price_nummm": 177270
     },
     {
       "group_infooo": {
-        "category_nameee": "8",
+        "category_nameee": "10",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +1.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : -1.5%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -163,30 +187,6 @@
       "col_1": "شیت",
       "sizeee": "6000*1500",
       "col_3": "بنگاه تهران",
-      "price_strrr": "171,820",
-      "price_nummm": 171820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "10",
-        "update_labelll": "|"
-      },
-      "col_0": "فولاد مبارکه",
-      "col_1": "رول",
-      "sizeee": "1500",
-      "col_3": "کارخانه",
       "price_strrr": "180,000",
       "price_nummm": 180000
     },
@@ -195,7 +195,7 @@
         "category_nameee": "10",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +1.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +4.8%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -256,18 +256,18 @@
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "شیت",
-      "sizeee": "6000*1500",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "170,000",
-      "price_nummm": 170000
+      "col_1": "رول",
+      "sizeee": "1500",
+      "col_3": "کارخانه",
+      "price_strrr": "177,270",
+      "price_nummm": 177270
     },
     {
       "group_infooo": {
         "category_nameee": "12",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : -1.5%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -280,9 +280,9 @@
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "رول",
-      "sizeee": "1500",
-      "col_3": "کارخانه",
+      "col_1": "شیت",
+      "sizeee": "6000*1500",
+      "col_3": "بنگاه تهران",
       "price_strrr": "180,000",
       "price_nummm": 180000
     },
@@ -291,7 +291,7 @@
         "category_nameee": "12",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +1.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +5.9%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -328,18 +328,18 @@
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "شیت",
-      "sizeee": "6000*1500",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "168,180",
-      "price_nummm": 168180
+      "col_1": "رول",
+      "sizeee": "1500",
+      "col_3": "کارخانه",
+      "price_strrr": "173,640",
+      "price_nummm": 173640
     },
     {
       "group_infooo": {
         "category_nameee": "15",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +0.0%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : -1.5%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
@@ -352,9 +352,9 @@
         "update_labelll": "|"
       },
       "col_0": "فولاد مبارکه",
-      "col_1": "رول",
-      "sizeee": "1500",
-      "col_3": "کارخانه",
+      "col_1": "شیت",
+      "sizeee": "6000*1500",
+      "col_3": "بنگاه تهران",
       "price_strrr": "176,360",
       "price_nummm": 176360
     },
@@ -363,7 +363,7 @@
         "category_nameee": "15",
         "update_labelll": "|"
       },
-      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +3.2%",
+      "col_0": "آخرین بروز رسانی : 1405/8/13 نمودار نوسانات : +4.9%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
