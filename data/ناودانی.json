@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-11-07T20:56:35.089Z",
+  "scraped_attt": "2026-11-07T21:26:54.465Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -852,30 +852,6 @@
     },
     {
       "group_infooo": {
-        "category_nameee": "هموزن اروپا",
-        "update_labelll": "|"
-      },
-      "sizeee": "65",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "220,680",
-      "price_nummm": 220680
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "هموزن اروپا",
-        "update_labelll": "|"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/16 نمودار نوسانات : -1.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
         "category_nameee": "صبا فولاد سمنان",
         "update_labelll": "|"
       },
@@ -996,8 +972,32 @@
     },
     {
       "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "65",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "220,680",
+      "price_nummm": 220680
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "هموزن اروپا",
+        "update_labelll": "امروز"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/8/16 نمودار نوسانات : -1.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "16",
       "col_1": "12 متری",
@@ -1009,7 +1009,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/16 نمودار نوسانات : -1.9%",
       "col_1": "",
@@ -1021,7 +1021,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "14",
       "col_1": "12 متری",
@@ -1033,7 +1033,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/16 نمودار نوسانات : -1.9%",
       "col_1": "",
@@ -1045,7 +1045,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "18",
       "col_1": "12 متری",
@@ -1057,7 +1057,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/16 نمودار نوسانات : +0.0%",
       "col_1": "",
@@ -1069,7 +1069,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "20",
       "col_1": "12 متری",
@@ -1081,7 +1081,7 @@
     {
       "group_infooo": {
         "category_nameee": "کیمیا",
-        "update_labelll": "|"
+        "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/8/16 نمودار نوسانات : -0.7%",
       "col_1": "",
