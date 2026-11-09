@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D8%B3%D9%BE%D8%B1%DB%8C/",
-  "scraped_attt": "2026-11-09T07:26:43.277Z",
+  "scraped_attt": "2026-11-09T07:56:32.579Z",
   "headersss": [
     "نام کالا",
     "سایز",
@@ -12,6 +12,34 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "نورد سجاد",
+        "update_labelll": "|"
+      },
+      "titleee": "سپری 6 نورد سجاد 6 متری در بنگاه تهران",
+      "sizeee": "6",
+      "col_2": "نورد سجاد",
+      "col_3": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_5": "بنگاه تهران",
+      "price_strrr": "120,010",
+      "price_nummm": 120010
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نورد سجاد",
+        "update_labelll": "|"
+      },
+      "titleee": "آخرین بروز رسانی : 1405/8/18 نمودار نوسانات : -1.5%",
+      "sizeee": "",
+      "col_2": "",
+      "col_3": "",
+      "unittt": "",
+      "col_5": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "نورد سجاد",
@@ -75,34 +103,6 @@
       },
       "titleee": "سپری 5 نورد سجاد 6 متری در بنگاه تهران",
       "sizeee": "5",
-      "col_2": "نورد سجاد",
-      "col_3": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_5": "بنگاه تهران",
-      "price_strrr": "121,830",
-      "price_nummm": 121830
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "امروز"
-      },
-      "titleee": "آخرین بروز رسانی : 1405/8/17 نمودار نوسانات : +0.0%",
-      "sizeee": "",
-      "col_2": "",
-      "col_3": "",
-      "unittt": "",
-      "col_5": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نورد سجاد",
-        "update_labelll": "امروز"
-      },
-      "titleee": "سپری 6 نورد سجاد 6 متری در بنگاه تهران",
-      "sizeee": "6",
       "col_2": "نورد سجاد",
       "col_3": "6 متری",
       "unittt": "کیلوگرم",
