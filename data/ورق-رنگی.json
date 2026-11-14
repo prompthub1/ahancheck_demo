@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-رنگی/",
-  "scraped_attt": "2026-11-14T08:27:07.620Z",
+  "scraped_attt": "2026-11-14T08:56:56.813Z",
   "headersss": [
     "ضخامت",
     "عرض",
@@ -157,6 +157,58 @@
     {
       "group_infooo": {
         "category_nameee": "فولاد مبارکه",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/23 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "نارنجی",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "282,080",
+      "price_nummm": 282080
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/23 نمودار نوسانات : +0.3%",
+      "col_1": "",
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
+        "update_labelll": "|"
+      },
+      "col_0": "0.48",
+      "col_1": "1250",
+      "col_2": "قهوه ای سوخته",
+      "col_3": "چین",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "281,890",
+      "price_nummm": 281890
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "چین",
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/23 نمودار نوسانات : +0.3%",
@@ -342,58 +394,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/23 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "نارنجی",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "281,170",
-      "price_nummm": 281170
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/21 نمودار نوسانات : -0.6%",
-      "col_1": "",
-      "col_2": "",
-      "col_3": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "0.48",
-      "col_1": "1250",
-      "col_2": "قهوه ای سوخته",
-      "col_3": "چین",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "280,980",
-      "price_nummm": 280980
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "چین",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/21 نمودار نوسانات : -0.6%",
       "col_1": "",
       "col_2": "",
       "col_3": "",
