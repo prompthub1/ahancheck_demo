@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/انواع-ورق/ورق-st52/",
-  "scraped_attt": "2026-11-15T10:57:02.640Z",
+  "scraped_attt": "2026-11-15T11:27:11.826Z",
   "headersss": [
     "کارخانه",
     "وضعیت",
@@ -73,6 +73,30 @@
     {
       "group_infooo": {
         "category_nameee": "6",
+        "update_labelll": "|"
+      },
+      "col_0": "آخرین بروز رسانی : 1405/8/24 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "sizeee": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
+        "update_labelll": "|"
+      },
+      "col_0": "اکسین اهواز",
+      "col_1": "شیت",
+      "sizeee": "2000*6000",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "163,640",
+      "price_nummm": 163640
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "8",
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/24 نمودار نوسانات : +0.0%",
@@ -844,30 +868,6 @@
         "update_labelll": "|"
       },
       "col_0": "آخرین بروز رسانی : 1405/8/24 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "sizeee": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "اکسین اهواز",
-      "col_1": "شیت",
-      "sizeee": "2000*6000",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "163,640",
-      "price_nummm": 163640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "8",
-        "update_labelll": "امروز"
-      },
-      "col_0": "آخرین بروز رسانی : 1405/8/23 نمودار نوسانات : +0.0%",
       "col_1": "",
       "sizeee": "",
       "col_3": "",
