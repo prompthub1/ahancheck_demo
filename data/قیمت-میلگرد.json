@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/%D9%82%DB%8C%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF/",
-  "scraped_attt": "2026-11-22T10:26:15.477Z",
+  "scraped_attt": "2026-11-22T10:56:14.526Z",
   "headersss": [
     "سایز",
     "استاندارد",
@@ -4722,6 +4722,28 @@
         "category_nameee": "درپاد تبریز",
         "update_labelll": "|"
       },
+      "sizeee": "16",
+      "col_1": "A3",
+      "col_2": "کارخانه",
+      "price_strrr": "112,730",
+      "price_nummm": 112730
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/1 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "col_2": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "درپاد تبریز",
+        "update_labelll": "|"
+      },
       "sizeee": "18",
       "col_1": "A3",
       "col_2": "کارخانه",
@@ -6098,28 +6120,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/9/1 نمودار نوسانات : -1.7%",
-      "col_1": "",
-      "col_2": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "درپاد تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "A3",
-      "col_2": "کارخانه",
-      "price_strrr": "112,730",
-      "price_nummm": 112730
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "درپاد تبریز",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/8/30 نمودار نوسانات : -1.2%",
       "col_1": "",
       "col_2": "",
       "price_strrr": "",
