@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/",
-  "scraped_attt": "2026-11-25T06:56:33.955Z",
+  "scraped_attt": "2026-11-25T07:26:47.606Z",
   "headersss": [
     "سایز",
     "حالت",
@@ -10,6 +10,366 @@
     "قیمت (تومان)"
   ],
   "dataaa": [
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "6",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,910",
+      "price_nummm": 114910
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +1.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "6",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "120,920",
+      "price_nummm": 120920
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "121,110",
+      "price_nummm": 121110
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "8",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "120,990",
+      "price_nummm": 120990
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "10",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "121,270",
+      "price_nummm": 121270
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "12",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "بنگاه تهران",
+      "price_strrr": "120,980",
+      "price_nummm": 120980
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.0%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "14",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "12 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "16",
+      "col_1": "6 متری",
+      "unittt": "کیلوگرم",
+      "col_3": "کارخانه",
+      "price_strrr": "114,450",
+      "price_nummm": 114450
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "شکفته",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/4 نمودار نوسانات : +0.6%",
+      "col_1": "",
+      "unittt": "",
+      "col_3": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
     {
       "group_infooo": {
         "category_nameee": "ناب تبریز",
@@ -244,366 +604,6 @@
         "update_labelll": "امروز"
       },
       "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "120,920",
-      "price_nummm": 120920
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "6",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "121,110",
-      "price_nummm": 121110
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "8",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "120,990",
-      "price_nummm": 120990
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "10",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "121,270",
-      "price_nummm": 121270
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "12",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "بنگاه تهران",
-      "price_strrr": "120,980",
-      "price_nummm": 120980
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.0%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "14",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "12 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
-      "col_1": "",
-      "unittt": "",
-      "col_3": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "16",
-      "col_1": "6 متری",
-      "unittt": "کیلوگرم",
-      "col_3": "کارخانه",
-      "price_strrr": "113,820",
-      "price_nummm": 113820
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "شکفته",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/3 نمودار نوسانات : +0.3%",
       "col_1": "",
       "unittt": "",
       "col_3": "",
@@ -1095,12 +1095,12 @@
         "category_nameee": "کیمیا",
         "update_labelll": "امروز"
       },
-      "sizeee": "18",
+      "sizeee": "16",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "price_strrr": "123,050",
-      "price_nummm": 123050
+      "price_strrr": "116,190",
+      "price_nummm": 116190
     },
     {
       "group_infooo": {
@@ -1119,12 +1119,12 @@
         "category_nameee": "کیمیا",
         "update_labelll": "امروز"
       },
-      "sizeee": "16",
+      "sizeee": "18",
       "col_1": "12 متری",
       "unittt": "کیلوگرم",
       "col_3": "کارخانه",
-      "price_strrr": "116,190",
-      "price_nummm": 116190
+      "price_strrr": "123,050",
+      "price_nummm": 123050
     },
     {
       "group_infooo": {
