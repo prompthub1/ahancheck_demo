@@ -1,7 +1,7 @@
 {
   "source": "ahanonline.com",
   "urlll": "https://ahanonline.com/product-category/%D9%86%D8%A8%D8%B4%DB%8C-%D9%88-%D9%86%D8%A7%D9%88%D8%AF%D8%A7%D9%86%DB%8C/%D9%86%D8%A8%D8%B4%DB%8C/",
-  "scraped_attt": "2026-11-28T10:56:39.482Z",
+  "scraped_attt": "2026-11-28T11:26:47.032Z",
   "headersss": [
     "سایز",
     "ضخامت",
@@ -722,16 +722,16 @@
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
-      "col_4": "کارخانه",
-      "price_strrr": "123,640",
-      "price_nummm": 123640
+      "col_4": "بنگاه تهران",
+      "price_strrr": "130,450",
+      "price_nummm": 130450
     },
     {
       "group_infooo": {
         "category_nameee": "شکفته",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/9/7 نمودار نوسانات : +2.3%",
+      "sizeee": "آخرین بروز رسانی : 1405/9/7 نمودار نوسانات : +2.1%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -748,16 +748,16 @@
       "col_1": "10",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "130,450",
-      "price_nummm": 130450
+      "col_4": "کارخانه",
+      "price_strrr": "123,640",
+      "price_nummm": 123640
     },
     {
       "group_infooo": {
         "category_nameee": "شکفته",
         "update_labelll": "|"
       },
-      "sizeee": "آخرین بروز رسانی : 1405/9/7 نمودار نوسانات : +2.1%",
+      "sizeee": "آخرین بروز رسانی : 1405/9/7 نمودار نوسانات : +2.3%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
@@ -1498,13 +1498,13 @@
         "category_nameee": "فولاد جاوید بناب",
         "update_labelll": "|"
       },
-      "sizeee": "40*40",
-      "col_1": "4",
+      "sizeee": "50*50",
+      "col_1": "5",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
-      "price_strrr": "116,380",
-      "price_nummm": 116380
+      "price_strrr": "116,370",
+      "price_nummm": 116370
     },
     {
       "group_infooo": {
@@ -1524,13 +1524,13 @@
         "category_nameee": "فولاد جاوید بناب",
         "update_labelll": "|"
       },
-      "sizeee": "50*50",
-      "col_1": "5",
+      "sizeee": "40*40",
+      "col_1": "4",
       "col_2": "6 متری",
       "unittt": "کیلوگرم",
       "col_4": "کارخانه",
-      "price_strrr": "116,370",
-      "price_nummm": 116370
+      "price_strrr": "116,380",
+      "price_nummm": 116380
     },
     {
       "group_infooo": {
@@ -1661,6 +1661,32 @@
       "col_4": "بنگاه تهران",
       "price_strrr": "121,320",
       "price_nummm": 121320
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نستا",
+        "update_labelll": "|"
+      },
+      "sizeee": "آخرین بروز رسانی : 1405/9/7 نمودار نوسانات : +2.0%",
+      "col_1": "",
+      "col_2": "",
+      "unittt": "",
+      "col_4": "",
+      "price_strrr": "",
+      "price_nummm": null
+    },
+    {
+      "group_infooo": {
+        "category_nameee": "نستا",
+        "update_labelll": "|"
+      },
+      "sizeee": "40*40",
+      "col_1": "4",
+      "col_2": "6متری سبک",
+      "unittt": "کیلوگرم",
+      "col_4": "بنگاه تهران",
+      "price_strrr": "119,990",
+      "price_nummm": 119990
     },
     {
       "group_infooo": {
@@ -1954,32 +1980,6 @@
         "update_labelll": "|"
       },
       "sizeee": "آخرین بروز رسانی : 1405/9/7 نمودار نوسانات : +1.5%",
-      "col_1": "",
-      "col_2": "",
-      "unittt": "",
-      "col_4": "",
-      "price_strrr": "",
-      "price_nummm": null
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نستا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "40*40",
-      "col_1": "4",
-      "col_2": "6متری سبک",
-      "unittt": "کیلوگرم",
-      "col_4": "بنگاه تهران",
-      "price_strrr": "117,640",
-      "price_nummm": 117640
-    },
-    {
-      "group_infooo": {
-        "category_nameee": "نستا",
-        "update_labelll": "امروز"
-      },
-      "sizeee": "آخرین بروز رسانی : 1405/9/5 نمودار نوسانات : +0.0%",
       "col_1": "",
       "col_2": "",
       "unittt": "",
